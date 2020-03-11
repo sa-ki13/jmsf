@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: japanese mobile site filter
+! Title: japanese mobile site filter FA-FA(仮)
 ! Homepage: 
 ! Licence: CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/)
 ! Last updated: 2020-03-09
