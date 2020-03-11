@@ -1,7 +1,9 @@
 [Adblock Plus 2.0]
 ! Title: japanese mobile site filter FA-FA(仮)
-! Homepage: 
-! Licence: CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/)
+! Version: 2019-03-11
+! Last modified: 11 Mar 2020 22:16 JST
+! Expires: 1 day (update frequency)
+! Licence: CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ja)
 ! Last updated: 2020-03-11
 
 .demdex.net/id^$redirect=nooptext,important
