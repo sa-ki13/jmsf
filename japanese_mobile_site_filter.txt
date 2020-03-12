@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: japanese mobile site filter FA-FA(仮)
-! Version: 2019-03-12
+! Version: 2020-03-12
 ! Last modified: 12 Mar 2020 15:07 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ja)
