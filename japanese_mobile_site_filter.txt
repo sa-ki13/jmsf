@@ -18,6 +18,7 @@
 /fbevents.js
 /googleads.$domain=~googleads.github.io
 /gpt.js$script
+/piwik.js
 /yads.
 ||2o7.net^
 ||2o7.net^$third-party
