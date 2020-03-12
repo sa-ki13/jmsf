@@ -1,9 +1,8 @@
 [Adblock Plus 2.0]
-! Title: japanese mobile site filter FA-FA(仮)
+! Title: AdGuard japanese mobile site filter FA-FA(仮)
 ! Version: 2020-03-12
 ! Last modified: 12 Mar 2020 15:46 JST
 ! Expires: 1 day (update frequency)
-! Licence: CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ja)
 ! Last updated: 2020-03-12
 
 .demdex.net/id^$redirect=nooptext,important
@@ -29,20 +28,20 @@
 ||adingo.jp^$third-party
 ||adjust-net.jp^
 ||ad-move.jp^$third-party
-||ads280dummy.com
-||adservice.google.com
+||ads280dummy.com^
+||adservice.google.com^
 ||ad-stir.com^$third-party
 ||ads-twitter.com^$third-party
 ||alxc.addlv.smt.docomo.ne.jp^
 ||amazon-adsystem.com^
 ||amoad.com^
 ||amplify.outbrain.com/cp/obtp.js
-||api.webpush.jp
+||api.webpush.jp^
 ||api-analytics.metaps.com^
 ||api-analytics-bootstrap.metaps.com^
 ||apis.google.com/js/plusone.js$domain=~google.com|~google.co.jp|~studio-mario.jp|~kitamura.jp|~charingress.tokyo
 ||app.adjust.com^$app=~com.microsoft.office.outlook
-||app-measurement.com
+||app-measurement.com^
 ||appsflyer.com^
 ||b92.yahoo.co.jp/js/s_retargeting.js
 ||b92.yahoo.co.jp^
@@ -55,18 +54,18 @@
 ||ds-aksb-a.akamaihd.net^
 ||e.crashlytics.com^
 ||fout.jp^
-||glossom.jp
+||glossom.jp^
 ||google.co.jp/gen_204?$other
 ||google-analytics.com/analytics.js$third-party
 ||googletagmanager.com/gtag/$third-party
 ||googletagmanager.com/gtm.js?$third-party
-||img.macromill.com
+||img.macromill.com^
 ||itest.5ch.net/assets/img/loading.gif^$redirect=1x1-transparent.gif
 ||itest.5ch.net/assets/img/ronin_premium_640x100.png
 ||j.zucks.net.zimg.jp^
 ||j-a-net.jp^$third-party
 ||js.gsspcln.jp^$script
-||js.monetize-ssp.com
+||js.monetize-ssp.com^
 ||js-agent.newrelic.com^
 ||kochava.com^
 ||microad.jp^$third-party,domain=~softbank.jp|~sbg.jp|~e-gift.co
@@ -77,7 +76,7 @@
 ||openx.net^
 ||petametrics.com^$third-party
 ||r.profilepassport.jp^
-||rec1.smt.docomo.ne.jp
+||rec1.smt.docomo.ne.jp^
 ||s.yimg.jp/images/listing/tool/cv/conversion.js
 ||sch.line.me^
 ||scorecardresearch.com^
@@ -89,7 +88,7 @@
 ||sp.gmossp-sp.jp^
 ||stats.g.doubleclick.net^
 ||t.karte.io^
-||tm.r-ad.ne.jp
+||tm.r-ad.ne.jp^
 ||torimochi.line-apps.com^
 ||tracer.jp^$third-party
 ||twitter.com/i/jot
