@@ -33,6 +33,7 @@
 ||ads-twitter.com^$third-party
 ||alxc.addlv.smt.docomo.ne.jp^
 ||amazon-adsystem.com^
+||amoad.com^
 ||amplify.outbrain.com/cp/obtp.js
 ||api.webpush.jp
 ||api-analytics.metaps.com^
