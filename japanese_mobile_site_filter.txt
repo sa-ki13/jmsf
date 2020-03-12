@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
 ! Title: japanese mobile site filter FA-FA(仮)
-! Version: 2019-03-11
-! Last modified: 11 Mar 2020 22:16 JST
+! Version: 2019-03-12
+! Last modified: 12 Mar 2020 15:07 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ja)
-! Last updated: 2020-03-11
+! Last updated: 2020-03-12
 
 .demdex.net/id^$redirect=nooptext,important
 /ad2.$domain=~vereinslinie.de
@@ -12,6 +12,7 @@
 /adservice.$domain=~adservice.io
 /adtags.
 /adw.$domain=~adw.be|~adw.olsztyn.pl|~adw.org|~adw.org.pl
+/amp-ad
 /btn_sns_$image
 /css/ad.
 /fbevents.js
@@ -23,6 +24,7 @@
 ||a8.net^$third-party
 ||a-cast.jp^
 ||ad.jp.ap.valuecommerce.com^
+||ads280dummy.com
 ||ad-stir.com^$third-party
 ||ads-twitter.com^$third-party
 ||alxc.addlv.smt.docomo.ne.jp^
