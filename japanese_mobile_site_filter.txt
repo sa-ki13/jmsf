@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: japanese mobile site filter FA-FA(仮)
 ! Version: 2020-03-12
-! Last modified: 12 Mar 2020 15:30 JST
+! Last modified: 12 Mar 2020 15:33 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ja)
 ! Last updated: 2020-03-12
@@ -28,6 +28,7 @@
 ||ad.jp.ap.valuecommerce.com^
 ||adjust-net.jp^
 ||ads280dummy.com
+||adservice.google.com
 ||ad-stir.com^$third-party
 ||ads-twitter.com^$third-party
 ||alxc.addlv.smt.docomo.ne.jp^
