@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Site Filter FA-FA(仮)
 ! Version: 2020-03-13
-! Last modified: 13 Mar 2020 14:55 JST
+! Last modified: 13 Mar 2020 15:09 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-03-13
@@ -46,6 +46,7 @@
 ||b92.yahoo.co.jp/js/s_retargeting.js
 ||b92.yahoo.co.jp^
 ||b97.yahoo.co.jp^
+||cdn-f.adsmoloco.com^
 ||cdn.liftoff.io^
 ||cdp.cloud.unity3d.com^
 ||collect.igodigital.com^$third-party
@@ -62,6 +63,7 @@
 ||googletagmanager.com/gtag/$third-party
 ||googletagmanager.com/gtm.js?$third-party
 ||img.macromill.com^
+||impression.appsflyer.com^
 ||impression-asia.liftoff.io^
 ||itest.5ch.net/assets/img/loading.gif^$redirect=1x1-transparent.gif
 ||itest.5ch.net/assets/img/ronin_premium_640x100.png
@@ -95,6 +97,7 @@
 ||tm.r-ad.ne.jp^
 ||torimochi.line-apps.com^
 ||tpc.googlesyndication.com^
+||tr-asia.adsmoloco.com^
 ||tracer.jp^$third-party
 ||twitter.com/i/jot
 ||userdive.com^
