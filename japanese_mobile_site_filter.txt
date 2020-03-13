@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Site Filter FA-FA(仮)
 ! Version: 2020-03-13
-! Last modified: 13 Mar 2020 14:43 JST
+! Last modified: 13 Mar 2020 14:55 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-03-13
@@ -28,6 +28,7 @@
 ||adjust-net.jp^
 ||adjust.com^
 ||ad-move.jp^$third-party
+||adsafeprotected.com^
 ||adservice.google.com^
 ||ad-stir.com^
 ||ads-twitter.com^$third-party
@@ -50,6 +51,7 @@
 ||collect.igodigital.com^$third-party
 ||config.uca.cloud.unity3d.com^
 ||connect.facebook.net/ja_JP/sdk.js
+||d1jh13j6azkbbi.cloudfront.net^
 ||d.line-scdn.net^$third-party,domain=~line.me
 ||ds-aksb-a.akamaihd.net^
 ||e.crashlytics.com^
@@ -99,5 +101,6 @@
 ||veinteractive.com^$third-party
 ||webtracker.jp^$third-party
 ||yjtag.yahoo.co.jp^
+||zucks.net^
 |https://ad.$domain=~abema.tv|~ameba.jp|~ameblo.jp|~ametopi.jp|~dpoint.jp|~google.co.jp|~google.com|~impress.co.jp|~jankara.net|~kanajo.com|~mamastar.jp|~mobadme.jp|~ponta.jp|~tsite.jp|~yahoo.co.jp
 ~facebook.com,~instagram.com,~drive.google.com$$link[rel="manifest"]
