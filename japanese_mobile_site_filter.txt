@@ -19,6 +19,7 @@
 /googleads.
 /gpt.js$script
 /piwik.js
+/pubads.
 /yads.
 ||2o7.net^
 ||a8.net^$third-party
