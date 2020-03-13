@@ -90,7 +90,7 @@
 ||sgbid.prod.sift.co^
 ||sift-campaign-creatives.sift.co^
 ||smartnews-ads.com^
-||socdm.com^~app
+||socdm.com^
 ||social-plugins.line.me/widget^$third-party
 ||sp.gmossp-sp.jp^
 ||stats.g.doubleclick.net^
