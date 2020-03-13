@@ -90,7 +90,7 @@
 ||sgbid.prod.sift.co^
 ||sift-campaign-creatives.sift.co^
 ||smartnews-ads.com^
-||socdm.com^
+||socdm.com^~app
 ||social-plugins.line.me/widget^$third-party
 ||sp.gmossp-sp.jp^
 ||stats.g.doubleclick.net^
@@ -106,5 +106,5 @@
 ||webtracker.jp^$third-party
 ||yjtag.yahoo.co.jp^
 ||zucks.net^
-|https://ad.$domain=~abema.tv|~ameba.jp|~ameblo.jp|~ametopi.jp|~dpoint.jp|~google.co.jp|~google.com|~impress.co.jp|~jankara.net|~kanajo.com|~mamastar.jp|~mobadme.jp|~ponta.jp|~tsite.jp|~yahoo.co.jp
+|https://ad.
 ~facebook.com,~instagram.com,~drive.google.com$$link[rel="manifest"]
