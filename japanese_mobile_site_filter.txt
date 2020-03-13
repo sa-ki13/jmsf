@@ -27,6 +27,7 @@
 ||ad.jp.ap.valuecommerce.com^
 ||adingo.jp^$third-party
 ||adjust-net.jp^
+||adjust.com^
 ||ad-move.jp^$third-party
 ||adservice.google.com^
 ||ad-stir.com^$third-party
@@ -89,6 +90,7 @@
 ||t.karte.io^
 ||tm.r-ad.ne.jp^
 ||torimochi.line-apps.com^
+||tpc.googlesyndication.com^
 ||tracer.jp^$third-party
 ||twitter.com/i/jot
 ||userdive.com^
