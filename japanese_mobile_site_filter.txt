@@ -1,9 +1,9 @@
 ! Title: AdGuard Japanese Mobile Site Filter FA-FA(仮)
-! Version: 2020-03-12
-! Last modified: 12 Mar 2020 20: JST
+! Version: 2020-03-13
+! Last modified: 13 Mar 2020 14:10 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
-! Last updated: 2020-03-12
+! Last updated: 2020-03-13
 
 .demdex.net/id^$redirect=nooptext,important
 /ad2.$domain=~vereinslinie.de
@@ -28,7 +28,6 @@
 ||adingo.jp^$third-party
 ||adjust-net.jp^
 ||ad-move.jp^$third-party
-||ads280dummy.com^
 ||adservice.google.com^
 ||ad-stir.com^$third-party
 ||ads-twitter.com^$third-party
@@ -96,5 +95,5 @@
 ||veinteractive.com^$third-party
 ||webtracker.jp^$third-party
 ||yjtag.yahoo.co.jp^
-|https://ad.$domain=~ameba.jp|~ametopi.jp|~ameblo.jp|~google.com|~google.co.jp|~yahoo.co.jp|~impress.co.jp|~kanajo.com|~mamastar.jp|~jankara.net|~abema.tv|~ponta.jp|~mobadme.jp|~dpoint.jp|~tsite.jp
-~xltrax.ee,~hitta.se,~mail.ru,~v7player.wostreaming.net,~facebook.com,~instagram.com,~drive.google.com$$link[rel="manifest"]
+|https://ad.$domain=~abema.tv|~ameba.jp|~ameblo.jp|~ametopi.jp|~dpoint.jp|~google.co.jp|~google.com|~impress.co.jp|~jankara.net|~kanajo.com|~mamastar.jp|~mobadme.jp|~ponta.jp|~tsite.jp|~yahoo.co.jp
+~facebook.com,~instagram.com,~drive.google.com$$link[rel="manifest"]
