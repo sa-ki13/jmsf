@@ -21,7 +21,6 @@
 /piwik.js
 /yads.
 ||2o7.net^
-||2o7.net^$third-party
 ||a8.net^$third-party
 ||a-cast.jp^
 ||ad.jp.ap.valuecommerce.com^
@@ -30,7 +29,7 @@
 ||adjust.com^
 ||ad-move.jp^$third-party
 ||adservice.google.com^
-||ad-stir.com^$third-party
+||ad-stir.com^
 ||ads-twitter.com^$third-party
 ||alxc.addlv.smt.docomo.ne.jp^
 ||amazon-adsystem.com^
@@ -86,7 +85,6 @@
 ||sgbid.prod.sift.co^
 ||sift-campaign-creatives.sift.co^
 ||smartnews-ads.com^
-||smartnews-ads.com^$third-party
 ||socdm.com^
 ||social-plugins.line.me/widget^$third-party
 ||sp.gmossp-sp.jp^
