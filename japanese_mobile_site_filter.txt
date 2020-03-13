@@ -6,17 +6,17 @@
 ! Last updated: 2020-03-13
 
 .demdex.net/id^$redirect=nooptext,important
-/ad2.$domain=~vereinslinie.de
+/ad2.
 /adserver/*
-/adservice.$domain=~adservice.io
+/adservice.
 /adtags.
 /adv.png
-/adw.$domain=~adw.be|~adw.olsztyn.pl|~adw.org|~adw.org.pl
+/adw.
 /amp-ad
 /btn_sns_$image
 /css/ad.
 /fbevents.js
-/googleads.$domain=~googleads.github.io
+/googleads.
 /gpt.js$script
 /piwik.js
 /yads.
@@ -38,7 +38,7 @@
 ||api.webpush.jp^
 ||api-analytics.metaps.com^
 ||api-analytics-bootstrap.metaps.com^
-||apis.google.com/js/plusone.js$domain=~google.com|~google.co.jp|~studio-mario.jp|~kitamura.jp|~charingress.tokyo
+||apis.google.com/js/plusone.js$domain=~charingress.tokyo|~google.co.jp|~google.com|~kitamura.jp|~studio-mario.jp
 ||app.adjust.com^$app=~com.microsoft.office.outlook
 ||app-measurement.com^
 ||appsflyer.com^
@@ -67,7 +67,7 @@
 ||js.monetize-ssp.com^
 ||js-agent.newrelic.com^
 ||kochava.com^
-||microad.jp^$third-party,domain=~softbank.jp|~sbg.jp|~e-gift.co
+||microad.jp^$third-party,domain=~e-gift.co|~sbg.jp|~softbank.jp
 ||mobileanalytics.*.amazonaws.com^
 ||nend.net^
 ||nex8.net^
