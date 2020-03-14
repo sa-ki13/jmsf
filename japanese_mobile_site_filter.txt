@@ -97,6 +97,7 @@
 ||omtrdc.net^
 ||onesignal.com^$third-party
 ||petametrics.com^$third-party
+||pippio.com^
 ||pixel.quantserve.com$third-party
 ||pixel.wp.com^
 ||plus.google.com^$third-party,domain=~google.com|~google.co.jp
