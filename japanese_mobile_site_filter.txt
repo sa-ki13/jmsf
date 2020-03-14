@@ -48,7 +48,6 @@
 ||b92.yahoo.co.jp/js/s_retargeting.js
 ||b92.yahoo.co.jp/search^
 ||b92.yahoo.co.jp^
-||b97.yahoo.co.jp^
 ||bs.nakanohito.jp^$third-party
 ||cdn.caprofitx.com^
 ||cdn.liftoff.io^
