@@ -59,6 +59,7 @@
 ||collector.githubapp.com^
 ||config.uca.cloud.unity3d.com^
 ||connect.facebook.net/ja_JP/sdk.js
+||criteo.net^
 ||d.line-scdn.net^$third-party,domain=~line.me
 ||d1jh13j6azkbbi.cloudfront.net^
 ||d2-apps.net/*/impressions/log
