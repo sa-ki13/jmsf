@@ -80,6 +80,7 @@
 ||google-analytics.com/collect$third-party
 ||googletagmanager.com/gtag/$third-party
 ||googletagmanager.com/gtm.js?$third-party
+||gvt2.com^$third-party
 ||hs-analytics.net^$third-party
 ||i-mobile.co.jp^
 ||impact-ad.jp^$third-party
