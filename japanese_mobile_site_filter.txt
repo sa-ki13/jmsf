@@ -145,5 +145,6 @@
 ||veinteractive.com^$third-party
 ||webtracker.jp^$third-party
 ||ybx.yahoo.co.jp^
+||yimg.jp/bdv/
 ||yjtag.yahoo.co.jp^
 ||zucks.net^
