@@ -76,6 +76,7 @@
 ||googletagmanager.com/gtm.js?$third-party
 ||hs-analytics.net^$third-party
 ||i-mobile.co.jp^
+||impact-ad.jp^$third-party
 ||impression.appsflyer.com^
 ||impression-asia.liftoff.io^
 ||itest.5ch.net/assets/img/loading.gif^$redirect=1x1-transparent.gif
