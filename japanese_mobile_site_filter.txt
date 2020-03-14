@@ -91,6 +91,7 @@
 ||kochava.com^
 ||krxd.net^
 ||l.betrad.com^
+||ladsp.com^$third-party
 ||mediad2.jp^$third-party
 ||microad.net^$third-party
 ||mobileanalytics.*.amazonaws.com^
