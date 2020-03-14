@@ -99,6 +99,7 @@
 ||krxd.net^
 ||l.betrad.com^
 ||ladsp.com^$third-party
+||logql.yahoo.co.jp^
 ||mediad2.jp^$third-party
 ||microad.net^$third-party
 ||mobileanalytics.*.amazonaws.com^
