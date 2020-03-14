@@ -113,7 +113,7 @@
 ||petametrics.com^$third-party
 ||pippio.com^
 ||pixel.quantserve.com$third-party
-||pixel.wp.com
+||pixel.wp.com^
 ||plus.google.com^$third-party
 ||popin.cc^$third-party
 ||pubmatic.com^
@@ -140,7 +140,6 @@
 ||sp.gmossp-sp.jp^
 ||static.ads-twitter.com^
 ||stats.g.doubleclick.net^
-||stats.wp.com^
 ||t.karte.io^
 ||teads.tv^
 ||torimochi.line-apps.com^
