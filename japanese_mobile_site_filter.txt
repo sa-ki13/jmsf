@@ -129,6 +129,6 @@
 ||yjtag.yahoo.co.jp^
 ||zucks.net^
 |https://ad.
-~facebook.com,~instagram.com,~drive.google.com$$link[rel="manifest"]
+~drive.google.com,~facebook.com,~instagram.com$$link[rel="manifest"]
 gigazine.net$$footer
 gigazine.net$$header
