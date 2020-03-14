@@ -7,6 +7,7 @@
 
 .demdex.net/id^$redirect=nooptext,important
 .net/ads.
+.openx.
 /ad2.
 /adserver/*
 /adtags.
@@ -45,7 +46,7 @@
 ||api.webpush.jp^
 ||api-analytics.metaps.com^
 ||api-analytics-bootstrap.metaps.com^
-||apis.google.com/js/plusone.js$domain=~charingress.tokyo|~google.co.jp|~google.com|~kitamura.jp|~studio-mario.jp
+||apis.google.com/js/plusone.js
 ||app.adjust.com^$app
 ||app-adforce.jp^
 ||appsflyer.com^
@@ -62,7 +63,7 @@
 ||config.uca.cloud.unity3d.com^
 ||connect.facebook.net/ja_JP/sdk.js
 ||criteo.net^
-||d.line-scdn.net^$third-party,domain=~line.me
+||d.line-scdn.net^$third-party
 ||d1jh13j6azkbbi.cloudfront.net^
 ||d2-apps.net/*/impressions/log
 ||demdex.net^
@@ -105,11 +106,11 @@
 ||pippio.com^
 ||pixel.quantserve.com$third-party
 ||pixel.wp.com^
-||plus.google.com^$third-party,domain=~google.com|~google.co.jp
+||plus.google.com^$third-party
 ||pubmatic.com^
 ||pw.gigazine.net^
 ||quantcount.com^$third-party
-||reutersmedia.net/*/js/analytics/win-GTM.js$domain=mobile.reuters.com
+||reutersmedia.net/*/js/analytics/win-GTM.js
 ||rubiconproject.com^
 ||sail-horizon.com^$third-party
 ||sch.line.me^
@@ -120,7 +121,7 @@
 ||smartnews-ads.com^
 ||socdm.com^
 ||social-plugins.line.me/widget^$third-party
-||sociorocketnews.files.wordpress.com/*&crop=1$image,domain=rocketnews24.com
+||sociorocketnews.files.wordpress.com/*&crop=1$image
 ||s-onetag.com^$third-party
 ||sp.gmossp-sp.jp^
 ||static.ads-twitter.com^
