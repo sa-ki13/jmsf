@@ -109,7 +109,7 @@
 ||sgbid.prod.sift.co^
 ||sift-campaign-creatives.sift.co^
 ||smartnews-ads.com^
-||socdm.com^~app
+||socdm.com^
 ||social-plugins.line.me/widget^$third-party
 ||sociorocketnews.files.wordpress.com/*&crop=1$image,domain=rocketnews24.com
 ||s-onetag.com^$third-party
