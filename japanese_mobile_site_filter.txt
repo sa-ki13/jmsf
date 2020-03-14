@@ -44,7 +44,7 @@
 ||api-analytics.metaps.com^
 ||api-analytics-bootstrap.metaps.com^
 ||apis.google.com/js/plusone.js$domain=~charingress.tokyo|~google.co.jp|~google.com|~kitamura.jp|~studio-mario.jp
-||app.adjust.com^$app=~com.microsoft.office.outlook
+||app.adjust.com^$app
 ||app-adforce.jp^
 ||appsflyer.com^
 ||b92.yahoo.co.jp/js/s_retargeting.js
