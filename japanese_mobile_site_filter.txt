@@ -18,7 +18,6 @@
 /css/ad.
 /fbevents.js
 /googima.js
-/googleads.
 /gpt.js$script
 /piwik.js
 /prebid/*
