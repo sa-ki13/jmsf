@@ -99,6 +99,7 @@
 ||pixel.quantserve.com$third-party
 ||pixel.wp.com^
 ||plus.google.com^$third-party,domain=~google.com|~google.co.jp
+||pubmatic.com^
 ||pw.gigazine.net^
 ||quantcount.com^$third-party
 ||reutersmedia.net/*/js/analytics/win-GTM.js$domain=mobile.reuters.com
