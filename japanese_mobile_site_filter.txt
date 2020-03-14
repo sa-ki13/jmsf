@@ -65,6 +65,7 @@
 ||d1jh13j6azkbbi.cloudfront.net^
 ||d2-apps.net/*/impressions/log
 ||demdex.net^
+||doubleclick.net^$image,third-party
 ||ds-aksb-a.akamaihd.net^
 ||e.crashlytics.com^
 ||fout.jp^
