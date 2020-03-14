@@ -101,7 +101,6 @@
 ||plus.google.com^$third-party,domain=~google.com|~google.co.jp
 ||pw.gigazine.net^
 ||quantcount.com^$third-party
-||rec1.smt.docomo.ne.jp^
 ||reutersmedia.net/*/js/analytics/win-GTM.js$domain=mobile.reuters.com
 ||s.yimg.jp/images/listing/tool/cv/conversion.js
 ||sail-horizon.com^$third-party
