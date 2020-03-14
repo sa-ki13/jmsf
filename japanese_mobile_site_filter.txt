@@ -94,7 +94,6 @@
 ||nend.net^
 ||omtrdc.net^
 ||onesignal.com^$third-party
-||openx.net^
 ||petametrics.com^$third-party
 ||pixel.quantserve.com$third-party
 ||pixel.wp.com^
