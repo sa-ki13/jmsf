@@ -53,6 +53,7 @@
 ||app.adjust.com^$app
 ||app-adforce.jp^
 ||appsflyer.com^
+||b*.yahoo.co.jp/b?
 ||b92.yahoo.co.jp/js/s_retargeting.js
 ||b92.yahoo.co.jp/search^
 ||bs.nakanohito.jp^$third-party
