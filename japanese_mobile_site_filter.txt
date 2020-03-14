@@ -15,6 +15,7 @@
 /adv.png
 /adw.
 /amp-ad
+/b/ss/*&aqe=
 /btn_sns_$image
 /cookie-consent.
 /css/ad.
