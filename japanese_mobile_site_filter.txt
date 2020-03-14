@@ -93,7 +93,6 @@
 ||mobileanalytics.*.amazonaws.com^
 ||mxpnl.com^$third-party
 ||nend.net^
-||nex8.net^
 ||omtrdc.net^
 ||onesignal.com^$third-party
 ||openx.net^
