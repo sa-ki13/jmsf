@@ -28,6 +28,7 @@
 ||a8.net^$third-party
 ||a-cast.jp^
 ||ad.jp.ap.valuecommerce.com^
+||ad.linksynergy.com^$third-party
 ||adingo.jp^$third-party
 ||adjust.com^
 ||adjust-net.jp^
