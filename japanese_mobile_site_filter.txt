@@ -41,6 +41,7 @@
 ||amoad.com^
 ||amplify.outbrain.com/cp/obtp.js
 ||analytics.yahoo.com^
+||api.github.com/_private/browser/stats$important
 ||api.webpush.jp^
 ||api-analytics.metaps.com^
 ||api-analytics-bootstrap.metaps.com^
