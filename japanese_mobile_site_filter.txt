@@ -85,6 +85,7 @@
 ||jwpltx.com^$third-party
 ||kochava.com^
 ||l.betrad.com^
+||microad.net^$third-party
 ||mobileanalytics.*.amazonaws.com^
 ||mxpnl.com^$third-party
 ||nend.net^
