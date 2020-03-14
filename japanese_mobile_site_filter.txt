@@ -14,6 +14,7 @@
 /adw.
 /amp-ad
 /btn_sns_$image
+/cookie-consent.
 /css/ad.
 /fbevents.js
 /googima.js
