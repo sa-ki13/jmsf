@@ -9,7 +9,6 @@
 .net/ads.
 /ad2.
 /adserver/*
-/adservice.
 /adtags.
 /adv.png
 /adw.
