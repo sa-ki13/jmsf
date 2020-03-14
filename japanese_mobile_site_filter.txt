@@ -115,6 +115,7 @@
 ||quantcount.com^$third-party
 ||reutersmedia.net/*/js/analytics/win-GTM.js
 ||rubiconproject.com^
+||s.yimg.jp/images/approach/jslib/clear.gif?$subdocument
 ||sail-horizon.com^$third-party
 ||sch.line.me^
 ||scorecardresearch.com^
