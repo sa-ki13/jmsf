@@ -84,7 +84,6 @@
 ||impression-asia.liftoff.io^
 ||itest.5ch.net/assets/img/loading.gif^$redirect=1x1-transparent.gif
 ||itest.5ch.net/assets/img/ronin_premium_640x100.png
-||j.zucks.net.zimg.jp^
 ||j-a-net.jp^$third-party
 ||js.gsspcln.jp^$script
 ||js-agent.newrelic.com^
