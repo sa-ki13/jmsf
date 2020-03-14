@@ -32,7 +32,7 @@
 ||ad-move.jp^$third-party
 ||adsafeprotected.com^
 ||adservice.google.com^
-||ad-stir.com^
+||ad-stir.com^$third-party
 ||ads-twitter.com^$third-party
 ||amazon-adsystem.com^
 ||amoad.com^
