@@ -85,7 +85,6 @@
 ||j.zucks.net.zimg.jp^
 ||j-a-net.jp^$third-party
 ||js.gsspcln.jp^$script
-||js.monetize-ssp.com^
 ||js-agent.newrelic.com^
 ||jwpltx.com^$third-party
 ||kochava.com^
