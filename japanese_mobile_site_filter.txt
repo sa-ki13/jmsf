@@ -132,7 +132,6 @@
 ||tracer.jp^$third-party
 ||tr-asia.adsmoloco.com^
 ||twitter.com/i/jot
-||userdive.com^
 ||veinteractive.com^$third-party
 ||webtracker.jp^$third-party
 ||yjtag.yahoo.co.jp^
