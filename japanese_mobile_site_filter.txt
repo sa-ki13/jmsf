@@ -101,7 +101,6 @@
 ||pw.gigazine.net^
 ||quantcount.com^$third-party
 ||reutersmedia.net/*/js/analytics/win-GTM.js$domain=mobile.reuters.com
-||s.yimg.jp/images/listing/tool/cv/conversion.js
 ||sail-horizon.com^$third-party
 ||sch.line.me^
 ||scorecardresearch.com^
