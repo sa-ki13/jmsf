@@ -9,6 +9,7 @@
 .net/ads.
 .openx.
 /ad2.
+/ad3.
 /adserver/*
 /adtags.
 /adv.png
