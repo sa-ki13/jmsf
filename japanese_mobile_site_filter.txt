@@ -87,6 +87,7 @@
 ||js-agent.newrelic.com^
 ||jwpltx.com^$third-party
 ||kochava.com^
+||krxd.net^
 ||l.betrad.com^
 ||mediad2.jp^$third-party
 ||microad.net^$third-party
