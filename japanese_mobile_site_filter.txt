@@ -113,6 +113,7 @@
 ||sociorocketnews.files.wordpress.com/*&crop=1$image,domain=rocketnews24.com
 ||s-onetag.com^$third-party
 ||sp.gmossp-sp.jp^
+||static.ads-twitter.com^
 ||stats.g.doubleclick.net^
 ||stats.wp.com^
 ||t.karte.io^
