@@ -119,6 +119,7 @@
 ||pubmatic.com^
 ||pw.gigazine.net^
 ||quantcount.com^$third-party
+||quantserve.com^$~object,third-party
 ||reutersmedia.net/*/js/analytics/win-GTM.js
 ||rubiconproject.com^
 ||s.yimg.jp/images/approach/jslib/clear.gif?$subdocument
