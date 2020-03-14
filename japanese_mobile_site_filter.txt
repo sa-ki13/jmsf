@@ -72,7 +72,6 @@
 ||e.crashlytics.com^
 ||fout.jp^
 ||gigazine.asia^
-||glossom.jp^
 ||google.co.jp/gen_204?$other
 ||googleadservices.com^
 ||google-analytics.com^
