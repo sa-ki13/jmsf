@@ -139,7 +139,7 @@
 ||webtracker.jp^$third-party
 ||yjtag.yahoo.co.jp^
 ||zucks.net^
-~cgi.search.biglobe.ne.jp,~line.me,~search.goo.ne.jp,~search.yahoo.co.jp,~websearch.excite.co.jp,~www.bing.com,~www.google.co.jp,~www.google.com$$a[href="line.me/R/ti/p/%40"]
-~drive.google.com,~facebook.com,~instagram.com$$link[rel="manifest"]
+$$a[href="line.me/R/ti/p/%40"]
+$$link[rel="manifest"]
 gigazine.net$$footer
 gigazine.net$$header
