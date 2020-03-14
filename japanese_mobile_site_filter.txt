@@ -143,5 +143,3 @@
 ||zucks.net^
 $$a[href="line.me/R/ti/p/%40"]
 $$link[rel="manifest"]
-gigazine.net$$footer
-gigazine.net$$header
