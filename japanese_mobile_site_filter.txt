@@ -85,7 +85,6 @@
 ||jwpltx.com^$third-party
 ||kochava.com^
 ||l.betrad.com^
-||microad.jp^$third-party,domain=~e-gift.co|~sbg.jp|~softbank.jp
 ||mobileanalytics.*.amazonaws.com^
 ||mxpnl.com^$third-party
 ||nend.net^
