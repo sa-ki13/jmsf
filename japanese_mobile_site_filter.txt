@@ -98,6 +98,7 @@
 ||j-a-net.jp^$third-party
 ||js.gsspcln.jp^$script
 ||js-agent.newrelic.com^
+||juicer.cc^
 ||jwpltx.com^$third-party
 ||kochava.com^
 ||krxd.net^
