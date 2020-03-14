@@ -61,6 +61,7 @@
 ||connect.facebook.net/ja_JP/sdk.js
 ||d.line-scdn.net^$third-party,domain=~line.me
 ||d1jh13j6azkbbi.cloudfront.net^
+||d2-apps.net/*/impressions/log
 ||demdex.net^
 ||ds-aksb-a.akamaihd.net^
 ||e.crashlytics.com^
