@@ -23,6 +23,7 @@
 /piwik.js
 /prebid/*
 /pubads.
+/yads.
 ||2o7.net^
 ||a8.net^$third-party
 ||a-cast.jp^
