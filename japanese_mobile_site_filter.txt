@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Site Filter FA-FA(仮)
-! Version: 2020-03-13
-! Last modified: 13 Mar 2020 22:56 JST
+! Version: 2020-03-14
+! Last modified: 13 Mar 2020 12:58 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-03-13
@@ -40,6 +40,7 @@
 ||amazon-adsystem.com^
 ||amoad.com^
 ||amplify.outbrain.com/cp/obtp.js
+||analytics.yahoo.com^
 ||api.webpush.jp^
 ||api-analytics.metaps.com^
 ||api-analytics-bootstrap.metaps.com^
