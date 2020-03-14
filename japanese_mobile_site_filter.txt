@@ -119,6 +119,7 @@
 ||reutersmedia.net/*/js/analytics/win-GTM.js
 ||rubiconproject.com^
 ||s.yimg.jp/images/approach/jslib/clear.gif?$subdocument
+||s.yimg.jp/images/listing/tool/cv/conversion_async.js|
 ||s.yimg.jp/images/listing/tool/yads/
 ||sail-horizon.com^$third-party
 ||sch.line.me^
