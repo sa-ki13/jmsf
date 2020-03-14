@@ -35,7 +35,6 @@
 ||adservice.google.com^
 ||ad-stir.com^
 ||ads-twitter.com^$third-party
-||alxc.addlv.smt.docomo.ne.jp^
 ||amazon-adsystem.com^
 ||amoad.com^
 ||amplify.outbrain.com/cp/obtp.js
