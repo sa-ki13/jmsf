@@ -141,5 +141,3 @@
 ||webtracker.jp^$third-party
 ||yjtag.yahoo.co.jp^
 ||zucks.net^
-$$a[href="line.me/R/ti/p/%40"]
-$$link[rel="manifest"]
