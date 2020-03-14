@@ -68,6 +68,7 @@
 ||gigazine.asia^
 ||glossom.jp^
 ||google.co.jp/gen_204?$other
+||google-analytics.com^
 ||google-analytics.com/analytics.js$third-party
 ||googletagmanager.com/gtag/$third-party
 ||googletagmanager.com/gtm.js?$third-party
