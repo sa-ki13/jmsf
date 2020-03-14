@@ -119,6 +119,7 @@
 ||stats.g.doubleclick.net^
 ||stats.wp.com^
 ||t.karte.io^
+||teads.tv^
 ||tm.r-ad.ne.jp^
 ||torimochi.line-apps.com^
 ||tpc.googlesyndication.com^
