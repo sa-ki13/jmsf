@@ -10,6 +10,7 @@
 .openx.
 /ad2.
 /ad3.
+/ad-invalid-
 /adserver/*
 /adtags.
 /adv.png
