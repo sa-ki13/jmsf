@@ -121,6 +121,7 @@
 ||s.yimg.jp/images/approach/jslib/clear.gif?$subdocument
 ||s.yimg.jp/images/listing/tool/cv/conversion_async.js|
 ||s.yimg.jp/images/listing/tool/yads/
+||s.yimg.jp/images/login/sp/js/login_promo/1.1.8/login_promo-min.js
 ||sail-horizon.com^$third-party
 ||sch.line.me^
 ||scorecardresearch.com^
