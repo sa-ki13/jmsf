@@ -95,7 +95,6 @@
 ||google-analytics.com/analytics.js$third-party
 ||google-analytics.com/collect$third-party
 ||googletagmanager.com/gtag/$third-party
-||googletagmanager.com/gtm.js?$third-party
 ||gvt2.com^$third-party
 ||hotjar.com^$third-party
 ||hs-analytics.net^$third-party
