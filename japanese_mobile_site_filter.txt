@@ -41,7 +41,6 @@
 ||a-cast.jp^
 ||ad.jp.ap.valuecommerce.com^
 ||ad.linksynergy.com^$third-party
-||adingo.jp^$third-party
 ||adjust.com^
 ||adjust-net.jp^
 ||adm.shinobi.jp^$third-party
