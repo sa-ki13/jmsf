@@ -161,6 +161,7 @@
 ||static.ads-twitter.com^
 ||stats.g.doubleclick.net^
 ||t.karte.io^
+||teacup.com/cgi-bin/Count.cgi^
 ||teads.tv^
 ||torimochi.line-apps.com^
 ||tpc.googlesyndication.com^
