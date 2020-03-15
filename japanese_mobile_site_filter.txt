@@ -177,6 +177,7 @@
 ||valuecommerce.com^$third-party
 ||veinteractive.com^$third-party
 ||webtracker.jp^$third-party
+||www.youtube.com/api/stats/ads?
 ||www.youtube.com/pagead/
 ||ybx.yahoo.co.jp^
 ||yimg.jp/bdv/
