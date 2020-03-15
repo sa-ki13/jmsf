@@ -62,7 +62,6 @@
 ||api.webpush.jp^
 ||api-analytics.metaps.com^
 ||api-analytics-bootstrap.metaps.com^
-||apis.google.com/js/plusone.js
 ||app.adjust.com^$app
 ||app.link/_r?sdk=*&callback=branch_callback
 ||app-adforce.jp^
