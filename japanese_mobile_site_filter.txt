@@ -54,7 +54,6 @@
 ||affiliate.rakuten.co.jp^$third-party
 ||afl.rakuten.co.jp^
 ||amazon-adsystem.com^
-||amoad.com^
 ||amplify.outbrain.com/cp/obtp.js
 ||analytics.yahoo.com^
 ||api.github.com/_private/browser/stats$important
