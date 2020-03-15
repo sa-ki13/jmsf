@@ -80,6 +80,7 @@
 ||doubleclick.net^$image,third-party
 ||ds-aksb-a.akamaihd.net^
 ||e.crashlytics.com^
+||facebook.com/plugins/
 ||fout.jp^
 ||gigazine.asia^
 ||google.co.jp/gen_204?$other
