@@ -28,6 +28,7 @@
 /piwik.js
 /prebid/*
 /pubads.
+/settings/lite2/ads.js|
 /yads.
 /yads-
 ||2o7.net^
