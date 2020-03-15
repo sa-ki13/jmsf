@@ -69,6 +69,7 @@
 ||blismedia.com^$third-party
 ||blog.seesaa.jp/oem_contents/popular_article_ads/jbbs.js
 ||bs.nakanohito.jp^$third-party
+||c1.adform.net^
 ||cdn.caprofitx.com^
 ||cdn.liftoff.io^
 ||cdn.segment.com/analytics.js
