@@ -129,6 +129,7 @@
 ||nend.net^
 ||omtrdc.net^
 ||onesignal.com^$third-party
+||parts.blog.livedoor.jp/img/lite2/arrow_next.png$image
 ||parts.blog.livedoor.jp/img/lite2/usr/matomeblue/bg_header_b.png$image
 ||petametrics.com^$third-party
 ||pippio.com^
