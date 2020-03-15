@@ -37,6 +37,7 @@
 ||adingo.jp^$third-party
 ||adjust.com^
 ||adjust-net.jp^
+||adm.shinobi.jp^$third-party
 ||ad-move.jp^$third-party
 ||adsafeprotected.com^
 ||adservice.google.com^
