@@ -14,6 +14,7 @@
 /ad3.
 /ad-invalid-
 /adserver/*
+/adservice.
 /adtags.
 /adv.png
 /advanced-ads/*
