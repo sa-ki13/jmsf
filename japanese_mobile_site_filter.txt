@@ -21,7 +21,6 @@
 /css/ad.
 /fbevents.js
 /googima.js
-/googleads.
 /gpt.js$script
 /pagead2.
 /piwik.js
