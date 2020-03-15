@@ -88,6 +88,7 @@
 ||doubleclick.net^$image,third-party
 ||ds-aksb-a.akamaihd.net^
 ||e.crashlytics.com^
+||facebook.com^*/logging/
 ||facebook.com/plugins/
 ||fout.jp^
 ||gigazine.asia^
