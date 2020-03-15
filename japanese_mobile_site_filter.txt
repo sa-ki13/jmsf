@@ -183,4 +183,5 @@
 ||yimg.jp/bdv/
 ||yjtag.yahoo.co.jp^
 ||youtube.com/api/stats/qoe?
+||youtube.com/ptracking?
 ||zucks.net^
