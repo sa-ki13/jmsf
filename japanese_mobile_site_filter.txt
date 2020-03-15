@@ -57,6 +57,7 @@
 ||app.link/_r?sdk=*&callback=branch_callback
 ||app-adforce.jp^
 ||appsflyer.com^
+||b.st-hatena.com/js/bookmark_button.js
 ||b*.yahoo.co.jp/b?
 ||b92.yahoo.co.jp/js/s_retargeting.js
 ||b92.yahoo.co.jp/search^
