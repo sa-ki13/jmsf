@@ -32,6 +32,7 @@
 /piwik.js
 /prebid/*
 /pubads.
+/securepubads. 
 /settings/lite2/ads.js|
 /yads.
 /yads-
