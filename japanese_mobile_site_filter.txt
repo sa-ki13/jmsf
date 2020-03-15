@@ -26,7 +26,6 @@
 /css/ad.
 /fbevents.js
 /googima.js
-/googleads.
 /gpt.js$script
 /log_event?
 /pagead2.
@@ -98,8 +97,6 @@
 ||fout.jp^
 ||gigazine.asia^
 ||google.co.jp/gen_204?$other
-||googleadservices.com^
-||google-analytics.com^
 ||google-analytics.com/analytics.js$third-party
 ||google-analytics.com/collect$third-party
 ||googletagmanager.com/gtag/$third-party
