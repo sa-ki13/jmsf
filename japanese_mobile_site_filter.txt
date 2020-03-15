@@ -120,7 +120,6 @@
 ||ladsp.com^$third-party
 ||logql.yahoo.co.jp^
 ||mediad2.jp^$third-party
-||microad.net^$third-party
 ||mobileanalytics.*.amazonaws.com^
 ||mxpnl.com^$third-party
 ||nend.net^
