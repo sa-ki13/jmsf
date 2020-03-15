@@ -59,6 +59,7 @@
 ||b*.yahoo.co.jp/b?
 ||b92.yahoo.co.jp/js/s_retargeting.js
 ||b92.yahoo.co.jp/search^
+||blog.seesaa.jp/oem_contents/popular_article_ads/jbbs.js
 ||bs.nakanohito.jp^$third-party
 ||cdn.caprofitx.com^
 ||cdn.liftoff.io^
