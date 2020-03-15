@@ -185,5 +185,6 @@
 ||yjtag.yahoo.co.jp^
 ||youtube.com/api/stats/qoe?
 ||youtube.com/csi_204?
+||youtube.com/get_midroll_
 ||youtube.com/ptracking?
 ||zucks.net^
