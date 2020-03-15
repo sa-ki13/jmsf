@@ -51,6 +51,7 @@
 ||ads-twitter.com^$third-party
 ||advg.jp^
 ||affiliate.rakuten.co.jp^$third-party
+||afl.rakuten.co.jp^
 ||amazon-adsystem.com^
 ||amoad.com^
 ||amplify.outbrain.com/cp/obtp.js
