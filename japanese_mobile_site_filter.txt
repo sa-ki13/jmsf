@@ -54,6 +54,7 @@
 ||api-analytics-bootstrap.metaps.com^
 ||apis.google.com/js/plusone.js
 ||app.adjust.com^$app
+||app.link/_r?sdk=*&callback=branch_callback
 ||app-adforce.jp^
 ||appsflyer.com^
 ||b*.yahoo.co.jp/b?
