@@ -44,7 +44,6 @@
 ||adjust.com^
 ||adjust-net.jp^
 ||adm.shinobi.jp^$third-party
-||ad-move.jp^$third-party
 ||adsafeprotected.com^
 ||adservice.google.com^
 ||ad-stir.com^$third-party
