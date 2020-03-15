@@ -29,6 +29,7 @@
 /googima.js
 /googleads.
 /gpt.js$script
+/log_event?
 /pagead2.
 /piwik.js
 /prebid/*
