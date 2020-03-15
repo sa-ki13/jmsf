@@ -16,6 +16,7 @@
 /adtags.
 /adv.png
 /adw.
+/api.ad.
 /b/ss/*&aqe=
 /btn_sns_$image
 /cookie-consent.
