@@ -17,6 +17,7 @@
 /adtags.
 /adv.png
 /advanced-ads/*
+/advanced-ads-
 /adw.
 /api.ad.
 /b/ss/*&aqe=
