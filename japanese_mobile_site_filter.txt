@@ -48,6 +48,7 @@
 ||amplify.outbrain.com/cp/obtp.js
 ||analytics.yahoo.com^
 ||api.github.com/_private/browser/stats$important
+||api.twitter.com/1.1/onboarding/referrer.json|$xmlhttprequest
 ||api.webpush.jp^
 ||api-analytics.metaps.com^
 ||api-analytics-bootstrap.metaps.com^
