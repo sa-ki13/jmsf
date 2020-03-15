@@ -183,5 +183,6 @@
 ||yimg.jp/bdv/
 ||yjtag.yahoo.co.jp^
 ||youtube.com/api/stats/qoe?
+||youtube.com/csi_204?
 ||youtube.com/ptracking?
 ||zucks.net^
