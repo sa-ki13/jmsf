@@ -180,4 +180,5 @@
 ||ybx.yahoo.co.jp^
 ||yimg.jp/bdv/
 ||yjtag.yahoo.co.jp^
+||youtube.com/api/stats/qoe?
 ||zucks.net^
