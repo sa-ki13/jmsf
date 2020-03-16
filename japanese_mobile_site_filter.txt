@@ -176,3 +176,4 @@
 ||youtube.com/get_midroll_
 ||youtube.com/ptracking?
 ||zucks.net^
+##div#ld-floating-menu.anime
