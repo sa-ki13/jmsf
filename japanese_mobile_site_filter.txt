@@ -1,9 +1,9 @@
 ! Title: AdGuard Japanese Mobile Site Filter FA-FA(仮)
-! Version: 2020-03-15
-! Last modified: 13 Mar 2020 17:12 JST
+! Version: 2020-03-16
+! Last modified: 13 Mar 2020 15:11 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
-! Last updated: 2020-03-15
+! Last updated: 2020-03-16
 
 .adnwif.
 .com/ads/$image,object,subdocument
@@ -121,7 +121,7 @@
 ||nend.net^
 ||onesignal.com^$third-party
 ||parts.blog.livedoor.jp/img/lite2/arrow_next.png$image
-||parts.blog.livedoor.jp/js/lite2/floating/menu.js
+||parts.blog.livedoor.jp/*/lite2/floating^
 ||parts.blog.livedoor.jp/img/lite2/usr/matomeblue/bg_header_b.png$image
 ||petametrics.com^$third-party
 ||pippio.com^
