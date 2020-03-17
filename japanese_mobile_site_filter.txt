@@ -115,7 +115,6 @@
 ||juicer.cc^
 ||jwpltx.com^$third-party
 ||kochava.com^
-||krxd.net^
 ||l.betrad.com^
 ||ladsp.com^$third-party
 ||logql.yahoo.co.jp^
