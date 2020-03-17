@@ -101,6 +101,7 @@
 ||gvt2.com^$third-party
 ||hotjar.com^$third-party
 ||hs-analytics.net^$third-party
+||imasdk.googleapis.com^
 ||i-mobile.co.jp^
 ||impact-ad.jp^$third-party
 ||impression.appsflyer.com^
