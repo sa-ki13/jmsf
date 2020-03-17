@@ -94,6 +94,7 @@
 ||facebook.com^*/logging/
 ||facebook.com/plugins/
 ||fout.jp^
+||gce-jp.bidswitch.net^
 ||gigazine.asia^
 ||google-analytics.com/analytics.js$third-party
 ||google-analytics.com/collect$third-party
