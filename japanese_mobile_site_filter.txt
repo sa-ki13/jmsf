@@ -133,6 +133,7 @@
 ||pixel.wp.com^
 ||plus.google.com^$third-party
 ||popin.cc^$third-party
+||prod-a.applovin.com^
 ||pubmatic.com^
 ||pw.gigazine.net^
 ||quantcount.com^$third-party
