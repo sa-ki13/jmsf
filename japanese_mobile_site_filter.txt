@@ -157,6 +157,7 @@
 ||stats.g.doubleclick.net^
 ||t.blog.livedoor.jp/u.js
 ||t.karte.io^
+||tags.bluekai.com^
 ||teacup.com/cgi-bin/Count.cgi^
 ||teads.tv^
 ||torimochi.line-apps.com^
