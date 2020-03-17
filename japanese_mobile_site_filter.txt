@@ -90,6 +90,7 @@
 ||doubleclick.net^$image,third-party
 ||ds-aksb-a.akamaihd.net^
 ||e.crashlytics.com^
+||experience.tinypass.com/xbuilder/experience/execute?aid=
 ||facebook.com^*/logging/
 ||facebook.com/plugins/
 ||fout.jp^
