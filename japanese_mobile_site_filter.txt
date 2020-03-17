@@ -137,6 +137,7 @@
 ||pw.gigazine.net^
 ||quantcount.com^$third-party
 ||quantserve.com^$~object,third-party
+||res1.applovin.com^
 ||reutersmedia.net/*/js/analytics/win-GTM.js
 ||rubiconproject.com^
 ||s.yimg.jp/images/approach/jslib/clear.gif?$subdocument
