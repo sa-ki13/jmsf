@@ -118,7 +118,6 @@
 ||l.betrad.com^
 ||ladsp.com^$third-party
 ||logql.yahoo.co.jp^
-||moatads.com^
 ||mobileanalytics.*.amazonaws.com^
 ||moengage.com^$third-party
 ||mxpnl.com^$third-party
