@@ -116,6 +116,7 @@
 ||l.betrad.com^
 ||ladsp.com^$third-party
 ||logql.yahoo.co.jp^
+||moatads.com^
 ||mobileanalytics.*.amazonaws.com^
 ||mxpnl.com^$third-party
 ||nend.net^
