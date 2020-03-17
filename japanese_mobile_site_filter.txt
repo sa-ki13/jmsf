@@ -117,6 +117,7 @@
 ||kochava.com^
 ||l.betrad.com^
 ||ladsp.com^$third-party
+||liftoff.io^
 ||logql.yahoo.co.jp^
 ||mobileanalytics.*.amazonaws.com^
 ||moengage.com^$third-party
