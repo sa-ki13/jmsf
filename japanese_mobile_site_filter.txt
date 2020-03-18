@@ -57,6 +57,7 @@
 ||blismedia.com^$third-party
 ||blog.seesaa.jp/oem_contents/popular_article_ads/jbbs.js
 ||c1.adform.net^
+||cdn.caprofitx.com^
 ||cdn.segment.com/analytics.js
 ||cdn-f.adsmoloco.com^
 ||cdp.cloud.unity3d.com^
