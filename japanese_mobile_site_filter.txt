@@ -40,6 +40,7 @@
 /yads-
 ||2o7.net^
 ||a.quora.com^
+||adingo.jp^$third-party
 ||adjust.com^
 ||ads-twitter.com^$third-party
 ||adsafeprotected.com^
