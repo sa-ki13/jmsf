@@ -13,6 +13,7 @@
 /ad2.
 /ad3.
 /ad-invalid-
+/ad_loader.
 /adserver/*
 /adtags.
 /adv.png
