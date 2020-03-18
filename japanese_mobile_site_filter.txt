@@ -39,6 +39,7 @@
 ||2o7.net^
 ||a.quora.com^
 ||adjust.com^
+||ads-twitter.com^$third-party
 ||adsafeprotected.com^
 ||advg.jp^
 ||amazon-adsystem.com^
