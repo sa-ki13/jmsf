@@ -43,6 +43,7 @@
 ||adsafeprotected.com^
 ||advg.jp^
 ||amazon-adsystem.com^
+||amplify.outbrain.com/cp/obtp.js
 ||analytics.twitter.com^$third-party
 ||analytics.yahoo.com^
 ||api.github.com/_private/browser/stats$important
