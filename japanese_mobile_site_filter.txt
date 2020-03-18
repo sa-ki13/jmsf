@@ -28,6 +28,7 @@
 /css/ad.
 /fbevents.js
 /googima.js
+/googleads.
 /gpt.js$script
 /log_event?
 /pagead2.
