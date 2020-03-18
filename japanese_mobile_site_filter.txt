@@ -15,6 +15,7 @@
 /ad-invalid-
 /ad_loader.
 /adserver/*
+/adservice.
 /adtags.
 /adv.png
 /advanced-ads/*
