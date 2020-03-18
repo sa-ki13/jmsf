@@ -71,6 +71,7 @@
 ||experience.tinypass.com/xbuilder/experience/execute?aid=
 ||facebook.com^*/logging/
 ||facebook.com/plugins/
+||fam-ad.com^$third-party
 ||google-analytics.com/analytics.js$third-party
 ||google-analytics.com/collect$third-party
 ||googletagmanager.com/gtag/$third-party
