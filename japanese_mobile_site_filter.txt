@@ -55,6 +55,7 @@
 ||app.link/_r?sdk=*&callback=branch_callback
 ||appsflyer.com^
 ||b*.yahoo.co.jp/b?
+||b.st-hatena.com/js/bookmark_button.js
 ||blismedia.com^$third-party
 ||blog.seesaa.jp/oem_contents/popular_article_ads/jbbs.js
 ||c1.adform.net^
