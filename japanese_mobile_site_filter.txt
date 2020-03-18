@@ -44,13 +44,10 @@
 ||advg.jp^
 ||amazon-adsystem.com^
 ||analytics.twitter.com^$third-party
-||analytics.yahoo.com^
 ||api.github.com/_private/browser/stats$important
 ||api.twitter.com/1.1/onboarding/referrer.json|$xmlhttprequest
-||api.webpush.jp^
 ||api-analytics.metaps.com^
 ||api-analytics-bootstrap.metaps.com^
-||app.adjust.com^$app
 ||app.link/_r?sdk=*&callback=branch_callback
 ||app-adforce.jp^
 ||appsflyer.com^
