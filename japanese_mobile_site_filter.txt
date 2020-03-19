@@ -88,7 +88,6 @@
 ||google.co.jp/gen_204?$other
 ||google-analytics.com/analytics.js$third-party
 ||google-analytics.com/collect$third-party
-||google-analytics.com^
 ||googletagmanager.com/gtag/$third-party
 ||graph.instagram.com/logging_client_events
 ||gvt2.com^$third-party
