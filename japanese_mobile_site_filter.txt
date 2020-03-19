@@ -142,6 +142,7 @@
 ||sp.gmossp-sp.jp^
 ||static.ads-twitter.com^
 ||stats.g.doubleclick.net^
+||syndication.exoclick.com^$document
 ||t.appsflyer.com^
 ||t.blog.livedoor.jp/u.js
 ||t.karte.io^
