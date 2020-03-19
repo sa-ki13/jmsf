@@ -121,6 +121,7 @@
 ||pixel.wp.com^
 ||platform.twitter.com/widgets/tweet_button$third-party
 ||plus.google.com^$third-party
+||popads.net/pop.js$script,redirect=popads.net.js,important
 ||popin.cc^$third-party
 ||prod-a.applovin.com^
 ||pubmatic.com^
