@@ -99,6 +99,7 @@
 ||jwpltx.com^$third-party
 ||liftoff.io^
 ||logql.yahoo.co.jp^
+||mediad2.jp^$third-party
 ||mobileanalytics.*.amazonaws.com^
 ||moengage.com^$third-party
 ||ms.applvn.com^
