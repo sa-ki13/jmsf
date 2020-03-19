@@ -49,6 +49,7 @@
 ||advg.jp^
 ||amazon-adsystem.com^
 ||analytics.twitter.com^$third-party
+||api.amplitude.com^
 ||api.github.com/_private/browser/stats$important
 ||api.twitter.com/1.1/onboarding/referrer.json|$xmlhttprequest
 ||api-analytics.metaps.com^
