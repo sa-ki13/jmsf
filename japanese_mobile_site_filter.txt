@@ -45,6 +45,7 @@
 ||adjust.com^
 ||ads-twitter.com^$third-party
 ||adsafeprotected.com^
+||ad-move.jp^$third-party
 ||ads.mopub.com^
 ||ad-stir.com^$third-party
 ||advg.jp^
