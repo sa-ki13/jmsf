@@ -119,6 +119,7 @@
 ||quantserve.com^$~object,third-party
 ||res1.applovin.com^
 ||reutersmedia.net/*/js/analytics/win-GTM.js
+||rt.applovin.com^
 ||rubiconproject.com^
 ||s.yimg.jp/images/approach/jslib/clear.gif?$subdocument
 ||s.yimg.jp/images/listing/tool/cv/conversion_async.js|
