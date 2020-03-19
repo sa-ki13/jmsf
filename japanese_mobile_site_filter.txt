@@ -45,6 +45,7 @@
 ||adjust.com^
 ||ads-twitter.com^$third-party
 ||adsafeprotected.com^
+||ads.mopub.com^
 ||advg.jp^
 ||amazon-adsystem.com^
 ||analytics.twitter.com^$third-party
