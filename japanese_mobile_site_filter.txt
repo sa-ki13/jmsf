@@ -54,6 +54,7 @@
 ||api-analytics-bootstrap.metaps.com^
 ||app.adjust.com^$app
 ||app.link/_r?sdk=*&callback=branch_callback
+||applovin.com^
 ||appsflyer.com^
 ||b*.yahoo.co.jp/b?
 ||b.st-hatena.com/js/bookmark_button.js
