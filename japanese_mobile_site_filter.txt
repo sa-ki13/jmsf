@@ -164,7 +164,6 @@
 ||textuploader.com/assets/img/patterns/bg*.png$image
 ||torimochi.line-apps.com^
 ||tpc.googlesyndication.com^
-||tracer.jp^$third-party
 ||tr-asia.adsmoloco.com^
 ||twitter.com/i/jot
 ||valuecommerce.com^$third-party
