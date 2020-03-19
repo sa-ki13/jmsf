@@ -46,6 +46,7 @@
 ||ads-twitter.com^$third-party
 ||adsafeprotected.com^
 ||ads.mopub.com^
+||ad-stir.com^$third-party
 ||advg.jp^
 ||amazon-adsystem.com^
 ||analytics.twitter.com^$third-party
