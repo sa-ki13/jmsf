@@ -149,6 +149,7 @@
 ||tags.bluekai.com^
 ||teacup.com/cgi-bin/Count.cgi^
 ||teads.tv^
+||textuploader.com/assets/img/patterns/bg*.png$image
 ||torimochi.line-apps.com^
 ||tpc.googlesyndication.com^
 ||tracer.jp^$third-party
