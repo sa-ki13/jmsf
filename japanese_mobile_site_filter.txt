@@ -27,6 +27,7 @@
 /cookie-consent.
 /css/ad.
 /fbevents.js
+/fingerprint2.min.js^
 /googima.js
 /googleads.
 /gpt.js$script
