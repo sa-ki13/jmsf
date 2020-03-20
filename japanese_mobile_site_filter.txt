@@ -28,6 +28,7 @@
 /css/ad.
 /fbevents.js
 /fingerprint2.min.js^
+/front/ad/*
 /googima.js
 /googleads.
 /gpt.js$script
