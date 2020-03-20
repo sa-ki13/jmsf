@@ -118,6 +118,7 @@
 ||js.gsspcln.jp^$script
 ||juicer.cc^
 ||jwpltx.com^$third-party
+||licdn.com/li.lms-analytics/
 ||liftoff.io^
 ||lightboxcdn.com^$third-party
 ||logql.yahoo.co.jp^
