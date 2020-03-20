@@ -117,6 +117,7 @@
 ||pippio.com^
 ||pixel.quantserve.com$third-party
 ||pixel.wp.com^
+||platform.twitter.com/widgets/follow_button$third-party
 ||platform.twitter.com/widgets/tweet_button$third-party
 ||plus.google.com^$third-party
 ||popads.net/pop.js$script,redirect=popads.net.js,important
