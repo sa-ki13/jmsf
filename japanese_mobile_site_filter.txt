@@ -179,6 +179,7 @@
 ||widgets.getpocket.com^$third-party
 ||www.youtube.com/api/stats/ads?
 ||www.youtube.com/pagead/
+||yahoo.co.jp/b?
 ||ybx.yahoo.co.jp^
 ||yimg.jp/bdv/
 ||yjtag.yahoo.co.jp^
