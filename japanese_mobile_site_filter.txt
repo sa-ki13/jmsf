@@ -86,6 +86,7 @@
 ||facebook.com/plugins/
 ||facebook.com^*/logging/
 ||fivecdm.com^
+||glssp.net/GL_AD/
 ||google.co.jp/gen_204?$other
 ||google-analytics.com/analytics.js$third-party
 ||google-analytics.com/collect$third-party
