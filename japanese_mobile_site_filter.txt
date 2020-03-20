@@ -98,6 +98,7 @@
 ||fivecdm.com^
 ||fls.doubleclick.net^$third-party
 ||google.co.jp/gen_204?$other
+||googleadservices.com^
 ||google-analytics.com/analytics.js$third-party
 ||google-analytics.com/collect$third-party
 ||google-analytics.com/plugins/$third-party
