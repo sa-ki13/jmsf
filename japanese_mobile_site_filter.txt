@@ -109,6 +109,7 @@
 ||mediad2.jp^$third-party
 ||mobileanalytics.*.amazonaws.com^
 ||moengage.com^$third-party
+||mookie1.com^$third-party
 ||ms.applvn.com^
 ||mxpnl.com^$third-party
 ||nend.net^
