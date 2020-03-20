@@ -126,6 +126,7 @@
 ||mxpnl.com^$third-party
 ||nend.net^
 ||onesignal.com^$third-party
+||optimizely.com^$third-party
 ||parts.blog.livedoor.jp/*/lite2/floating
 ||parts.blog.livedoor.jp/img/cms_lite/common/icon/icon_forward.png$image
 ||parts.blog.livedoor.jp/img/lite2/arrow_next.png$image
