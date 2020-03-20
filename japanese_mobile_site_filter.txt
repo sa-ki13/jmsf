@@ -133,6 +133,7 @@
 ||quantcount.com^$third-party
 ||res1.applovin.com^
 ||reutersmedia.net/*/js/analytics/win-GTM.js
+||rs.adapf.com^
 ||rt.applovin.com^
 ||rubiconproject.com^
 ||s.yimg.jp/images/approach/jslib/clear.gif?$subdocument
