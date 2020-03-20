@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Site Filter FA-FA(仮)
 ! Version: 2020-03-20
-! Last modified: 20 Mar 2020 22:32 JST
+! Last modified: 20 Mar 2020 22:33 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-03-20
@@ -68,10 +68,10 @@
 ||applovin.com^
 ||appsflyer.com^
 ||b*.yahoo.co.jp/b?
+||b.st-hatena.com/js/bookmark_button.js
 ||b92.yahoo.co.jp/js/s_retargeting.js
 ||b92.yahoo.co.jp/search^
 ||bat.bing.com^
-||b.st-hatena.com/js/bookmark_button.js
 ||blismedia.com^$third-party
 ||blog.seesaa.jp/oem_contents/popular_article_ads/jbbs.js
 ||bs.nakanohito.jp^$third-party
@@ -97,8 +97,8 @@
 ||e.crashlytics.com^
 ||experience.tinypass.com/xbuilder/experience/execute?aid=
 ||facebook.com/plugins/
-||facebook.com^*/logging/
 ||facebook.com/tr/?
+||facebook.com^*/logging/
 ||fivecdm.com^
 ||fls.doubleclick.net^$third-party
 ||google.co.jp/gen_204?$other
@@ -117,8 +117,8 @@
 ||insightexpressai.com^$third-party
 ||itest.5ch.net/assets/img/loading.gif^$redirect=1x1-transparent.gif
 ||itest.5ch.net/assets/img/ronin_premium_640x100.png
-||js-agent.newrelic.com^
 ||js.gsspcln.jp^$script
+||js-agent.newrelic.com^
 ||juicer.cc^
 ||jwpltx.com^$third-party
 ||licdn.com/li.lms-analytics/
@@ -205,3 +205,4 @@
 ||youtube.com/api/stats/qoe?
 ||youtube.com/csi_204?
 ||youtube.com/ptracking?
+
