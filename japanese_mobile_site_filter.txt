@@ -165,6 +165,7 @@
 ||twitter.com/i/jot
 ||valuecommerce.com^$third-party
 ||veinteractive.com^$third-party
+||widgets.getpocket.com^$third-party
 ||www.youtube.com/api/stats/ads?
 ||www.youtube.com/pagead/
 ||ybx.yahoo.co.jp^
