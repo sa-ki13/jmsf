@@ -119,6 +119,7 @@
 ||juicer.cc^
 ||jwpltx.com^$third-party
 ||liftoff.io^
+||lightboxcdn.com^$third-party
 ||logql.yahoo.co.jp^
 ||mediad2.jp^$third-party
 ||mobileanalytics.*.amazonaws.com^
