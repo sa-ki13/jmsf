@@ -63,6 +63,7 @@
 ||appsflyer.com^
 ||b*.yahoo.co.jp/b?
 ||b92.yahoo.co.jp/js/s_retargeting.js
+||b92.yahoo.co.jp/search^
 ||b.st-hatena.com/js/bookmark_button.js
 ||blismedia.com^$third-party
 ||blog.seesaa.jp/oem_contents/popular_article_ads/jbbs.js
