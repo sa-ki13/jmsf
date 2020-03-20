@@ -151,6 +151,7 @@
 ||rs.adapf.com^
 ||rt.applovin.com^
 ||rubiconproject.com^
+||s.pinimg.com/ct/core.js
 ||s.yimg.jp/images/approach/jslib/clear.gif?$subdocument
 ||s.yimg.jp/images/listing/tool/cv/conversion_async.js|
 ||s.yimg.jp/images/listing/tool/yads/
