@@ -111,7 +111,6 @@
 ||moengage.com^$third-party
 ||ms.applvn.com^
 ||mxpnl.com^$third-party
-||nend.net^
 ||onesignal.com^$third-party
 ||parts.blog.livedoor.jp/*/lite2/floating
 ||parts.blog.livedoor.jp/img/cms_lite/common/icon/icon_forward.png$image
