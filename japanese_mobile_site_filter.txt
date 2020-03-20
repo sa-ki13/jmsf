@@ -45,6 +45,7 @@
 ||a.quora.com^
 ||ad.doubleclick.net^
 ||ad.jp.ap.valuecommerce.com^
+||ad.linksynergy.com^$third-party
 ||adingo.jp^$third-party
 ||adjust.com^
 ||ad-move.jp^$third-party
