@@ -104,6 +104,7 @@
 ||insightexpressai.com^$third-party
 ||itest.5ch.net/assets/img/loading.gif^$redirect=1x1-transparent.gif
 ||itest.5ch.net/assets/img/ronin_premium_640x100.png
+||js-agent.newrelic.com^
 ||js.gsspcln.jp^$script
 ||juicer.cc^
 ||jwpltx.com^$third-party
