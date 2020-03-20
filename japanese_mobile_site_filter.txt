@@ -70,6 +70,7 @@
 ||cdn.segment.com/analytics.js
 ||cdn-f.adsmoloco.com^
 ||cdp.cloud.unity3d.com^
+||cinarra.com^$third-party
 ||collect.igodigital.com^$third-party
 ||collector.githubapp.com^
 ||config.uca.cloud.unity3d.com^
