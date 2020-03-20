@@ -193,6 +193,7 @@
 ||www.youtube.com/pagead/
 ||yahoo.co.jp/b?
 ||ybx.yahoo.co.jp^
+||yimg.com/wi/ytc.js
 ||yimg.jp/bdv/
 ||yjtag.yahoo.co.jp^
 ||youtube.com/api/stats/qoe?
