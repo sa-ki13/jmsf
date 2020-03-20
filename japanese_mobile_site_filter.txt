@@ -97,6 +97,7 @@
 ||experience.tinypass.com/xbuilder/experience/execute?aid=
 ||facebook.com/plugins/
 ||facebook.com^*/logging/
+||facebook.com/tr/?
 ||fivecdm.com^
 ||fls.doubleclick.net^$third-party
 ||google.co.jp/gen_204?$other
