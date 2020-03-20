@@ -43,6 +43,7 @@
 ||2o7.net^
 ||a.quora.com^
 ||ad.doubleclick.net^
+||adingo.jp^$third-party
 ||adjust.com^
 ||ad-move.jp^$third-party
 ||ads.mopub.com^
