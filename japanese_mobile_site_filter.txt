@@ -76,6 +76,7 @@
 ||blog.seesaa.jp/oem_contents/popular_article_ads/jbbs.js
 ||bs.nakanohito.jp^$third-party
 ||c1.adform.net^
+||cd.ladsp.com^
 ||cdn.caprofitx.com^
 ||cdn.fivecdm.com/adsbyfive.js
 ||cdn.segment.com/analytics.js
