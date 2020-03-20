@@ -166,6 +166,7 @@
 ||settings.crashlytics.com^
 ||sgbid.prod.sift.co^
 ||sift-campaign-creatives.sift.co^
+||siftscience.com^$third-party
 ||singular.net^
 ||smhn.info/wp-content/themes/confidence/images/linebutton_36x60.png$image
 ||smhn.info/wp-content/themes/confidence/images/strip.png$image
