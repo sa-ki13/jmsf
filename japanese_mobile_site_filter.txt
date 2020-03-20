@@ -46,6 +46,7 @@
 ||ad.doubleclick.net^
 ||ad.jp.ap.valuecommerce.com^
 ||ad.linksynergy.com^$third-party
+||adguard.com^*^aid=$redirect=nooptext
 ||adingo.jp^$third-party
 ||adjust.com^
 ||ad-move.jp^$third-party
