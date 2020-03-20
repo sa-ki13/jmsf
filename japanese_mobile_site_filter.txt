@@ -167,6 +167,7 @@
 ||sociorocketnews.files.wordpress.com/*&crop=1$image
 ||s-onetag.com^$third-party
 ||sp.gmossp-sp.jp^
+||stack-sonar.com^$third-party
 ||static.ads-twitter.com^
 ||stats.g.doubleclick.net^
 ||sync.im-apps.net^
