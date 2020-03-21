@@ -8,6 +8,7 @@
 .adnwif.
 .com/ads/$image,object,subdocument
 .demdex.net/id^$redirect=nooptext,important
+.doublepimp.com^$third-party
 .net/ads.
 .openx.
 /ad_loader.
