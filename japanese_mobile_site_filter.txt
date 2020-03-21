@@ -5,6 +5,7 @@
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-03-21
 
+_120x60.
 _120_60.
 .adnwif.
 .com/ads/$image,object,subdocument
