@@ -11,6 +11,7 @@ _120_60.
 .com/ads/$image,object,subdocument
 .demdex.net/id^$redirect=nooptext,important
 .doublepimp.com^$third-party
+.jp/affiliate/
 .net/ads.
 .openx.
 /ad_loader.
