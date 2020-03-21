@@ -83,6 +83,7 @@
 ||cdn.caprofitx.com^
 ||cdn.d2-apps.net/js/tr.js
 ||cdn.fivecdm.com/adsbyfive.js
+||cdn.onesignal.com^
 ||cdn.segment.com/analytics.js
 ||cdn-f.adsmoloco.com^
 ||cdp.cloud.unity3d.com^
