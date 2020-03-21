@@ -90,6 +90,7 @@
 ||collector.githubapp.com^
 ||config.uca.cloud.unity3d.com^
 ||connect.facebook.net/ja_JP/sdk.js
+||contentabc.com^$third-party
 ||cxense.com^$third-party
 ||d.applvn.com^
 ||d.line-scdn.net^$third-party
