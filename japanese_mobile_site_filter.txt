@@ -101,6 +101,7 @@
 ||doubleclick.net^$image,third-party
 ||ds-aksb-a.akamaihd.net^
 ||e.crashlytics.com^
+||etahub.com^$third-party
 ||experience.tinypass.com/xbuilder/experience/execute?aid=
 ||facebook.com/plugins/
 ||facebook.com/tr/?
