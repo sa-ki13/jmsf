@@ -33,6 +33,7 @@
 /googima.js
 /googleads.
 /gpt.js$script
+/header-ad-
 /log_event?
 /pagead2.
 /piwik.js
