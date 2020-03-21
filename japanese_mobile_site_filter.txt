@@ -155,6 +155,7 @@ _120x60.
 ||parts.blog.livedoor.jp/img/lite2/arrow_next.png$image
 ||parts.blog.livedoor.jp/img/lite2/usr/matomeblue/bg_header_b.png$image
 ||pgmcdn.com^$third-party
+||pipedream.wistia.com^
 ||pippio.com^
 ||pixel.quantserve.com$third-party
 ||pixel.wp.com^
