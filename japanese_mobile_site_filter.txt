@@ -50,6 +50,7 @@
 ||adguard.com^*^aid=$redirect=nooptext
 ||adingo.jp^$third-party
 ||adjust.com^
+||adm.shinobi.jp^$third-party
 ||ad-move.jp^$third-party
 ||ads.mopub.com^
 ||adsafeprotected.com^
