@@ -154,6 +154,7 @@
 ||platform.twitter.com/oct.js$third-party
 ||platform.twitter.com/widgets/follow_button$third-party
 ||platform.twitter.com/widgets/tweet_button$third-party
+||play.google.com/log?$redirect=nooptext
 ||plus.google.com^$third-party
 ||popads.net/pop.js$script,redirect=popads.net.js,important
 ||popin.cc^$third-party
