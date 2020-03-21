@@ -54,6 +54,7 @@
 ||adsafeprotected.com^
 ||ads-twitter.com^$third-party
 ||advg.jp^
+||alcmpn.com^$third-party
 ||amazon-adsystem.com^
 ||amazonaws.com/*/trackpush.min.js
 ||amplify.outbrain.com/cp/obtp.js
