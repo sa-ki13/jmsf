@@ -92,6 +92,7 @@ _120x60.
 ||cdn.d2-apps.net/js/tr.js
 ||cdn.fivecdm.com/adsbyfive.js
 ||cdn.gmossp-sp.jp^
+||cdn.mainichi.jp/vol1/js/sp/share.js
 ||cdn.onesignal.com^
 ||cdn.segment.com/analytics.js
 ||cdn-f.adsmoloco.com^
