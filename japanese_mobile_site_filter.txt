@@ -23,6 +23,7 @@
 /advanced-ads-
 /advanced-ads/*
 /adw.
+/amp-ad-
 /api.ad.
 /b/ss/*&aqe=
 /btn_sns_$image
