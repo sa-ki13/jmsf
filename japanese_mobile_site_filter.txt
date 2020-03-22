@@ -91,6 +91,7 @@ _120x60.
 ||cdn.caprofitx.com^
 ||cdn.d2-apps.net/js/tr.js
 ||cdn.fivecdm.com/adsbyfive.js
+||cdn.gmossp-sp.jp^
 ||cdn.onesignal.com^
 ||cdn.segment.com/analytics.js
 ||cdn-f.adsmoloco.com^
