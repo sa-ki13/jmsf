@@ -147,6 +147,7 @@ _120x60.
 ||lightboxcdn.com^$third-party
 ||litix.io^
 ||logql.yahoo.co.jp^
+||m.youtube.com/csi_204?
 ||mediad2.jp^$third-party
 ||mobileanalytics.*.amazonaws.com^
 ||moengage.com^$third-party
