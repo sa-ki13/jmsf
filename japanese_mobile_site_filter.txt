@@ -102,6 +102,7 @@ _120x60.
 ||collector.githubapp.com^
 ||config.uca.cloud.unity3d.com^
 ||connect.facebook.net/ja_JP/sdk.js
+||consensu.org^$third-party
 ||contentabc.com^$third-party
 ||cxense.com^$third-party
 ||d.applvn.com^
