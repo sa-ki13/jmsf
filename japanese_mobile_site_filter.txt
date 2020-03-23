@@ -182,6 +182,7 @@ _120x60.
 ||pubmatic.com^
 ||pw.gigazine.net^
 ||quantcount.com^$third-party
+||referrer.disqus.com^
 ||res1.applovin.com^
 ||reutersmedia.net/*/js/analytics/win-GTM.js
 ||rs.adapf.com^
