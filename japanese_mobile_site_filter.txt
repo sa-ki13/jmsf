@@ -29,6 +29,7 @@
 /btn_sns_$image
 /cookie-consent.
 /css/ad.
+/dfp.js
 /fbevents.js
 /fingerprint2.min.js^
 /front/ad/*
