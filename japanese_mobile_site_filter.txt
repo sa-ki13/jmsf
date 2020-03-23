@@ -149,6 +149,7 @@ _120x60.
 ||liftoff.io^
 ||lightboxcdn.com^$third-party
 ||litix.io^
+||live.rezync.com^
 ||logql.yahoo.co.jp^
 ||m.youtube.com/csi_204?
 ||mediad2.jp^$third-party
