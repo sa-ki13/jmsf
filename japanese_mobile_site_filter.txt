@@ -104,6 +104,7 @@ _120x60.
 ||connect.facebook.net/ja_JP/sdk.js
 ||consensu.org^$third-party
 ||contentabc.com^$third-party
+||crsspxl.com^$third-party
 ||cxense.com^$third-party
 ||d.applvn.com^
 ||d.line-scdn.net/*/torimochi.js/*/torimochi.js
