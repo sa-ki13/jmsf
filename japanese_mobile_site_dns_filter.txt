@@ -14,6 +14,7 @@
 ||ade.googlesyndication.com^
 ||adingo.jp^
 ||adjust.com^
+||adjust-net.jp^
 ||ads.mopub.com^
 ||adsafeprotected.com^
 ||adservice.google.com^
