@@ -132,7 +132,7 @@ _120x60.
 ||google-analytics.com/plugins/$third-party
 ||googletagmanager.com/gtag/$third-party
 ||graph.instagram.com/logging_client_events
-||gvt2.com^$third-party
+||gvt2.com^
 ||hotjar.com^$third-party
 ||hs-analytics.net^$third-party
 ||i2ad.jp^
