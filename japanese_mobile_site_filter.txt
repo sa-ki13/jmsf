@@ -101,6 +101,7 @@ _120x60.
 ||cinarra.com^$third-party
 ||collect.igodigital.com^$third-party
 ||collector.githubapp.com^
+||comcluster.cxense.com^
 ||config.uca.cloud.unity3d.com^
 ||connect.facebook.net/ja_JP/sdk.js
 ||consensu.org^$third-party
