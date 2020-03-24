@@ -68,6 +68,7 @@ _120x60.
 ||amplify.outbrain.com/cp/obtp.js
 ||analytics.twitter.com^$third-party
 ||api.amplitude.com^
+||api.cxense.com^
 ||api.github.com/_private/browser/stats$important
 ||api.twitter.com/1.1/jot/external_referer.json|$xmlhttprequest
 ||api.twitter.com/1.1/onboarding/referrer.json|$xmlhttprequest
