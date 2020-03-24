@@ -10,6 +10,7 @@
 ||ad.adpon.jp^
 ||ad.doubleclick.net^
 ||ad.jp.ap.valuecommerce.com^
+||ad-stir.com^
 ||ade.googlesyndication.com^
 ||adingo.jp^
 ||adjust.com^
