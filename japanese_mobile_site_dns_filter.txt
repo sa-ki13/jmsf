@@ -44,6 +44,7 @@
 ||i2ad.jp^
 ||ias.rakuten.co.jp^
 ||imasdk.googleapis.com^
+||js.rtoaster.jp^
 ||js-agent.newrelic.com^
 ||juicer.cc^
 ||liftoff.io^
