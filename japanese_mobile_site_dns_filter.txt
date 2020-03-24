@@ -19,6 +19,7 @@
 ||adsafeprotected.com^
 ||adservice.google.com^
 ||advg.jp^
+||alexametrics.com^
 ||amazon-adsystem.com^
 ||api.amplitude.com^
 ||api.cxense.com^
