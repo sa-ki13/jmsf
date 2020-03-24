@@ -39,6 +39,7 @@
 ||d.applvn.com^
 ||d1jh13j6azkbbi.cloudfront.net^
 ||demdex.net^
+||deqwas.net^
 ||distillery.wistia.com^
 ||ds-aksb-a.akamaihd.net^
 ||e.crashlytics.com^
