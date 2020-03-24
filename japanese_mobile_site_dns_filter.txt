@@ -43,6 +43,7 @@
 ||ds-aksb-a.akamaihd.net^
 ||e.crashlytics.com^
 ||fivecdm.com^
+||googleadservices.com^
 ||gvt2.com^
 ||i2ad.jp^
 ||ias.rakuten.co.jp^
