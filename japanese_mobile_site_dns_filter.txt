@@ -69,6 +69,7 @@
 ||prod-a.applovin.com^
 ||pubmatic.com^
 ||pw.gigazine.net^
+||quantserve.com^
 ||r.profilepassport.jp^
 ||referrer.disqus.com^
 ||res1.applovin.com^
