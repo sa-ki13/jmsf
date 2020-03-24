@@ -34,6 +34,7 @@
 ||cdn-f.adsmoloco.com^
 ||cdp.cloud.unity3d.com^
 ||collector.githubapp.com^
+||comcluster.cxense.com^
 ||config.uca.cloud.unity3d.com^
 ||crashlytics.com^
 ||d.applvn.com^
