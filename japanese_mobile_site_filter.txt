@@ -204,6 +204,7 @@ _120x60.
 ||s.yimg.jp/images/login/sp/js/login_promo/1.1.8/login_promo-min.js
 ||s.yjtag.jp/tag.js
 ||sail-horizon.com^$third-party
+||sascdn.com^$third-party
 ||scorecardresearch.com^
 ||sch.line.me^
 ||settings.crashlytics.com^
