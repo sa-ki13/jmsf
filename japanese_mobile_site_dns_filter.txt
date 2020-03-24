@@ -7,6 +7,7 @@
 
 ||2o7.net^
 ||a.quora.com^
+||ad.adpon.jp^
 ||ad.doubleclick.net^
 ||ad.jp.ap.valuecommerce.com^
 ||ade.googlesyndication.com^
