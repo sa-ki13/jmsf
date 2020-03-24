@@ -51,6 +51,7 @@
 ||i2ad.jp^
 ||ias.rakuten.co.jp^
 ||imasdk.googleapis.com^
+||instant.page^
 ||js.rtoaster.jp^
 ||js-agent.newrelic.com^
 ||juicer.cc^
