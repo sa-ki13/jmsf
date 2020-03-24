@@ -68,6 +68,7 @@
 ||prod-a.applovin.com^
 ||pubmatic.com^
 ||pw.gigazine.net^
+||r.profilepassport.jp^
 ||referrer.disqus.com^
 ||res1.applovin.com^
 ||rs.adapf.com^
