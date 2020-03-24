@@ -237,6 +237,7 @@ _120x60.
 ||yahoo.co.jp/b?
 ||ybx.yahoo.co.jp^
 ||yimg.com/wi/ytc.js
+||yjtag.jp^
 ||yimg.jp/bdv/
 ||yjtag.yahoo.co.jp^
 ||youtube.com/api/stats/qoe?
