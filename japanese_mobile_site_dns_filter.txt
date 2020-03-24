@@ -20,6 +20,7 @@
 ||advg.jp^
 ||amazon-adsystem.com^
 ||api.amplitude.com^
+||api.cxense.com^
 ||api-analytics.metaps.com^
 ||api-analytics-bootstrap.metaps.com^
 ||app-measurement.com^
