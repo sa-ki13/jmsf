@@ -55,7 +55,7 @@ _120x60.
 ||ad.linksynergy.com^$third-party
 ||ade.googlesyndication.com^
 ||adguard.com^*^aid=$redirect=nooptext
-||adingo.jp^$third-party
+||adingo.jp^
 ||adjust.com^
 ||adm.shinobi.jp^$third-party
 ||ads.mopub.com^
