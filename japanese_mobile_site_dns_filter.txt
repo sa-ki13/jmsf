@@ -70,6 +70,7 @@
 ||rs.adapf.com^
 ||rt.applovin.com^
 ||rubiconproject.com^
+||s-adserver.cxad.cxense.com^
 ||scorecardresearch.com^
 ||sch.line.me^
 ||settings.crashlytics.com^
