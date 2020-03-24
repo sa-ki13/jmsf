@@ -10,6 +10,7 @@
 ||ad.doubleclick.net^
 ||ad.jp.ap.valuecommerce.com^
 ||ade.googlesyndication.com^
+||adingo.jp^
 ||adjust.com^
 ||ads.mopub.com^
 ||adsafeprotected.com^
