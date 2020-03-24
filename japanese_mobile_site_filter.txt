@@ -63,6 +63,7 @@ _120x60.
 ||ads-twitter.com^$third-party
 ||advg.jp^
 ||alcmpn.com^$third-party
+||alexametrics.com^
 ||amazon-adsystem.com^
 ||amazonaws.com/*/trackpush.min.js
 ||amplify.outbrain.com/cp/obtp.js
