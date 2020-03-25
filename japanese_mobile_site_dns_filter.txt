@@ -9,7 +9,7 @@
 @@||aid.send.microad.jp^|
 @@||atrrd.valuecommerce.com^|
 @@||cdn.d2-apps.net^|
-@@||cdn.treasuredata.com^||
+@@||cdn.treasuredata.com^|
 @@||ck.jp.ap.valuecommerce.com^
 @@||cm.g.doubleclick.net^|
 @@||d-cache.microad.jp^|
