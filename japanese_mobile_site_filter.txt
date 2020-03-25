@@ -225,6 +225,7 @@ _120x60.
 ||sascdn.com^$third-party
 ||sch.line.me^
 ||scorecardresearch.com^
+||s-cs.send.microad.jp^
 ||settings.crashlytics.com^
 ||sgbid.prod.sift.co^
 ||sift-campaign-creatives.sift.co^
