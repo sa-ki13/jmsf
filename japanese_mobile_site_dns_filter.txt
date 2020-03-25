@@ -87,6 +87,7 @@
 ||js-agent.newrelic.com^
 ||juicer.cc^
 ||kochava.com^
+||l.sharethis.com^
 ||ladsp.com^
 ||liftoff.io^
 ||litix.io^
