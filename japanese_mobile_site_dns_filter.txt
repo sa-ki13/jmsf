@@ -50,6 +50,7 @@
 ||applovin.com^
 ||app-measurement.com^
 ||appsflyer.com^
+||az416426.vo.msecnd.net^
 ||bat.bing.com^
 ||c1.adform.net^
 ||cd.ladsp.com^
