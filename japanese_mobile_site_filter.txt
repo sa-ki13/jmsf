@@ -249,6 +249,7 @@ _120x60.
 ||ssl.google-analytics.com^
 ||stack-sonar.com^$third-party
 ||static.ads-twitter.com^
+||static.doubleclick.net^
 ||stats.g.doubleclick.net^
 ||syndication.exoclick.com^$document
 ||t.appsflyer.com^
