@@ -13,6 +13,7 @@
 .jp/affiliate/
 .net/ads.
 .openx.
+&bannerid=
 /ad_loader.
 /ad2.
 /ad3.
