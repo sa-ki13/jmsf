@@ -26,6 +26,7 @@
 @@||www.google-analytics.com^
 ||2o7.net^
 ||a.quora.com^
+||adcdn.goo.ne.jp^
 ||a-cast.jp^
 ||ad.adpon.jp^
 ||ad.doubleclick.net^
