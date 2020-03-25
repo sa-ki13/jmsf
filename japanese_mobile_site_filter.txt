@@ -1,9 +1,9 @@
 ! Title: AdGuard Japanese Mobile Site Filter FA-FA(仮)
-! Version: 2020-03-24
-! Last modified: 24 Mar 2020 22:41 JST
+! Version: 2020-03-25
+! Last modified: 25 Mar 2020 12:37 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
-! Last updated: 2020-03-24
+! Last updated: 2020-03-25
 
 .adnwif.
 .com/ads/$image,object,subdocument
@@ -47,6 +47,20 @@
 /settings/lite2/ads.js|
 /yads-
 /yads.
+@@||aid.send.microad.jp^$document
+@@||cdn.treasuredata.com^$document
+@@||cm.g.doubleclick.net^$document
+@@||d-cache.microad.jp^$document
+@@||doga.cm^$document
+@@||frtn.socdm.com^$document
+@@||in.treasuredata.com^$document
+@@||penta.a.one.impact-ad.jp^$document
+@@||recruit.d1.sc.omtrdc.net^$document
+@@||s9.r-ad.ne.jp^$document
+@@||sync.im-apps.net^$document
+@@||tg.socdm.com^$document
+@@||www.google-analytics.com^$document
+@@|https://www.googletagmanager.com/gtm.js?id=GTM-5W8NGB8
 _120_60.
 _120x60.
 ||2o7.net^
@@ -206,8 +220,8 @@ _120x60.
 ||s.yjtag.jp/tag.js
 ||sail-horizon.com^$third-party
 ||sascdn.com^$third-party
-||scorecardresearch.com^
 ||sch.line.me^
+||scorecardresearch.com^
 ||settings.crashlytics.com^
 ||sgbid.prod.sift.co^
 ||sift-campaign-creatives.sift.co^
@@ -244,8 +258,9 @@ _120x60.
 ||yahoo.co.jp/b?
 ||ybx.yahoo.co.jp^
 ||yimg.com/wi/ytc.js
-||yjtag.jp^
 ||yimg.jp/bdv/
+||yjtag.jp^
 ||yjtag.yahoo.co.jp^
 ||youtube.com/api/stats/qoe?
 ||youtube.com/ptracking?
+
