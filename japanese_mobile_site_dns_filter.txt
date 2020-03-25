@@ -14,6 +14,7 @@
 @@||cm.g.doubleclick.net^|
 @@||d-cache.microad.jp^|
 @@||doga.cm^|
+@@||dr.r-ad.ne.jp^|
 @@||fonts.gstatic.com^|
 @@||frtn.socdm.com^|
 @@||in.treasuredata.com^|
