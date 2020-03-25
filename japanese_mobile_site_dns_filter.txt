@@ -72,6 +72,7 @@
 ||i2ad.jp^
 ||ias.rakuten.co.jp^
 ||imasdk.googleapis.com^
+||img.ak.impact-ad.jp^
 ||instant.page^
 ||js.rtoaster.jp^
 ||js-agent.newrelic.com^
