@@ -73,6 +73,7 @@
 ||e.crashlytics.com^
 ||fivecdm.com^
 ||fout.jp^
+||gsspat.jp^
 ||gvt2.com^
 ||i2ad.jp^
 ||ias.rakuten.co.jp^
