@@ -43,6 +43,7 @@
 ||ad-stir.com^
 ||advg.jp^
 ||alexametrics.com^
+||alxc.addlv.smt.docomo.ne.jp^
 ||amazon-adsystem.com^
 ||api.amplitude.com^
 ||api.cxense.com^
