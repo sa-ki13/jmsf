@@ -117,6 +117,7 @@
 ||quantserve.com^
 ||r.profilepassport.jp^
 ||rakutenrpointcard.sc.omtrdc.net^
+||rec1.smt.docomo.ne.jp^
 ||referrer.disqus.com^
 ||res1.applovin.com^
 ||rs.adapf.com^
