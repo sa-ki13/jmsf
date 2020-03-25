@@ -1,29 +1,29 @@
 ! Title: AdGuard Japanese Mobile Site DNS Filter FA-FA(仮)
 ! Version: 2020-03-25
-! Last modified: 24 Mar 2020 14:50 JST
+! Last modified: 24 Mar 2020 16:00 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-03-25
 
-@@||ads280dummy.com^
-@@||aid.send.microad.jp^
-@@||atrrd.valuecommerce.com^
-@@||cdn.d2-apps.net^
-@@||cdn.treasuredata.com^
+@@||ads280dummy.com^|
+@@||aid.send.microad.jp^|
+@@||atrrd.valuecommerce.com^|
+@@||cdn.d2-apps.net^|
+@@||cdn.treasuredata.com^||
 @@||ck.jp.ap.valuecommerce.com^
-@@||cm.g.doubleclick.net^
-@@||d-cache.microad.jp^
-@@||doga.cm^
-@@||fonts.gstatic.com^
-@@||frtn.socdm.com^
-@@||in.treasuredata.com^
-@@||pp.d2-apps.net^
-@@||recruit.d1.sc.omtrdc.net^
-@@||s9.r-ad.ne.jp^
-@@||sync.im-apps.net^
-@@||tg.socdm.com^
-@@||vcentry3.valuecommerce.ne.jp^
-@@||www.google-analytics.com^
+@@||cm.g.doubleclick.net^|
+@@||d-cache.microad.jp^|
+@@||doga.cm^|
+@@||fonts.gstatic.com^|
+@@||frtn.socdm.com^|
+@@||in.treasuredata.com^|
+@@||pp.d2-apps.net^|
+@@||recruit.d1.sc.omtrdc.net^|
+@@||s9.r-ad.ne.jp^|
+@@||sync.im-apps.net^|
+@@||tg.socdm.com^|
+@@||vcentry3.valuecommerce.ne.jp^|
+@@||www.google-analytics.com^|
 ||2o7.net^
 ||a.quora.com^
 ||adcdn.goo.ne.jp^
