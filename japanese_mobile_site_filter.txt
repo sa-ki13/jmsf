@@ -158,6 +158,7 @@ _120x60.
 ||i2ad.jp^
 ||ias.rakuten.co.jp^
 ||imasdk.googleapis.com^
+||img.ak.impact-ad.jp^
 ||insightexpressai.com^$third-party
 ||instant.page^
 ||io.narrative.io/?$third-party
