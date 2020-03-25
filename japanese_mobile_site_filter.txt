@@ -132,6 +132,7 @@ _120x60.
 ||d.applvn.com^
 ||d.line-scdn.net/*/torimochi.js/*/torimochi.js
 ||d.line-scdn.net^$third-party
+||d.socdm.com^
 ||d1jh13j6azkbbi.cloudfront.net^
 ||d2-apps.net/*/impressions/log
 ||dc-storm.com^$third-party
