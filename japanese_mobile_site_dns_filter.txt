@@ -42,6 +42,7 @@
 ||adservice.google.com^
 ||ad-stir.com^
 ||advg.jp^
+||adw.addlv.smt.docomo.ne.jp^
 ||alexametrics.com^
 ||alxc.addlv.smt.docomo.ne.jp^
 ||amazon-adsystem.com^
