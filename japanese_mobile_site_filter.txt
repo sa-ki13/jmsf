@@ -124,6 +124,7 @@ _120x60.
 ||connect.facebook.net/ja_JP/sdk.js
 ||consensu.org^$third-party
 ||contentabc.com^$third-party
+||c-rings.net^
 ||crsspxl.com^$third-party
 ||cxense.com^$third-party
 ||d.applvn.com^
