@@ -146,6 +146,7 @@
 ||t.appsflyer.com^
 ||t.karte.io^
 ||tags.bluekai.com^
+||tags.tiqcdn.com^
 ||teads.tv^
 ||torimochi.line-apps.com^
 ||tpc.googlesyndication.com^
