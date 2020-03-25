@@ -46,6 +46,7 @@
 ||amazon-adsystem.com^
 ||api.amplitude.com^
 ||api.cxense.com^
+||api.webpush.jp^
 ||api-analytics.metaps.com^
 ||api-analytics-bootstrap.metaps.com^
 ||applovin.com^
