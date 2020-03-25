@@ -176,6 +176,7 @@ _120x60.
 ||live.rezync.com^
 ||logql.yahoo.co.jp^
 ||m.youtube.com/csi_204?
+||maxymiser.net^
 ||media.line.me/js/line-button.js^$third-party
 ||mediad2.jp^$third-party
 ||metric.gstatic.com^
