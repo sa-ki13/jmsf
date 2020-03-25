@@ -96,6 +96,7 @@ _120x60.
 ||app.link/_r?sdk=*&callback=branch_callback
 ||applovin.com^
 ||appsflyer.com^
+||az416426.vo.msecnd.net^
 ||b*.yahoo.co.jp/b?
 ||b.st-hatena.com/js/bookmark_button.js
 ||b92.yahoo.co.jp/js/s_retargeting.js
