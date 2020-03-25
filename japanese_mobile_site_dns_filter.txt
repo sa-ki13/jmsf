@@ -142,6 +142,7 @@
 ||tr-asia.adsmoloco.com^
 ||tracer.jp^
 ||v.shopify.com^
+||webtracker.jp^
 ||ybx.yahoo.co.jp^
 ||yjtag.jp^
 ||yjtag.yahoo.co.jp^
