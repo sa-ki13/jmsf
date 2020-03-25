@@ -91,6 +91,7 @@
 ||ms.applvn.com^
 ||nend.net^
 ||nex8.net^
+||openx.net^
 ||outbrain.com^
 ||pipedream.wistia.com^
 ||pixel.wp.com^
