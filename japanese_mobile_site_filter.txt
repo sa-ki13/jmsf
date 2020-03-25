@@ -250,7 +250,7 @@ _120x60.
 ||tpc.googlesyndication.com^
 ||tr-asia.adsmoloco.com^
 ||twitter.com/i/jot
-||valuecommerce.com^$third-party
+||valuecommerce.com^
 ||veinteractive.com^$third-party
 ||widget.pushbullet.com^$third-party
 ||widgets.getpocket.com^$third-party
