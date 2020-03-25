@@ -110,6 +110,7 @@
 ||nex8.net^
 ||openx.net^
 ||outbrain.com^
+||petametrics.com^
 ||pipedream.wistia.com^
 ||pixel.tapad.com^
 ||pixel.wp.com^
