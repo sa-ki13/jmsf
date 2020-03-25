@@ -136,6 +136,7 @@
 ||tpc.googlesyndication.com^
 ||tr-asia.adsmoloco.com^
 ||tracer.jp^
+||v.shopify.com^
 ||ybx.yahoo.co.jp^
 ||yjtag.jp^
 ||yjtag.yahoo.co.jp^
