@@ -231,6 +231,7 @@ _120x60.
 ||sift-campaign-creatives.sift.co^
 ||siftscience.com^$third-party
 ||singular.net^
+||smbc.sc.omtrdc.net^
 ||smhn.info/wp-content/themes/confidence/images/linebutton_36x60.png$image
 ||smhn.info/wp-content/themes/confidence/images/strip.png$image
 ||smpop.icfcdn.com^
