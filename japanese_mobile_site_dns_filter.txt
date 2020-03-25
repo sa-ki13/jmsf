@@ -26,6 +26,7 @@
 @@||www.google-analytics.com^
 ||2o7.net^
 ||a.quora.com^
+||a-cast.jp^
 ||ad.adpon.jp^
 ||ad.doubleclick.net^
 ||ad.jp.ap.valuecommerce.com^
