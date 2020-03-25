@@ -59,6 +59,7 @@
 ||comcluster.cxense.com^
 ||config.uca.cloud.unity3d.com^
 ||crashlytics.com^
+||c-rings.net^
 ||d.applvn.com^
 ||d1jh13j6azkbbi.cloudfront.net^
 ||demdex.net^
