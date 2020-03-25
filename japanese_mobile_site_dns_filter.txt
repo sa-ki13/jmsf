@@ -132,6 +132,7 @@
 ||sp.gmossp-sp.jp^
 ||ssl.google-analytics.com^
 ||static.ads-twitter.com^
+||static.doubleclick.net^
 ||stats.g.doubleclick.net^
 ||t.appsflyer.com^
 ||t.karte.io^
