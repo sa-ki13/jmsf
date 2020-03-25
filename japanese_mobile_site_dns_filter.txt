@@ -1,16 +1,34 @@
 ! Title: AdGuard Japanese Mobile Site DNS Filter FA-FA(仮)
 ! Version: 2020-03-25
-! Last modified: 24 Mar 2020 09:51 JST
+! Last modified: 24 Mar 2020 12:28 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-03-25
 
+@@||ads280dummy.com^
+@@||aid.send.microad.jp^
+@@||atrrd.valuecommerce.com^
+@@||cdn.d2-apps.net^
+@@||cdn.treasuredata.com^
+@@||ck.jp.ap.valuecommerce.com^
+@@||cm.g.doubleclick.net^
+@@||d-cache.microad.jp^
+@@||doga.cm^
+@@||fonts.gstatic.com^
+@@||frtn.socdm.com^
+@@||in.treasuredata.com^
+@@||pp.d2-apps.net^
+@@||recruit.d1.sc.omtrdc.net^
+@@||s9.r-ad.ne.jp^
+@@||sync.im-apps.net^
+@@||tg.socdm.com^
+@@||vcentry3.valuecommerce.ne.jp^
+@@||www.google-analytics.com^
 ||2o7.net^
 ||a.quora.com^
 ||ad.adpon.jp^
 ||ad.doubleclick.net^
 ||ad.jp.ap.valuecommerce.com^
-||ad-stir.com^
 ||ade.googlesyndication.com^
 ||adingo.jp^
 ||adjust.com^
@@ -18,6 +36,7 @@
 ||ads.mopub.com^
 ||adsafeprotected.com^
 ||adservice.google.com^
+||ad-stir.com^
 ||advg.jp^
 ||alexametrics.com^
 ||amazon-adsystem.com^
@@ -25,8 +44,8 @@
 ||api.cxense.com^
 ||api-analytics.metaps.com^
 ||api-analytics-bootstrap.metaps.com^
-||app-measurement.com^
 ||applovin.com^
+||app-measurement.com^
 ||appsflyer.com^
 ||bat.bing.com^
 ||c1.adform.net^
@@ -78,8 +97,8 @@
 ||rt.applovin.com^
 ||rubiconproject.com^
 ||s-adserver.cxad.cxense.com^
-||scorecardresearch.com^
 ||sch.line.me^
+||scorecardresearch.com^
 ||settings.crashlytics.com^
 ||sgbid.prod.sift.co^
 ||sift-campaign-creatives.sift.co^
