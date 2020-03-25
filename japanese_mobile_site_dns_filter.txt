@@ -83,6 +83,7 @@
 ||litix.io^
 ||live.rezync.com^
 ||logql.yahoo.co.jp^
+||maxymiser.net^
 ||metric.gstatic.com^
 ||ms.applvn.com^
 ||nend.net^
