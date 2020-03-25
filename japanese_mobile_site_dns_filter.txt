@@ -96,6 +96,7 @@
 ||openx.net^
 ||outbrain.com^
 ||pipedream.wistia.com^
+||pixel.tapad.com^
 ||pixel.wp.com^
 ||prod-a.applovin.com^
 ||pubmatic.com^
