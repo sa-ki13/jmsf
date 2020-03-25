@@ -66,6 +66,7 @@
 ||crashlytics.com^
 ||c-rings.net^
 ||d.applvn.com^
+||d.socdm.com^
 ||d1jh13j6azkbbi.cloudfront.net^
 ||demdex.net^
 ||deqwas.net^
