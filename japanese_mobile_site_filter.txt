@@ -260,6 +260,7 @@ _120x60.
 ||t.co/i/adsct?
 ||t.karte.io^
 ||tags.bluekai.com^
+||tags.tiqcdn.com^
 ||teacup.com/cgi-bin/Count.cgi^
 ||teads.tv^
 ||textuploader.com/assets/img/patterns/bg*.png$image
