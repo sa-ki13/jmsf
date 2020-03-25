@@ -58,6 +58,7 @@
 ||cdn.onesignal.com^
 ||cdn-f.adsmoloco.com^
 ||cdp.cloud.unity3d.com^
+||cinarra.com^
 ||collect.igodigital.com^
 ||collector.githubapp.com^
 ||comcluster.cxense.com^
