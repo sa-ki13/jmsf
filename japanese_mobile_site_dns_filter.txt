@@ -137,6 +137,7 @@
 ||singular.net^
 ||smbc.sc.omtrdc.net^
 ||smpop.icfcdn.com^
+||sonymarketingjp.sc.omtrdc.net^
 ||sp.gmossp-sp.jp^
 ||ssl.google-analytics.com^
 ||static.ads-twitter.com^
