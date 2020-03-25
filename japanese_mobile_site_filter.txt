@@ -247,6 +247,7 @@ _120x60.
 ||social-plugins.line.me/widget^$third-party
 ||sociorocketnews.files.wordpress.com/*&crop=1$image
 ||s-onetag.com^$third-party
+||sonymarketingjp.sc.omtrdc.net^
 ||sp.gmossp-sp.jp^
 ||ssl.google-analytics.com^
 ||stack-sonar.com^$third-party
