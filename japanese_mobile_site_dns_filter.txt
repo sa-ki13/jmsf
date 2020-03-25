@@ -110,6 +110,7 @@
 ||s-adserver.cxad.cxense.com^
 ||sch.line.me^
 ||scorecardresearch.com^
+||s-cs.send.microad.jp^
 ||settings.crashlytics.com^
 ||sgbid.prod.sift.co^
 ||sift-campaign-creatives.sift.co^
