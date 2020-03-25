@@ -109,6 +109,7 @@
 ||sgbid.prod.sift.co^
 ||sift-campaign-creatives.sift.co^
 ||singular.net^
+||smbc.sc.omtrdc.net^
 ||smpop.icfcdn.com^
 ||sp.gmossp-sp.jp^
 ||ssl.google-analytics.com^
