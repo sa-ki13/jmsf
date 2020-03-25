@@ -95,6 +95,7 @@
 ||pw.gigazine.net^
 ||quantserve.com^
 ||r.profilepassport.jp^
+||rakutenrpointcard.sc.omtrdc.net^
 ||referrer.disqus.com^
 ||res1.applovin.com^
 ||rs.adapf.com^
