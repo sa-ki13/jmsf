@@ -138,6 +138,7 @@ _120x60.
 ||ds-aksb-a.akamaihd.net^
 ||durasite.net^$third-party
 ||e.crashlytics.com^
+||ebis.ne.jp^
 ||etahub.com^$third-party
 ||experience.tinypass.com/xbuilder/experience/execute?aid=
 ||facebook.com/plugins/
