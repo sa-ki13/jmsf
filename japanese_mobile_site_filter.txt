@@ -208,6 +208,7 @@ _120x60.
 ||pubmatic.com^
 ||pw.gigazine.net^
 ||quantcount.com^$third-party
+||rakutenrpointcard.sc.omtrdc.net^
 ||referrer.disqus.com^
 ||res1.applovin.com^
 ||reutersmedia.net/*/js/analytics/win-GTM.js
