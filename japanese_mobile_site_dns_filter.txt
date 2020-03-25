@@ -109,6 +109,7 @@
 ||singular.net^
 ||smpop.icfcdn.com^
 ||sp.gmossp-sp.jp^
+||ssl.google-analytics.com^
 ||static.ads-twitter.com^
 ||stats.g.doubleclick.net^
 ||t.appsflyer.com^
