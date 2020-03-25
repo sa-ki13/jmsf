@@ -81,6 +81,7 @@
 ||ias.rakuten.co.jp^
 ||imasdk.googleapis.com^
 ||img.ak.impact-ad.jp^
+||img.macromill.com^
 ||instant.page^
 ||js.rtoaster.jp^
 ||js-agent.newrelic.com^
