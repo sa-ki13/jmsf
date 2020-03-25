@@ -67,6 +67,7 @@ _120_60.
 _120x60.
 ||2o7.net^
 ||a.quora.com^
+||adcdn.goo.ne.jp^
 ||ad.doubleclick.net^
 ||ad.jp.ap.valuecommerce.com^
 ||ad.linksynergy.com^$third-party
