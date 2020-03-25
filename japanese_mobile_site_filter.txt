@@ -175,6 +175,7 @@ _120x60.
 ||lightboxcdn.com^$third-party
 ||litix.io^
 ||live.rezync.com^
+||logly.co.jp^
 ||logql.yahoo.co.jp^
 ||m.youtube.com/csi_204?
 ||maxymiser.net^
