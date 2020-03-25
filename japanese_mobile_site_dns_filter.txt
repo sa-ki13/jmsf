@@ -35,6 +35,7 @@
 ||adjust.com^
 ||adjust-net.jp^
 ||adnwif.smt.docomo.ne.jp^
+||adnxs.com^
 ||ads.mopub.com^
 ||adsafeprotected.com^
 ||adservice.google.com^
