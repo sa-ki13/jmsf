@@ -88,6 +88,7 @@
 ||img.ak.impact-ad.jp^
 ||img.macromill.com^
 ||instant.page^
+||iogous.com^
 ||js.rtoaster.jp^
 ||js-agent.newrelic.com^
 ||juicer.cc^
