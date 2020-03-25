@@ -84,6 +84,7 @@
 ||metric.gstatic.com^
 ||ms.applvn.com^
 ||nend.net^
+||nex8.net^
 ||outbrain.com^
 ||pipedream.wistia.com^
 ||pixel.wp.com^
