@@ -36,6 +36,7 @@
 /fingerprint2.min.js^
 /front/ad/*
 /googima.js
+/googleads.
 /gpt.js$script
 /header-ad-
 /log_event?
