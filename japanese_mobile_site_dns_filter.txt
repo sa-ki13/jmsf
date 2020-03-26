@@ -1,32 +1,10 @@
 ! Title: AdGuard Japanese Mobile Site DNS Filter FA-FA(仮)
 ! Version: 2020-03-26
-! Last modified: 26 Mar 2020 13:44 JST
+! Last modified: 26 Mar 2020 22:15 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-03-26
 
-@@||ads280dummy.com^|
-@@||aid.send.microad.jp^|
-@@||atrrd.valuecommerce.com^|
-@@||cdn.d2-apps.net^|
-@@||cdn.treasuredata.com^|
-@@||ck.jp.ap.valuecommerce.com^|
-@@||cm.g.doubleclick.net^|
-@@||d-cache.microad.jp^|
-@@||doga.cm^|
-@@||dr.r-ad.ne.jp^|
-@@||fonts.gstatic.com^|
-@@||frtn.socdm.com^|
-@@||in.treasuredata.com^|
-@@||pp.d2-apps.net^|
-@@||qps.cint.com^|
-@@||recruit.d1.sc.omtrdc.net^|
-@@||s.cint.com^|
-@@||s9.r-ad.ne.jp^|
-@@||sync.im-apps.net^|
-@@||tg.socdm.com^|
-@@||vcentry3.valuecommerce.ne.jp^|
-@@||www.google-analytics.com^|
 ||2o7.net^
 ||a.quora.com^
 ||adcdn.goo.ne.jp^
@@ -85,7 +63,6 @@
 ||distillery.wistia.com^
 ||ds-aksb-a.akamaihd.net^
 ||e.crashlytics.com^
-||ebis.ne.jp^
 ||ec-concier.com^
 ||engine.mobileapptracking.com^
 ||fivecdm.com^
