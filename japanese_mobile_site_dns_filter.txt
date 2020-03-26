@@ -59,6 +59,7 @@
 ||appsflyer.com^
 ||az416426.vo.msecnd.net^
 ||bat.bing.com^
+||benessecorp.d1.sc.omtrdc.net^
 ||c1.adform.net^
 ||cd.ladsp.com^
 ||cdn.caprofitx.com^
