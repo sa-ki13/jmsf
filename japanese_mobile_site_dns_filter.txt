@@ -64,6 +64,7 @@
 ||cdn.caprofitx.com^
 ||cdn.gmossp-sp.jp^
 ||cdn.onesignal.com^
+||cdn.tt.omtrdc.net^
 ||cdn-f.adsmoloco.com^
 ||cdp.cloud.unity3d.com^
 ||cinarra.com^
