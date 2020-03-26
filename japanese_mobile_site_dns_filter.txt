@@ -136,6 +136,7 @@
 ||sch.line.me^
 ||scorecardresearch.com^
 ||s-cs.send.microad.jp^
+||serving-sys.com^
 ||settings.crashlytics.com^
 ||sgbid.prod.sift.co^
 ||sift-campaign-creatives.sift.co^
