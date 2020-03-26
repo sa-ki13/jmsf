@@ -178,7 +178,7 @@ _120x60.
 ||js.rtoaster.jp^
 ||js-agent.newrelic.com^
 ||juicer.cc^
-||jwpltx.com^$third-party
+||jwpltx.com^
 ||l.sharethis.com^
 ||licdn.com/li.lms-analytics/
 ||liftoff.io^
