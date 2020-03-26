@@ -100,6 +100,7 @@
 ||js.rtoaster.jp^
 ||js-agent.newrelic.com^
 ||juicer.cc^
+||jwpltx.com^
 ||kochava.com^
 ||l.sharethis.com^
 ||ladsp.com^
