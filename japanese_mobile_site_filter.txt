@@ -267,6 +267,7 @@ _120x60.
 ||teacup.com/cgi-bin/Count.cgi^
 ||teads.tv^
 ||textuploader.com/assets/img/patterns/bg*.png$image
+||tgknt.com^
 ||torimochi.line-apps.com^
 ||tpc.googlesyndication.com^
 ||tr-asia.adsmoloco.com^
