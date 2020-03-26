@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Site Filter FA-FA(仮)
 ! Version: 2020-03-26
-! Last modified: 26 Mar 2020 12:59 JST
+! Last modified: 26 Mar 2020 22:18 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-03-26
@@ -49,21 +49,6 @@
 /settings/lite2/ads.js|
 /yads-
 /yads.
-@@||aid.send.microad.jp^$document
-@@||cdn.treasuredata.com^$document
-@@||cm.g.doubleclick.net^$document
-@@||d-cache.microad.jp^$document
-@@||doga.cm^
-@@||frtn.socdm.com^$document
-@@||in.treasuredata.com^$document
-@@||penta.a.one.impact-ad.jp^$document
-@@||recruit.d1.sc.omtrdc.net^$document
-@@||s9.r-ad.ne.jp^$document
-@@||survey.popin.cc^$document
-@@||sync.im-apps.net^$document
-@@||tg.socdm.com^$document
-@@||www.google-analytics.com^$document
-@@|https://www.googletagmanager.com/gtm.js?id=GTM-5W8NGB8
 _120_60.
 _120x60.
 ||2o7.net^
@@ -290,4 +275,3 @@ _120x60.
 ||yjtag.yahoo.co.jp^
 ||youtube.com/api/stats/qoe?
 ||youtube.com/ptracking?
-
