@@ -118,6 +118,7 @@ _120x60.
 ||cdn.mainichi.jp/vol1/js/sp/share.js
 ||cdn.onesignal.com^
 ||cdn.segment.com/analytics.js
+||cdn.tt.omtrdc.net^
 ||cdn-f.adsmoloco.com^
 ||cdp.cloud.unity3d.com^
 ||cinarra.com^
