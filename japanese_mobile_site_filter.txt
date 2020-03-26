@@ -121,6 +121,7 @@ _120x60.
 ||cdn-f.adsmoloco.com^
 ||cdp.cloud.unity3d.com^
 ||cinarra.com^
+||cintnetworks.com^
 ||cloudfront.net/script.js$script,third-party
 ||collect.igodigital.com^
 ||collector.githubapp.com^
