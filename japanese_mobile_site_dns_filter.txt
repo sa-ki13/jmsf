@@ -154,6 +154,7 @@
 ||tags.bluekai.com^
 ||tags.tiqcdn.com^
 ||teads.tv^
+||tgknt.com^
 ||torimochi.line-apps.com^
 ||tpc.googlesyndication.com^
 ||tr-asia.adsmoloco.com^
