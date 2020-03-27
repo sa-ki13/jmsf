@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Site DNS Filter FA-FA(仮)
 ! Version: 2020-03-27
-! Last modified: 27 Mar 2020 22:50 JST
+! Last modified: 27 Mar 2020 23:04 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-03-27
@@ -8,32 +8,10 @@
 ||ade.googlesyndication.com^
 ||api.cxense.com^
 ||appsflyer.com^
-||c1.adform.net^
-||cd.ladsp.com^
-||cdn.caprofitx.com^
-||cdn.gmossp-sp.jp^
+||bat.bing.com^
 ||cdn.onesignal.com^
-||cdn.tt.omtrdc.net^
-||cdn-f.adsmoloco.com^
-||cdp.cloud.unity3d.com^
-||cinarra.com^
-||cintnetworks.com^
-||collect.igodigital.com^
-||collector.githubapp.com^
 ||comcluster.cxense.com^
-||config.uca.cloud.unity3d.com^
-||crashlytics.com^
-||c-rings.net^
-||d.applvn.com^
-||d.socdm.com^
 ||d1jh13j6azkbbi.cloudfront.net^
-||demdex.net^
-||deqwas.net^
-||distillery.wistia.com^
-||ds-aksb-a.akamaihd.net^
-||e.crashlytics.com^
-||ec-concier.com^
-||engine.mobileapptracking.com^
 ||fivecdm.com^
 ||fout.jp^
 ||gsspat.jp^
