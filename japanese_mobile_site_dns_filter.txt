@@ -1,44 +1,13 @@
 ! Title: AdGuard Japanese Mobile Site DNS Filter FA-FA(仮)
-! Version: 2020-03-26
-! Last modified: 26 Mar 2020 22:15 JST
+! Version: 2020-03-27
+! Last modified: 27 Mar 2020 22:50 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
-! Last updated: 2020-03-26
+! Last updated: 2020-03-27
 
-||2o7.net^
-||a.quora.com^
-||adcdn.goo.ne.jp^
-||a-cast.jp^
-||ad.adpon.jp^
-||ad.doubleclick.net^
-||ad.jp.ap.valuecommerce.com^
 ||ade.googlesyndication.com^
-||adingo.jp^
-||adjust.com^
-||adjust-net.jp^
-||adnwif.smt.docomo.ne.jp^
-||adnxs.com^
-||ads.mopub.com^
-||adsafeprotected.com^
-||adservice.google.com^
-||ad-stir.com^
-||advg.jp^
-||adw.addlv.smt.docomo.ne.jp^
-||alexametrics.com^
-||alxc.addlv.smt.docomo.ne.jp^
-||amazon-adsystem.com^
-||api.amplitude.com^
 ||api.cxense.com^
-||api.webpush.jp^
-||api-analytics.metaps.com^
-||api-analytics-bootstrap.metaps.com^
-||applovin.com^
-||app-measurement.com^
 ||appsflyer.com^
-||az416426.vo.msecnd.net^
-||bat.bing.com^
-||benessecorp.d1.sc.omtrdc.net^
-||benessecorp.tt.omtrdc.net^
 ||c1.adform.net^
 ||cd.ladsp.com^
 ||cdn.caprofitx.com^
