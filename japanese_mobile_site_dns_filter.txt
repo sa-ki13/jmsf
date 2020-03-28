@@ -5,6 +5,7 @@
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-03-28
 
+||ameba.jp^
 ||appsflyer.com^
 ||baidu.com^
 ||bat.bing.com^
