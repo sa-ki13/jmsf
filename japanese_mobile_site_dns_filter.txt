@@ -10,6 +10,7 @@
 ||ads.logsoku.com^
 ||adtechus.com^
 ||appsflyer.com^
+||b10.nakanohito.jp^
 ||baidu.com^
 ||bat.bing.com^
 ||cdn.onesignal.com^
