@@ -6,6 +6,7 @@
 ! Last updated: 2020-03-28
 
 ||adfox.ru^
+||ads.logsoku.com^
 ||appsflyer.com^
 ||baidu.com^
 ||bat.bing.com^
