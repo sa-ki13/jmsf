@@ -28,4 +28,5 @@
 ||scorecardresearch.com^
 ||sift.co^
 ||tags.tiqcdn.com^
+||tudura.com^
 ||yjtag.yahoo.co.jp^
