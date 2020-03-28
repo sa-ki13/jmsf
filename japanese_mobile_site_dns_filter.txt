@@ -1,33 +1,20 @@
 ! Title: AdGuard Japanese Mobile Site DNS Filter FA-FA(仮)
 ! Version: 2020-03-28
-! Last modified: 28 Mar 2020 12:06 JST
+! Last modified: 28 Mar 2020 13:24 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-03-28
 
-||addthis.com^
-||adfox.ru^
-||ads.logsoku.com^
-||adtechus.com^
-||ad-wisteria.excite.co.jp^
-||afi-b.com^
+||a.line.me^
 ||appsflyer.com^
-||b10.nakanohito.jp^
+||autolinkmaker.itunes.apple.com^
 ||baidu.com^
-||bat.bing.com^
-||cdn.onesignal.com^
-||counter1.fc2.com^
-||counter1-cdn.fc2.com^
-||cxense.com^
+||d.line-scdn.net^
+||duapps.com^
 ||estrongs.com^
-||flipdesk.jp^
-||gejigeji.jp^
-||googlesyndication.com^
+||graph.facebook.com^
 ||juicer.cc^
-||litix.io^
+||obs.line-scdn.net^
+||sc-analytics.jp^
 ||sch.line.me^
-||scorecardresearch.com^
-||sift.co^
-||tags.tiqcdn.com^
-||tudura.com^
-||yjtag.yahoo.co.jp^
+||scdn.line-apps.com^
