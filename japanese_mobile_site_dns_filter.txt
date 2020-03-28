@@ -10,14 +10,10 @@
 ||appsflyer.com^
 ||bat.bing.com^
 ||cdn.onesignal.com^
-||d1jh13j6azkbbi.cloudfront.net^
-||img.ak.impact-ad.jp^
-||js.rtoaster.jp^
 ||juicer.cc^
 ||litix.io^
 ||sch.line.me^
 ||scorecardresearch.com^
-||sgbid.prod.sift.co^
-||sift-campaign-creatives.sift.co^
+||sift.co^
 ||tags.tiqcdn.com^
 ||yjtag.yahoo.co.jp^
