@@ -9,6 +9,7 @@
 ||adfox.ru^
 ||ads.logsoku.com^
 ||adtechus.com^
+||afi-b.com^
 ||appsflyer.com^
 ||b10.nakanohito.jp^
 ||baidu.com^
