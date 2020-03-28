@@ -1,11 +1,12 @@
 ! Title: AdGuard Japanese Mobile Site DNS Filter FA-FA(仮)
 ! Version: 2020-03-28
-! Last modified: 28 Mar 2020 11:11 JST
+! Last modified: 28 Mar 2020 11:13 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-03-28
 
 ||appsflyer.com^
+||atlas-endpoint.data.n8s.jp^
 ||baidu.com^
 ||bat.bing.com^
 ||cdn.onesignal.com^
