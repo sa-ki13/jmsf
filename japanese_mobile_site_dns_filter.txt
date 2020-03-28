@@ -1,20 +1,15 @@
 ! Title: AdGuard Japanese Mobile Site DNS Filter FA-FA(仮)
 ! Version: 2020-03-28
-! Last modified: 28 Mar 2020 13:24 JST
+! Last modified: 28 Mar 2020 14:21 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-03-28
 
-||a.line.me^
 ||appsflyer.com^
 ||autolinkmaker.itunes.apple.com^
 ||baidu.com^
-||d.line-scdn.net^
 ||duapps.com^
 ||estrongs.com^
-||graph.facebook.com^
 ||juicer.cc^
-||obs.line-scdn.net^
 ||sc-analytics.jp^
 ||sch.line.me^
-||scdn.line-apps.com^
