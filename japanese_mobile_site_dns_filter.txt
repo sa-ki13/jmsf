@@ -5,13 +5,13 @@
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-03-28
 
-||googlesyndication.com^
-||cxense.com^
 ||appsflyer.com^
 ||baidu.com^
 ||bat.bing.com^
 ||cdn.onesignal.com^
+||cxense.com^
 ||estrongs.com^
+||googlesyndication.com^
 ||juicer.cc^
 ||litix.io^
 ||sch.line.me^
