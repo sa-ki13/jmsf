@@ -5,12 +5,11 @@
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-03-28
 
-||ade.googlesyndication.com^
-||api.cxense.com^
+||googlesyndication.com^
+||cxense.com^
 ||appsflyer.com^
 ||bat.bing.com^
 ||cdn.onesignal.com^
-||comcluster.cxense.com^
 ||d1jh13j6azkbbi.cloudfront.net^
 ||img.ak.impact-ad.jp^
 ||js.rtoaster.jp^
