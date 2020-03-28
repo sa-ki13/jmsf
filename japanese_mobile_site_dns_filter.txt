@@ -6,7 +6,6 @@
 ! Last updated: 2020-03-28
 
 ||appsflyer.com^
-||atlas-endpoint.data.n8s.jp^
 ||baidu.com^
 ||bat.bing.com^
 ||cdn.onesignal.com^
@@ -15,7 +14,6 @@
 ||googlesyndication.com^
 ||juicer.cc^
 ||litix.io^
-||sankei2ad.durasite.net^
 ||sch.line.me^
 ||scorecardresearch.com^
 ||sift.co^
