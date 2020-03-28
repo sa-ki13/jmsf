@@ -1,9 +1,9 @@
 ! Title: AdGuard Japanese Mobile Site DNS Filter FA-FA(仮)
-! Version: 2020-03-27
-! Last modified: 27 Mar 2020 23:04 JST
+! Version: 2020-03-28
+! Last modified: 28 Mar 2020 10:19 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
-! Last updated: 2020-03-27
+! Last updated: 2020-03-28
 
 ||ade.googlesyndication.com^
 ||api.cxense.com^
@@ -16,45 +16,9 @@
 ||js.rtoaster.jp^
 ||juicer.cc^
 ||litix.io^
-||quantserve.com^
-||r.profilepassport.jp^
-||rakutenrpointcard.sc.omtrdc.net^
-||rec1.smt.docomo.ne.jp^
-||recruitrikunabinext.tt.omtrdc.net^
-||referrer.disqus.com^
-||res1.applovin.com^
-||rs.adapf.com^
-||rt.applovin.com^
-||rubiconproject.com^
-||s-adserver.cxad.cxense.com^
 ||sch.line.me^
 ||scorecardresearch.com^
-||s-cs.send.microad.jp^
-||serving-sys.com^
-||settings.crashlytics.com^
 ||sgbid.prod.sift.co^
 ||sift-campaign-creatives.sift.co^
-||singular.net^
-||smbc.sc.omtrdc.net^
-||smpop.icfcdn.com^
-||sonymarketingjp.sc.omtrdc.net^
-||sp.gmossp-sp.jp^
-||ssl.google-analytics.com^
-||static.ads-twitter.com^
-||static.doubleclick.net^
-||stats.g.doubleclick.net^
-||t.appsflyer.com^
-||t.karte.io^
-||tags.bluekai.com^
 ||tags.tiqcdn.com^
-||teads.tv^
-||tgknt.com^
-||torimochi.line-apps.com^
-||tpc.googlesyndication.com^
-||tr-asia.adsmoloco.com^
-||tracer.jp^
-||v.shopify.com^
-||webtracker.jp^
-||ybx.yahoo.co.jp^
-||yjtag.jp^
 ||yjtag.yahoo.co.jp^
