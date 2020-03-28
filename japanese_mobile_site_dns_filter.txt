@@ -16,6 +16,7 @@
 ||baidu.com^
 ||bat.bing.com^
 ||cdn.onesignal.com^
+||counter1-cdn.fc2.com^
 ||cxense.com^
 ||estrongs.com^
 ||flipdesk.jp^
