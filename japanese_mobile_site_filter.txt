@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Site Filter FA-FA(仮)
 ! Version: 2020-03-30
-! Last modified: 30 Mar 2020 14:13 JST
+! Last modified: 30 Mar 2020 15:22 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-03-30
@@ -55,10 +55,8 @@ _120x60.
 ||a.quora.com^
 ||adcdn.goo.ne.jp^
 ||ad.doubleclick.net^
-||ad.jp.ap.valuecommerce.com^
 ||ad.linksynergy.com^$third-party
 ||ade.googlesyndication.com^
-||adguard.com^*^aid=$redirect=nooptext
 ||adingo.jp^
 ||adjust.com^
 ||adm.shinobi.jp^$third-party
@@ -79,7 +77,6 @@ _120x60.
 ||api.twitter.com/1.1/onboarding/referrer.json|$xmlhttprequest
 ||api-analytics.metaps.com^
 ||api-analytics-bootstrap.metaps.com^
-||app.adjust.com^$app
 ||app.link/_r?sdk=*&callback=branch_callback
 ||applovin.com^
 ||appsflyer.com^
@@ -122,7 +119,6 @@ _120x60.
 ||d.applvn.com^
 ||d.line-scdn.net/*/torimochi.js/*/torimochi.js
 ||d.line-scdn.net^$third-party
-||d.socdm.com^
 ||d1jh13j6azkbbi.cloudfront.net^
 ||d2-apps.net/*/impressions/log
 ||dc-storm.com^$third-party
@@ -228,14 +224,12 @@ _120x60.
 ||sift-campaign-creatives.sift.co^
 ||siftscience.com^$third-party
 ||singular.net^
-||smbc.sc.omtrdc.net^
 ||smhn.info/wp-content/themes/confidence/images/linebutton_36x60.png$image
 ||smhn.info/wp-content/themes/confidence/images/strip.png$image
 ||smpop.icfcdn.com^
 ||social-plugins.line.me/widget^$third-party
 ||sociorocketnews.files.wordpress.com/*&crop=1$image
 ||s-onetag.com^$third-party
-||sonymarketingjp.sc.omtrdc.net^
 ||sp.gmossp-sp.jp^
 ||ssl.google-analytics.com^
 ||stack-sonar.com^$third-party
@@ -243,7 +237,6 @@ _120x60.
 ||static.doubleclick.net^
 ||stats.g.doubleclick.net^
 ||syndication.exoclick.com^$document
-||t.appsflyer.com^
 ||t.blog.livedoor.jp/u.js
 ||t.co/i/adsct?
 ||t.karte.io^
