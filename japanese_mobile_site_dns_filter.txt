@@ -67,6 +67,7 @@
 ||engine.mobileapptracking.com^
 ||fivecdm.com^
 ||fout.jp^
+||ggm-contents.bangumi.org^
 ||gsspat.jp^
 ||gvt2.com^
 ||i2ad.jp^
