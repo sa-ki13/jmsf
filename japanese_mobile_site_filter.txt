@@ -1,9 +1,9 @@
 ! Title: AdGuard Japanese Mobile Site Filter FA-FA(仮)
-! Version: 2020-03-26
-! Last modified: 26 Mar 2020 22:18 JST
+! Version: 2020-03-30
+! Last modified: 30 Mar 2020 13:31 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
-! Last updated: 2020-03-26
+! Last updated: 2020-03-30
 
 .adnwif.
 .com/ads/$image,object,subdocument
@@ -89,8 +89,6 @@ _120x60.
 ||b92.yahoo.co.jp/js/s_retargeting.js
 ||b92.yahoo.co.jp/search^
 ||bat.bing.com^
-||benessecorp.d1.sc.omtrdc.net^
-||benessecorp.tt.omtrdc.net^
 ||blismedia.com^$third-party
 ||blog.seesaa.jp/oem_contents/popular_article_ads/jbbs.js
 ||bs.nakanohito.jp^$third-party
@@ -208,8 +206,6 @@ _120x60.
 ||pubmatic.com^
 ||pw.gigazine.net^
 ||quantcount.com^$third-party
-||rakutenrpointcard.sc.omtrdc.net^
-||recruitrikunabinext.tt.omtrdc.net^
 ||referrer.disqus.com^
 ||res1.applovin.com^
 ||reutersmedia.net/*/js/analytics/win-GTM.js
@@ -261,7 +257,6 @@ _120x60.
 ||tr-asia.adsmoloco.com^
 ||twitter.com/i/jot
 ||v.shopify.com^
-||valuecommerce.com^
 ||veinteractive.com^$third-party
 ||widget.pushbullet.com^$third-party
 ||widgets.getpocket.com^$third-party
