@@ -67,6 +67,7 @@
 ||fivecdm.com^
 ||fout.jp^
 ||ggm-contents.bangumi.org^
+||googleads.g.doubleclick.net^
 ||gsspat.jp^
 ||gvt2.com^
 ||i2ad.jp^
