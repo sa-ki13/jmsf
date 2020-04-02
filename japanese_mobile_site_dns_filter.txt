@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Site DNS Filter FA-FA(仮)
 ! Version: 2020-04-02
-! Last modified: 02 Apr 2020 22:49 JST
+! Last modified: 02 Apr 2020 22:51 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-04-02
@@ -38,8 +38,6 @@
 ||b92.yahoo.co.jp^
 ||b97.yahoo.co.jp^
 ||bat.bing.com^
-||benessecorp.d1.sc.omtrdc.net^
-||benessecorp.tt.omtrdc.net^
 ||c1.adform.net^
 ||cd.ladsp.com^
 ||cdn.caprofitx.com^
@@ -107,9 +105,7 @@
 ||pw.gigazine.net^
 ||quantserve.com^
 ||r.profilepassport.jp^
-||rakutenrpointcard.sc.omtrdc.net^
 ||rec1.smt.docomo.ne.jp^
-||recruitrikunabinext.tt.omtrdc.net^
 ||referrer.disqus.com^
 ||res1.applovin.com^
 ||rs.adapf.com^
@@ -125,9 +121,7 @@
 ||sgbid.prod.sift.co^
 ||sift-campaign-creatives.sift.co^
 ||singular.net^
-||smbc.sc.omtrdc.net^
 ||smpop.icfcdn.com^
-||sonymarketingjp.sc.omtrdc.net^
 ||sp.gmossp-sp.jp^
 ||ssl.google-analytics.com^
 ||static.ads-twitter.com^
