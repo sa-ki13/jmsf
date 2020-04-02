@@ -52,6 +52,7 @@
 _120_60.
 _120x60.
 ||2o7.net^
+||a.line.me^
 ||a.quora.com^
 ||adcdn.goo.ne.jp^
 ||ad.doubleclick.net^
