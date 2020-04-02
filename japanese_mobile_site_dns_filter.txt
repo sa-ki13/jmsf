@@ -34,7 +34,6 @@
 ||api-analytics-bootstrap.metaps.com^
 ||applovin.com^
 ||app-measurement.com^
-||appsflyer.com^
 ||az416426.vo.msecnd.net^
 ||b92.yahoo.co.jp^
 ||b97.yahoo.co.jp^
