@@ -6,6 +6,7 @@
 ! Last updated: 2020-04-02
 
 ||2o7.net^
+||a.line.me^
 ||a.quora.com^
 ||adcdn.goo.ne.jp^
 ||a-cast.jp^
