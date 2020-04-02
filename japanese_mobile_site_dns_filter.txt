@@ -1,9 +1,9 @@
 ! Title: AdGuard Japanese Mobile Site DNS Filter FA-FA(仮)
-! Version: 2020-04-01
-! Last modified: 01 Apr 2020 15:11 JST
+! Version: 2020-04-02
+! Last modified: 02 Apr 2020 09:53 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
-! Last updated: 2020-04-01
+! Last updated: 2020-04-02
 
 ||2o7.net^
 ||a.quora.com^
@@ -35,6 +35,8 @@
 ||app-measurement.com^
 ||appsflyer.com^
 ||az416426.vo.msecnd.net^
+||b92.yahoo.co.jp^
+||b97.yahoo.co.jp^
 ||bat.bing.com^
 ||benessecorp.d1.sc.omtrdc.net^
 ||benessecorp.tt.omtrdc.net^
