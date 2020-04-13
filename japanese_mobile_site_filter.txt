@@ -1,9 +1,9 @@
 ! Title: AdGuard Japanese Mobile Site Filter FA-FA(仮)
-! Version: 2020-04-10
-! Last modified: 10 Apr 2020 10:04 JST
+! Version: 2020-04-13
+! Last modified: 13 Apr 2020 18:20 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
-! Last updated: 2020-04-
+! Last updated: 2020-04-13
 
 .adnwif.
 .com/ads/$image,object,subdocument
@@ -27,6 +27,7 @@
 /advanced-ads-
 /advanced-ads/*
 /adw.
+/affiliation/*
 /amp-ad-
 /api.ad.
 /b/ss/*&aqe=
@@ -81,6 +82,7 @@ _120x60.
 ||api-analytics.metaps.com^
 ||api-analytics-bootstrap.metaps.com^
 ||api-js.mixpanel.com/track^
+||app.adjust.com^
 ||app.link/_r?sdk=*&callback=branch_callback
 ||applovin.com^
 ||appsflyer.com^
