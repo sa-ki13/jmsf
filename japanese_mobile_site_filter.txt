@@ -1,9 +1,9 @@
 ! Title: AdGuard Japanese Mobile Site Filter FA-FA(仮)
-! Version: 2020-04-17
-! Last modified: 17 Apr 2020 14:35 JST
+! Version: 2020-04-19
+! Last modified: 19 Apr 2020 00:31 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
-! Last updated: 2020-04-17
+! Last updated: 2020-04-19
 
 .adnwif.
 .com/ads/$image,object,subdocument
@@ -54,7 +54,6 @@
 /yads.
 _120_60.
 _120x60.
-||2o7.net^
 ||a.line.me^
 ||a.quora.com^
 ||adcdn.goo.ne.jp^
