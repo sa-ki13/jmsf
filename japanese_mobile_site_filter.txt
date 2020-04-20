@@ -269,4 +269,3 @@ _120x60.
 ||yjtag.jp^
 ||yjtag.yahoo.co.jp^
 ||youtube.com/api/stats/qoe?
-||yt3.ggpht.com^
