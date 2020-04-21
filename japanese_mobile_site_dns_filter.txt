@@ -1,9 +1,9 @@
 ! Title: AdGuard Japanese Mobile Site DNS Filter FA-FA(仮)
-! Version: 2020-04-20
-! Last modified: 20 Apr 2020 18:00 JST
+! Version: 2020-04-21
+! Last modified: 21 Apr 2020 14:54 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
-! Last updated: 2020-04-20
+! Last updated: 2020-04-21
 
 ||a.line.me^
 ||a.quora.com^
@@ -25,7 +25,6 @@
 ||adw.addlv.smt.docomo.ne.jp^
 ||alexametrics.com^
 ||alxc.addlv.smt.docomo.ne.jp^
-||amazon-adsystem.com^
 ||api.amplitude.com^
 ||api.cxense.com^
 ||api.webpush.jp^
