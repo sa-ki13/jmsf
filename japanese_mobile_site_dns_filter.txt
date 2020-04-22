@@ -71,7 +71,6 @@
 ||gvt2.com^
 ||i2ad.jp^
 ||ias.rakuten.co.jp^
-||im-apps.net^
 ||imasdk.googleapis.com^
 ||img.ak.impact-ad.jp^
 ||instant.page^
