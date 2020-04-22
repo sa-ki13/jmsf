@@ -254,7 +254,6 @@ _120x60.
 ||teads.tv^
 ||textuploader.com/assets/img/patterns/bg*.png$image
 ||tgknt.com^
-||torimochi.line-apps.com^
 ||tpc.googlesyndication.com^
 ||trafficjunky.com^$third-party
 ||tr-asia.adsmoloco.com^
