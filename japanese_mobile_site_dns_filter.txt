@@ -1,12 +1,13 @@
 ! Title: AdGuard Japanese Mobile Site DNS Filter FA-FA(仮)
 ! Version: 2020-04-23
-! Last modified: 23 Apr 2020 12:29 JST
+! Last modified: 23 Apr 2020 12:30 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-04-23
 
 ||a.line.me^
 ||a.quora.com^
+||aax.amazon-adsystem.com^
 ||adcdn.goo.ne.jp^
 ||a-cast.jp^
 ||ad.adpon.jp^
