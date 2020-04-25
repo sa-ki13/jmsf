@@ -1,9 +1,9 @@
 ! Title: AdGuard Japanese Mobile Site DNS Filter FA-FA(仮)
-! Version: 2020-04-24
-! Last modified: 24 Apr 2020 22:18 JST
+! Version: 2020-04-25
+! Last modified: 25 Apr 2020 15:21 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
-! Last updated: 2020-04-24
+! Last updated: 2020-04-25
 
 ||a.line.me^
 ||a.quora.com^
@@ -12,6 +12,7 @@
 ||ad.adpon.jp^
 ||ad.doubleclick.net^
 ||ade.googlesyndication.com^
+||ad-hatena.com^
 ||adingo.jp^
 ||ad-hatena.com^
 ||adjust-net.jp^
