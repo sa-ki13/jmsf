@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Site Filter FA-FA(仮)
 ! Version: 2020-04-25
-! Last modified: 25 Apr 2020 19:07 JST
+! Last modified: 25 Apr 2020 19:09 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-04-25
@@ -44,6 +44,7 @@
 /gpt.js$script
 /header-ad-
 /log_event?
+/pagead/js/*
 /pagead2.
 /piwik.js
 /prebid/*
