@@ -11,6 +11,7 @@
 .demdex.net/id^$redirect=nooptext,important
 .doublepimp.com^$third-party
 .jp/affiliate/
+.net/ad/$~xmlhttprequest
 .net/ads.
 .openx.
 &bannerid=
