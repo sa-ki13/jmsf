@@ -163,6 +163,7 @@
 ||tr-asia.adsmoloco.com^
 ||tracer.jp^
 ||v.shopify.com^
+||webtracker.jp^
 ||yads.c.yimg.jp^
 ||ybx.yahoo.co.jp^
 ||yjtag.jp^
