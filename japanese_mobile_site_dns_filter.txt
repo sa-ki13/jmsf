@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Site DNS Filter FA-FA(仮)
 ! Version: 2020-04-27
-! Last modified: 27 Apr 2020 13:18 JST
+! Last modified: 27 Apr 2020 10:03 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-04-27
@@ -55,7 +55,6 @@
 ||cdp.cloud.unity3d.com^
 ||cf.im-apps.net^
 ||cinarra.com^
-||cint.com^
 ||cintnetworks.com^
 ||collect.igodigital.com^
 ||collector.githubapp.com^
