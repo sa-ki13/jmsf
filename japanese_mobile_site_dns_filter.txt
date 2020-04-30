@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Site DNS Filter FA-FA(仮)
 ! Version: 2020-04-30
-! Last modified: 30 Apr 2020 15:08 JST
+! Last modified: 30 Apr 2020 16:45 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-04-30
@@ -40,6 +40,7 @@
 ||app-measurement.com^
 ||appsflyer.com^
 ||apvdr.com^
+||atdmt.com^
 ||aw.dw.impact-ad.jp^
 ||az416426.vo.msecnd.net^
 ||b92.yahoo.co.jp^
@@ -90,6 +91,7 @@
 ||i.socdm.com^
 ||i2ad.jp^
 ||img.ak.impact-ad.jp^
+||img.macromill.com^
 ||instant.page^
 ||iogous.com^
 ||j.microad.net^
@@ -173,6 +175,7 @@
 ||tgknt.com^
 ||tm.r-ad.ne.jp^
 ||tpc.googlesyndication.com^
+||tr.snapchat.com^
 ||tr-asia.adsmoloco.com^
 ||tracer.jp^
 ||v.shopify.com^
