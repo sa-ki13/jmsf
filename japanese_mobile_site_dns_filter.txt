@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Site DNS Filter FA-FA(仮)
 ! Version: 2020-04-30
-! Last modified: 30 Apr 2020 13:54 JST
+! Last modified: 30 Apr 2020 15:04 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-04-30
@@ -123,6 +123,7 @@
 ||pipedream.wistia.com^
 ||pixel.tapad.com^
 ||pixel.wp.com^
+||pokoran.com^
 ||prod-a.applovin.com^
 ||pubmatic.com^
 ||pw.gigazine.net^
