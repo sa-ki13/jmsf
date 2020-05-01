@@ -1,9 +1,9 @@
 ! Title: AdGuard Japanese Mobile Site DNS Filter FA-FA(仮)
-! Version: 2020-04-30
-! Last modified: 30 Apr 2020 16:55 JST
+! Version: 2020-05-01
+! Last modified: 01 May 2020 10:17 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
-! Last updated: 2020-04-30
+! Last updated: 2020-05-01
 
 ||a.cookpad-ads.com^
 ||a.line.me^
@@ -129,7 +129,6 @@
 ||pixel.tapad.com^
 ||pixel.wp.com^
 ||pokoran.com^
-||prod-a.applovin.com^
 ||pubmatic.com^
 ||pw.gigazine.net^
 ||quantserve.com^
@@ -139,9 +138,7 @@
 ||ranking.rakuten.co.jp^
 ||rec1.smt.docomo.ne.jp^
 ||referrer.disqus.com^
-||res1.applovin.com^
 ||rs.adapf.com^
-||rt.applovin.com^
 ||rubiconproject.com^
 ||s-adserver.cxad.cxense.com^
 ||sch.line.me^
