@@ -19,6 +19,7 @@
 ||adingo.jp^
 ||adjust-net.jp^
 ||ad-move.jp^
+||ad-nex.com^
 ||adnwif.smt.docomo.ne.jp^
 ||adnxs.com^
 ||ads.mopub.com^
