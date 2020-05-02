@@ -126,6 +126,7 @@
 ||logql.yahoo.co.jp^
 ||maruivoi.122.2o7.net^
 ||maxymiser.net^
+||meas.ad.pr.ameba.jp^
 ||mathtag.com^
 ||metric.gstatic.com^
 ||mmaaxx.com^
