@@ -44,6 +44,7 @@
 ||api.webpush.jp^
 ||api-analytics.metaps.com^
 ||api-analytics-bootstrap.metaps.com^
+||apps2sd.info^
 ||appbaqend.com^
 ||appier.net^
 ||applovin.com^
