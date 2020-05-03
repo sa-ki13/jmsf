@@ -1,11 +1,10 @@
 ! Title: AdGuard Japanese Mobile Site DNS Filter FA-FA(仮)
 ! Version: 2020-05-03
-! Last modified: 03 May 2020 10:41 JST
+! Last modified: 03 May 2020 11:12 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-05-03
 
-||a.appbaqend.com^
 ||a.cookpad-ads.com^
 ||a.line.me^
 ||a.quora.com^
@@ -28,7 +27,7 @@
 ||adnxs.com^
 ||ads.mopub.com^
 ||adsafeprotected.com^
-||adservice.google.co.jp
+||adservice.google.co.jp^
 ||adservice.google.com^
 ||ad-stir.com^
 ||adtdp.com^
@@ -45,6 +44,8 @@
 ||api.webpush.jp^
 ||api-analytics.metaps.com^
 ||api-analytics-bootstrap.metaps.com^
+||apps2sd.info^
+||appbaqend.com^
 ||applovin.com^
 ||app-measurement.com^
 ||appsflyer.com^
@@ -98,6 +99,7 @@
 ||engine.mobileapptracking.com^
 ||events.redditmedia.com^
 ||fam-ad.com^
+||firebaseinstallations.googleapis.com^
 ||fivecdm.com^
 ||fout.jp^
 ||genieedmp.com^
