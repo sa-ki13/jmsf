@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Site DNS Filter FA-FA(仮)
 ! Version: 2020-05-03
-! Last modified: 03 May 2020 23:45 JST
+! Last modified: 03 May 2020 23:46 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-05-03
@@ -51,6 +51,7 @@
 ||applovin.com^
 ||app-measurement.com^
 ||appsflyer.com^
+||apptornado.com^
 ||apvdr.com^
 ||asset.adserver.vrizead.com^
 ||atdmt.com^
