@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Site Filter FA-FA(仮)
 ! Version: 2020-05-03
-! Last modified: 03 May 2020 09:12 JST
+! Last modified: 03 May 2020 09:57 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-05-03
@@ -265,6 +265,7 @@ _120x60.
 ||s-rtb.send.microad.jp^
 ||ssl.google-analytics.com^
 ||stack-sonar.com^$third-party
+||startappservice.com^
 ||static.addtoany.com$third-party
 ||static.ads-twitter.com^
 ||static.doubleclick.net^
