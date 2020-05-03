@@ -14,7 +14,6 @@
 ||ad.as.amanad.adtdp.com^
 ||ad.doubleclick.net^
 ||ad.jp.ap.valuecommerce.com^
-||ad.smaato.net^
 ||adapf.com^
 ||adcdn.goo.ne.jp^
 ||ade.googlesyndication.com^
