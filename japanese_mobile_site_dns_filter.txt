@@ -11,6 +11,7 @@
 ||abema-adx.ameba.jp^
 ||a-cast.jp^
 ||ad.adpon.jp^
+||ad.adxad.jp^
 ||ad.as.amanad.adtdp.com^
 ||ad.doubleclick.net^
 ||ad.jp.ap.valuecommerce.com^
