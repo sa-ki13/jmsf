@@ -205,6 +205,7 @@
 ||referrer.disqus.com^
 ||rtoaster.jp^
 ||rubiconproject.com^
+||s0.2mdn.net^
 ||sail-horizon.com^
 ||sch.line.me^
 ||s-cm.send.microad.jp^
