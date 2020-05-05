@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Site DNS Filter FA-FA(仮)
 ! Version: 2020-05-05
-! Last modified: 05 May 2020 14:52 JST
+! Last modified: 05 May 2020 14:56 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-05-05
@@ -123,6 +123,7 @@
 ||googleads.g.doubleclick.net^
 ||googleadservices.com^
 ||gsspat.jp^
+||gssprt.jp^
 ||i.popincdn.com^
 ||i.socdm.com^
 ||i2ad.jp^
