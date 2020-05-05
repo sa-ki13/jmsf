@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Site DNS Filter FA-FA(仮)
 ! Version: 2020-05-05
-! Last modified: 05 May 2020 10:55 JST
+! Last modified: 05 May 2020 10:58 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-05-05
@@ -68,8 +68,6 @@
 ||caprofitx.com^
 ||cd.ladsp.com^
 ||cdn.alistcloud.com^
-||cdn.caprofitx.com^
-||cdn.gmossp-sp.jp^
 ||cdn.onesignal.com^
 ||cdn.tt.omtrdc.net^
 ||cdn-f.adsmoloco.com^
