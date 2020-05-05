@@ -182,6 +182,7 @@
 ||pagead2.googlesyndication.com^
 ||partner.googleadservices.com^
 ||petametrics.com^
+||pgmcdn.com^
 ||pipedream.wistia.com^
 ||pixel.advertising.com^
 ||pixel.tapad.com^
