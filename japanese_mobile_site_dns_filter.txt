@@ -67,6 +67,7 @@
 ||b92.yahoo.co.jp^
 ||b97.yahoo.co.jp^
 ||bat.bing.com^
+||beacon.itmedia.jp^
 ||bid.g.doubleclick.net^
 ||bizographics.com^
 ||blogparts.blogmura.com^
