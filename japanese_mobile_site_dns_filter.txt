@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Site DNS Filter FA-FA(仮)
 ! Version: 2020-05-05
-! Last modified: 05 May 2020 16:52 JST
+! Last modified: 05 May 2020 16:56 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-05-05
@@ -71,7 +71,7 @@
 ||beacon.itmedia.jp^
 ||bid.g.doubleclick.net^
 ||bizographics.com^
-||blogparts.blogmura.com^
+||blogmura.com^
 ||c.betrad.com^
 ||c1.adform.net^
 ||caprofitx.com^
@@ -170,7 +170,6 @@
 ||mmaaxx.com^
 ||moatads.com^
 ||mobile-collector.newrelic.com^
-||money.blogmura.com^
 ||ms.applvn.com^
 ||nend.net^
 ||nex8.net^
