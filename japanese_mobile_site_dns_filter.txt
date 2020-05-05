@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Site DNS Filter FA-FA(仮)
 ! Version: 2020-05-05
-! Last modified: 05 May 2020 11:02 JST
+! Last modified: 05 May 2020 11:05 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-05-05
@@ -62,6 +62,7 @@
 ||b97.yahoo.co.jp^
 ||bat.bing.com^
 ||bid.g.doubleclick.net^
+||bizographics.com^
 ||blogparts.blogmura.com^
 ||c.betrad.com^
 ||c1.adform.net^
@@ -187,7 +188,6 @@
 ||rec1.smt.docomo.ne.jp^
 ||referrer.disqus.com^
 ||rlog.popin.cc^
-||rs.adapf.com^
 ||rubiconproject.com^
 ||sch.line.me^
 ||s-cm.send.microad.jp^
@@ -205,7 +205,6 @@
 ||smartnews-ads.com^
 ||smbc.sc.omtrdc.net^
 ||smpop.icfcdn.com^
-||sp.gmossp-sp.jp^
 ||speee-ad.akamaized.net^
 ||s-rtb.send.microad.jp^
 ||s-rtb-pb.send.microad.jp^
@@ -216,7 +215,6 @@
 ||static.doubleclick.net^
 ||stats.g.doubleclick.net^
 ||stats.wp.com^
-||t.appsflyer.com^
 ||t.karte.io^
 ||taboola.com^
 ||tags.bluekai.com^
@@ -232,7 +230,6 @@
 ||tracer.jp^
 ||v.shopify.com^
 ||webtracker.jp^
-||www.bizographics.com^
 ||yads.c.yimg.jp^
 ||ybx.yahoo.co.jp^
 ||yeas.yahoo.co.jp^
