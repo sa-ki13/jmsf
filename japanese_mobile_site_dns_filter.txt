@@ -1,9 +1,9 @@
 ! Title: AdGuard Japanese Mobile Site DNS Filter FA-FA(仮)
-! Version: 2020-05-05
-! Last modified: 05 May 2020 17:03 JST
+! Version: 2020-05-06
+! Last modified: 06 May 2020 10:26 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
-! Last updated: 2020-05-05
+! Last updated: 2020-05-06
 
 ||a.cookpad-ads.com^
 ||a.line.me^
@@ -98,6 +98,7 @@
 ||cxense.com^
 ||d.applvn.com^
 ||d.socdm.com^
+||d-track.send.microad.jp^
 ||d1jh13j6azkbbi.cloudfront.net^
 ||d2c.ne.jp^
 ||d2ibu2ug0mt5qp.cloudfront.net^
@@ -159,7 +160,9 @@
 ||log000.goo.ne.jp^
 ||logly.co.jp^
 ||logql.yahoo.co.jp^
+||maruig.tt.omtrdc.net^
 ||maruivoi.122.2o7.net^
+||maruivoi.sc.omtrdc.net^
 ||mathtag.com^
 ||maxymiser.net^
 ||meas.ad.pr.ameba.jp^
