@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Site DNS Filter FA-FA(仮)
 ! Version: 2020-05-07
-! Last modified: 07 May 2020 15:31 JST
+! Last modified: 07 May 2020 15:43 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-05-07
@@ -73,6 +73,7 @@
 ||b16.yahoo.co.jp^
 ||b92.yahoo.co.jp^
 ||b97.yahoo.co.jp^
+||bannerfarm.aolp.jp^
 ||bat.bing.com^
 ||beacon.itmedia.jp^
 ||bid.g.doubleclick.net^
@@ -95,6 +96,7 @@
 ||collect.igodigital.com^
 ||collector.githubapp.com^
 ||config.uca.cloud.unity3d.com^
+||consent.cmp.oath.com^
 ||contentabc.com^
 ||crashlytics.com^
 ||c-rings.net^
@@ -128,6 +130,7 @@
 ||fourmtagservices.com^
 ||fout.jp^
 ||genieedmp.com^
+||geo.yahoo.com^
 ||ggm-contents.bangumi.org^
 ||gigazine.asia^
 ||glossom.jp^
@@ -192,6 +195,7 @@
 ||octopuspop.com^
 ||omt.shinobi.jp^
 ||openx.net^
+||optimizely.com^
 ||outbrain.com^
 ||pagead2.googlesyndication.com^
 ||partner.googleadservices.com^
