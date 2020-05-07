@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Site DNS Filter FA-FA(仮)
 ! Version: 2020-05-07
-! Last modified: 07 May 2020 12:49 JST
+! Last modified: 07 May 2020 15:31 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-05-07
@@ -95,6 +95,7 @@
 ||collect.igodigital.com^
 ||collector.githubapp.com^
 ||config.uca.cloud.unity3d.com^
+||contentabc.com^
 ||crashlytics.com^
 ||c-rings.net^
 ||criteo.com^
@@ -264,6 +265,7 @@
 ||tpc.googlesyndication.com^
 ||tr.snapchat.com^
 ||trafficgate.net^
+||trafficjunky.net^
 ||tr-asia.adsmoloco.com^
 ||tracer.jp^
 ||v.shopify.com^
