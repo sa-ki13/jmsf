@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Site DNS Filter FA-FA(仮)
 ! Version: 2020-05-07
-! Last modified: 07 May 2020 17:08 JST
+! Last modified: 07 May 2020 17:13 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-05-07
@@ -80,7 +80,6 @@
 ||bizographics.com^
 ||blogmura.com^
 ||blogroll.livedoor.net^
-||bs.nakanohito.jp^
 ||c.betrad.com^
 ||c1.adform.net^
 ||caprofitx.com^
@@ -103,7 +102,6 @@
 ||c-rings.net^
 ||criteo.com^
 ||criteo.net^
-||cs.nakanohito.jp^
 ||csi.gstatic.com^
 ||currency.prebid.org^
 ||cxense.com^
@@ -161,6 +159,7 @@
 ||js.gsspcln.jp^
 ||js.gumgum.com^
 ||js.isboost.co.jp^
+||js.mediams.mb.softbank.jp^
 ||js.monetize-ssp.com^
 ||js-agent.newrelic.com^
 ||juicer.cc^
@@ -191,6 +190,7 @@
 ||moatads.com^
 ||mobile-collector.newrelic.com^
 ||ms.applvn.com^
+||nakanohito.jp^
 ||nend.net^
 ||nex8.net^
 ||octopuspop.com^
