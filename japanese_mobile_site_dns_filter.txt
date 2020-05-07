@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Site DNS Filter FA-FA(仮)
 ! Version: 2020-05-07
-! Last modified: 07 May 2020 17:52 JST
+! Last modified: 07 May 2020 18:24 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-05-07
@@ -14,9 +14,9 @@
 ||accesstrade.net^
 ||ad.adpon.jp^
 ||ad.adxad.jp^
+||ad.atown.jp^
 ||ad.doubleclick.net^
 ||ad.jp.ap.valuecommerce.com^
-||ad.atown.jp^
 ||ad.rarure.com^
 ||ad3.cross-a.net^
 ||adapf.com^
@@ -56,11 +56,11 @@
 ||api.webpush.jp^
 ||api-analytics.metaps.com^
 ||api-analytics-bootstrap.metaps.com^
-||apps2sd.info^
 ||appbaqend.com^
 ||appier.net^
 ||applovin.com^
 ||app-measurement.com^
+||apps2sd.info^
 ||appsflyer.com^
 ||apptornado.com^
 ||apvdr.com^
@@ -107,7 +107,6 @@
 ||cxense.com^
 ||d.applvn.com^
 ||d.socdm.com^
-||d-track.send.microad.jp^
 ||d1jh13j6azkbbi.cloudfront.net^
 ||d2c.ne.jp^
 ||d2ibu2ug0mt5qp.cloudfront.net^
@@ -118,6 +117,7 @@
 ||dlv.itmedia.jp^
 ||dmp.im-apps.net^
 ||ds-aksb-a.akamaihd.net^
+||d-track.send.microad.jp^
 ||dwin2.com^
 ||ec-concier.com^
 ||eco-tag.jp^
@@ -270,10 +270,10 @@
 ||tokyo.in.treasuredata.com^
 ||tpc.googlesyndication.com^
 ||tr.snapchat.com^
+||tracer.jp^
 ||trafficgate.net^
 ||trafficjunky.net^
 ||tr-asia.adsmoloco.com^
-||tracer.jp^
 ||v.shopify.com^
 ||visualwebsiteoptimizer.com^
 ||webtracker.jp^
@@ -284,3 +284,4 @@
 ||yjtag.jp^
 ||yjtag.yahoo.co.jp^
 ||zucks.net^
+
