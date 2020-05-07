@@ -77,6 +77,7 @@
 ||bid.g.doubleclick.net^
 ||bizographics.com^
 ||blogmura.com^
+||blogroll.livedoor.net^
 ||bs.nakanohito.jp^
 ||c.betrad.com^
 ||c1.adform.net^
