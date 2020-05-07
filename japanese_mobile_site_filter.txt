@@ -1,10 +1,11 @@
 ! Title: AdGuard Japanese Mobile Site Filter FA-FA(仮)
-! Version: 2020-05-04
-! Last modified: 04 May 2020 18:57 JST
+! Version: 2020-05-07
+! Last modified: 07 May 2020 18:27 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
-! Last updated: 2020-05-04
+! Last updated: 2020-05-07
 
+&bannerid=
 .adnwif.
 .com/ads-
 .com/ads/$image,object,subdocument
@@ -17,7 +18,6 @@
 .net/ads.
 .openx.
 .prebid.
-&bannerid=
 /ad.css?
 /ad_loader.
 /ad1.
@@ -32,8 +32,8 @@
 /adv.png
 /advanced-ads-
 /advanced-ads/*
-/advert_
 /advert/*
+/advert_
 /advertising/*$~xmlhttprequest
 /advertisingbanner.
 /adw.
@@ -62,8 +62,8 @@
 /pagead/js/*
 /pagead2.
 /piwik.js
-/prebid.
 /prebid-
+/prebid.
 /prebid/*
 /prebid_$script
 /pubads.
@@ -71,15 +71,14 @@
 /settings/lite2/ads.js|
 /yads-
 /yads.
--300x250-$~xmlhttprequest
 _120_60.
 _120x60.
 ||a.appbaqend.com^
 ||a.line.me^
 ||a.quora.com^
-||adcdn.goo.ne.jp^
 ||ad.doubleclick.net^
 ||ad.linksynergy.com^$third-party
+||adcdn.goo.ne.jp^
 ||ade.googlesyndication.com^
 ||adingo.jp^
 ||adjust.com^
@@ -168,8 +167,8 @@ _120x60.
 ||etahub.com^$third-party
 ||events.redditmedia.com^
 ||experience.tinypass.com/xbuilder/experience/execute?aid=
-||facebook.com/plugins/
 ||facebook.com/*/plugins/
+||facebook.com/plugins/
 ||facebook.com/tr/?
 ||facebook.com^*/logging/
 ||fivecdm.com^
@@ -312,3 +311,4 @@ _120x60.
 ||yjtag.yahoo.co.jp^
 ||youtube.com/api/stats/qoe?
 ||youtube.com/subscribe_embed?$third-party
+-300x250-$~xmlhttprequest
