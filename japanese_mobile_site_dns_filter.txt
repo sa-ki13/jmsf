@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Site DNS Filter FA-FA(仮)
 ! Version: 2020-05-10
-! Last modified: 10 May 2020 01:28 JST
+! Last modified: 10 May 2020 10:50 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-05-10
@@ -80,6 +80,7 @@
 ||bat.bing.com^
 ||beacon.itmedia.jp^
 ||bid.g.doubleclick.net^
+||bidswitch.net^
 ||bizographics.com^
 ||blogmura.com^
 ||blogroll.livedoor.net^
@@ -87,6 +88,7 @@
 ||c1.adform.net^
 ||caprofitx.com^
 ||cdn.alistcloud.com^
+||cdn.bigmining.com^
 ||cdn.lodeo.io^
 ||cdn.onesignal.com^
 ||cdn.tt.omtrdc.net^
