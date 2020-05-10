@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Site DNS Filter FA-FA(仮)
 ! Version: 2020-05-10
-! Last modified: 10 May 2020 15:33 JST
+! Last modified: 10 May 2020 15:36 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-05-10
@@ -156,6 +156,7 @@
 ||i.popincdn.com^
 ||i.socdm.com^
 ||i2ad.jp^
+||im.ov.yahoo.co.jp^
 ||imasdk.googleapis.com^
 ||img.ak.impact-ad.jp^
 ||img.hapitas.jp^
@@ -307,6 +308,7 @@
 ||v.shopify.com^
 ||visualwebsiteoptimizer.com^
 ||webtracker.jp^
+||xlisting.jp^
 ||y.one.impact-ad.jp^
 ||yads.c.yimg.jp^
 ||ybx.yahoo.co.jp^
