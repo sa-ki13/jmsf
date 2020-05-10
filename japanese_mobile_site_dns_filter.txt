@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Site DNS Filter FA-FA(仮)
 ! Version: 2020-05-10
-! Last modified: 10 May 2020 15:56 JST
+! Last modified: 10 May 2020 15:59 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-05-10
@@ -246,6 +246,7 @@
 ||rakuten.112.2o7.net^
 ||rakutenrpointcard.sc.omtrdc.net^
 ||ranking.rakuten.co.jp^
+||rcm.shinobi.jp^
 ||rec1.smt.docomo.ne.jp^
 ||referrer.disqus.com^
 ||rss-loader.com^
