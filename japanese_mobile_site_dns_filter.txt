@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Site DNS Filter FA-FA(仮)
 ! Version: 2020-05-11
-! Last modified: 14 May 2020 19:37 JST
+! Last modified: 14 May 2020 19:59 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-05-11
@@ -98,6 +98,7 @@
 ||bid.g.doubleclick.net^
 ||bidswitch.net^
 ||bizographics.com^
+||bkrtx.com^
 ||blogmura.com^
 ||blogroll.livedoor.net^
 ||boomtrain.com^
@@ -175,6 +176,7 @@
 ||go-mpulse.net^
 ||googleads.g.doubleclick.net^
 ||googleadservices.com^
+||gscounters.eu1.gigya.com^
 ||gsspat.jp^
 ||gssprt.jp^
 ||hotjar.com^
@@ -360,6 +362,7 @@
 ||usabilla.com^
 ||v.shopify.com^
 ||visualwebsiteoptimizer.com^
+||webspectator.com^
 ||webtracker.jp^
 ||widgets.getpocket.com^
 ||widget.intercom.io^
@@ -370,6 +373,7 @@
 ||yads.yahoo.co.jp^
 ||ybx.yahoo.co.jp^
 ||yeas.yahoo.co.jp^
+||yield-manager.browsiprod.com^
 ||yjtag.jp^
 ||yjtag.yahoo.co.jp^
 ||zemanta.com^
