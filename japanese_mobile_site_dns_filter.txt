@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Site DNS Filter FA-FA(仮)
 ! Version: 2020-05-11
-! Last modified: 14 May 2020 15:49 JST
+! Last modified: 14 May 2020 16:19 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-05-11
@@ -283,6 +283,7 @@
 ||s0.2mdn.net^
 ||sail-horizon.com^
 ||sascdn.com^
+||sc-analytics.jp^
 ||sch.line.me^
 ||s-cm.send.microad.jp^
 ||scorecardresearch.com^
