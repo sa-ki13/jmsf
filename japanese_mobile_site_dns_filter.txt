@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Site DNS Filter FA-FA(仮)
 ! Version: 2020-05-11
-! Last modified: 14 May 2020 23:23 JST
+! Last modified: 14 May 2020 23:28 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-05-11
@@ -139,6 +139,7 @@
 ||criteo.com^
 ||criteo.net^
 ||cross-system.com^
+||crwdcntrl.net^
 ||csi.gstatic.com^
 ||currency.prebid.org^
 ||cxense.com^
@@ -160,6 +161,8 @@
 ||dwin2.com^
 ||ec-concier.com^
 ||eco-tag.jp^
+||edigitalsurvey.com^
+||effectivemeasure.net^
 ||engine.mobileapptracking.com^
 ||etahub.com^
 ||events.redditmedia.com^
@@ -179,6 +182,7 @@
 ||go-mpulse.net^
 ||googleads.g.doubleclick.net^
 ||googleadservices.com^
+||gscontxt.net^
 ||gscounters.eu1.gigya.com^
 ||gsspat.jp^
 ||gssprt.jp^
