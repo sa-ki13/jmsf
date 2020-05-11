@@ -1,10 +1,11 @@
 ! Title: AdGuard Japanese Mobile Site DNS Filter FA-FA(仮)
 ! Version: 2020-05-11
-! Last modified: 14 May 2020 19:35 JST
+! Last modified: 14 May 2020 19:37 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-05-11
 
+||3lift.com^
 ||a.cookpad-ads.com^
 ||a.line.me^
 ||a.quora.com^
@@ -47,6 +48,7 @@
 ||ads.nicovideo.jp^
 ||adsafeprotected.com^
 ||adserver-as.adtech.advertising.com^
+||adserver-us.adtech.advertising.com^
 ||adservice.google.co.jp^
 ||adservice.google.co.uk^
 ||adservice.google.com^
@@ -103,6 +105,7 @@
 ||c.betrad.com^
 ||c1.adform.net^
 ||caprofitx.com^
+||casalemedia.com^
 ||cdn.alistcloud.com^
 ||cdn.bigmining.com^
 ||cdn.lodeo.io^
@@ -353,6 +356,7 @@
 ||trafficjunky.net^
 ||tr-asia.adsmoloco.com^
 ||trendemon.com^
+||trustx.org^
 ||usabilla.com^
 ||v.shopify.com^
 ||visualwebsiteoptimizer.com^
