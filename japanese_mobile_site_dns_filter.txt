@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Site DNS Filter FA-FA(仮)
 ! Version: 2020-05-11
-! Last modified: 14 May 2020 20:06 JST
+! Last modified: 14 May 2020 22:44 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-05-11
@@ -93,6 +93,7 @@
 ||bannerfarm.aolp.jp^
 ||bat.bing.com^
 ||beacon.itmedia.jp^
+||beacon.wikia-services.com^
 ||benessecorp.d1.sc.omtrdc.net^
 ||benessecorp.tt.omtrdc.net^
 ||bid.g.doubleclick.net^
@@ -179,6 +180,7 @@
 ||gscounters.eu1.gigya.com^
 ||gsspat.jp^
 ||gssprt.jp^
+||gvt2.com^
 ||hotjar.com^
 ||i.popincdn.com^
 ||i.socdm.com^
@@ -241,6 +243,7 @@
 ||mobile-collector.newrelic.com^
 ||ms.applvn.com^
 ||mtburn.com^
+||mtrcs.samba.tv^
 ||nakanohito.jp^
 ||nend.net^
 ||nex8.net^
@@ -284,6 +287,7 @@
 ||rakutenrpointcard.sc.omtrdc.net^
 ||ranking.rakuten.co.jp^
 ||rcm.shinobi.jp^
+||realvu.net^
 ||rec1.smt.docomo.ne.jp^
 ||referrer.disqus.com^
 ||rsalcau.com^
