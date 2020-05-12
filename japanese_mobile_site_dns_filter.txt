@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Site DNS Filter FA-FA(仮)
 ! Version: 2020-05-12
-! Last modified: 12 May 2020 15:40 JST
+! Last modified: 12 May 2020 15:48 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-05-12
@@ -299,6 +299,7 @@
 ||pubads.g.doubleclick.net^
 ||pubmatic.com^
 ||pw.gigazine.net^
+||px-cloud.net^
 ||quantcount.com^
 ||quantserve.com^
 ||r.profilepassport.jp^
@@ -347,6 +348,7 @@
 ||special-offers.online^
 ||special-promotions.online^
 ||speee-ad.akamaized.net^
+||spotxcdn.com^
 ||spotxchange.com^
 ||squirrelhands.com^
 ||s-rtb.send.microad.jp^
@@ -409,6 +411,7 @@
 ||yield-manager.browsiprod.com^
 ||yjtag.jp^
 ||yjtag.yahoo.co.jp^
+||youborafds01.com^
 ||zemanta.com^
 ||ziyu.net^
 ||zucks.net^
