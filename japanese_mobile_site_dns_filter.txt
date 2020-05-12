@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Site DNS Filter FA-FA(仮)
 ! Version: 2020-05-12
-! Last modified: 12 May 2020 15:23 JST
+! Last modified: 12 May 2020 15:28 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-05-12
@@ -30,6 +30,7 @@
 ||ad999.biz^
 ||adapf.com^
 ||ad-api-v01.uliza.jp^
+||adaptv.advertising.com^
 ||adcdn.goo.ne.jp^
 ||ade.googlesyndication.com^
 ||adf.shinobi.jp^
@@ -57,6 +58,7 @@
 ||adservice.google.com^
 ||ad-stir.com^
 ||adtdp.com^
+||advertising.com^
 ||advg.jp^
 ||adw.addlv.smt.docomo.ne.jp^
 ||aeondigital.d1.sc.omtrdc.net^
@@ -378,6 +380,7 @@
 ||trafficjunky.net^
 ||tr-asia.adsmoloco.com^
 ||trendemon.com^
+||trk.vidible.tv^
 ||trustx.org^
 ||urs.zdnet.com^
 ||usabilla.com^
