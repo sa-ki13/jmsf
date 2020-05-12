@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Site DNS Filter FA-FA(仮)
 ! Version: 2020-05-12
-! Last modified: 12 May 2020 15:39 JST
+! Last modified: 12 May 2020 15:40 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-05-12
@@ -132,6 +132,7 @@
 ||clicktale.net^
 ||collect.igodigital.com^
 ||collector.githubapp.com^
+||conductrics.com^
 ||config.uca.cloud.unity3d.com^
 ||consensu.org^
 ||consent.cmp.oath.com^
@@ -256,6 +257,7 @@
 ||mobileanalytics.us-east-1.amazonaws.com^
 ||mobile-collector.newrelic.com^
 ||mouseflow.com^
+||mparticle.com^
 ||ms.applvn.com^
 ||mtburn.com^
 ||mtrcs.samba.tv^
@@ -303,10 +305,12 @@
 ||rakuten.112.2o7.net^
 ||rakutenrpointcard.sc.omtrdc.net^
 ||ranking.rakuten.co.jp^
+||nbcume.sc.omtrdc.net^
 ||rcm.shinobi.jp^
 ||realvu.net^
 ||rec1.smt.docomo.ne.jp^
 ||referrer.disqus.com^
+||rlcdn.com^
 ||rmtag.com^
 ||rsalcau.com^
 ||rss-loader.com^
@@ -332,6 +336,7 @@
 ||sharethrough.com^
 ||sift-campaign-creatives.sift.co^
 ||singular.net^
+||skimresources.com^
 ||smaato.net^
 ||smart-c.jp^
 ||smartcanvas.net^
@@ -343,6 +348,7 @@
 ||special-promotions.online^
 ||speee-ad.akamaized.net^
 ||spotxchange.com^
+||squirrelhands.com^
 ||s-rtb.send.microad.jp^
 ||s-rtb-pb.send.microad.jp^
 ||ssl.socdm.com^
@@ -383,9 +389,11 @@
 ||trendemon.com^
 ||trk.vidible.tv^
 ||trustx.org^
+||turn.com^
 ||urs.zdnet.com^
 ||usabilla.com^
 ||v.shopify.com^
+||vilynx.com^
 ||visualwebsiteoptimizer.com^
 ||webspectator.com^
 ||webtracker.jp^
