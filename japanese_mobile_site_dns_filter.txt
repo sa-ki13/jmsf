@@ -13,6 +13,7 @@
 ||aaddcount.com^
 ||abema-adx.ameba.jp^
 ||a-cast.jp^
+||acceliaad.durasite.net^
 ||accesstrade.net^
 ||ad.adpon.jp^
 ||ad.ads-lite.net^
