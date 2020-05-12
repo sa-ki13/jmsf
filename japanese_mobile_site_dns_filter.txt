@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Site DNS Filter FA-FA(仮)
 ! Version: 2020-05-12
-! Last modified: 12 May 2020 23:12 JST
+! Last modified: 12 May 2020 23:25 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-05-12
@@ -162,6 +162,7 @@
 ||d2c.ne.jp^
 ||d2ibu2ug0mt5qp.cloudfront.net^
 ||d3ud741uvs727m.cloudfront.net^
+||d4el4parm0zb3.cloudfront.net^
 ||delivery.locari.jp^
 ||demdex.net^
 ||deqwas.net^
@@ -290,6 +291,7 @@
 ||pingdom.net^
 ||pipedream.wistia.com^
 ||pixel.advertising.com^
+||pixel.parsely.com^
 ||pixel.tapad.com^
 ||pixel.wp.com^
 ||pixiedust.buzzfeed.com^
