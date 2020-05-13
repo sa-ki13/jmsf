@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Site DNS Filter FA-FA(仮)
 ! Version: 2020-05-14
-! Last modified: 14 May 2020 01:36 JST
+! Last modified: 14 May 2020 01:41 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-05-14
@@ -52,6 +52,7 @@
 ||adpushup.com^
 ||adroute.focas.jp^
 ||adrta.com^
+||ads.linkedin.com^
 ||ads.mopub.com^
 ||ads.mulan.cloud^
 ||ads.nicovideo.jp^
