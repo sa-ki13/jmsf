@@ -37,6 +37,7 @@
 ||adcdn.goo.ne.jp^
 ||ade.googlesyndication.com^
 ||adf.shinobi.jp^
+||adform.net^
 ||ad-hatena.com^
 ||adingo.jp^
 ||adjust-net.jp^
