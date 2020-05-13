@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Site DNS Filter FA-FA(仮)
 ! Version: 2020-05-13
-! Last modified: 13 May 2020 23:25 JST
+! Last modified: 13 May 2020 23:27 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-05-13
@@ -55,6 +55,7 @@
 ||ads.mulan.cloud^
 ||ads.nicovideo.jp^
 ||ads.pandora.tv^
+||ads.travelaudience.com^
 ||adsafeprotected.com^
 ||adserver-as.adtech.advertising.com^
 ||adserver-us.adtech.advertising.com^
@@ -140,6 +141,7 @@
 ||cdn-f.adsmoloco.com^
 ||cdn-image.com^
 ||cdp.cloud.unity3d.com^
+||cedexis.com^
 ||cf.im-apps.net^
 ||chartbeat.com^
 ||check-out-this.site^
@@ -149,6 +151,7 @@
 ||clicktripz.com^
 ||collect.igodigital.com^
 ||collector.githubapp.com^
+||commander1.com^
 ||concertads-configs.vox-cdn.com^
 ||conductrics.com^
 ||config.uca.cloud.unity3d.com^
@@ -202,6 +205,7 @@
 ||etahub.com^
 ||eventapi.bookwalker.jp^
 ||events.redditmedia.com^
+||exelator.com^
 ||fam-ad.com^
 ||firebaseinstallations.googleapis.com^
 ||fivecdm.com^
@@ -277,6 +281,7 @@
 ||maruig.tt.omtrdc.net^
 ||maruivoi.122.2o7.net^
 ||maruivoi.sc.omtrdc.net^
+||match.adsrvr.org^
 ||mathtag.com^
 ||maxymiser.net^
 ||mc.yandex.ru^
@@ -422,6 +427,7 @@
 ||tags.bluekai.com^
 ||tags.news.com.au^
 ||tags.tiqcdn.com^
+||tapad.com^
 ||tapjoy.com^
 ||taxel.jp^
 ||teads.tv^
@@ -462,6 +468,7 @@
 ||widgets.getpocket.com^
 ||widget.intercom.io^
 ||woopra.com^
+||xg4ken.com^
 ||xlisting.jp^
 ||y.one.impact-ad.jp^
 ||yads.yahoo.co.jp^
