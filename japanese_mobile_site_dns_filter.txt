@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Site DNS Filter FA-FA(仮)
 ! Version: 2020-05-13
-! Last modified: 13 May 2020 13:52 JST
+! Last modified: 13 May 2020 14:25 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-05-13
@@ -386,6 +386,7 @@
 ||taboola.com^
 ||tagger.ope.scmp.com^
 ||tags.bluekai.com^
+||tags.news.com.au^
 ||tags.tiqcdn.com^
 ||tapjoy.com^
 ||taxel.jp^
