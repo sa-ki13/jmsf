@@ -1,9 +1,9 @@
 ! Title: AdGuard Japanese Mobile Site DNS Filter FA-FA(仮)
-! Version: 2020-05-12
-! Last modified: 12 May 2020 23:25 JST
+! Version: 2020-05-13
+! Last modified: 13 May 2020 11:10 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
-! Last updated: 2020-05-12
+! Last updated: 2020-05-13
 
 ||3lift.com^
 ||5e529.v.fwmrm.net^
@@ -99,6 +99,7 @@
 ||b5.yahoo.co.jp^
 ||b92.yahoo.co.jp^
 ||b97.yahoo.co.jp^
+||banner.buyee.jp^
 ||bannerfarm.aolp.jp^
 ||bat.bing.com^
 ||beacon.itmedia.jp^
@@ -218,6 +219,7 @@
 ||intelligence.sc.omtrdc.net^
 ||invocation.cheqzone.com^
 ||iogous.com^
+||itrack3.valuecommerce.ne.jp^
 ||j.microad.net^
 ||j.zucks.net.zimg.jp^
 ||j-a-net.jp^
@@ -410,6 +412,7 @@
 ||usabilla.com^
 ||userreport.com^
 ||v.shopify.com^
+||valuecommerce.ne.jp^
 ||videoplayerhub.com^
 ||vilynx.com^
 ||visualwebsiteoptimizer.com^
