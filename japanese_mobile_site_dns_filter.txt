@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Site DNS Filter FA-FA(仮)
 ! Version: 2020-05-13
-! Last modified: 13 May 2020 23:17 JST
+! Last modified: 13 May 2020 23:19 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-05-13
@@ -124,6 +124,7 @@
 ||blogroll.livedoor.net^
 ||boomtrain.com^
 ||bounceexchange.com^
+||britishairways.d3.sc.omtrdc.net^
 ||c.betrad.com^
 ||c.msn.com^
 ||c1.adform.net^
@@ -413,6 +414,7 @@
 ||t.seesaa.net^
 ||taboola.com^
 ||tagger.ope.scmp.com^
+||tagman.britishairways.com^
 ||tags.bluekai.com^
 ||tags.news.com.au^
 ||tags.tiqcdn.com^
