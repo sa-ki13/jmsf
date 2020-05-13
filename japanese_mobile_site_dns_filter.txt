@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Site DNS Filter FA-FA(仮)
 ! Version: 2020-05-13
-! Last modified: 13 May 2020 22:48 JST
+! Last modified: 13 May 2020 22:58 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-05-13
@@ -202,6 +202,7 @@
 ||firebaseinstallations.googleapis.com^
 ||fivecdm.com^
 ||fls.doubleclick.net^
+||foresee.com^
 ||fourmtagservices.com^
 ||fout.jp^
 ||fullstory.com^
@@ -230,6 +231,7 @@
 ||img.macromill.com^
 ||i-mobile.co.jp^
 ||imrworldwide.com^
+||insight.adsrvr.org^
 ||inspectlet.com^
 ||instant.page^
 ||intelligence.sc.omtrdc.net^
@@ -301,6 +303,7 @@
 ||nr-data.net^
 ||octopuspop.com^
 ||omt.shinobi.jp^
+||onelink-translations.com^
 ||openx.net^
 ||optimizely.com^
 ||outbrain.com^
@@ -432,6 +435,7 @@
 ||trafficjunky.net^
 ||tr-asia.adsmoloco.com^
 ||trendemon.com^
+||tribalfusion.com^
 ||trk.vidible.tv^
 ||trustx.org^
 ||turn.com^
