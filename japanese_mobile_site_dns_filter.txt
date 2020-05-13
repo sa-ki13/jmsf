@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Site DNS Filter FA-FA(仮)
 ! Version: 2020-05-13
-! Last modified: 13 May 2020 16:24 JST
+! Last modified: 13 May 2020 16:26 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-05-13
@@ -347,6 +347,7 @@
 ||rtmark.net^
 ||rtoaster.jp^
 ||rubiconproject.com^
+||s.adroll.com^
 ||s.pubmine.com^
 ||s0.2mdn.net^
 ||sail-horizon.com^
