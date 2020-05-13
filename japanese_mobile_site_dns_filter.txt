@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Site DNS Filter FA-FA(仮)
 ! Version: 2020-05-14
-! Last modified: 14 May 2020 01:53 JST
+! Last modified: 14 May 2020 01:55 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-05-14
@@ -127,6 +127,7 @@
 ||bkrtx.com^
 ||blogmura.com^
 ||blogroll.livedoor.net^
+||blueconic.net^
 ||boomtrain.com^
 ||bounceexchange.com^
 ||britishairways.d3.sc.omtrdc.net^
@@ -337,6 +338,7 @@
 ||partner.googleadservices.com^
 ||pebed.dm-event.net^
 ||permutive.com^
+||perr.h-cdn.com^
 ||petametrics.com^
 ||pgmcdn.com^
 ||pingdom.net^
