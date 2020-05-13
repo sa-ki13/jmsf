@@ -221,6 +221,7 @@
 ||inspectlet.com^
 ||instant.page^
 ||intelligence.sc.omtrdc.net^
+||intentmedia.net^
 ||invocation.cheqzone.com^
 ||iogous.com^
 ||j.microad.net^
