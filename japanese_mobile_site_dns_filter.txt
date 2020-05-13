@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Site DNS Filter FA-FA(仮)
 ! Version: 2020-05-13
-! Last modified: 13 May 2020 23:27 JST
+! Last modified: 13 May 2020 23:37 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-05-13
@@ -99,6 +99,7 @@
 ||apvdr.com^
 ||asahishimbun.sc.omtrdc.net^
 ||asset.adserver.vrizead.com^
+||aswpsdkus.com^
 ||atdmt.com^
 ||atwola.com^
 ||aw.dw.impact-ad.jp^
@@ -247,6 +248,7 @@
 ||intelligence.sc.omtrdc.net^
 ||intellitxt.com^
 ||intentmedia.net^
+||investorsbusinessdai.tt.omtrdc.net^
 ||invocation.cheqzone.com^
 ||io.narrative.io^
 ||iogous.com^
