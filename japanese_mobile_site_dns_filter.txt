@@ -1,10 +1,11 @@
 ! Title: AdGuard Japanese Mobile Site DNS Filter FA-FA(仮)
 ! Version: 2020-05-14
-! Last modified: 14 May 2020 15:29 JST
+! Last modified: 14 May 2020 15:32 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-05-14
 
+||33across.com^
 ||3gl.net^
 ||3lift.com^
 ||4dsply.com^
@@ -175,6 +176,7 @@
 ||consensu.org^
 ||consent.cmp.oath.com^
 ||contentabc.com^
+||contextweb.com^
 ||convertexperiments.com^
 ||cookielaw.org^
 ||coremetrics.com^
@@ -242,6 +244,7 @@
 ||fourmtagservices.com^
 ||fout.jp^
 ||fullstory.com^
+||g2.gumgum.com^
 ||ganon.yahoo.com^
 ||genieedmp.com^
 ||geo.yahoo.com^
@@ -300,6 +303,7 @@
 ||js-agent.newrelic.com^
 ||js-sec.indexww.com^
 ||juicer.cc^
+||justpremium.com^
 ||jwpltx.com^
 ||kargo.com^
 ||karma.mdpcdn.com^
@@ -313,6 +317,7 @@
 ||liadm.com^
 ||liftoff.io^
 ||lightboxcdn.com^
+||lijit.com^
 ||likebtn.com^
 ||litix.io^
 ||live.rezync.com^
@@ -525,6 +530,7 @@
 ||trafficjunky.net^
 ||traq.li^
 ||tr-asia.adsmoloco.com^
+||trends.revcontent.com^
 ||tmbi.tt.omtrdc.net^
 ||trendemon.com^
 ||tribalfusion.com^
@@ -534,6 +540,7 @@
 ||trustx.org^
 ||turn.com^
 ||ubmtech.d3.sc.omtrdc.net^
+||undertone.com^
 ||unid.go.com^
 ||urs.zdnet.com^
 ||usabilla.com^
