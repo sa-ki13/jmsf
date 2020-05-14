@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Site DNS Filter FA-FA(仮)
 ! Version: 2020-05-14
-! Last modified: 14 May 2020 14:55 JST
+! Last modified: 14 May 2020 14:59 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-05-14
@@ -245,6 +245,7 @@
 ||go-mpulse.net^
 ||googleads.g.doubleclick.net^
 ||googleadservices.com^
+||grunerandjahr.112.2o7.net^
 ||gscontxt.net^
 ||gscounters.eu1.gigya.com^
 ||gsspat.jp^
@@ -300,6 +301,7 @@
 ||ladsp.com^
 ||liadm.com^
 ||liftoff.io^
+||lightboxcdn.com^
 ||likebtn.com^
 ||litix.io^
 ||live.rezync.com^
@@ -328,6 +330,7 @@
 ||mediaweaver.jp^
 ||meter-svc.nytimes.com^
 ||metric.gstatic.com^
+||ml314.com^
 ||mmaaxx.com^
 ||moatads.com^
 ||mobileanalytics.us-east-1.amazonaws.com^
