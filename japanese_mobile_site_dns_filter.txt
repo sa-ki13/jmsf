@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Site DNS Filter FA-FA(仮)
 ! Version: 2020-05-14
-! Last modified: 14 May 2020 15:51 JST
+! Last modified: 14 May 2020 15:58 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-05-14
@@ -180,6 +180,7 @@
 ||convertexperiments.com^
 ||cookielaw.org^
 ||coremetrics.com^
+||counter.scribblelive.com^
 ||counter.yadro.ru^
 ||crashlytics.com^
 ||creativecarrer.com^
@@ -207,6 +208,7 @@
 ||d3em0905j9y6sm.cloudfront.net^
 ||d3ud741uvs727m.cloudfront.net^
 ||d4el4parm0zb3.cloudfront.net^
+||d5i9o0tpq9sa1.cloudfront.net^
 ||delivery.locari.jp^
 ||demdex.net^
 ||deployads.com^
@@ -548,6 +550,7 @@
 ||ubmtech.d3.sc.omtrdc.net^
 ||undertone.com^
 ||unid.go.com^
+||untidyrice.com^
 ||urs.zdnet.com^
 ||usabilla.com^
 ||userreport.com^
