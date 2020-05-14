@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Site DNS Filter FA-FA(仮)
 ! Version: 2020-05-14
-! Last modified: 14 May 2020 15:41 JST
+! Last modified: 14 May 2020 15:44 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-05-14
@@ -452,6 +452,7 @@
 ||sdk.push7.jp^
 ||search-api.fie.future.net.uk^
 ||securepubads.g.doubleclick.net^
+||services.zam.com^
 ||serving-sys.com^
 ||settings.crashlytics.com^
 ||sgali-mcs.byteoversea.com^
@@ -554,6 +555,7 @@
 ||videoplayerhub.com^
 ||vilynx.com^
 ||visualwebsiteoptimizer.com^
+||vntsm.com^
 ||weblog.flyasiana.com^
 ||webspectator.com^
 ||webtracker.jp^
