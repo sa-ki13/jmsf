@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Site DNS Filter FA-FA(仮)
 ! Version: 2020-05-14
-! Last modified: 14 May 2020 15:24 JST
+! Last modified: 14 May 2020 15:25 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-05-14
@@ -15,6 +15,7 @@
 ||a.quora.com^
 ||a8.net^
 ||aaddcount.com^
+||aamapi.com^
 ||abema-adx.ameba.jp^
 ||a-cast.jp^
 ||acceliaad.durasite.net^
@@ -24,6 +25,7 @@
 ||ad.adxad.jp^
 ||ad.atown.jp^
 ||ad.doubleclick.net^
+||ad.gt^
 ||ad.jp.ap.valuecommerce.com^
 ||ad.polymorphicads.jp^
 ||ad.pr.ameba.jp^
@@ -142,6 +144,7 @@
 ||c2shb.ssp.yahoo.com^ 
 ||caprofitx.com^
 ||casalemedia.com^
+||cc.swiftype.com^
 ||cdn.alistcloud.com^
 ||cdn.bigmining.com^
 ||cdn.lodeo.io^
@@ -282,6 +285,7 @@
 ||invocation.cheqzone.com^
 ||io.narrative.io^
 ||iogous.com^
+||ipapi.tmbi.com^
 ||j.microad.net^
 ||j.zucks.net.zimg.jp^
 ||jp-axia.m0mentum.net^
@@ -520,10 +524,12 @@
 ||trafficjunky.net^
 ||traq.li^
 ||tr-asia.adsmoloco.com^
+||tmbi.tt.omtrdc.net^
 ||trendemon.com^
 ||tribalfusion.com^
 ||trk.vidible.tv^
 ||tru.am^
+||trustedmediabrands.sc.omtrdc.net^
 ||trustx.org^
 ||turn.com^
 ||ubmtech.d3.sc.omtrdc.net^
