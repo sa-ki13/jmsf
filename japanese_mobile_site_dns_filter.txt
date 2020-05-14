@@ -59,6 +59,7 @@
 ||ads.nicovideo.jp^
 ||ads.pandora.tv^
 ||ads.pro-market.net^
+||ads.servebom.com^
 ||ads.travelaudience.com^
 ||adsafeprotected.com^
 ||adservice.google.co.jp^
