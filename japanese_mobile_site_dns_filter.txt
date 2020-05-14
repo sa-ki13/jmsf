@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Site DNS Filter FA-FA(仮)
 ! Version: 2020-05-14
-! Last modified: 14 May 2020 14:34 JST
+! Last modified: 14 May 2020 14:36 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-05-14
@@ -182,8 +182,10 @@
 ||d.applvn.com^
 ||d.pixiv.org^
 ||d.socdm.com^
+||d15kdpgjg3unno.cloudfront.net^
 ||d1jh13j6azkbbi.cloudfront.net^
 ||d1z2jf7jlzjs58.cloudfront.net^
+||d29xw9s9x32j3w.cloudfront.net^
 ||d2c.ne.jp^
 ||d2c8v52ll5s99u.cloudfront.net^
 ||d2ibu2ug0mt5qp.cloudfront.net^
@@ -283,6 +285,7 @@
 ||kargo.com^
 ||karma.mdpcdn.com^
 ||keen.io^
+||keywee.co^
 ||kochava.com^
 ||krxd.net^
 ||l.betrad.com^
@@ -305,6 +308,7 @@
 ||maruivoi.122.2o7.net^
 ||maruivoi.sc.omtrdc.net^
 ||match.adsrvr.org^
+||matheranalytics.com^
 ||mathtag.com^
 ||maxymiser.net^
 ||mc.yandex.ru^
@@ -420,6 +424,7 @@
 ||sharethrough.com^
 ||sift-campaign-creatives.sift.co^
 ||singular.net^
+||siteintercept.qualtrics.com^
 ||sitescout.com^
 ||skimresources.com^
 ||smaato.net^
