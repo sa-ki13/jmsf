@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Site DNS Filter FA-FA(仮)
 ! Version: 2020-05-14
-! Last modified: 14 May 2020 14:23 JST
+! Last modified: 14 May 2020 14:26 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-05-14
@@ -424,6 +424,7 @@
 ||smartcanvas.net^
 ||smartnews-ads.com^
 ||smbc.sc.omtrdc.net^
+||smetrics.cnn.com^
 ||smpop.icfcdn.com^
 ||s-onetag.com^
 ||special-offers.online^
@@ -482,6 +483,7 @@
 ||trendemon.com^
 ||tribalfusion.com^
 ||trk.vidible.tv^
+||tru.am^
 ||trustx.org^
 ||turn.com^
 ||unid.go.com^
