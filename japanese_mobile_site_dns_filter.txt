@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Site DNS Filter FA-FA(仮)
 ! Version: 2020-05-14
-! Last modified: 14 May 2020 14:59 JST
+! Last modified: 14 May 2020 15:03 JST
 ! Expires: 1 day (update frequency)
 ! Licence: CC BY-NC-SA 4.0
 ! Last updated: 2020-05-14
@@ -313,6 +313,7 @@
 ||logql.yahoo.co.jp^
 ||m.addthis.com^
 ||main.pubexchange.com^
+||marfeel.com^
 ||marketo.net^
 ||maruig.tt.omtrdc.net^
 ||maruivoi.122.2o7.net^
@@ -321,6 +322,7 @@
 ||matheranalytics.com^
 ||mathtag.com^
 ||maxymiser.net^
+||mbid.marfeelrev.com^
 ||mc.yandex.ru^
 ||meas.ad.pr.ameba.jp^
 ||media.fc2.com^
