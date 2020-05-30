@@ -1,17 +1,25 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA 2
 ! Version: 2020-05-30
-! Last modified: 30 May 2020 20:10 JST
+! Last modified: 30 May 2020 20:34 JST
 ! Last updated: 2020-05-30
 
+||ad-contents.jp/quiz/assets/sp/img/common/icon-btn-close.png$image
 ||apl.d.dmkt-sp.jp/sugoroku/start/img/start.png$image
 ||d2x7ubddzu7b7n.cloudfront.net/8402af2d-c514-34b8-807a-65565c7ea2b5.jpg$image
 ||d2x7ubddzu7b7n.cloudfront.net/f7d3b0ab-2db1-31b4-a3fa-9d748e3a187d.gif$image
 ||d305v6nldhjazi.cloudfront.net/sp/images/common/img-top-top.png?v=1579150611$image
 ||d305v6nldhjazi.cloudfront.net/sp/images/lottery/daily/bnr-brain-training-quiz-750x234.png?v=1588242499$image
-||dmkt02.point-ad-game.com/assets/images/page_loader.svg?201911$image
 ||dmkt02.point-ad-game.com/assets/images/game/result/twitter_btn_s.png$image
+||dmkt02.point-ad-game.com/assets/images/page_loader.svg?201911$image
 ||hiroba.dpoint.jp/common/images/common/noimage-144x144.png$image
 ||img.topics.smt.news.goo.ne.jp/features_target/34/dmenunews_600x100_blue.png$image
+ad-contents.jp###footer > .mobile-big-banner.item-block
+ad-contents.jp##.bg-sky > .mobile-big-banner.item-block
+ad-contents.jp##.fx-banner > .mobile-big-banner.item-block
+ad-contents.jp##.overlay-item
+ad-contents.jp##.overlay-mask
+ad-contents.jp##.overlay-popup
+ad-contents.jp##.type-appear.item-container > .mobile-big-banner.item-block
 dmkt01w03.point-ad-game.com###bnr_top
 dmkt01w03.point-ad-game.com###bnr_top_icon
 dmkt02.point-ad-game.com##.page_loading
@@ -44,15 +52,7 @@ kuji.d.dmkt-sp.jp##.sub_title
 kuji.d.dmkt-sp.jp##section.block:nth-of-type(2)
 point-news.jp##.ad_area
 point-news.jp##.ad_area_stamp
+ponta-sp.dropgame.jp##div.footer_rectangle_ssp:nth-of-type(10)
 ponta-sp.dropgame.jp##div.footer_rectangle_ssp:nth-of-type(7)
 ponta-sp.dropgame.jp##div.footer_rectangle_ssp:nth-of-type(8)
 ponta-sp.dropgame.jp##div.footer_rectangle_ssp:nth-of-type(9)
-ponta-sp.dropgame.jp##div.footer_rectangle_ssp:nth-of-type(10)
-ad-contents.jp##.type-appear.item-container > .mobile-big-banner.item-block
-ad-contents.jp###footer > .mobile-big-banner.item-block
-ad-contents.jp##.fx-banner > .mobile-big-banner.item-block
-||ad-contents.jp/quiz/assets/sp/img/common/icon-btn-close.png$image
-ad-contents.jp##.overlay-popup
-ad-contents.jp##.overlay-item
-ad-contents.jp##.overlay-mask
-ad-contents.jp##.bg-sky > .mobile-big-banner.item-block
