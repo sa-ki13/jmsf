@@ -1,7 +1,7 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA 2
-! Version: 2020-05-30
-! Last modified: 30 May 2020 22:02 JST
-! Last updated: 2020-05-30
+! Version: 2020-05-31
+! Last modified: 31 May 2020 01:09 JST
+! Last updated: 2020-05-31
 
 ||ad-contents.jp/quiz/assets/sp/img/common/icon-btn-close.png$image
 ||apl.d.dmkt-sp.jp/sugoroku/start/img/start.png$image
@@ -72,4 +72,9 @@ ponta-sp.dropgame.jp##div.footer_rectangle_ssp:nth-of-type(9)
 ponta.gamefactory.jp###serach1
 t-mall.tsite.jp###middle > p
 t-mall.tsite.jp##.sp.game_bnr > p
-t-mall.tsite.jp##div.footer_rectangle_ssp
+tmall-sp.dropgame.jp##div.footer_rectangle_ssp:nth-of-type(10)
+tmall-sp.dropgame.jp##div.footer_rectangle_ssp:nth-of-type(6)
+tmall-sp.dropgame.jp##div.footer_rectangle_ssp:nth-of-type(7)
+tmall-sp.dropgame.jp##div.footer_rectangle_ssp:nth-of-type(8)
+tmall-sp.dropgame.jp##div.footer_rectangle_ssp:nth-of-type(9)
+
