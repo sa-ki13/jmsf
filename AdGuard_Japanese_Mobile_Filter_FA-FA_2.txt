@@ -12,6 +12,7 @@
 ||hiroba.dpoint.jp/common/images/common/noimage-144x144.png$image
 dmkt01w03.point-ad-game.com###bnr_top
 dmkt01w03.point-ad-game.com###bnr_top_icon
+dmkt02.point-ad-game.com##.page_loading
 hiroba.dpoint.jp###wrapper > .c-sec > .c-sec__body
 hiroba.dpoint.jp###wrapper > .c-sec > .c-sec__header
 hiroba.dpoint.jp##.c-sec__bnr
