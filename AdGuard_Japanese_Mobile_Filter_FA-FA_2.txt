@@ -14,7 +14,6 @@
 ||hiroba.dpoint.jp/common/images/common/noimage-144x144.png$image
 ||img.topics.smt.news.goo.ne.jp/features_target/34/dmenunews_600x100_blue.png$image
 ad-contents.jp###footer > .mobile-big-banner.item-block
-ad-contents.jp##.bg-sky > .mobile-big-banner.item-block
 ad-contents.jp##.fx-banner > .mobile-big-banner.item-block
 ad-contents.jp##.overlay-item
 ad-contents.jp##.overlay-mask
