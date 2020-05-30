@@ -42,8 +42,8 @@ kuji.d.dmkt-sp.jp###floating-banner
 kuji.d.dmkt-sp.jp##.sns-block
 kuji.d.dmkt-sp.jp##.sub_title
 kuji.d.dmkt-sp.jp##section.block:nth-of-type(2)
-point-news.jp###div.ad_area
-point-news.jp###div.ad_area_stamp
+point-news.jp##div.ad_area
+point-news.jp##div.ad_area_stamp
 ponta-sp.dropgame.jp##div.footer_rectangle_ssp:nth-of-type(7)
 ponta-sp.dropgame.jp##div.footer_rectangle_ssp:nth-of-type(8)
 ponta-sp.dropgame.jp##div.footer_rectangle_ssp:nth-of-type(9)
