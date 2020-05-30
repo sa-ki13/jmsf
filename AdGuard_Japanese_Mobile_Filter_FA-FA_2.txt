@@ -3,6 +3,7 @@
 ! Last modified: 30 May 2020 18:27 JST
 ! Last updated: 2020-05-30
 
+||apl.d.dmkt-sp.jp/sugoroku/start/img/start.png$image
 kuji.d.dmkt-sp.jp##.sns-block
 kuji.d.dmkt-sp.jp##.sub_title
 kuji.d.dmkt-sp.jp##section.block:nth-of-type(2)
