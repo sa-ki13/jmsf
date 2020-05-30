@@ -56,7 +56,6 @@ ponta.gamefactory.jp##.marginB5.pickup-type1
 ponta.gamefactory.jp##.marginB5.pickup-type2
 ponta.gamefactory.jp##.marginB5.pickup-type3
 ponta.gamefactory.jp##.marginB5.pickup-type4
-ponta.gamefactory.jp##.section-cpalist.normal-section1
 ponta.gamefactory.jp##.section-tiemsale.normal-section1
 ponta.gamefactory.jp##.title-type3.contents-title
 ponta.gamefactory.jp##h2.title-type1.contents-title:nth-of-type(1)
