@@ -8,6 +8,7 @@
 ||d2x7ubddzu7b7n.cloudfront.net/f7d3b0ab-2db1-31b4-a3fa-9d748e3a187d.gif$image
 ||d305v6nldhjazi.cloudfront.net/sp/images/common/img-top-top.png?v=1579150611$image
 ||d305v6nldhjazi.cloudfront.net/sp/images/lottery/daily/bnr-brain-training-quiz-750x234.png?v=1588242499$image
+||dmkt02.point-ad-game.com/assets/images/page_loader.svg?201911$image
 ||hiroba.dpoint.jp/common/images/common/noimage-144x144.png$image
 dmkt01w03.point-ad-game.com###bnr_top
 dmkt01w03.point-ad-game.com###bnr_top_icon
