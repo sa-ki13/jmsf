@@ -48,3 +48,11 @@ ponta-sp.dropgame.jp##div.footer_rectangle_ssp:nth-of-type(7)
 ponta-sp.dropgame.jp##div.footer_rectangle_ssp:nth-of-type(8)
 ponta-sp.dropgame.jp##div.footer_rectangle_ssp:nth-of-type(9)
 ponta-sp.dropgame.jp##div.footer_rectangle_ssp:nth-of-type(10)
+ad-contents.jp##.type-appear.item-container > .mobile-big-banner.item-block
+ad-contents.jp###footer > .mobile-big-banner.item-block
+ad-contents.jp##.fx-banner > .mobile-big-banner.item-block
+||ad-contents.jp/quiz/assets/sp/img/common/icon-btn-close.png$image
+ad-contents.jp##.overlay-popup
+ad-contents.jp##.overlay-item
+ad-contents.jp##.overlay-mask
+ad-contents.jp##.bg-sky > .mobile-big-banner.item-block
