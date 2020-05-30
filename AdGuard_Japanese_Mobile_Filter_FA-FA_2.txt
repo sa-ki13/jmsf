@@ -11,3 +11,14 @@ kuji.d.dmkt-sp.jp##.sns-block
 kuji.d.dmkt-sp.jp##.sub_title
 kuji.d.dmkt-sp.jp##section.block:nth-of-type(2)
 kuji.d.dmkt-sp.jp###floating-banner
+hiroba.dpoint.jp##.c-sec__l-btn-container > .u-expand-link.btn-default
+||d305v6nldhjazi.cloudfront.net/sp/images/lottery/daily/bnr-brain-training-quiz-750x234.png?v=1588242499$image
+hiroba.dpoint.jp##.c-sec__lead
+hiroba.dpoint.jp##.c-sec__bnr
+hiroba.dpoint.jp##div.c-sec > .c-sec__body
+hiroba.dpoint.jp##.lottery-promotion-list
+hiroba.dpoint.jp###wrapper > .c-sec > .c-sec__header
+hiroba.dpoint.jp##li.c-media.l-shelf-media__item:nth-of-type(1) > .c-media__l-detail > .u-expand-link
+||d2x7ubddzu7b7n.cloudfront.net/f7d3b0ab-2db1-31b4-a3fa-9d748e3a187d.gif$image
+hiroba.dpoint.jp##li.c-media.l-shelf-media__item:nth-of-type(1)
+hiroba.dpoint.jp##li.c-media.l-shelf-media__item:nth-of-type(2) > .c-media__l-detail > .u-expand-link
