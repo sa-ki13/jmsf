@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA 2
 ! Version: 2020-05-30
-! Last modified: 30 May 2020 20:48 JST
+! Last modified: 30 May 2020 20:49 JST
 ! Last updated: 2020-05-30
 
 ||ad-contents.jp/quiz/assets/sp/img/common/icon-btn-close.png$image
@@ -51,21 +51,21 @@ kuji.d.dmkt-sp.jp##.sub_title
 kuji.d.dmkt-sp.jp##section.block:nth-of-type(2)
 point-news.jp##.ad_area
 point-news.jp##.ad_area_stamp
-ponta-sp.dropgame.jp##div.footer_rectangle_ssp:nth-of-type(10)
-ponta-sp.dropgame.jp##div.footer_rectangle_ssp:nth-of-type(7)
-ponta-sp.dropgame.jp##div.footer_rectangle_ssp:nth-of-type(8)
-ponta-sp.dropgame.jp##div.footer_rectangle_ssp:nth-of-type(9)
-ponta.gamefactory.jp##h2.title-type1.contents-title:nth-of-type(1)
 ponta.gamefactory.jp##.cpnlist-column9
-ponta.gamefactory.jp##h2.title-type1.contents-title:nth-of-type(2)
-ponta.gamefactory.jp##.section-cpalist.normal-section1
-ponta.gamefactory.jp##.title-type3.contents-title
-ponta.gamefactory.jp##.section-tiemsale.normal-section1
 ponta.gamefactory.jp##.marginB5.pickup-type1
 ponta.gamefactory.jp##.marginB5.pickup-type2
 ponta.gamefactory.jp##.marginB5.pickup-type3
 ponta.gamefactory.jp##.marginB5.pickup-type4
-ponta.gamefactory.jp##section.normal-section1:nth-of-type(5)
+ponta.gamefactory.jp##.section-cpalist.normal-section1
+ponta.gamefactory.jp##.section-tiemsale.normal-section1
+ponta.gamefactory.jp##.title-type3.contents-title
+ponta.gamefactory.jp##h2.title-type1.contents-title:nth-of-type(1)
+ponta.gamefactory.jp##h2.title-type1.contents-title:nth-of-type(2)
 ponta.gamefactory.jp##h2.title-type1.contents-title:nth-of-type(4)
 ponta.gamefactory.jp##h2.title-type1.contents-title:nth-of-type(5)
+ponta.gamefactory.jp##section.normal-section1:nth-of-type(5)
 ponta.gamefactory.jp##section.normal-section1:nth-of-type(6)
+ponta-sp.dropgame.jp##div.footer_rectangle_ssp:nth-of-type(10)
+ponta-sp.dropgame.jp##div.footer_rectangle_ssp:nth-of-type(7)
+ponta-sp.dropgame.jp##div.footer_rectangle_ssp:nth-of-type(8)
+ponta-sp.dropgame.jp##div.footer_rectangle_ssp:nth-of-type(9)
