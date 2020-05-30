@@ -23,6 +23,7 @@ dmkt01w03.point-ad-game.com###bnr_top
 dmkt01w03.point-ad-game.com###bnr_top_icon
 dmkt02.point-ad-game.com##.page_loading
 dmkt02.point-ad-game.com##.tw-button-s
+dmkt02.point-ad-game.com###container > div > .drawer-overlay > .page_loading
 dmkt02.point-ad-game.com##div.banner:nth-of-type(1)
 hiroba.dpoint.jp###wrapper > .c-sec > .c-sec__body
 hiroba.dpoint.jp###wrapper > .c-sec > .c-sec__header
