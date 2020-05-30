@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA 2
 ! Version: 2020-05-30
-! Last modified: 30 May 2020 18:13 JST
+! Last modified: 30 May 2020 18:33 JST
 ! Last updated: 2020-05-30
 
 ||apl.d.dmkt-sp.jp/sugoroku/start/img/start.png$image
