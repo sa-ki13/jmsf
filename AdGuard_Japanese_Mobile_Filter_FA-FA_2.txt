@@ -68,6 +68,8 @@ tsite.gamefactory.jp###serach1
 tsite.gamefactory.jp##.tab-column2
 tsite.gamefactory.jp##.title-type2.contents-title
 tsite.gamefactory.jp##.section-type1.contents-section
+tsite.gamefactory.jp##.cpnlist-column5
+tsite.gamefactory.jp##.cpnlist-column6
 www.life-n.jp##.ad_area2
 www.life-n.jp##.ad_area3
 www.life-n.jp##.ad_area4
