@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA 2
 ! Version: 2020-05-31
-! Last modified: 31 May 2020 16:02 JST
+! Last modified: 31 May 2020 16:08 JST
 ! Last updated: 2020-05-31
 
 ad-contents.jp###footer > .mobile-big-banner.item-block
@@ -40,6 +40,8 @@ ponta.gamefactory.jp##h2.title-type1.contents-title:nth-of-type(5)
 ponta.gamefactory.jp##section.normal-section1:nth-of-type(5)
 ponta.gamefactory.jp##section.normal-section1:nth-of-type(6)
 ponta-sp.dropgame.jp##div.footer_rectangle_ssp:nth-of-type(10)
+ponta-sp.dropgame.jp##div.footer_rectangle_ssp:nth-of-type(4)
+ponta-sp.dropgame.jp##div.footer_rectangle_ssp:nth-of-type(5)
 ponta-sp.dropgame.jp##div.footer_rectangle_ssp:nth-of-type(6)
 ponta-sp.dropgame.jp##div.footer_rectangle_ssp:nth-of-type(7)
 ponta-sp.dropgame.jp##div.footer_rectangle_ssp:nth-of-type(8)
