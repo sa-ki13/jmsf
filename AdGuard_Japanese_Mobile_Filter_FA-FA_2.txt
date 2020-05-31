@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA 2
 ! Version: 2020-05-31
-! Last modified: 31 May 2020 19:25 JST
+! Last modified: 31 May 2020 19:40 JST
 ! Last updated: 2020-05-31
 
 ||point-news.jp/sp/network/?tag_id=*$subdocument
@@ -55,6 +55,20 @@ tmall-sp.dropgame.jp##div.footer_rectangle_ssp:nth-of-type(6)
 tmall-sp.dropgame.jp##div.footer_rectangle_ssp:nth-of-type(7)
 tmall-sp.dropgame.jp##div.footer_rectangle_ssp:nth-of-type(8)
 tmall-sp.dropgame.jp##div.footer_rectangle_ssp:nth-of-type(9)
+tsite.gamefactory.jp##section.section-cpilist.normal-section1:nth-of-type(2)
+tsite.gamefactory.jp##.section-tiemsale.normal-section1
+tsite.gamefactory.jp##body > .marginT5
+tsite.gamefactory.jp##section.normal-section1:nth-of-type(5)
+tsite.gamefactory.jp##section.normal-section1:nth-of-type(6)
+tsite.gamefactory.jp##h2.title-type1.contents-title:nth-of-type(5)
+tsite.gamefactory.jp##h2.title-type1.contents-title:nth-of-type(4)
+tsite.gamefactory.jp##.title-type3.contents-title
+tsite.gamefactory.jp##h2.title-type1.contents-title:nth-of-type(2)
+tsite.gamefactory.jp##h2.title-type1.contents-title:nth-of-type(1)
+tsite.gamefactory.jp###serach1
+tsite.gamefactory.jp##.tab-column2
+tsite.gamefactory.jp##.title-type2.contents-title
+tsite.gamefactory.jp##.section-type1.contents-section
 www.life-n.jp##.ad_area2
 www.life-n.jp##.ad_area3
 www.life-n.jp##.ad_area4
