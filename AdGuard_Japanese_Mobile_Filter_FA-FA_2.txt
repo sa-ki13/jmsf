@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA 2
 ! Version: 2020-05-31
-! Last modified: 31 May 2020 01:26 JST
+! Last modified: 31 May 2020 12:32 JST
 ! Last updated: 2020-05-31
 
 ||ad-contents.jp/quiz/assets/sp/img/common/icon-btn-close.png$image
@@ -21,32 +21,14 @@ ad-contents.jp##.type-appear.item-container > .mobile-big-banner.item-block
 d.dmkt-sp.jp##.start_wrap_sp
 dmkt01w03.point-ad-game.com###bnr_top
 dmkt01w03.point-ad-game.com###bnr_top_icon
+dmkt01w03.point-ad-game.com###cts_ranking
 dmkt02.point-ad-game.com##.page_loading
 dmkt02.point-ad-game.com##.tw-button-s
 dmkt02.point-ad-game.com###container > div > .drawer-overlay > .page_loading
 dmkt02.point-ad-game.com##div.banner:nth-of-type(1)
-hiroba.dpoint.jp###wrapper > .c-sec > .c-sec__body
-hiroba.dpoint.jp###wrapper > .c-sec > .c-sec__header
-hiroba.dpoint.jp##.c-sec__bnr
-hiroba.dpoint.jp##.c-sec__l-btn-container > .u-expand-link.btn-default
-hiroba.dpoint.jp##.c-sec__l-btn-container > .u-expand-link.btn-default
-hiroba.dpoint.jp##.c-sec__lead
-hiroba.dpoint.jp##.c-sec__more
+hiroba.dpoint.jp##div.c-sec
 hiroba.dpoint.jp##.lottery-promotion-list
-hiroba.dpoint.jp##div.c-sec > .c-sec__body
-hiroba.dpoint.jp##li.c-media.l-shelf-media__item:nth-of-type(1)
-hiroba.dpoint.jp##li.c-media.l-shelf-media__item:nth-of-type(1) > .c-media__l-detail > .u-expand-link
-hiroba.dpoint.jp##li.c-media.l-shelf-media__item:nth-of-type(2)
-hiroba.dpoint.jp##li.c-media.l-shelf-media__item:nth-of-type(2) > .c-media__l-detail > .u-expand-link
-hiroba.dpoint.jp##li.c-media.l-shelf-media__item:nth-of-type(2) > .c-media__l-thumb > .badge-pointup
-hiroba.dpoint.jp##li.c-media.l-shelf-media__item:nth-of-type(3)
-hiroba.dpoint.jp##li.c-media.l-shelf-media__item:nth-of-type(4)
-hiroba.dpoint.jp##li.c-media.l-shelf-media__item:nth-of-type(4) > .c-media__l-detail > .u-expand-link
-hiroba.dpoint.jp##li.c-media.l-shelf-media__item:nth-of-type(5)
-hiroba.dpoint.jp##li.c-media.l-shelf-media__item:nth-of-type(5) > .c-media__l-detail > .u-expand-link
-hiroba.dpoint.jp##li.c-media.l-shelf-media__item:nth-of-type(6)
-hiroba.dpoint.jp##li.c-media.l-shelf-media__item:nth-of-type(6) > .c-media__l-detail > .u-expand-link
-hiroba.dpoint.jp##li.c-media.l-shelf-media__item:nth-of-type(6) > .c-media__l-thumb > .badge-pointup
+hiroba.dpoint.jp###wrapper > .c-sec
 kuji.d.dmkt-sp.jp###floating-banner
 kuji.d.dmkt-sp.jp##.sns-block
 kuji.d.dmkt-sp.jp##.sub_title
