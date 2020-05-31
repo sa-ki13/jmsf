@@ -1,17 +1,8 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA 2
 ! Version: 2020-05-31
-! Last modified: 31 May 2020 12:32 JST
+! Last modified: 31 May 2020 15:12 JST
 ! Last updated: 2020-05-31
 
-||ad-contents.jp/quiz/assets/sp/img/common/icon-btn-close.png$image
-||d2x7ubddzu7b7n.cloudfront.net/8402af2d-c514-34b8-807a-65565c7ea2b5.jpg$image
-||d2x7ubddzu7b7n.cloudfront.net/f7d3b0ab-2db1-31b4-a3fa-9d748e3a187d.gif$image
-||d305v6nldhjazi.cloudfront.net/sp/images/common/img-top-top.png?v=1579150611$image
-||d305v6nldhjazi.cloudfront.net/sp/images/lottery/daily/bnr-brain-training-quiz-750x234.png?v=1588242499$image
-||dmkt02.point-ad-game.com/assets/images/game/result/twitter_btn_s.png$image
-||dmkt02.point-ad-game.com/assets/images/page_loader.svg?201911$image
-||hiroba.dpoint.jp/common/images/common/noimage-144x144.png$image
-||img.topics.smt.news.goo.ne.jp/features_target/34/dmenunews_600x100_blue.png$image
 ad-contents.jp###footer > .mobile-big-banner.item-block
 ad-contents.jp##.fx-banner > .mobile-big-banner.item-block
 ad-contents.jp##.overlay-item
