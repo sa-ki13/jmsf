@@ -1,8 +1,9 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA 2
 ! Version: 2020-05-31
-! Last modified: 31 May 2020 16:08 JST
+! Last modified: 31 May 2020 16:22 JST
 ! Last updated: 2020-05-31
 
+||point-news.jp/sp/network/?tag_id=*$subdocument
 ad-contents.jp###footer > .mobile-big-banner.item-block
 ad-contents.jp##.fx-banner > .mobile-big-banner.item-block
 ad-contents.jp##.overlay-item
@@ -24,8 +25,6 @@ kuji.d.dmkt-sp.jp###floating-banner
 kuji.d.dmkt-sp.jp##.sns-block
 kuji.d.dmkt-sp.jp##.sub_title
 kuji.d.dmkt-sp.jp##section.block:nth-of-type(2)
-point-news.jp##.ad_area
-point-news.jp##.ad_area_stamp
 ponta.gamefactory.jp##.cpnlist-column9
 ponta.gamefactory.jp##.marginB5.pickup-type1
 ponta.gamefactory.jp##.marginB5.pickup-type2
