@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA 2
 ! Version: 2020-06-01
-! Last modified: 01 Jun 2020 18:48 JST
+! Last modified: 01 Jun 2020 18:50 JST
 ! Last updated: 2020-06-01
 
 ||point-news.jp/sp/network/?tag_id=*$subdocument
@@ -76,6 +76,7 @@ tsite.gamefactory.jp##h2.title-type1.contents-title:nth-of-type(5)
 tsite.gamefactory.jp##section.normal-section1:nth-of-type(2)
 tsite.gamefactory.jp##section.normal-section1:nth-of-type(5)
 tsite.gamefactory.jp##section.normal-section1:nth-of-type(6)
+tsite.gamefactory.jp##section.section-cpilist.normal-section1:nth-of-type(1)
 tsite.gamefactory.jp##section.section-cpilist.normal-section1:nth-of-type(2)
 www.life-n.jp##.ad_area10
 www.life-n.jp##.ad_area11
