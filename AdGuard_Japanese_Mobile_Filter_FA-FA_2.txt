@@ -1,45 +1,45 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA 2
-! Version: 2020-05-31
-! Last modified: 31 May 2020 21:02 JST
-! Last updated: 2020-05-31
+! Version: 2020-06-01
+! Last modified: 01 Jun 2020 16:12 JST
+! Last updated: 2020-06-01
 
 ||point-news.jp/sp/network/?tag_id=*$subdocument
 ad-contents.jp###footer > .mobile-big-banner.item-block
-ad-contents.jp##.type-appear.item-container > .mobile-big-banner.item-block
 ad-contents.jp##.fx-banner
-ad-contents.jp##.overlay-mask
 ad-contents.jp##.overlay-item
+ad-contents.jp##.overlay-mask
+ad-contents.jp##.type-appear.item-container > .mobile-big-banner.item-block
 d.dmkt-sp.jp##.start_wrap_sp
 dmkt01w03.point-ad-game.com###bnr_top
 dmkt01w03.point-ad-game.com###bnr_top_icon
 dmkt01w03.point-ad-game.com###cts_ranking
+dmkt02.point-ad-game.com###container > div > .drawer-overlay > .page_loading
 dmkt02.point-ad-game.com##.page_loading
 dmkt02.point-ad-game.com##.tw-button-s
-dmkt02.point-ad-game.com###container > div > .drawer-overlay > .page_loading
 dmkt02.point-ad-game.com##div.banner:nth-of-type(1)
-hiroba.dpoint.jp##div.c-sec
-hiroba.dpoint.jp##.lottery-promotion-list
 hiroba.dpoint.jp###wrapper > .c-sec
+hiroba.dpoint.jp##.lottery-promotion-list
+hiroba.dpoint.jp##div.c-sec
 kuji.d.dmkt-sp.jp###floating-banner
 kuji.d.dmkt-sp.jp##.sns-block
 kuji.d.dmkt-sp.jp##.sub_title
 kuji.d.dmkt-sp.jp##section.block:nth-of-type(2)
-ponta.gamefactory.jp##section.section-cpilist.normal-section1:nth-of-type(2)
-ponta.gamefactory.jp##section.normal-section1:nth-of-type(6)
-ponta.gamefactory.jp##section.normal-section1:nth-of-type(5)
-ponta.gamefactory.jp##body > .marginT5
-ponta.gamefactory.jp##.section-tiemsale.normal-section1
-ponta.gamefactory.jp##h2.title-type1.contents-title:nth-of-type(5)
-ponta.gamefactory.jp##h2.title-type1.contents-title:nth-of-type(4)
-ponta.gamefactory.jp##.title-type3.contents-title
-ponta.gamefactory.jp##h2.title-type1.contents-title:nth-of-type(2)
-ponta.gamefactory.jp##h2.title-type1.contents-title:nth-of-type(1)
 ponta.gamefactory.jp###serach1
-ponta.gamefactory.jp##.tab-column2
-ponta.gamefactory.jp##.title-type2.contents-title
-ponta.gamefactory.jp##.section-type1.contents-section
 ponta.gamefactory.jp##.cpnlist-column5
 ponta.gamefactory.jp##.cpnlist-column6
+ponta.gamefactory.jp##.section-tiemsale.normal-section1
+ponta.gamefactory.jp##.section-type1.contents-section
+ponta.gamefactory.jp##.tab-column2
+ponta.gamefactory.jp##.title-type2.contents-title
+ponta.gamefactory.jp##.title-type3.contents-title
+ponta.gamefactory.jp##body > .marginT5
+ponta.gamefactory.jp##h2.title-type1.contents-title:nth-of-type(1)
+ponta.gamefactory.jp##h2.title-type1.contents-title:nth-of-type(2)
+ponta.gamefactory.jp##h2.title-type1.contents-title:nth-of-type(4)
+ponta.gamefactory.jp##h2.title-type1.contents-title:nth-of-type(5)
+ponta.gamefactory.jp##section.normal-section1:nth-of-type(5)
+ponta.gamefactory.jp##section.normal-section1:nth-of-type(6)
+ponta.gamefactory.jp##section.section-cpilist.normal-section1:nth-of-type(2)
 ponta-sp.dropgame.jp##div.footer_rectangle_ssp:nth-of-type(10)
 ponta-sp.dropgame.jp##div.footer_rectangle_ssp:nth-of-type(4)
 ponta-sp.dropgame.jp##div.footer_rectangle_ssp:nth-of-type(5)
@@ -55,22 +55,28 @@ tmall-sp.dropgame.jp##div.footer_rectangle_ssp:nth-of-type(6)
 tmall-sp.dropgame.jp##div.footer_rectangle_ssp:nth-of-type(7)
 tmall-sp.dropgame.jp##div.footer_rectangle_ssp:nth-of-type(8)
 tmall-sp.dropgame.jp##div.footer_rectangle_ssp:nth-of-type(9)
-tsite.gamefactory.jp##section.section-cpilist.normal-section1:nth-of-type(2)
-tsite.gamefactory.jp##.section-tiemsale.normal-section1
-tsite.gamefactory.jp##body > .marginT5
-tsite.gamefactory.jp##section.normal-section1:nth-of-type(5)
-tsite.gamefactory.jp##section.normal-section1:nth-of-type(6)
-tsite.gamefactory.jp##h2.title-type1.contents-title:nth-of-type(5)
-tsite.gamefactory.jp##h2.title-type1.contents-title:nth-of-type(4)
-tsite.gamefactory.jp##.title-type3.contents-title
-tsite.gamefactory.jp##h2.title-type1.contents-title:nth-of-type(2)
-tsite.gamefactory.jp##h2.title-type1.contents-title:nth-of-type(1)
 tsite.gamefactory.jp###serach1
-tsite.gamefactory.jp##.tab-column2
-tsite.gamefactory.jp##.title-type2.contents-title
-tsite.gamefactory.jp##.section-type1.contents-section
 tsite.gamefactory.jp##.cpnlist-column5
 tsite.gamefactory.jp##.cpnlist-column6
+tsite.gamefactory.jp##.section-tiemsale.normal-section1
+tsite.gamefactory.jp##.section-type1.contents-section
+tsite.gamefactory.jp##.tab-column2
+tsite.gamefactory.jp##.title-type2.contents-title
+tsite.gamefactory.jp##.title-type3.contents-title
+tsite.gamefactory.jp##body > .marginT5
+tsite.gamefactory.jp##h2.title-type1.contents-title:nth-of-type(1)
+tsite.gamefactory.jp##h2.title-type1.contents-title:nth-of-type(2)
+tsite.gamefactory.jp##h2.title-type1.contents-title:nth-of-type(4)
+tsite.gamefactory.jp##h2.title-type1.contents-title:nth-of-type(5)
+tsite.gamefactory.jp##section.normal-section1:nth-of-type(5)
+tsite.gamefactory.jp##section.normal-section1:nth-of-type(6)
+tsite.gamefactory.jp##section.section-cpilist.normal-section1:nth-of-type(2)
+www.life-n.jp##.ad_area10
+www.life-n.jp##.ad_area11
+www.life-n.jp##.ad_area12
+www.life-n.jp##.ad_area13
+www.life-n.jp##.ad_area14
+www.life-n.jp##.ad_area15
 www.life-n.jp##.ad_area2
 www.life-n.jp##.ad_area3
 www.life-n.jp##.ad_area4
@@ -79,9 +85,3 @@ www.life-n.jp##.ad_area6
 www.life-n.jp##.ad_area7
 www.life-n.jp##.ad_area8
 www.life-n.jp##.ad_area9
-www.life-n.jp##.ad_area10
-www.life-n.jp##.ad_area11
-www.life-n.jp##.ad_area12
-www.life-n.jp##.ad_area13
-www.life-n.jp##.ad_area14
-www.life-n.jp##.ad_area15
