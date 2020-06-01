@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA 2
 ! Version: 2020-06-01
-! Last modified: 01 Jun 2020 16:12 JST
+! Last modified: 01 Jun 2020 18:26 JST
 ! Last updated: 2020-06-01
 
 ||point-news.jp/sp/network/?tag_id=*$subdocument
@@ -25,11 +25,13 @@ kuji.d.dmkt-sp.jp##.sns-block
 kuji.d.dmkt-sp.jp##.sub_title
 kuji.d.dmkt-sp.jp##section.block:nth-of-type(2)
 ponta.gamefactory.jp###serach1
+ponta.gamefactory.jp##.bx-viewport
 ponta.gamefactory.jp##.cpnlist-column5
 ponta.gamefactory.jp##.cpnlist-column6
 ponta.gamefactory.jp##.section-tiemsale.normal-section1
 ponta.gamefactory.jp##.section-type1.contents-section
 ponta.gamefactory.jp##.tab-column2
+ponta.gamefactory.jp##.title-type1.contents-title
 ponta.gamefactory.jp##.title-type2.contents-title
 ponta.gamefactory.jp##.title-type3.contents-title
 ponta.gamefactory.jp##body > .marginT5
@@ -37,6 +39,7 @@ ponta.gamefactory.jp##h2.title-type1.contents-title:nth-of-type(1)
 ponta.gamefactory.jp##h2.title-type1.contents-title:nth-of-type(2)
 ponta.gamefactory.jp##h2.title-type1.contents-title:nth-of-type(4)
 ponta.gamefactory.jp##h2.title-type1.contents-title:nth-of-type(5)
+ponta.gamefactory.jp##section.normal-section1:nth-of-type(2)
 ponta.gamefactory.jp##section.normal-section1:nth-of-type(5)
 ponta.gamefactory.jp##section.normal-section1:nth-of-type(6)
 ponta.gamefactory.jp##section.section-cpilist.normal-section1:nth-of-type(2)
