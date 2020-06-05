@@ -542,7 +542,6 @@
 ||tinypass.com^
 ||tm.r-ad.ne.jp^
 ||tmbi.tt.omtrdc.net^
-||tokyo.in.treasuredata.com^
 ||topernews.me^
 ||torimochi-ad.net^
 ||tpc.googlesyndication.com^
