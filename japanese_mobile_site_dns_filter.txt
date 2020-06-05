@@ -523,7 +523,6 @@
 ||tgknt.com^
 ||thebrighttag.com^
 ||tinypass.com^
-||tm.r-ad.ne.jp^
 ||tmbi.tt.omtrdc.net^
 ||topernews.me^
 ||torimochi-ad.net^
