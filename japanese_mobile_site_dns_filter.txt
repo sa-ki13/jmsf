@@ -589,7 +589,7 @@
 @@||qps.cint.com^
 @@||s.cint.com^
 @@||www.google-analytics.com^
-@@||s9.r-ad.ne.jp^
+@@||s9.r-ad.ne.jp^so
 @@||frtn.socdm.com^
 @@||tg.socdm.com^
 @@||in.treasuredata.com^
