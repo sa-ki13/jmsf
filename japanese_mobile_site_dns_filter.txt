@@ -26,7 +26,7 @@
 @@||recruit.112.2o7.net^
 @@||router.cint.com^
 @@||s.cint.com^
-@@||s9.r-ad.ne.jp^so
+@@||s9.r-ad.ne.jp^
 @@||ssl.google-analytics.com^
 @@||sync.im-apps.net^
 @@||tg.socdm.com^
