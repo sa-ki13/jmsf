@@ -263,7 +263,6 @@
 ||fam-ad.com^
 ||firebaseinstallations.googleapis.com^
 ||fivecdm.com^
-||fls.doubleclick.net^
 ||foresee.com^
 ||forter.com^
 ||fourmtagservices.com^
@@ -280,7 +279,6 @@
 ||glssp.net
 ||gmossp-sp.jp^
 ||go-mpulse.net^
-||googleads.g.doubleclick.net^
 ||googleadservices.com^
 ||grunerandjahr.112.2o7.net^
 ||gscontxt.net^
@@ -438,7 +436,6 @@
 ||proper.io^
 ||ptengine.com^
 ||ptengine.jp^
-||pubads.g.doubleclick.net^
 ||pubmatic.com^
 ||pw.gigazine.net^
 ||px-cloud.net^
