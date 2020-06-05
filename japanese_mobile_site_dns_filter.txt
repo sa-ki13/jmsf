@@ -97,7 +97,6 @@
 ||ad-stir.com^
 ||adtdp.com^
 ||advertising.com^
-||advg.jp^
 ||adw.addlv.smt.docomo.ne.jp^
 ||adzerk.net^
 ||aeondigital.d1.sc.omtrdc.net^
