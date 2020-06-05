@@ -470,7 +470,6 @@
 ||sda.seesaa.jp^
 ||sdk.push7.jp^
 ||search-api.fie.future.net.uk^
-||securepubads.g.doubleclick.net^
 ||services.zam.com^
 ||serving-sys.com^
 ||settings.crashlytics.com^
@@ -507,15 +506,12 @@
 ||startappservice.com^
 ||static.addtoany.com^
 ||static.ads-twitter.com^
-||static.doubleclick.net^
 ||static.mixi.jp^
-||stats.g.doubleclick.net^
 ||stats.pusher.com^
 ||stats.wordpress.com^
 ||stats.wp.com^
 ||summerhamster.com^
 ||sumo.com^
-||survey.g.doubleclick.net^
 ||t.karte.io^
 ||t.seesaa.net^
 ||taboola.com^
