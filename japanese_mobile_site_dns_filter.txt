@@ -52,7 +52,6 @@
 ||ad.ads-lite.net^
 ||ad.adxad.jp^
 ||ad.atown.jp^
-||ad.doubleclick.net^
 ||ad.gt^
 ||ad.polymorphicads.jp^
 ||ad.pr.ameba.jp^
@@ -154,7 +153,6 @@
 ||beacon.wikia-services.com^
 ||benessecorp.d1.sc.omtrdc.net^
 ||benessecorp.tt.omtrdc.net^
-||bid.g.doubleclick.net^
 ||bidswitch.net^
 ||bizographics.com^
 ||bkrtx.com^
