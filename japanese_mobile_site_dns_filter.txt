@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile DNS Filter FA-FA
 ! Version: 2020-06-05
-! Last modified: 16 Jun 2020 22:09 JST
+! Last modified: 16 Jun 2020 22:35 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-05
 
@@ -54,7 +54,6 @@
 ||ad.atown.jp^
 ||ad.doubleclick.net^
 ||ad.gt^
-||ad.jp.ap.valuecommerce.com^
 ||ad.polymorphicads.jp^
 ||ad.pr.ameba.jp^
 ||ad.primead.jp^
@@ -110,7 +109,6 @@
 ||alb.reddit.com^
 ||alexametrics.com^
 ||amazon-adsystem.com^
-||aml.valuecommerce.com^
 ||amoad.com^
 ||analytics.archive.org^
 ||analytics.edgekey.net^
