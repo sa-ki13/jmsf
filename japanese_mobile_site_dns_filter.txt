@@ -180,7 +180,6 @@
 ||cdn-image.com^
 ||cdp.cloud.unity3d.com^
 ||cedexis.com^
-||cf.im-apps.net^
 ||chartbeat.com^
 ||check-out-this.site^
 ||cinarra.com^
@@ -239,7 +238,6 @@
 ||discoverynordics.hb.omtrdc.net^
 ||distillery.wistia.com^
 ||dlv.itmedia.jp^
-||dmp.im-apps.net^
 ||dmxleo.dailymotion.com^
 ||dni-adops-proxy-prod-adopsmediaconverter.mercury.dnitv.com^
 ||dpmsrv.com^
