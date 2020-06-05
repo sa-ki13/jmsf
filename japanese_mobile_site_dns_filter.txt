@@ -277,7 +277,6 @@
 ||gmossp-sp.jp^
 ||go-mpulse.net^
 ||googleadservices.com^
-||grunerandjahr.112.2o7.net^
 ||gscontxt.net^
 ||gscounters.eu1.gigya.com^
 ||gscounters.us1.gigya.com^
@@ -352,7 +351,6 @@
 ||marfeel.com^
 ||marketo.net^
 ||maruig.tt.omtrdc.net^
-||maruivoi.122.2o7.net^
 ||maruivoi.sc.omtrdc.net^
 ||match.adsrvr.org^
 ||matheranalytics.com^
@@ -438,7 +436,6 @@
 ||quantcount.com^
 ||quantserve.com^
 ||r.profilepassport.jp^
-||rakuten.112.2o7.net^
 ||rakutenrpointcard.sc.omtrdc.net^
 ||ranking.rakuten.co.jp^
 ||rcm.shinobi.jp^
