@@ -231,7 +231,6 @@ _120x60.
 ||juicer.cc^
 ||jwpltx.com^
 ||kochava.com^
-||krxd.net^
 ||l.sharethis.com^
 ||letro.jp^
 ||licdn.com/li.lms-analytics/
