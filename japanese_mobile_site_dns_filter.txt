@@ -296,7 +296,6 @@
 ||img.hapitas.jp^
 ||img.macromill.com^
 ||i-mobile.co.jp^
-||imrworldwide.com^
 ||insight.adsrvr.org^
 ||inspectlet.com^
 ||instant.page^
