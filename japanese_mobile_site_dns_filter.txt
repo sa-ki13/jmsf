@@ -304,7 +304,6 @@
 ||io.narrative.io^
 ||iogous.com^
 ||ipapi.tmbi.com^
-||j.zucks.net.zimg.jp^
 ||jp-axia.m0mentum.net^
 ||js.driftt.com^
 ||js.gsspcln.jp^
