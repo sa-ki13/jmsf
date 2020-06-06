@@ -226,6 +226,7 @@ _300x250.
 ||io.narrative.io/?$third-party
 ||itest.5ch.net/assets/img/loading.gif^$redirect=1x1-transparent.gif
 ||itest.5ch.net/assets/img/ronin_premium_640x100.png
+||j-a-net.jp^
 ||js.gsspcln.jp^$third-party
 ||js.rtoaster.jp^
 ||js-agent.newrelic.com^
