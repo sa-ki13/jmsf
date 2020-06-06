@@ -452,7 +452,6 @@
 ||rubiconproject.com^
 ||s.adroll.com^
 ||s.pubmine.com^
-||s0.2mdn.net^
 ||s7.addthis.com^
 ||sail-horizon.com^
 ||sascdn.com^
