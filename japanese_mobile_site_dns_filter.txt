@@ -434,7 +434,6 @@
 ||px-cloud.net^
 ||quantcount.com^
 ||quantserve.com^
-||r.profilepassport.jp^
 ||rakutenrpointcard.sc.omtrdc.net^
 ||ranking.rakuten.co.jp^
 ||rcm.shinobi.jp^
