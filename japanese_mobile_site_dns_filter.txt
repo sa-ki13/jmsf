@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile DNS Filter FA-FA
 ! Version: 2020-06-06
-! Last modified: 06 Jun 2020 15:21 JST
+! Last modified: 06 Jun 2020 15:44 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-06
 
@@ -101,6 +101,7 @@
 ||af-110.com^
 ||affiliate.rakuten.co.jp^
 ||affiliate-b.com^
+||aeondigital.d1.sc.omtrdc.net^
 ||airpr.com^
 ||alb.reddit.com^
 ||alexametrics.com^
@@ -127,6 +128,7 @@
 ||appsflyer.com^
 ||apptornado.com^
 ||apvdr.com^
+||asahishimbun.sc.omtrdc.net^
 ||asset.adserver.vrizead.com^
 ||aswpsdkus.com^
 ||atdmt.com^
@@ -148,6 +150,8 @@
 ||bdash-cloud.com^
 ||beacon.itmedia.jp^
 ||beacon.wikia-services.com^
+||benessecorp.d1.sc.omtrdc.net^
+||benessecorp.tt.omtrdc.net^
 ||bidswitch.net^
 ||bizographics.com^
 ||bkrtx.com^
@@ -156,6 +160,7 @@
 ||blueconic.net^
 ||boomtrain.com^
 ||bounceexchange.com^
+||britishairways.d3.sc.omtrdc.net^
 ||buysellads.net^
 ||c.betrad.com^
 ||c.msn.com^
@@ -168,6 +173,7 @@
 ||cdn.bigmining.com^
 ||cdn.lodeo.io^
 ||cdn.onesignal.com^
+||cdn.tt.omtrdc.net^
 ||cdn.tynt.com^
 ||cdn2.pubexchange.com^
 ||cdn-f.adsmoloco.com^
@@ -228,6 +234,9 @@
 ||demdex.net^
 ||deployads.com^
 ||deqwas.net^
+||dhc.tt.omtrdc.net^
+||discoverynordics.d3.sc.omtrdc.net^
+||discoverynordics.hb.omtrdc.net^
 ||distillery.wistia.com^
 ||dlv.itmedia.jp^
 ||dmxleo.dailymotion.com^
@@ -292,8 +301,10 @@
 ||insight.adsrvr.org^
 ||inspectlet.com^
 ||instant.page^
+||intelligence.sc.omtrdc.net^
 ||intellitxt.com^
 ||intentmedia.net^
+||investorsbusinessdai.tt.omtrdc.net^
 ||invocation.cheqzone.com^
 ||io.narrative.io^
 ||iogous.com^
@@ -341,6 +352,8 @@
 ||main.pubexchange.com^
 ||marfeel.com^
 ||marketo.net^
+||maruig.tt.omtrdc.net^
+||maruivoi.sc.omtrdc.net^
 ||match.adsrvr.org^
 ||matheranalytics.com^
 ||mathtag.com^
@@ -368,6 +381,9 @@
 ||mtrcs.samba.tv^
 ||mxpnl.com^
 ||nakanohito.jp^
+||nbcume.sc.omtrdc.net^
+||neccorp.sc.omtrdc.net^
+||neccorp.tt.omtrdc.net^
 ||nend.net^
 ||nex8.net^
 ||nicoad.nicovideo.jp^
@@ -423,6 +439,7 @@
 ||quantcount.com^
 ||quantserve.com^
 ||r.profilepassport.jp^
+||rakutenrpointcard.sc.omtrdc.net^
 ||ranking.rakuten.co.jp^
 ||rcm.shinobi.jp^
 ||rddywd.com^
@@ -463,6 +480,7 @@
 ||smart-c.jp^
 ||smartcanvas.net^
 ||smartnews-ads.com^
+||smbc.sc.omtrdc.net^
 ||smetrics.cnn.com^
 ||smpop.icfcdn.com^
 ||s-onetag.com^
@@ -507,6 +525,7 @@
 ||tgknt.com^
 ||thebrighttag.com^
 ||tinypass.com^
+||tmbi.tt.omtrdc.net^
 ||topernews.me^
 ||torimochi-ad.net^
 ||tpc.googlesyndication.com^
@@ -527,8 +546,10 @@
 ||tribalfusion.com^
 ||trk.vidible.tv^
 ||tru.am^
+||trustedmediabrands.sc.omtrdc.net^
 ||trustx.org^
 ||turn.com^
+||ubmtech.d3.sc.omtrdc.net^
 ||undertone.com^
 ||unid.go.com^
 ||untidyrice.com^
@@ -547,6 +568,7 @@
 ||widget.intercom.io^
 ||widget.pushbullet.com^
 ||widgets.getpocket.com^
+||wileypublishing.sc.omtrdc.net^
 ||woopra.com^
 ||xg4ken.com^
 ||xlisting.jp^
