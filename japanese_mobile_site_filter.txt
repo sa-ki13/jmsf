@@ -1,8 +1,8 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
-! Version: 2020-06-05
-! Last modified: 05 Jun 2020 22:51 JST
+! Version: 2020-06-06
+! Last modified: 06 Jun 2020 10:24 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-06-05
+! Last updated: 2020-06-06
 
 &bannerid=
 .adnwif.
@@ -144,7 +144,6 @@ _120x60.
 ||cdn.mainichi.jp/vol1/js/sp/share.js
 ||cdn.onesignal.com^
 ||cdn.segment.com/analytics.js
-||cdn.tt.omtrdc.net^
 ||cdn-f.adsmoloco.com^
 ||cdp.cloud.unity3d.com^
 ||cinarra.com^
@@ -187,7 +186,6 @@ _120x60.
 ||facebook.com/tr/?
 ||facebook.com^*/logging/
 ||fivecdm.com^
-||fls.doubleclick.net^$third-party
 ||fourmtagservices.com^$third-party
 ||genieedmp.com^
 ||ggm-contents.bangumi.org^
@@ -277,7 +275,6 @@ _120x60.
 ||sail-horizon.com^$third-party
 ||sascdn.com^$third-party
 ||scorecardresearch.com^
-||s-cs.send.microad.jp^
 ||settings.crashlytics.com^
 ||sgali-mcs.byteoversea.com^
 ||sgbid.prod.sift.co^
@@ -291,14 +288,10 @@ _120x60.
 ||sociorocketnews.files.wordpress.com/*&crop=1$image
 ||s-onetag.com^$third-party
 ||sp.gmossp-sp.jp^
-||s-rtb.send.microad.jp^
-||ssl.google-analytics.com^
 ||stack-sonar.com^$third-party
 ||startappservice.com^
 ||static.addtoany.com$third-party
 ||static.ads-twitter.com^
-||static.doubleclick.net^
-||stats.g.doubleclick.net^
 ||syndication.exoclick.com^$document
 ||t.blog.livedoor.jp/u.js
 ||t.co/i/adsct?
