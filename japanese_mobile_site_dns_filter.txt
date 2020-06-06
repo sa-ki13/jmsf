@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile DNS Filter FA-FA
 ! Version: 2020-06-06
-! Last modified: 06 Jun 2020 21:04 JST
+! Last modified: 06 Jun 2020 21:15 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-06
 
@@ -38,7 +38,6 @@
 ||4dsply.com^
 ||5e529.v.fwmrm.net^
 ||a.cookpad-ads.com^
-||a.line.me^
 ||a.o2u.jp^
 ||a.quora.com^
 ||a.ria.ru^
