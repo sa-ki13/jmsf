@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile DNS Filter FA-FA
 ! Version: 2020-06-06
-! Last modified: 06 Jun 2020 14:06 JST
+! Last modified: 06 Jun 2020 14:08 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-06
 
@@ -322,6 +322,7 @@
 ||l.betrad.com^
 ||l.sharethis.com^
 ||ladsp.com^
+||letro.jp^
 ||liadm.com^
 ||liftoff.io^
 ||lightboxcdn.com^
