@@ -268,7 +268,7 @@ _120x60.
 ||rd.rakuten.co.jp^
 ||referrer.disqus.com^
 ||reutersmedia.net/*/js/analytics/win-GTM.js
-||rmtag.com^$third-party
+||rmtag.com^
 ||rs.adapf.com^
 ||rsalcau.com^$document,popup
 ||s.pinimg.com/ct/core.js
