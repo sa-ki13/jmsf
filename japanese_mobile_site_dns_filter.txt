@@ -332,7 +332,6 @@
 ||krxd.net^
 ||l.betrad.com^
 ||l.sharethis.com^
-||ladsp.com^
 ||letro.jp^
 ||liadm.com^
 ||liftoff.io^
