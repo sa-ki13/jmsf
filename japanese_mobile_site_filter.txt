@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
 ! Version: 2020-06-06
-! Last modified: 06 Jun 2020 17:34 JST
+! Last modified: 06 Jun 2020 21:05 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-06
 
@@ -267,6 +267,7 @@ _120x60.
 ||parts.blog.livedoor.jp/img/lite2/usr/matomeblue/bg_header_b.png$image
 ||performance.typekit.net^
 ||permutive.com^$third-party
+||petametrics.com^
 ||pgmcdn.com^
 ||pipedream.wistia.com^
 ||pixel.quantserve.com$third-party
