@@ -140,7 +140,6 @@
 ||b16.yahoo.co.jp^
 ||b5.yahoo.co.jp^
 ||b9.yahoo.co.jp^
-||b92.yahoo.co.jp^
 ||b97.yahoo.co.jp^
 ||banner.buyee.jp^
 ||bannerfarm.aolp.jp^
