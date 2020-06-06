@@ -141,6 +141,7 @@ _120x60.
 ||bs.nakanohito.jp^$third-party
 ||c.bing.com/c.gif
 ||c1.adform.net^
+||casalemedia.com^
 ||cd.ladsp.com^
 ||cdn.ampproject.org/*/amp-analytics-
 ||cdn.ampproject.org/v0/amp-sticky-ad-1.0.js
