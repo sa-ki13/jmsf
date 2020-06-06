@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile DNS Filter FA-FA
 ! Version: 2020-06-06
-! Last modified: 06 Jun 2020 16:00 JST
+! Last modified: 06 Jun 2020 16:01 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-06
 
@@ -120,7 +120,6 @@
 ||api.webpush.jp^
 ||api-analytics.metaps.com^
 ||api-analytics-bootstrap.metaps.com^
-||app.adjust.com^
 ||appbaqend.com^
 ||appier.net^
 ||applovin.com^
