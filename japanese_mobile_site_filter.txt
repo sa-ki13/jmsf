@@ -288,7 +288,7 @@ _120x60.
 ||s.yimg.jp/images/listing/tool/yads/
 ||s.yimg.jp/images/login/sp/js/login_promo/1.1.8/login_promo-min.js
 ||s.yjtag.jp/tag.js
-||sail-horizon.com^$third-party
+||sail-horizon.com^
 ||sascdn.com^$third-party
 ||scorecardresearch.com^
 ||sgali-mcs.byteoversea.com^
