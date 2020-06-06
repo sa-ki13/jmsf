@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
 ! Version: 2020-06-06
-! Last modified: 06 Jun 2020 22:42 JST
+! Last modified: 06 Jun 2020 22:45 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-06
 
@@ -87,6 +87,7 @@
 @@||www.googletagmanager.com/gtm.js?id=GTM-5W8NGB8$domain=ponta.jp,third-party,app=com.android.chrome
 _120_60.
 _120x60.
+_300x250.
 ||a.appbaqend.com^
 ||a.o2u.jp^
 ||a.quora.com^
