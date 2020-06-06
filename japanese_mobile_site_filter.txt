@@ -170,6 +170,7 @@ _120x60.
 ||criteo.net^
 ||cross-system.com^$third-party
 ||crsspxl.com^$third-party
+||crwdcntrl.net^
 ||cxense.com^$third-party
 ||d.applvn.com^
 ||d.line-scdn.net/*/torimochi.js/*/torimochi.js
