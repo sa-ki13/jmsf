@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile DNS Filter FA-FA
 ! Version: 2020-06-06
-! Last modified: 06 Jun 2020 22:26 JST
+! Last modified: 06 Jun 2020 22:55 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-06
 
@@ -268,7 +268,6 @@
 ||geo.yahoo.com^
 ||ggm-contents.bangumi.org^
 ||gigazine.asia^
-||glossom.jp^
 ||glssp.net
 ||gmossp-sp.jp^
 ||go-mpulse.net^
