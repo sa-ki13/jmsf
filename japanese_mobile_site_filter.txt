@@ -191,6 +191,7 @@ _120x60.
 ||fourmtagservices.com^$third-party
 ||genieedmp.com^
 ||ggm-contents.bangumi.org^
+||go-mpulse.net^
 ||google.co.jp/gen_204?$other
 ||googleadservices.com^
 ||google-analytics.com/analytics.js$third-party
