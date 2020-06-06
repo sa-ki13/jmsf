@@ -584,4 +584,4 @@
 ||ziyu.net^
 ||zqtk.net^
 ||zucks.net^
-
+$$link[rel="manifest"]
