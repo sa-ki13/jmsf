@@ -411,7 +411,6 @@
 ||pixel.advertising.com^
 ||pixel.condenastdigital.com^
 ||pixel.parsely.com^
-||pixel.tapad.com^
 ||pixel.wp.com^
 ||pixiedust.buzzfeed.com^
 ||pixon.ads-pixiv.net^
