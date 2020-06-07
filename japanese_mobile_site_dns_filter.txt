@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile DNS Filter FA-FA
 ! Version: 2020-06-07
-! Last modified: 07 Jun 2020 12:48 JST
+! Last modified: 07 Jun 2020 15:38 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-07
 
@@ -91,7 +91,6 @@
 ||ads.travelaudience.com^
 ||adsafeprotected.com^
 ||adserver.adtech.de^
-||adservice.google.co.jp^
 ||adservice.google.co.uk^
 ||adservice.google.com^
 ||adtdp.com^
