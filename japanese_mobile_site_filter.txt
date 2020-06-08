@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
 ! Version: 2020-06-08
-! Last modified: 08 Jun 2020 15:10 JST
+! Last modified: 08 Jun 2020 15:12 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-08
 
@@ -158,8 +158,10 @@ _300x250.
 ||cdn-f.adsmoloco.com^
 ||cdp.cloud.unity3d.com^
 ||chartbeat.com^
+||ci.line-apps.com^
 ||cinarra.com^
 ||cintnetworks.com^
+||cix.line-apps.com^
 ||cloudfront.net/script.js$script,third-party
 ||collect.igodigital.com^
 ||collector.githubapp.com^
@@ -173,6 +175,7 @@ _300x250.
 ||c-rings.net^
 ||criteo.net^
 ||cross-system.com^$third-party
+||crs-event.line.me^
 ||crsspxl.com^$third-party
 ||crwdcntrl.net^
 ||cxense.com^$third-party
@@ -289,6 +292,7 @@ _300x250.
 ||pw.gigazine.net^
 ||quantcount.com^$third-party
 ||rd.rakuten.co.jp^
+||reaction.line.me^
 ||referrer.disqus.com^
 ||reutersmedia.net/*/js/analytics/win-GTM.js
 ||revsci.net^
@@ -318,6 +322,7 @@ _300x250.
 ||sociorocketnews.files.wordpress.com/*&crop=1$image
 ||s-onetag.com^$third-party
 ||sp.gmossp-sp.jp^
+||ssl.image.appdriver.jp^
 ||stack-sonar.com^$third-party
 ||startappservice.com^
 ||static.addtoany.com$third-party
@@ -331,10 +336,12 @@ _300x250.
 ||tags.tiqcdn.com^
 ||teacup.com/cgi-bin/Count.cgi^
 ||teads.tv^
+||terms.line.me^
 ||textuploader.com/assets/img/patterns/bg*.png$image
 ||tgknt.com^
 ||tinypass.com^
 ||tpc.googlesyndication.com^
+||tr.line.me^
 ||tr.snapchat.com^
 ||tracer.jp^
 ||trafficjunky.com^$third-party
@@ -346,6 +353,7 @@ _300x250.
 ||widget.intercom.io^$third-party
 ||widget.pushbullet.com^$third-party
 ||widgets.getpocket.com^$third-party
+||www.googletagmanager.com^$app=jp.naver.line.android
 ||yahoo.co.jp/b?
 ||yimg.com/wi/ytc.js
 ||yimg.jp/bdv/
@@ -447,14 +455,3 @@ www.life-n.jp##.ad_area6
 www.life-n.jp##.ad_area7
 www.life-n.jp##.ad_area8
 www.life-n.jp##.ad_area9
-||terms.line.me^$app=jp.naver.line.android
-||tr.line.me^$app=jp.naver.line.android
-||ci.line-apps.com^$app=jp.naver.line.android
-||reaction.line.me^$app=jp.naver.line.android
-||www.googletagmanager.com^$app=jp.naver.line.android
-||cdn.polyfill.io^$app=jp.naver.line.android
-||polyfill.io^$app=jp.naver.line.android
-||s.yimg.jp^$app=jp.naver.line.android
-||ssl.image.appdriver.jp^$app=jp.naver.line.android
-||crs-event.line.me^$app=jp.naver.line.android
-||cix.line-apps.com^$app=jp.naver.line.android
