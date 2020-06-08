@@ -1,8 +1,8 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
-! Version: 2020-06-07
-! Last modified: 07 Jun 2020 18:50 JST
+! Version: 2020-06-08
+! Last modified: 08 Jun 2020 15:10 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-06-07
+! Last updated: 2020-06-08
 
 &advid=$~image
 &bannerid=
@@ -447,3 +447,14 @@ www.life-n.jp##.ad_area6
 www.life-n.jp##.ad_area7
 www.life-n.jp##.ad_area8
 www.life-n.jp##.ad_area9
+||terms.line.me^$app=jp.naver.line.android
+||tr.line.me^$app=jp.naver.line.android
+||ci.line-apps.com^$app=jp.naver.line.android
+||reaction.line.me^$app=jp.naver.line.android
+||www.googletagmanager.com^$app=jp.naver.line.android
+||cdn.polyfill.io^$app=jp.naver.line.android
+||polyfill.io^$app=jp.naver.line.android
+||s.yimg.jp^$app=jp.naver.line.android
+||ssl.image.appdriver.jp^$app=jp.naver.line.android
+||crs-event.line.me^$app=jp.naver.line.android
+||cix.line-apps.com^$app=jp.naver.line.android
