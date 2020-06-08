@@ -4,6 +4,7 @@
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-08
 
+$$link[rel="manifest"]
 &advid=$~image
 &bannerid=
 .adnwif.
@@ -363,7 +364,6 @@ _300x250.
 ||yldbt.com^
 ||youtube.com/api/stats/qoe?
 ||youtube.com/subscribe_embed?$third-party
-$$link[rel="manifest"]
 -300x250-$~xmlhttprequest
 ad-contents.jp###footer > .mobile-big-banner.item-block
 ad-contents.jp##.fx-banner
