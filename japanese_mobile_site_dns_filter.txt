@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile DNS Filter FA-FA
 ! Version: 2020-06-08
-! Last modified: 08 Jun 2020 15:11 JST
+! Last modified: 08 Jun 2020 15:14 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-08
 
@@ -175,8 +175,10 @@
 ||cedexis.com^
 ||chartbeat.com^
 ||check-out-this.site^
+||ci.line-apps.com^
 ||cinarra.com^
 ||cintnetworks.com^
+||cix.line-apps.com^
 ||clicktale.net^
 ||clicktripz.com^
 ||client.crisp.chat^
@@ -202,6 +204,7 @@
 ||criteo.com^
 ||criteo.net^
 ||cross-system.com^
+||crs-event.line.me^
 ||crsspxl.com^
 ||crwdcntrl.net^
 ||csi.gstatic.com^
@@ -424,6 +427,7 @@
 ||ranking.rakuten.co.jp^
 ||rcm.shinobi.jp^
 ||rddywd.com^
+||reaction.line.me^
 ||realvu.net^
 ||referrer.disqus.com^
 ||revcontent.com^
@@ -474,6 +478,7 @@
 ||spotxcdn.com^
 ||spotxchange.com^
 ||squirrelhands.com^
+||ssl.image.appdriver.jp^
 ||st.dynamicyield.com^
 ||stack-sonar.com^
 ||stags.bluekai.com^
@@ -502,6 +507,7 @@
 ||teads.tv^
 ||technoratimedia.com^
 ||tel-kod.ru^
+||terms.line.me^
 ||tgknt.com^
 ||thebrighttag.com^
 ||tinypass.com^
@@ -510,6 +516,7 @@
 ||torimochi-ad.net^
 ||tpc.googlesyndication.com^
 ||tr.infopanel.jp^
+||tr.line.me^
 ||tr.snapchat.com^
 ||tracer.jp^
 ||track.dictionary.com^
@@ -567,10 +574,3 @@
 ||ziyu.net^
 ||zqtk.net^
 ||zucks.net^
-||lpgen.line-scdn.net^
-||reaction.line.me^
-||crs-event.line.me^
-||ci.line-apps.com^
-||cix.line-apps.com^
-||polyfill.io^
-||ssl.image.appdriver.jp^
