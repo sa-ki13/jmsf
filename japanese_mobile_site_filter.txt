@@ -5,6 +5,7 @@
 ! Last updated: 2020-06-08
 
 $$link[rel="manifest"]
+?tid=*&red=1&*&abt=$redirect=nooptext,important
 &advid=$~image
 &bannerid=
 .adnwif.
