@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
 ! Version: 2020-06-09
-! Last modified: 09 Jun 2020 03:22 JST
+! Last modified: 09 Jun 2020 14:28 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-09
 
@@ -190,6 +190,7 @@ _300x250.
 ||d1jh13j6azkbbi.cloudfront.net^
 ||d2-apps.net/*/impressions/log
 ||d2ibu2ug0mt5qp.cloudfront.net^
+||d2x7ubddzu7b7n.cloudfront.net^
 ||d3ezl4ajpp2zy8.cloudfront.net^
 ||d3ud741uvs727m.cloudfront.net^
 ||d3v3bqdndm4erx.cloudfront.net^
@@ -384,6 +385,7 @@ dmkt02.point-ad-game.com###container > div > .drawer-overlay > .page_loading
 dmkt02.point-ad-game.com##.page_loading
 dmkt02.point-ad-game.com##.tw-button-s
 dmkt02.point-ad-game.com##div.banner:nth-of-type(1)
+hiroba.dpoint.jp###js-floating
 hiroba.dpoint.jp###wrapper > .c-sec
 hiroba.dpoint.jp##.lottery-promotion-list
 hiroba.dpoint.jp##div.c-sec
