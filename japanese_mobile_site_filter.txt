@@ -391,6 +391,7 @@ hiroba.dpoint.jp###js-floating
 hiroba.dpoint.jp###wrapper > .c-sec
 hiroba.dpoint.jp##.lottery-promotion-list
 hiroba.dpoint.jp##div.c-sec
+item.rakuten.co.jp##div > label
 kuji.d.dmkt-sp.jp###floating-banner
 kuji.d.dmkt-sp.jp##.sns-block
 kuji.d.dmkt-sp.jp##.sub_title
