@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
 ! Version: 2020-06-10
-! Last modified: 10 Jun 2020 22:20 JST
+! Last modified: 10 Jun 2020 22:21 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-10
 
@@ -138,7 +138,6 @@ _300x250.
 ||blismedia.com^$third-party
 ||blog.seesaa.jp/oem_contents/popular_article_ads/jbbs.js
 ||c.bing.com/c.gif
-||caprofitx.com^
 ||casalemedia.com^
 ||cdn.ampproject.org/*/amp-analytics-
 ||cdn.ampproject.org/v0/amp-sticky-ad-1.0.js
