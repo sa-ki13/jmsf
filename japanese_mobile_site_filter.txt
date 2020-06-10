@@ -102,7 +102,6 @@ _300x250.
 ||aaxads.com^
 ||accesstrade.net^
 ||ad.jp.ap.valuecommerce.com^
-||adapf.com^
 ||adcdn.goo.ne.jp^
 ||ade.googlesyndication.com^
 ||adingo.jp^
