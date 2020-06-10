@@ -144,7 +144,6 @@ _300x250.
 ||casalemedia.com^
 ||cdn.ampproject.org/*/amp-analytics-
 ||cdn.ampproject.org/v0/amp-sticky-ad-1.0.js
-||cdn.caprofitx.com^
 ||cdn.d2-apps.net/js/tr.js
 ||cdn.fivecdm.com/adsbyfive.js
 ||cdn.gmossp-sp.jp^
