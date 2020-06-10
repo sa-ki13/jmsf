@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile DNS Filter FA-FA
 ! Version: 2020-06-10
-! Last modified: 10 Jun 2020 22:38 JST
+! Last modified: 10 Jun 2020 22:41 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-10
 
@@ -198,7 +198,6 @@
 ||csi.gstatic.com^
 ||currency.prebid.org^
 ||cxense.com^
-||d.applvn.com^
 ||d.pixiv.org^
 ||d15kdpgjg3unno.cloudfront.net^
 ||d1jh13j6azkbbi.cloudfront.net^
@@ -348,7 +347,6 @@
 ||mookie1.com^
 ||mouseflow.com^
 ||mparticle.com^
-||ms.applvn.com^
 ||mtburn.com^
 ||mtrcs.samba.tv^
 ||mxpnl.com^
