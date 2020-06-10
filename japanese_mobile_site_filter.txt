@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
 ! Version: 2020-06-10
-! Last modified: 10 Jun 2020 22:38 JST
+! Last modified: 10 Jun 2020 22:41 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-10
 
@@ -168,7 +168,6 @@ _300x250.
 ||crs-event.line.me^
 ||crsspxl.com^$third-party
 ||cxense.com^$third-party
-||d.applvn.com^
 ||d.line-scdn.net/*/torimochi.js/*/torimochi.js
 ||d.line-scdn.net^$third-party
 ||d1jh13j6azkbbi.cloudfront.net^
@@ -247,7 +246,6 @@ _300x250.
 ||mobile-collector.newrelic.com^
 ||moengage.com^$third-party
 ||mookie1.com^$third-party
-||ms.applvn.com^
 ||mtcs.nhk.or.jp/b/ss/$image
 ||mxpnl.com^$third-party
 ||nakanohito.jp^
