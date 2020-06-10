@@ -243,7 +243,6 @@ _300x250.
 ||j-a-net.jp^
 ||js.rtoaster.jp^
 ||js-agent.newrelic.com^
-||juicer.cc^
 ||jwpltx.com^
 ||kissmanga.com/ads/*.html$subdocument,redirect=noopframe
 ||kochava.com^
