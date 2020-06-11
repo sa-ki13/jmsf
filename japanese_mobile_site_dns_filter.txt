@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile DNS Filter FA-FA
 ! Version: 2020-06-11
-! Last modified: 14 Jun 2020 18:07 JST
+! Last modified: 14 Jun 2020 18:10 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-11
 
@@ -261,7 +261,6 @@
 ||gscontxt.net^
 ||gscounters.eu1.gigya.com^
 ||gscounters.us1.gigya.com^
-||gsspat.jp^
 ||gssprt.jp^
 ||gvt2.com^
 ||gwallet.com^
