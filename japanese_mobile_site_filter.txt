@@ -260,10 +260,7 @@ _300x250.
 ||permutive.com^$third-party
 ||pgmcdn.com^
 ||pipedream.wistia.com^
-||platform.twitter.com/js/button.$third-party
-||platform.twitter.com/oct.js$third-party
-||platform.twitter.com/widgets/follow_button$third-party
-||platform.twitter.com/widgets/tweet_button$third-party
+||platform.twitter.com^
 ||play.google.com/log?$redirect=nooptext
 ||plus.google.com^$third-party
 ||point-news.jp/sp/network/?tag_id=*$subdocument
