@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile DNS Filter FA-FA
 ! Version: 2020-06-11
-! Last modified: 14 Jun 2020 18:26 JST
+! Last modified: 14 Jun 2020 18:29 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-11
 
@@ -401,7 +401,6 @@
 ||pw.gigazine.net^
 ||px-cloud.net^
 ||quantcount.com^
-||quantserve.com^
 ||rakutenrpointcard.sc.omtrdc.net^
 ||ranking.rakuten.co.jp^
 ||rcm.shinobi.jp^
