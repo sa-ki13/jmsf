@@ -4,7 +4,6 @@
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-11
 
-@@||aag.yahooapis.jp^ 
 @@||ac.ebis.ne.jp^
 @@||ads280dummy.com^
 @@||aid.send.microad.jp^
