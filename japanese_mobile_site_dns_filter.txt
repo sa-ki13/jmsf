@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile DNS Filter FA-FA
 ! Version: 2020-06-11
-! Last modified: 14 Jun 2020 02:21 JST
+! Last modified: 14 Jun 2020 12:33 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-11
 
@@ -13,6 +13,7 @@
 @@||ck.jp.ap.valuecommerce.com^
 @@||click.j-a-net.jp^
 @@||cm.g.doubleclick.net^
+@@||cr-pall.ladsp.com^
 @@||d-cache.microad.jp^
 @@||doga.cm^
 @@||ds.advg.jp^
@@ -29,6 +30,7 @@
 @@||s.cint.com^
 @@||s9.r-ad.ne.jp^
 @@||ssl.google-analytics.com^
+@@||sync.dmp.fout.jp^
 @@||sync.im-apps.net^
 @@||tg.socdm.com^
 @@||torimochi.line-apps.com^
@@ -246,7 +248,6 @@
 ||foresee.com^
 ||forter.com^
 ||fourmtagservices.com^
-||fout.jp^
 ||fp.techinasia.com^
 ||fullstory.com^
 ||g2.gumgum.com^
@@ -304,7 +305,6 @@
 ||kochava.com^
 ||l.betrad.com^
 ||l.sharethis.com^
-||ladsp.com^
 ||letro.jp^
 ||liadm.com^
 ||liftoff.io^
