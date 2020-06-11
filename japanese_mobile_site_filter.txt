@@ -1,8 +1,8 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
-! Version: 2020-06-10
-! Last modified: 10 Jun 2020 22:46 JST
+! Version: 2020-06-11
+! Last modified: 11 Jun 2020 12:40 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-06-10
+! Last updated: 2020-06-11
 
 $$link[rel="manifest"]
 &advid=$~image
@@ -79,6 +79,7 @@ $$link[rel="manifest"]
 @@||aid.send.microad.jp^$app=jp.ponta.myponta
 @@||cdn.treasuredata.com^$app=jp.ponta.myponta
 @@||cm.g.doubleclick.net^$app=jp.ponta.myponta
+@@||cr-pall.ladsp.com^$app=jp.ponta.myponta
 @@||d-cache.microad.jp^$app=jp.ponta.myponta
 @@||doga.cm^$app=com.android.chrome
 @@||frtn.socdm.com^$app=jp.ponta.myponta
@@ -87,6 +88,7 @@ $$link[rel="manifest"]
 @@||recruit.112.2o7.net^$app=jp.ponta.myponta
 @@||recruit.d1.sc.omtrdc.net^$app=jp.ponta.myponta
 @@||ssl.google-analytics.com^$app=jp.ponta.myponta
+@@||sync.dmp.fout.jp^$app=jp.ponta.myponta
 @@||sync.im-apps.net^$app=jp.ponta.myponta
 @@||tg.socdm.com^$app=jp.ponta.myponta
 @@||www.google-analytics.com^$app=jp.co.matsukiyo.app|jp.ponta.myponta
@@ -195,7 +197,6 @@ _300x250.
 ||facebook.com^*/logging/
 ||firebaseinstallations.googleapis.com^
 ||fourmtagservices.com^$third-party
-||fout.jp^
 ||genieedmp.com^
 ||ggm-contents.bangumi.org^
 ||go-mpulse.net^
@@ -224,7 +225,6 @@ _300x250.
 ||kissmanga.com/ads/*.html$subdocument,redirect=noopframe
 ||kochava.com^
 ||l.sharethis.com^
-||ladsp.com^
 ||letro.jp^
 ||licdn.com/li.lms-analytics/
 ||liftoff.io^
