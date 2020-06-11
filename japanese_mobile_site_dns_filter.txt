@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile DNS Filter FA-FA
 ! Version: 2020-06-11
-! Last modified: 14 Jun 2020 18:29 JST
+! Last modified: 14 Jun 2020 18:41 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-11
 
@@ -378,7 +378,6 @@
 ||pixel.advertising.com^
 ||pixel.condenastdigital.com^
 ||pixel.parsely.com^
-||pixel.wp.com^
 ||pixiedust.buzzfeed.com^
 ||pixon.ads-pixiv.net^
 ||platform.linkedin.com^
