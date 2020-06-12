@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile DNS Filter FA-FA
 ! Version: 2020-06-12
-! Last modified: 12 Jun 2020 17:32 JST
+! Last modified: 12 Jun 2020 17:35 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-12
 
@@ -51,7 +51,6 @@
 ||aamapi.com^
 ||aaxads.com^
 ||acceliaad.durasite.net^
-||ad.adpon.jp^
 ||ad.ads-lite.net^
 ||ad.adxad.jp^
 ||ad.gt^
