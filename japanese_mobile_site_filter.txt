@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
 ! Version: 2020-06-12
-! Last modified: 12 Jun 2020 15:28 JST
+! Last modified: 12 Jun 2020 16:11 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-12
 
@@ -266,6 +266,7 @@ _300x250.
 ||performance.typekit.net^
 ||permutive.com^$third-party
 ||pgmcdn.com^
+||piccoma.com/static/web/img/common/hss_tooltip_*.png$image
 ||pipedream.wistia.com^
 ||platform.twitter.com^
 ||play.google.com/log?$redirect=nooptext
@@ -361,6 +362,7 @@ kuji.d.dmkt-sp.jp##.sns-block
 kuji.d.dmkt-sp.jp##.sub_title
 kuji.d.dmkt-sp.jp##section.block:nth-of-type(2)
 livedoorblogstyle.jp##.content > aside.section-box:nth-of-type(9)
+piccoma.com###js_hssTooltip
 point-news.jp##div:nth-of-type(9)
 ponta.gamefactory.jp###purchase-nav
 ponta.gamefactory.jp###serach1
