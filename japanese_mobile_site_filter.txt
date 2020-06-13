@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
 ! Version: 2020-06-13
-! Last modified: 13 Jun 2020 23:04 JST
+! Last modified: 13 Jun 2020 23:13 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-13
 
@@ -424,4 +424,7 @@ tsite.gamefactory.jp###serach1
 www.billboard.com##.header-wrapper__secondary-header
 www.life-n.jp##div[class^="ad_area"]
 www.life-n.jp##div:nth-of-type(8)
+www.mediafire.com###div-gpt-ad-1575674121640-0
+www.mediafire.com###div-gpt-ad-1579281108195-0
+www.mediafire.com###div-gpt-ad-1579281193413-0
 www3.nhk.or.jp###appsbanner
