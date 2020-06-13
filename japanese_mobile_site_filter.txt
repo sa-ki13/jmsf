@@ -112,7 +112,11 @@ _300x250.
 ||aaxads.com^
 ||acceliaad.durasite.net^
 ||accesstrade.net^
+||ad.ads-lite.net^
+||ad.adxad.jp^
+||ad.gt^
 ||ad.jp.ap.valuecommerce.com^
+||ad.pr.ameba.jp^
 ||ade.googlesyndication.com^
 ||adingo.jp^
 ||adjust.com^
