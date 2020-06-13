@@ -106,6 +106,7 @@
 ||analyzer51.fc2.com^
 ||animate.tv^
 ||aniview.com^
+||antiadblocksystems.com^
 ||api.amplitude.com^
 ||api.ipdata.co^
 ||api-analytics.metaps.com^
