@@ -375,7 +375,7 @@ dmkt01w03.point-ad-game.com###bnr_top
 dmkt01w03.point-ad-game.com###bnr_top_icon
 dmkt01w03.point-ad-game.com###cts_ranking
 dmkt02.point-ad-game.com##.page_loading
-dmkt02.point-ad-game.com##.tw-button-s
+!dmkt02.point-ad-game.com##.tw-button-s
 dmkt02.point-ad-game.com##div.banner:nth-of-type(1)
 hiroba.dpoint.jp###js-floating
 hiroba.dpoint.jp##.c-site-footer-share
