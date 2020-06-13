@@ -184,6 +184,7 @@ _300x250.
 ||d1jh13j6azkbbi.cloudfront.net^
 ||d2-apps.net/*/impressions/log
 ||d2ibu2ug0mt5qp.cloudfront.net^
+||d305v6nldhjazi.cloudfront.net/common/images/common/icon-url-copy-circle.svg$image
 ||d3ezl4ajpp2zy8.cloudfront.net^
 ||d3ud741uvs727m.cloudfront.net^
 ||d3v3bqdndm4erx.cloudfront.net^
@@ -373,6 +374,7 @@ dmkt02.point-ad-game.com##.page_loading
 dmkt02.point-ad-game.com##.tw-button-s
 dmkt02.point-ad-game.com##div.banner:nth-of-type(1)
 hiroba.dpoint.jp###js-floating
+hiroba.dpoint.jp##.c-site-footer-share
 hiroba.dpoint.jp##.lottery-promotion-list
 hiroba.dpoint.jp##div.c-sec
 item.rakuten.co.jp##div > label
