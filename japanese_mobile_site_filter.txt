@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
 ! Version: 2020-06-13
-! Last modified: 13 Jun 2020 22:48 JST
+! Last modified: 13 Jun 2020 23:04 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-13
 
@@ -144,6 +144,7 @@ _300x250.
 ||apple.com/metrics/
 ||atdmt.com^
 ||az416426.vo.msecnd.net^
+||azby.fmworld.net/kids/images/parts/icon_kidshub-link.png$image
 ||b*.yahoo.co.jp/b?
 ||b.hatena.ne.jp^$third-party
 ||b.st-hatena.com/js/bookmark_button.js
@@ -365,6 +366,7 @@ ad-contents.jp##.overlay-item
 ad-contents.jp##.overlay-mask
 ad-contents.jp##.type-appear.item-container > .mobile-big-banner.item-block
 ad-contents.jp##div[id^="_INSERT_SLOT_ID_HERE"]
+azby.fmworld.net###kidshub-nav
 candy-box.net###bottom-of-post-mobile
 candy-box.net###footer-sns
 candy-box.net###under-post-title-mobile
