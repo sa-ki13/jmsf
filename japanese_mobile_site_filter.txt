@@ -387,6 +387,7 @@ hiroba.dpoint.jp##.c-site-footer-share
 hiroba.dpoint.jp##.lottery-promotion > .lottery-limitter
 hiroba.dpoint.jp##div.c-sec
 item.rakuten.co.jp##div > label
+jptver.com##.f-widget-2.f-widget
 kuji.d.dmkt-sp.jp###floating-banner
 kuji.d.dmkt-sp.jp##.sns-block
 kuji.d.dmkt-sp.jp##.sub_title
