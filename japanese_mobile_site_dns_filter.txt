@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile DNS Filter FA-FA
 ! Version: 2020-06-13
-! Last modified: 13 Jun 2020 16:29 JST
+! Last modified: 13 Jun 2020 16:30 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-13
 
@@ -159,6 +159,7 @@
 ||cdn.tt.omtrdc.net^
 ||cdn.tynt.com^
 ||cdn2.pubexchange.com^
+||cdn4ads.com^
 ||cdn-f.adsmoloco.com^
 ||cdn-guile.akamaized.net^
 ||cdn-image.com^
