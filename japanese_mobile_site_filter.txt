@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
 ! Version: 2020-06-13
-! Last modified: 13 Jun 2020 23:13 JST
+! Last modified: 13 Jun 2020 23:24 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-13
 
@@ -223,8 +223,8 @@ _300x250.
 ||google-analytics.com/collect$third-party
 ||google-analytics.com/plugins/$third-party
 ||google-analytics.com^*/__utm.gif
-||googletagmanager.com/gtag/js$redirect=nooptext,important
 ||googletagmanager.com/gtag/$third-party
+||googletagmanager.com/gtag/js$redirect=nooptext,important
 ||graizoah.com^
 ||graph.facebook.com/?*id=https://$third-party
 ||graph.instagram.com/logging_client_events
@@ -394,37 +394,37 @@ kuji.d.dmkt-sp.jp##.sub_title
 kuji.d.dmkt-sp.jp##section.block:nth-of-type(2)
 livedoorblogstyle.jp##.content > aside.section-box:nth-of-type(9)
 piccoma.com###js_hssTooltip
-ponta.gamefactory.jp##section.section-cpilist.normal-section1
+ponta.gamefactory.jp###serach1
+ponta.gamefactory.jp##.contents-section
 ponta.gamefactory.jp##.contents-title
 ponta.gamefactory.jp##.cpnlist-column5
 ponta.gamefactory.jp##.cpnlist-column6
-ponta.gamefactory.jp##.section-tiemsale
-ponta.gamefactory.jp##body > .marginT5
 ponta.gamefactory.jp##.normal-section1:nth-of-type(5)
 ponta.gamefactory.jp##.normal-section1:nth-of-type(6)
-ponta.gamefactory.jp##.contents-section
+ponta.gamefactory.jp##.section-tiemsale
 ponta.gamefactory.jp##.tab-column2
-ponta.gamefactory.jp###serach1
+ponta.gamefactory.jp##body > .marginT5
+ponta.gamefactory.jp##section.section-cpilist.normal-section1
 ponta-sp.dropgame.jp##div.footer_rectangle_ssp
 t-mall.tsite.jp###middle > p
 t-mall.tsite.jp##.sp.game_bnr
 tmall-sp.dropgame.jp##div.footer_rectangle_ssp
 togetter.com###fixed_social_header
-togetter.com##.site_data
-togetter.com##.counts_box
-togetter.com##aside
-togetter.com##article > footer
-togetter.com##.content
-togetter.com##div.info_status_box
 togetter.com##.clearfix.hotentries_box
-tsite.gamefactory.jp##section.section-cpilist.normal-section1
+togetter.com##.content
+togetter.com##.counts_box
+togetter.com##.site_data
+togetter.com##article > footer
+togetter.com##aside
+togetter.com##div.info_status_box
+tsite.gamefactory.jp###serach1
 tsite.gamefactory.jp##.contents-title
 tsite.gamefactory.jp##.section-type1
 tsite.gamefactory.jp##.tab-column2
-tsite.gamefactory.jp###serach1
+tsite.gamefactory.jp##section.section-cpilist.normal-section1
 www.billboard.com##.header-wrapper__secondary-header
-www.life-n.jp##div[class^="ad_area"]
 www.life-n.jp##div:nth-of-type(8)
+www.life-n.jp##div[class^="ad_area"]
 www.mediafire.com###div-gpt-ad-1575674121640-0
 www.mediafire.com###div-gpt-ad-1579281108195-0
 www.mediafire.com###div-gpt-ad-1579281193413-0
