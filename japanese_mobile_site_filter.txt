@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
 ! Version: 2020-06-13
-! Last modified: 13 Jun 2020 17:21 JST
+! Last modified: 13 Jun 2020 18:05 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-13
 
@@ -436,6 +436,13 @@ tmall-sp.dropgame.jp##div.footer_rectangle_ssp:nth-of-type(7)
 tmall-sp.dropgame.jp##div.footer_rectangle_ssp:nth-of-type(8)
 tmall-sp.dropgame.jp##div.footer_rectangle_ssp:nth-of-type(9)
 togetter.com###fixed_social_header
+togetter.com##.site_data
+togetter.com##.counts_box
+togetter.com##aside
+togetter.com##article > footer
+togetter.com##.content
+togetter.com##div.info_status_box
+togetter.com##.clearfix.hotentries_box
 tsite.gamefactory.jp###purchase-nav
 tsite.gamefactory.jp###serach1
 tsite.gamefactory.jp##.bx-wrapper
