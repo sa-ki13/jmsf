@@ -87,6 +87,7 @@
 ||adsafeprotected.com^
 ||adserver.adtech.de^
 ||adservice.google.co.uk^
+||adskeeper.co.uk^
 ||adtdp.com^
 ||advertising.com^
 ||adzerk.net^
