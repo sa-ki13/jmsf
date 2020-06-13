@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
 ! Version: 2020-06-13
-! Last modified: 13 Jun 2020 22:34 JST
+! Last modified: 13 Jun 2020 22:48 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-13
 
@@ -405,13 +405,7 @@ ponta.gamefactory.jp###serach1
 ponta-sp.dropgame.jp##div.footer_rectangle_ssp
 t-mall.tsite.jp###middle > p
 t-mall.tsite.jp##.sp.game_bnr
-tmall-sp.dropgame.jp##div.footer_rectangle_ssp:nth-of-type(10)
-tmall-sp.dropgame.jp##div.footer_rectangle_ssp:nth-of-type(11)
-tmall-sp.dropgame.jp##div.footer_rectangle_ssp:nth-of-type(5)
-tmall-sp.dropgame.jp##div.footer_rectangle_ssp:nth-of-type(6)
-tmall-sp.dropgame.jp##div.footer_rectangle_ssp:nth-of-type(7)
-tmall-sp.dropgame.jp##div.footer_rectangle_ssp:nth-of-type(8)
-tmall-sp.dropgame.jp##div.footer_rectangle_ssp:nth-of-type(9)
+tmall-sp.dropgame.jp##div.footer_rectangle_ssp
 togetter.com###fixed_social_header
 togetter.com##.site_data
 togetter.com##.counts_box
