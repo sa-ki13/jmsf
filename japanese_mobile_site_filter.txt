@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
 ! Version: 2020-06-13
-! Last modified: 13 Jun 2020 18:58 JST
+! Last modified: 13 Jun 2020 19:13 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-13
 
@@ -199,6 +199,7 @@ _300x250.
 ||demdex.net^
 ||digitiminimi.com^
 ||distillery.wistia.com^
+||dmkt02.point-ad-game.com/assets/images/game/result/twitter_btn_s.png$image
 ||ds-aksb-a.akamaihd.net^
 ||durasite.net^$third-party
 ||ebis.ne.jp^
@@ -373,7 +374,6 @@ d.dmkt-sp.jp##.start_wrap_sp
 dmkt01w03.point-ad-game.com###bnr_top
 dmkt01w03.point-ad-game.com###bnr_top_icon
 dmkt01w03.point-ad-game.com###cts_ranking
-dmkt02.point-ad-game.com###container > div > .drawer-overlay > .page_loading
 dmkt02.point-ad-game.com##.page_loading
 dmkt02.point-ad-game.com##.tw-button-s
 dmkt02.point-ad-game.com##div.banner:nth-of-type(1)
