@@ -1,8 +1,8 @@
 ! Title: AdGuard Japanese Mobile DNS Filter FA-FA
-! Version: 2020-06-12
-! Last modified: 12 Jun 2020 17:35 JST
+! Version: 2020-06-13
+! Last modified: 13 Jun 2020 10:18 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-06-12
+! Last updated: 2020-06-13
 
 @@||aag.yahooapis.jp^
 @@||ac.ebis.ne.jp^
@@ -535,6 +535,5 @@
 ||zdbb.net^
 ||zemanta.com^
 ||ziffdavis.com^
-||ziyu.net^
 ||zqtk.net^
 ||zucks.net^
