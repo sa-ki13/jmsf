@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile DNS Filter FA-FA
 ! Version: 2020-06-14
-! Last modified: 14 Jun 2020 00:47 JST
+! Last modified: 14 Jun 2020 00:51 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-14
 
@@ -61,7 +61,6 @@
 ||ad999.biz^
 ||ad-api-v01.uliza.jp^
 ||ade.googlesyndication.com^
-||adform.net^
 ||ad-hatena.com^
 ||adjust-net.jp^
 ||adlpo.com^
