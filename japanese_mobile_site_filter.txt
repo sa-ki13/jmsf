@@ -280,6 +280,7 @@ _300x250.
 ||point-news.jp/sp/network/?tag_id=*$subdocument
 ||polyfill.io^
 ||popin.cc^
+||propu.sh^$third-party
 ||pubmatic.com^
 ||pw.gigazine.net^
 ||quantcount.com^$third-party
