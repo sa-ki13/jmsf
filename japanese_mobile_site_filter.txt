@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
 ! Version: 2020-06-14
-! Last modified: 14 Jun 2020 14:17 JST
+! Last modified: 14 Jun 2020 16:34 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-14
 
@@ -390,7 +390,21 @@ dmkt01w03.point-ad-game.com###cts_ranking
 dmkt02.point-ad-game.com##.page_loading
 dmkt02.point-ad-game.com##.tw-button-s
 dmkt02.point-ad-game.com##div.banner:nth-of-type(1)
+dropgame.jp##div.footer_rectangle_ssp 
 enq.smt.docomo.ne.jp###wrap_banner
+gamefactory.jp###serach1
+gamefactory.jp##.contents-section
+gamefactory.jp##.contents-title
+gamefactory.jp##.cpnlist-column5
+gamefactory.jp##.cpnlist-column6
+gamefactory.jp##.marginB5
+gamefactory.jp##.normal-section1:nth-of-type(2)
+gamefactory.jp##.normal-section1:nth-of-type(5)
+gamefactory.jp##.normal-section1:nth-of-type(6)
+gamefactory.jp##.section-tiemsale
+gamefactory.jp##.tab-column2
+gamefactory.jp##body > .marginT5
+gamefactory.jp##section.section-cpilist.normal-section1
 hiroba.dpoint.jp###js-floating
 hiroba.dpoint.jp##.c-site-footer-share
 hiroba.dpoint.jp##.lottery-promotion > .lottery-limitter
@@ -404,21 +418,8 @@ kuji.d.dmkt-sp.jp##section.block:nth-of-type(2)
 livedoorblogstyle.jp##.content > aside.section-box:nth-of-type(9)
 piccoma.com###js_hssTooltip
 point-news.jp##div:nth-of-type(9)
-ponta.gamefactory.jp###serach1
-ponta.gamefactory.jp##.contents-section
-ponta.gamefactory.jp##.contents-title
-ponta.gamefactory.jp##.cpnlist-column5
-ponta.gamefactory.jp##.cpnlist-column6
-ponta.gamefactory.jp##.normal-section1:nth-of-type(5)
-ponta.gamefactory.jp##.normal-section1:nth-of-type(6)
-ponta.gamefactory.jp##.section-tiemsale
-ponta.gamefactory.jp##.tab-column2
-ponta.gamefactory.jp##body > .marginT5
-ponta.gamefactory.jp##section.section-cpilist.normal-section1
-ponta-sp.dropgame.jp##div.footer_rectangle_ssp
 t-mall.tsite.jp###middle > p
 t-mall.tsite.jp##.sp.game_bnr
-tmall-sp.dropgame.jp##div.footer_rectangle_ssp
 togetter.com###fixed_social_header
 togetter.com##.clearfix.hotentries_box
 togetter.com##.content
@@ -427,11 +428,6 @@ togetter.com##.site_data
 togetter.com##article > footer
 togetter.com##aside
 togetter.com##div.info_status_box
-tsite.gamefactory.jp###serach1
-tsite.gamefactory.jp##.contents-title
-tsite.gamefactory.jp##.section-type1
-tsite.gamefactory.jp##.tab-column2
-tsite.gamefactory.jp##section.section-cpilist.normal-section1
 www.billboard.com##.header-wrapper__secondary-header
 www.life-n.jp##div:nth-of-type(8)
 www.life-n.jp##div[class^="ad_area"]
