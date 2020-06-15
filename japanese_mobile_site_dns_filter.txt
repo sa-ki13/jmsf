@@ -68,7 +68,6 @@
 ||ads.linkedin.com^
 ||ads.pandora.tv^
 ||ads.pro-market.net^
-||ads.servebom.com^
 ||ads.travelaudience.com^
 ||adsafeprotected.com^
 ||adserver.adtech.de^
