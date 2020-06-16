@@ -20,6 +20,7 @@
 @@||dr.r-ad.ne.jp^
 @@||ds.advg.jp^
 @@||frtn.socdm.com^
+@@||get.mobu.jp^
 @@||grp18.ias.rakuten.co.jp^
 @@||h.accesstrade.net^
 @@||hb.afl.rakuten.co.jp^
