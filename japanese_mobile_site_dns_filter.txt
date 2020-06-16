@@ -8,6 +8,7 @@
 @@||ac.ebis.ne.jp^
 @@||ads280dummy.com^
 @@||aid.send.microad.jp^
+@@||apps.appsflyer.com^
 @@||atrrd.valuecommerce.com^
 @@||cdn.d2-apps.net^
 @@||cdn.treasuredata.com^
