@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile DNS Filter FA-FA
 ! Version: 2020-06-16
-! Last modified: 16 Jun 2020 18:59 JST
+! Last modified: 16 Jun 2020 22:54 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-15
 
@@ -33,6 +33,7 @@
 @@||router.cint.com^
 @@||s.cint.com^
 @@||s9.r-ad.ne.jp^
+@@||smart-c.jp^
 @@||ssl.google-analytics.com^
 @@||sync.dmp.fout.jp^
 @@||sync.im-apps.net^
@@ -426,7 +427,6 @@
 ||sitescout.com^
 ||skimresources.com^
 ||smaato.net^
-||smart-c.jp^
 ||smartcanvas.net^
 ||smbc.sc.omtrdc.net^
 ||smetrics.cnn.com^
