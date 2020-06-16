@@ -1,8 +1,8 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
-! Version: 2020-06-15
-! Last modified: 15 Jun 2020 23:32 JST
+! Version: 2020-06-16
+! Last modified: 16 Jun 2020 11:08 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-06-15
+! Last updated: 2020-06-16
 
 $$link[rel="manifest"]
 &advid=$~image
@@ -19,6 +19,7 @@ $$link[rel="manifest"]
 .net/ads.
 .openx.
 .prebid.
+/728_90_
 /ad.css?
 /ad_loader.
 /ad1.
@@ -157,6 +158,7 @@ _300x250.
 ||api-js.mixpanel.com/track^
 ||app.link/_r?sdk=*&callback=branch_callback
 ||apple.com/metrics/
+||assets.pinterest.com/js/pinit.js^$third-party
 ||atdmt.com^
 ||az416426.vo.msecnd.net^
 ||b*.yahoo.co.jp/b?
@@ -232,6 +234,7 @@ _300x250.
 ||ggm-contents.bangumi.org^
 ||go-mpulse.net^
 ||google.co.jp/gen_204?$other
+||google.com^*/fastbutton?$third-party
 ||googleadservices.com^
 ||google-analytics.com/analytics.js$third-party
 ||google-analytics.com/collect$third-party
