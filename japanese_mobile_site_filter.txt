@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
 ! Version: 2020-06-17
-! Last modified: 17 Jun 2020 23:31 JST
+! Last modified: 17 Jun 2020 23:32 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-17
 
@@ -157,7 +157,6 @@ _300x250.
 ||animate.tv^
 ||antiadblocksystems.com^
 ||api.amplitude.com^
-||api.cxense.com^
 ||api.github.com/_private/browser/stats$important
 ||api.ipdata.co^
 ||api.twitter.com/1.1/jot/external_referer.json|$xmlhttprequest
@@ -227,7 +226,6 @@ _300x250.
 ||cnzz.com^
 ||collect.igodigital.com^
 ||collector.githubapp.com^
-||comcluster.cxense.com^
 ||commander1.com^
 ||concertads-configs.vox-cdn.com^
 ||conductrics.com^
@@ -245,8 +243,8 @@ _300x250.
 ||c-rings.net^
 ||cross-system.com^
 ||crs-event.line.me^
-||crsspxl.com^$third-party
-||cxense.com^$third-party
+||crsspxl.com^
+||cxense.com^
 ||d.line-scdn.net/*/torimochi.js/*/torimochi.js
 ||d.line-scdn.net^$third-party
 ||d1jh13j6azkbbi.cloudfront.net^
