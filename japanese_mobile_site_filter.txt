@@ -232,10 +232,14 @@ _300x250.
 ||concertads-configs.vox-cdn.com^
 ||conductrics.com^
 ||config.uca.cloud.unity3d.com^
+||connatix.com^
 ||connect.facebook.net/ja_JP/sdk.js
-||consensu.org^$third-party
-||contentabc.com^$third-party
-||cookielaw.org^$third-party
+||consent.cmp.oath.com^
+||contentabc.com^
+||contextweb.com^
+||convertexperiments.com^
+||cookielaw.org^
+||coremetrics.com^
 ||cpx.to^
 ||c-rings.net^
 ||cross-system.com^$third-party
