@@ -240,6 +240,7 @@ _300x250.
 ||convertexperiments.com^
 ||cookielaw.org^
 ||coremetrics.com^
+||counter.scribblelive.com^
 ||cpx.to^
 ||c-rings.net^
 ||cross-system.com^$third-party
