@@ -198,7 +198,10 @@ _300x250.
 ||bounceexchange.com^
 ||buysellads.net^
 ||c.bing.com/c.gif
+||c.msn.com^
+||c2shb.ssp.yahoo.com^
 ||casalemedia.com^
+||cc.swiftype.com^
 ||cdn.ampproject.org/*/amp-analytics-
 ||cdn.ampproject.org/v0/amp-sticky-ad-1.0.js
 ||cdn.d2-apps.net/js/tr.js
