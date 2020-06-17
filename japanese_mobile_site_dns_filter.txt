@@ -124,7 +124,6 @@
 ||bounceexchange.com^
 ||britishairways.d3.sc.omtrdc.net^
 ||buysellads.net^
-||c.betrad.com^
 ||c.msn.com^
 ||c2shb.ssp.yahoo.com^
 ||casalemedia.com^
