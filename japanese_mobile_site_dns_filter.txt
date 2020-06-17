@@ -130,7 +130,6 @@
 ||cc.swiftype.com^
 ||cdn.onesignal.com^
 ||cdn.tt.omtrdc.net^
-||cdn.tynt.com^
 ||cdn2.pubexchange.com^
 ||cdn4ads.com^
 ||cdn-f.adsmoloco.com^
