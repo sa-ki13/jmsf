@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile DNS Filter FA-FA
 ! Version: 2020-06-17
-! Last modified: 17 Jun 2020 18:30 JST
+! Last modified: 17 Jun 2020 18:43 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-17
 
@@ -119,7 +119,6 @@
 ||bizographics.com^
 ||bkrtx.com^
 ||blogmura.com^
-||blogroll.livedoor.net^
 ||blueconic.net^
 ||boomtrain.com^
 ||bounceexchange.com^
