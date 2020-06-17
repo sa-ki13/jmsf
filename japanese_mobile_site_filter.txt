@@ -220,6 +220,9 @@ _300x250.
 ||cinarra.com^
 ||cintnetworks.com^
 ||cix.line-apps.com^
+||clicktale.net^
+||clicktripz.com^
+||client.crisp.chat^
 ||cloudfront.net/script.js$script,third-party
 ||cnzz.com^
 ||collect.igodigital.com^
