@@ -1,8 +1,8 @@
 ! Title: AdGuard Japanese Mobile DNS Filter FA-FA
-! Version: 2020-06-17
-! Last modified: 17 Jun 2020 23:27 JST
+! Version: 2020-06-18
+! Last modified: 18 Jun 2020 15:07 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-06-17
+! Last updated: 2020-06-18
 
 @@||aag.yahooapis.jp^
 @@||ac.ebis.ne.jp^
@@ -167,11 +167,9 @@
 ||crsspxl.com^
 ||currency.prebid.org^
 ||cxense.com^
-||d.pixiv.org^
 ||d15kdpgjg3unno.cloudfront.net^
 ||d1jh13j6azkbbi.cloudfront.net^
 ||d1jow6p6g37b9u.cloudfront.net^
-||d1z2jf7jlzjs58.cloudfront.net^
 ||d29xw9s9x32j3w.cloudfront.net^
 ||d2c8v52ll5s99u.cloudfront.net^
 ||d2ibu2ug0mt5qp.cloudfront.net^
