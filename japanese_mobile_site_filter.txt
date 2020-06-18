@@ -370,7 +370,8 @@ _300x250.
 ||mc.yandex.ru^
 ||meas.ad.pr.ameba.jp^
 ||media.line.me/js/line-button.js^$third-party
-||mediad2.jp^$third-party
+||media.net^
+||mediad2.jp^
 ||metric.gstatic.com^
 ||metrics.brightcove.com^
 ||mixpanel.com^$third-party
