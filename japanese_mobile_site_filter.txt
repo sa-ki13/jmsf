@@ -1,8 +1,8 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
-! Version: 2020-06-17
-! Last modified: 17 Jun 2020 23:32 JST
+! Version: 2020-06-18
+! Last modified: 18 Jun 2020 15:08 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-06-17
+! Last updated: 2020-06-18
 
 $$link[rel="manifest"]
 &advid=$~image
@@ -247,7 +247,9 @@ _300x250.
 ||cxense.com^
 ||d.line-scdn.net/*/torimochi.js/*/torimochi.js
 ||d.line-scdn.net^$third-party
+||d15kdpgjg3unno.cloudfront.net^
 ||d1jh13j6azkbbi.cloudfront.net^
+||d1jow6p6g37b9u.cloudfront.net^
 ||d2-apps.net/*/impressions/log
 ||d2ibu2ug0mt5qp.cloudfront.net^
 ||d305v6nldhjazi.cloudfront.net/common/images/common/icon-url-copy-circle.svg$image
