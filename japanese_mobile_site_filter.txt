@@ -363,6 +363,7 @@ _300x250.
 ||main.pubexchange.com^
 ||marfeel.com^
 ||marketo.net^
+||matheranalytics.com^
 ||maxymiser.net^
 ||media.line.me/js/line-button.js^$third-party
 ||mediad2.jp^$third-party
