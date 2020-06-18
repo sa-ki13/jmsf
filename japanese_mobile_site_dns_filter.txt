@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile DNS Filter FA-FA
 ! Version: 2020-06-18
-! Last modified: 18 Jun 2020 18:49 JST
+! Last modified: 18 Jun 2020 18:53 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-18
 
@@ -277,7 +277,6 @@
 ||mookie1.com^
 ||mouseflow.com^
 ||mparticle.com^
-||mtburn.com^
 ||mtrcs.samba.tv^
 ||mxpnl.com^
 ||nakanohito.jp^
