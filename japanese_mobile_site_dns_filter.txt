@@ -190,8 +190,6 @@
 ||discoverynordics.d3.sc.omtrdc.net^
 ||discoverynordics.hb.omtrdc.net^
 ||distillery.wistia.com^
-||dlv.itmedia.jp^
-||dmxleo.dailymotion.com^
 ||dni-adops-proxy-prod-adopsmediaconverter.mercury.dnitv.com^
 ||dpmsrv.com^
 ||ds-aksb-a.akamaihd.net^
