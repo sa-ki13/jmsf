@@ -490,8 +490,7 @@ _300x250.
 ||st.dynamicyield.com^
 ||stack-sonar.com^
 ||startappservice.com^
-||static.addtoany.com$third-party
-||static.ads-twitter.com^
+||static.addtoany.com^
 ||static.mixi.jp^
 ||t.blog.livedoor.jp/u.js
 ||t.co/i/adsct?
