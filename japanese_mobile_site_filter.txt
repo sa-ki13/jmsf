@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
 ! Version: 2020-06-19
-! Last modified: 19 Jun 2020 17:23 JST
+! Last modified: 19 Jun 2020 17:29 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-19
 
@@ -531,11 +531,23 @@ _300x250.
 ||trustx.org^
 ||twitter.com/i/jot
 ||ueuodgnrhb.com^
+||undertone.com^
+||unid.go.com^
+||untidyrice.com^
+||urs.zdnet.com^
+||usabilla.com^
+||userreport.com^
 ||v.shopify.com^
+||vazzapp.com^
 ||veinteractive.com^$third-party
-||visualwebsiteoptimizer.com^$third-party
-||widget.intercom.io^$third-party
-||widget.pushbullet.com^$third-party
+||videoplayerhub.com^
+||vilynx.com^
+||visualwebsiteoptimizer.com^
+||vntsm.com^
+||weblog.flyasiana.com^
+||webspectator.com^
+||widget.intercom.io^
+||widget.pushbullet.com^
 ||widgets.getpocket.com^
 ||yahoo.co.jp/b?
 ||yimg.com/wi/ytc.js
