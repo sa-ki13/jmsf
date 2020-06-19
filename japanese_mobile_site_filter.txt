@@ -235,7 +235,6 @@ _300x250.
 ||connatix.com^
 ||connect.facebook.net/ja_JP/sdk.js
 ||consent.cmp.oath.com^
-||contentabc.com^
 ||contextweb.com^
 ||convertexperiments.com^
 ||cookielaw.org^
