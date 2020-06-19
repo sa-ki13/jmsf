@@ -506,9 +506,12 @@ _300x250.
 ||tags.tiqcdn.com^
 ||tapad.com^
 ||targetemsecure.blob.core.windows.net^
+||technoratimedia.com^
+||tel-kod.ru^
 ||terms.line.me^
 ||textuploader.com/assets/img/patterns/bg*.png$image
 ||tgknt.com^
+||thebrighttag.com^
 ||tinypass.com^
 ||tpc.googlesyndication.com^
 ||tr.line.me^
