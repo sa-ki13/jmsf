@@ -155,7 +155,6 @@
 ||connatix.com^
 ||consensu.org^
 ||consent.cmp.oath.com^
-||contentabc.com^
 ||contextweb.com^
 ||convertexperiments.com^
 ||cookielaw.org^
