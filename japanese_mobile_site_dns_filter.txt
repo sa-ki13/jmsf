@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile DNS Filter FA-FA
 ! Version: 2020-06-19
-! Last modified: 19 Jun 2020 17:32 JST
+! Last modified: 19 Jun 2020 17:34 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-19
 
@@ -421,9 +421,6 @@
 ||woopra.com^
 ||xg4ken.com^
 ||y.one.impact-ad.jp^
-||yads.yahoo.co.jp^
-||ybx.yahoo.co.jp^
-||yeas.yahoo.co.jp^
 ||yield-manager.browsiprod.com^
 ||yieldmo.com^
 ||yjtag.jp^
