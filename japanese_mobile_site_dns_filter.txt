@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile DNS Filter FA-FA
 ! Version: 2020-06-19
-! Last modified: 19 Jun 2020 14:26 JST
+! Last modified: 19 Jun 2020 14:30 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-19
 
@@ -303,7 +303,6 @@
 ||pingdom.net^
 ||pipedream.wistia.com^
 ||pixel.condenastdigital.com^
-||pixel.parsely.com^
 ||pixiedust.buzzfeed.com^
 ||pixon.ads-pixiv.net^
 ||platform.linkedin.com^
