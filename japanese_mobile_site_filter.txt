@@ -513,6 +513,7 @@ _300x250.
 ||tgknt.com^
 ||thebrighttag.com^
 ||tinypass.com^
+||topernews.me^
 ||tpc.googlesyndication.com^
 ||tr.line.me^
 ||tr.snapchat.com^
