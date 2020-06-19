@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile DNS Filter FA-FA
 ! Version: 2020-06-19
-! Last modified: 19 Jun 2020 16:29 JST
+! Last modified: 19 Jun 2020 16:30 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-19
 
@@ -264,7 +264,6 @@
 ||matheranalytics.com^
 ||maxymiser.net^
 ||mbid.marfeelrev.com^
-||mc.yandex.ru^
 ||meas.ad.pr.ameba.jp^
 ||media.net^
 ||meter-svc.nytimes.com^
