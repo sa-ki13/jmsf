@@ -1,10 +1,14 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
 ! Version: 2020-06-20
-! Last modified: 20 Jun 2020 21:38 JST
+! Last modified: 20 Jun 2020 21:49 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-20
 
 $$link[rel="manifest"]
+##[id*="-ad-"]:not(html):not(body)
+##a[href^="http://line.me/R/msg/text/?"]
+##a[href^="https://twitter.com/intent/tweet?"]
+##a[href^="https://www.facebook.com/sharer/sharer.php"]
 &advid=$~image
 &bannerid=
 .adnwif.
@@ -310,6 +314,7 @@ _300x250.
 ||google-analytics.com^*/__utm.gif
 ||googletagmanager.com/gtag/$third-party
 ||googletagmanager.com/gtag/js$redirect=nooptext,important
+||googletagservices.com^
 ||graizoah.com^
 ||graph.facebook.com/?*id=https://$third-party
 ||graph.instagram.com/logging_client_events
