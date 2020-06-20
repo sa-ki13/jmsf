@@ -4,6 +4,8 @@
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-20
 
+
+##[class^="ads_"]:not(html):not(body)
 ##[id*="-ad-"]:not(html):not(body)
 ##a[href^="http://line.me/R/msg/text/?"]
 ##a[href^="https://twitter.com/intent/tweet?"]
