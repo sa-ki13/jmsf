@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
 ! Version: 2020-06-20
-! Last modified: 20 Jun 2020 22:54 JST
+! Last modified: 20 Jun 2020 23:05 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-20
 
@@ -605,8 +605,10 @@ gamefactory.jp##.normal-section1:nth-of-type(5)
 gamefactory.jp##.normal-section1:nth-of-type(6)
 gamefactory.jp##.section-tiemsale
 gamefactory.jp##.section-type1
+gamefactory.jp##.title-type1
+gamefactory.jp##.title-type2
+gamefactory.jp##.title-type3
 gamefactory.jp##body > .marginT5
-gamefactory.jp##h2
 gamefactory.jp##section.section-cpilist.normal-section1
 hiroba.dpoint.jp###js-floating
 hiroba.dpoint.jp##.c-sec__bnr
