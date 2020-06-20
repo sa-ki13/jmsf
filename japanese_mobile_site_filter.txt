@@ -151,13 +151,13 @@ _300x250.
 ||alexametrics.com^
 ||amazon-adsystem.com^
 ||amazonaws.com/*/trackpush.min.js
+||amplitude.com^
 ||analytics.archive.org^
 ||analytics.edgekey.net^
 ||analytics.slashdotmedia.com^
 ||analytics.twitter.com^
 ||animate.tv^
 ||antiadblocksystems.com^
-||api.amplitude.com^
 ||api.github.com/_private/browser/stats$important
 ||api.ipdata.co^
 ||api.twitter.com/1.1/jot/external_referer.json|$xmlhttprequest
