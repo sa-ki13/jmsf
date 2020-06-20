@@ -4,6 +4,9 @@
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-21
 
+##[class^="ads_"]:not(html):not(body)
+##[id$="_ad"]:not(html):not(body)
+##[id*="_ad_"]:not(html):not(body)
 ##[id*="-ad-"]:not(html):not(body)
 ##a[href^="http://line.me/R/msg/text/?"]
 ##a[href^="https://twitter.com/intent/tweet?"]
@@ -598,9 +601,6 @@ dropgame.jp##div.footer_rectangle_ssp
 enq.smt.docomo.ne.jp###wrap_banner
 gamefactory.jp###purchase-nav
 gamefactory.jp###serach1
-gamefactory.jp##[class^="ads_"]:not(html):not(body)
-gamefactory.jp##[id$="_ad"]:not(html):not(body)
-gamefactory.jp##[id*="_ad_"]:not(html):not(body)
 gamefactory.jp##.bx-wrapper
 gamefactory.jp##.cpnlist-column5
 gamefactory.jp##.cpnlist-column6
