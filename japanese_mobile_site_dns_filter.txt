@@ -213,6 +213,7 @@
 ||ggm-contents.bangumi.org^
 ||go-mpulse.net^
 ||googleadservices.com^
+||googletagservices.com^
 ||graizoah.com^
 ||gscontxt.net^
 ||gscounters.eu1.gigya.com^
