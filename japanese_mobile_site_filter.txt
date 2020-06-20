@@ -7,6 +7,8 @@
 
 ##[class^="ads_"]:not(html):not(body)
 ##[id*="-ad-"]:not(html):not(body)
+##[id$="_ad"]:not(html):not(body)
+##[id*="_ad_"]:not(html):not(body)
 ##a[href^="http://line.me/R/msg/text/?"]
 ##a[href^="https://twitter.com/intent/tweet?"]
 ##a[href^="https://www.facebook.com/sharer/sharer.php"]
