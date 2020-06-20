@@ -50,6 +50,7 @@ $$link[rel="manifest"]
 /api.ad.
 /b/ss/*&aqe=
 /b/ss/*/JS-
+/beacon/*
 /banner.cgi?
 /btn_sns_$image
 /cookie-consent.
