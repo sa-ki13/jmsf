@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile DNS Filter FA-FA
 ! Version: 2020-06-20
-! Last modified: 20 Jun 2020 12:30 JST
+! Last modified: 20 Jun 2020 14:06 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-20
 
@@ -84,13 +84,13 @@
 ||alb.reddit.com^
 ||alexametrics.com^
 ||amazon-adsystem.com^
+||amplitude.com^
 ||analytics.archive.org^
 ||analytics.edgekey.net^
 ||analytics.slashdotmedia.com^
 ||analytics.twitter.com^
 ||animate.tv^
 ||antiadblocksystems.com^
-||api.amplitude.com^
 ||api.ipdata.co^
 ||api-analytics.metaps.com^
 ||api-analytics-bootstrap.metaps.com^
