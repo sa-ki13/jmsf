@@ -1,8 +1,8 @@
 ! Title: AdGuard Japanese Mobile DNS Filter FA-FA
-! Version: 2020-06-21
-! Last modified: 21 Jun 2020 10:59 JST
+! Version: 2020-06-22
+! Last modified: 22 Jun 2020 00:17 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-06-21
+! Last updated: 2020-06-22
 
 @@||ac.ebis.ne.jp^
 @@||ads280dummy.com^
@@ -39,6 +39,7 @@
 @@||t.metaps.biz^
 @@||tg.socdm.com^
 @@||torimochi.line-apps.com^
+@@||trj.valuecommerce.com^
 @@||vcentry3.valuecommerce.ne.jp^
 @@||www.google-analytics.com^
 ||33across.com^
