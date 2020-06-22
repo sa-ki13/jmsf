@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
 ! Version: 2020-06-22
-! Last modified: 22 Jun 2020 15:11 JST
+! Last modified: 22 Jun 2020 18:28 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-22
 
@@ -587,6 +587,10 @@ ad-contents.jp##.overlay-mask
 ad-contents.jp##.type-appear.item-container > .mobile-big-banner.item-block
 ad-contents.jp##div[id^="_INSERT_SLOT_ID_HERE"]
 azby.fmworld.net###kidshub-nav
+blog.livedoor.jp###blog_ranking
+blog.livedoor.jp###category_ranking
+blog.livedoor.jp###pbp_ranking
+blog.livedoor.jp##.footer-box
 candy-box.net###bottom-of-post-mobile
 candy-box.net###footer-sns
 candy-box.net###under-post-title-mobile
