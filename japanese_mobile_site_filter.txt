@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
 ! Version: 2020-06-23
-! Last modified: 23 Jun 2020 01:00 JST
+! Last modified: 23 Jun 2020 10:46 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-23
 
@@ -585,6 +585,7 @@ ad-contents.jp##.overlay-mask
 ad-contents.jp##.type-appear.item-container > .mobile-big-banner.item-block
 ad-contents.jp##div[id^="_INSERT_SLOT_ID_HERE"]
 azby.fmworld.net###kidshub-nav
+billboard.com##.header-wrapper__secondary-header 
 blog.livedoor.jp###blog_ranking
 blog.livedoor.jp###category_ranking
 blog.livedoor.jp###pbp_ranking
@@ -631,7 +632,12 @@ kuji.d.dmkt-sp.jp###floating-banner
 kuji.d.dmkt-sp.jp##.sns-block
 kuji.d.dmkt-sp.jp##.sub_title
 kuji.d.dmkt-sp.jp##section.block:nth-of-type(2)
+life-n.jp##div:nth-of-type(8)
+life-n.jp##div[class^="ad_area"]
 livedoorblogstyle.jp##.content > aside.section-box:nth-of-type(9)
+mediafire.com###div-gpt-ad-1575674121640-0
+mediafire.com###div-gpt-ad-1579281108195-0
+mediafire.com###div-gpt-ad-1579281193413-0
 piccoma.com###js_hssTooltip
 point-news.jp##div:nth-of-type(9)
 ponta.abstractpainting.work##.game-loading
@@ -652,10 +658,4 @@ togetter.com##.site_data
 togetter.com##article > footer
 togetter.com##aside
 togetter.com##div.info_status_box
-www.billboard.com##.header-wrapper__secondary-header
-www.life-n.jp##div:nth-of-type(8)
-www.life-n.jp##div[class^="ad_area"]
-www.mediafire.com###div-gpt-ad-1575674121640-0
-www.mediafire.com###div-gpt-ad-1579281108195-0
-www.mediafire.com###div-gpt-ad-1579281193413-0
 www3.nhk.or.jp###appsbanner
