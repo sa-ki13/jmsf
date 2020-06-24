@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
 ! Version: 2020-06-24
-! Last modified: 24 Jun 2020 16:50 JST
+! Last modified: 24 Jun 2020 23:27 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-24
 
@@ -633,6 +633,9 @@ hiroba.dpoint.jp##.c-site-footer-share
 hiroba.dpoint.jp##.lottery-promotion > .lottery-limitter
 hiroba.dpoint.jp##div.c-sec > .c-sec__body
 item.rakuten.co.jp##div > label
+ivfree.me###overlay_area
+ivfree.me##.main > p
+ivfree.me##.sub > p
 jptver.com##.f-widget-2.f-widget
 kuji.d.dmkt-sp.jp###floating-banner
 kuji.d.dmkt-sp.jp##.sns-block
