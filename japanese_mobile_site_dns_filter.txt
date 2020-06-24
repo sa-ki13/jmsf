@@ -1,8 +1,8 @@
 ! Title: AdGuard Japanese Mobile DNS Filter FA-FA
-! Version: 2020-06-23
-! Last modified: 23 Jun 2020 16:48 JST
+! Version: 2020-06-25
+! Last modified: 25 Jun 2020 01:03 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-06-23
+! Last updated: 2020-06-25
 
 @@||a8.net^
 @@||ac.ebis.ne.jp^
@@ -375,6 +375,7 @@
 ||stats.pusher.com^
 ||summerhamster.com^
 ||sumo.com^
+||t.felmat.net^
 ||t.karte.io^
 ||t.seesaa.net^
 ||tag.getdrip.com^
