@@ -1,8 +1,8 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
-! Version: 2020-06-24
-! Last modified: 24 Jun 2020 23:27 JST
+! Version: 2020-06-25
+! Last modified: 25 Jun 2020 01:05 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-06-24
+! Last updated: 2020-06-25
 
 ##[class^="ads_"]:not(html):not(body)
 ##[id$="_ad"]:not(html):not(body)
@@ -512,6 +512,7 @@ _300x250.
 ||sumo.com^
 ||t.blog.livedoor.jp/u.js
 ||t.co/i/adsct?
+||t.felmat.net^
 ||t.karte.io^
 ||t.seesaa.net^
 ||tag.getdrip.com^
