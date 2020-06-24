@@ -643,8 +643,6 @@ mediafire.com###div-gpt-ad-1579281193413-0
 piccoma.com###js_hssTooltip
 point-news.jp##div:nth-of-type(9)
 ponta.abstractpainting.work##.game-loading
-ponta.abstractpainting.work#$##inter-ad-clear-button { visibility: visible !important; }
-ponta.abstractpainting.work#$##inter-ad-failure-button { visibility: visible !important; }
 t-mall.cmnw.jp##.mgb_10
 t-mall.cmnw.jp##.o-content__topsegment:nth-of-type(4)
 t-mall.cmnw.jp##.o-content__topsegment:nth-of-type(5)
