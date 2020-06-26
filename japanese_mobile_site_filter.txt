@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
 ! Version: 2020-06-26
-! Last modified: 26 Jun 2020 17:34 JST
+! Last modified: 26 Jun 2020 17:47 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-26
 
@@ -199,7 +199,6 @@ _300x250.
 ||cc.swiftype.com^
 ||cdn.ampproject.org/*/amp-analytics-
 ||cdn.d2-apps.net/js/tr.js
-||cdn.mainichi.jp/vol1/js/sp/share.js
 ||cdn.onesignal.com^
 ||cdn.segment.com/analytics.js
 ||cdn2.pubexchange.com^
