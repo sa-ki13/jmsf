@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
 ! Version: 2020-06-26
-! Last modified: 26 Jun 2020 18:10 JST
+! Last modified: 26 Jun 2020 18:11 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-26
 
@@ -289,12 +289,6 @@ _300x250.
 ||ggm-contents.bangumi.org^
 ||go-mpulse.net^
 ||google.com^*/fastbutton?$third-party
-||googleadservices.com^
-||google-analytics.com/analytics.js$third-party
-||google-analytics.com/collect$third-party
-||google-analytics.com/plugins/$third-party
-||google-analytics.com^*/__utm.gif
-||googletagmanager.com/gtag/$third-party
 ||googletagmanager.com/gtag/js$redirect=nooptext,important
 ||googletagservices.com^
 ||graizoah.com^
@@ -343,9 +337,7 @@ _300x250.
 ||log.codemarketing.cloud^
 ||log.go.com^
 ||log.quora.com^
-||logly.co.jp^
 ||logql.yahoo.co.jp^
-||m.addthis.com^
 ||main.pubexchange.com^
 ||marfeel.com^
 ||marketo.net^
@@ -353,10 +345,8 @@ _300x250.
 ||mathtag.com^
 ||maxymiser.net^
 ||mbid.marfeelrev.com^
-||meas.ad.pr.ameba.jp^
 ||media.line.me/js/line-button.js^$third-party
 ||media.net^
-||mediad2.jp^
 ||meter-svc.nytimes.com^
 ||metric.gstatic.com^
 ||metrics.brightcove.com^
