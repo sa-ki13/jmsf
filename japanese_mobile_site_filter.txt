@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
 ! Version: 2020-06-26
-! Last modified: 26 Jun 2020 15:44 JST
+! Last modified: 26 Jun 2020 17:02 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-26
 
@@ -78,7 +78,6 @@ $$link[rel="manifest"]
 /prebid_$script
 /pubads.
 /securepubads. 
-/settings/lite2/ads.js|
 /yads-
 /yads.
 ?tid=*&red=1&*&abt=$redirect=nooptext,important
