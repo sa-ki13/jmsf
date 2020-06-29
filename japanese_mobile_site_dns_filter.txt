@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile DNS Filter FA-FA
 ! Version: 2020-06-29
-! Last modified: 29 Jun 2020 23:31 JST
+! Last modified: 29 Jun 2020 23:32 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-29
 
@@ -45,12 +45,6 @@
 @@||vcentry3.valuecommerce.ne.jp^
 @@||www.google-analytics.com^
 ||5e529.v.fwmrm.net^
-||a.mobify.com^
-||a.o2u.jp^
-||a.quora.com^
-||a.ria.ru^
-||aamapi.com^
-||aaxads.com^
 ||acceliaad.durasite.net^
 ||ad.ads-lite.net^
 ||ad.adxad.jp^
