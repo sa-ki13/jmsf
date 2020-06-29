@@ -1,8 +1,8 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
-! Version: 2020-06-27
-! Last modified: 27 Jun 2020 21:48 JST
+! Version: 2020-06-29
+! Last modified: 29 Jun 2020 14:23 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-06-27
+! Last updated: 2020-06-29
 
 $$link[rel="manifest"]
 &advid=$~image
@@ -547,6 +547,7 @@ candy-box.net###widget-container-top-mobile
 candy-box.net##.icon-share.sns_btn_trigger
 candy-box.net##.va-social-buzz
 candy-box.net##article.normal.loop-article > .mb.loop-meta
+d.dmkt-sp.jp##.ma5
 d.dmkt-sp.jp##.start_wrap_sp
 dmkt01w03.point-ad-game.com###bnr_top
 dmkt01w03.point-ad-game.com###bnr_top_icon
