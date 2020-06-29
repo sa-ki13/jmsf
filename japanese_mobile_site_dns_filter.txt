@@ -1,10 +1,11 @@
 ! Title: AdGuard Japanese Mobile DNS Filter FA-FA
-! Version: 2020-06-27
-! Last modified: 27 Jun 2020 21:46 JST
+! Version: 2020-06-29
+! Last modified: 29 Jun 2020 18:42 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-06-27
+! Last updated: 2020-06-29
 
 @@||a8.net^
+@@||aax-fe.amazon-adsystem.com^
 @@||ac.ebis.ne.jp^
 @@||ads280dummy.com^
 @@||aid.send.microad.jp^
@@ -86,7 +87,6 @@
 ||airpr.com^
 ||alb.reddit.com^
 ||alexametrics.com^
-||amazon-adsystem.com^
 ||amplitude.com^
 ||analytics.archive.org^
 ||analytics.edgekey.net^
