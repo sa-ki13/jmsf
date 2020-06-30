@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile DNS Filter FA-FA
 ! Version: 2020-06-30
-! Last modified: 30 Jun 2020 16:16 JST
+! Last modified: 30 Jun 2020 16:17 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-30
 
@@ -58,7 +58,6 @@
 ||ade.googlesyndication.com^
 ||ads.pandora.tv^
 ||ads.travelaudience.com^
-||adsafeprotected.com^
 ||adservice.google.co.uk^
 ||adskeeper.co.uk^
 ||advertising.com^
