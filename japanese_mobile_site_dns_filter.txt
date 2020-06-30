@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile DNS Filter FA-FA
 ! Version: 2020-06-30
-! Last modified: 30 Jun 2020 20:42 JST
+! Last modified: 30 Jun 2020 20:44 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-30
 
@@ -159,12 +159,9 @@
 ||rakutenrpointcard.sc.omtrdc.net^
 ||reaction.line.me^
 ||rtoaster.jp^
-||sail-horizon.com^
 ||sascdn.com^
 ||sc-analytics.jp^
 ||scorecardresearch.com^
-||sc-static.net^
-||seal.verisign.com^
 ||search-api.fie.future.net.uk^
 ||servedbyadbutler.com^
 ||services.zam.com^
