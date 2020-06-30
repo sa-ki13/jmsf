@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile DNS Filter FA-FA
 ! Version: 2020-06-30
-! Last modified: 30 Jun 2020 18:25 JST
+! Last modified: 30 Jun 2020 18:29 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-30
 
@@ -138,19 +138,6 @@
 ||maruivoi.sc.omtrdc.net^
 ||mbid.marfeelrev.com^
 ||meas.ad.pr.ameba.jp^
-||media.net^
-||meter-svc.nytimes.com^
-||metric.gstatic.com^
-||metrics.brightcove.com^
-||mieru-ca.com^
-||ml314.com^
-||mobileanalytics.*.amazonaws.com^
-||mookie1.com^
-||mouseflow.com^
-||mparticle.com^
-||mtrcs.samba.tv^
-||mxpnl.com^
-||nakanohito.jp^
 ||nbcume.sc.omtrdc.net^
 ||neccorp.sc.omtrdc.net^
 ||neccorp.tt.omtrdc.net^
