@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile DNS Filter FA-FA
 ! Version: 2020-06-30
-! Last modified: 30 Jun 2020 17:39 JST
+! Last modified: 30 Jun 2020 17:42 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-30
 
@@ -82,8 +82,6 @@
 ||benessecorp.tt.omtrdc.net^
 ||britishairways.d3.sc.omtrdc.net^
 ||c2shb.ssp.yahoo.com^
-||casalemedia.com^
-||cc.swiftype.com^
 ||cdn.onesignal.com^
 ||cdn.tt.omtrdc.net^
 ||cdn2.pubexchange.com^
