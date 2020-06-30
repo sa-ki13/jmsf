@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile DNS Filter FA-FA
 ! Version: 2020-06-30
-! Last modified: 30 Jun 2020 17:42 JST
+! Last modified: 30 Jun 2020 17:44 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-30
 
@@ -85,12 +85,6 @@
 ||cdn.onesignal.com^
 ||cdn.tt.omtrdc.net^
 ||cdn2.pubexchange.com^
-||cdn4ads.com^
-||cdn-f.adsmoloco.com^
-||cdn-image.com^
-||cdp.cloud.unity3d.com^
-||cedexis.com^
-||chartbeat.com^
 ||check-out-this.site^
 ||ci.line-apps.com^
 ||cinarra.com^
@@ -352,7 +346,6 @@
 ||trafficbass.com^
 ||trafficgate.net^
 ||traq.li^
-||tr-asia.adsmoloco.com^
 ||trendemon.com^
 ||tribalfusion.com^
 ||trk.vidible.tv^
