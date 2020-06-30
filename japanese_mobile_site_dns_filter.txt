@@ -122,8 +122,6 @@
 ||img.ak.impact-ad.jp^
 ||img.hapitas.jp^
 ||intelligence.sc.omtrdc.net^
-||intellitxt.com^
-||intentmedia.net^
 ||investorsbusinessdai.tt.omtrdc.net^
 ||ipapi.tmbi.com^
 ||jcb.sc.omtrdc.net^
