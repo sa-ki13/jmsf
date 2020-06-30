@@ -155,9 +155,7 @@
 ||popin.cc^
 ||prebid.flux-analytics.com^
 ||prebid-asia.creativecdn.com^
-||prf.hn^
 ||promo.norton.com^
-||proper.io^
 ||pubmatic.com^
 ||pw.gigazine.net^
 ||px-cloud.net^
