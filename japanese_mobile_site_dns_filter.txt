@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile DNS Filter FA-FA
 ! Version: 2020-06-30
-! Last modified: 30 Jun 2020 17:59 JST
+! Last modified: 30 Jun 2020 18:00 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-30
 
@@ -106,10 +106,8 @@
 ||d3g5ovfngjw9bw.cloudfront.net^
 ||d4el4parm0zb3.cloudfront.net^
 ||dhc.tt.omtrdc.net^
-||digitiminimi.com^
 ||discoverynordics.d3.sc.omtrdc.net^
 ||discoverynordics.hb.omtrdc.net^
-||distillery.wistia.com^
 ||dni-adops-proxy-prod-adopsmediaconverter.mercury.dnitv.com^
 ||dpmsrv.com^
 ||ds-aksb-a.akamaihd.net^
