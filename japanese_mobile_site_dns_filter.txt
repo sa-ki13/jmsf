@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile DNS Filter FA-FA
 ! Version: 2020-06-30
-! Last modified: 30 Jun 2020 18:14 JST
+! Last modified: 30 Jun 2020 18:15 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-30
 
@@ -123,7 +123,6 @@
 ||img.hapitas.jp^
 ||intelligence.sc.omtrdc.net^
 ||investorsbusinessdai.tt.omtrdc.net^
-||ipapi.tmbi.com^
 ||jcb.sc.omtrdc.net^
 ||jcb.tt.omtrdc.net^
 ||jp-axia.m0mentum.net^
