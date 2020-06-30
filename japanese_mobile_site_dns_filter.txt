@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile DNS Filter FA-FA
 ! Version: 2020-06-30
-! Last modified: 30 Jun 2020 16:28 JST
+! Last modified: 30 Jun 2020 17:33 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-06-30
 
@@ -70,7 +70,6 @@
 ||asahishimbun.sc.omtrdc.net^
 ||aswpsdkus.com^
 ||atdmt.com^
-||automatad.com^
 ||aw.dw.impact-ad.jp^
 ||az416426.vo.msecnd.net^
 ||b11.yahoo.co.jp^
