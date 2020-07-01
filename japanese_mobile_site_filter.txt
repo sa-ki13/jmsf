@@ -1,16 +1,10 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
-! Version: 2020-06-30
-! Last modified: 30 Jun 2020 14:49 JST
+! Version: 2020-07-01
+! Last modified: 01 Jul 2020 15:05 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-06-30
+! Last updated: 2020-07-01
 
 $$link[rel="manifest"]
-&advid=$~image
-&bannerid=
-.adnwif.
-.com/ads-
-.com/ads/$image,object,subdocument
-.com/js/ad.
 .demdex.net/id^$redirect=nooptext,important
 .doublepimp.com^$third-party
 .html?ad_
