@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
 ! Version: 2020-07-01
-! Last modified: 01 Jul 2020 15:38 JST
+! Last modified: 01 Jul 2020 15:40 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-07-01
 
@@ -23,14 +23,6 @@ $$link[rel="manifest"]
 /js/jquery.smartbanner.js
 /log_event?
 /piwik.js
-/prebid-
-/prebid.
-/prebid/*
-/prebid_$script
-/pubads.
-/securepubads. 
-/yads-
-/yads.
 ?tid=*&red=1&*&abt=$redirect=nooptext,important
 @@||aid.send.microad.jp^$app=jp.ponta.myponta
 @@||cdn.treasuredata.com^$app=jp.ponta.myponta
