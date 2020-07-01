@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
 ! Version: 2020-07-01
-! Last modified: 01 Jul 2020 15:58 JST
+! Last modified: 01 Jul 2020 16:06 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-07-01
 
@@ -123,7 +123,6 @@ $$link[rel="manifest"]
 ||beacon.wikia-services.com^
 ||bizographics.com^
 ||bkrtx.com^
-||blismedia.com^$third-party
 ||blueconic.net^
 ||boomtrain.com^
 ||bounceexchange.com^
