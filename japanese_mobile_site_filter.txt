@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
 ! Version: 2020-07-01
-! Last modified: 01 Jul 2020 17:06 JST
+! Last modified: 01 Jul 2020 22:14 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-07-01
 
@@ -147,7 +147,6 @@ $$link[rel="manifest"]
 ||clicktale.net^
 ||clicktripz.com^
 ||client.crisp.chat^
-||cloudfront.net/script.js$script,third-party
 ||cnzz.com^
 ||collect.igodigital.com^
 ||collector.githubapp.com^
