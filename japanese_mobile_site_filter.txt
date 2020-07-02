@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
 ! Version: 2020-07-02
-! Last modified: 02 Jul 2020 15:31 JST
+! Last modified: 02 Jul 2020 15:37 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-07-02
 
@@ -434,14 +434,12 @@ $$link[rel="manifest"]
 ||zdbb.net^
 ||ziffdavis.com^
 ||zqtk.net^
--300x250-$~xmlhttprequest
 ad-contents.jp###footer > .mobile-big-banner.item-block
 ad-contents.jp##.fx-banner
 ad-contents.jp##.overlay-item
 ad-contents.jp##.overlay-mask
 ad-contents.jp##.type-appear.item-container > .mobile-big-banner.item-block
 ad-contents.jp##div[id^="_INSERT_SLOT_ID_HERE"]
-azby.fmworld.net###kidshub-nav
 billboard.com##.header-wrapper__secondary-header 
 blog.livedoor.jp###blog_ranking
 blog.livedoor.jp###category_ranking
@@ -498,9 +496,6 @@ kuji.d.dmkt-sp.jp##section.block:nth-of-type(2)
 life-n.jp##div:nth-of-type(8)
 life-n.jp##div[class^="ad_area"]
 livedoorblogstyle.jp##.content > aside.section-box:nth-of-type(9)
-mediafire.com###div-gpt-ad-1575674121640-0
-mediafire.com###div-gpt-ad-1579281108195-0
-mediafire.com###div-gpt-ad-1579281193413-0
 piccoma.com###js_hssTooltip
 point-news.jp##div:nth-of-type(9)
 ponta.abstractpainting.work##.game-loading
@@ -519,5 +514,4 @@ togetter.com##.site_data
 togetter.com##article > footer
 togetter.com##aside
 togetter.com##div.info_status_box
-vkcdnservice.appspot.com^$third-party
 www3.nhk.or.jp###appsbanner
