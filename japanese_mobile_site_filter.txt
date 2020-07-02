@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
 ! Version: 2020-07-02
-! Last modified: 02 Jul 2020 22:18 JST
+! Last modified: 02 Jul 2020 22:23 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-07-02
 
@@ -94,12 +94,7 @@ $$link[rel="manifest"]
 ||boomtrain.com^
 ||bounceexchange.com^
 ||buysellads.net^
-||c.bing.com/c.gif
-||c.msn.com^
 ||c2shb.ssp.yahoo.com^
-||cc.swiftype.com^
-||cdn.ampproject.org/*/amp-analytics-
-||cdn.d2-apps.net/js/tr.js
 ||cdn.onesignal.com^
 ||cdn.segment.com/analytics.js
 ||cdn2.pubexchange.com^
