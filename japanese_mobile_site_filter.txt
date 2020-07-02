@@ -1,8 +1,8 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
-! Version: 2020-07-01
-! Last modified: 01 Jul 2020 23:35 JST
+! Version: 2020-07-02
+! Last modified: 02 Jul 2020 14:35 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-07-01
+! Last updated: 2020-07-02
 
 $$link[rel="manifest"]
 .demdex.net/id^$redirect=nooptext,important
@@ -216,7 +216,6 @@ $$link[rel="manifest"]
 ||google.com^*/fastbutton?$third-party
 ||googletagmanager.com/gtag/js$redirect=nooptext,important
 ||googletagservices.com^
-||graizoah.com^
 ||graph.facebook.com/?*id=https://$third-party
 ||graph.facebook.com/*?fields=supports_implicit_sdk_logging
 ||graph.instagram.com/logging_client_events
@@ -232,7 +231,6 @@ $$link[rel="manifest"]
 ||hs-analytics.net^
 ||i.popincdn.com^
 ||ias.rakuten.co.jp^
-||im.ov.yahoo.co.jp^
 ||img.hapitas.jp^
 ||insightexpressai.com^$third-party
 ||instant.page^
