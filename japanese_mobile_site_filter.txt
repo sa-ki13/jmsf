@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
 ! Version: 2020-07-02
-! Last modified: 02 Jul 2020 18:53 JST
+! Last modified: 02 Jul 2020 22:09 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-07-02
 
@@ -72,13 +72,8 @@ $$link[rel="manifest"]
 ||amplitude.com^
 ||analytics.edgekey.net^
 ||analytics.twitter.com^
-||api.github.com/_private/browser/stats$important
 ||api.ipdata.co^
 ||api.stats.appa.pe^
-||api-analytics.metaps.com^
-||api-analytics-bootstrap.metaps.com^
-||api-js.mixpanel.com/track^
-||app.link/_r?sdk=*&callback=branch_callback
 ||appbaqend.com^
 ||apple.com/metrics/
 ||apps2sd.info^
