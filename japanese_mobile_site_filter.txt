@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
 ! Version: 2020-07-02
-! Last modified: 02 Jul 2020 18:19 JST
+! Last modified: 02 Jul 2020 18:23 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-07-02
 
@@ -44,7 +44,6 @@ $$link[rel="manifest"]
 ||3lift.com^
 ||5e529.v.fwmrm.net^
 ||a.o2u.jp^
-||a.ria.ru^
 ||aaddcount.com^
 ||aamapi.com^
 ||aaxads.com^
@@ -67,7 +66,6 @@ $$link[rel="manifest"]
 ||adservice.google.co.uk^
 ||adskeeper.co.uk^
 ||ads-twitter.com^
-||adtlgc.com^$third-party
 ||affiliate-b.com^
 ||airpr.com^
 ||alb.reddit.com^
