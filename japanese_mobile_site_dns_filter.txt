@@ -1,8 +1,8 @@
 ! Title: AdGuard Japanese Mobile DNS Filter FA-FA
-! Version: 2020-07-01
-! Last modified: 01 Jul 2020 00:55 JST
+! Version: 2020-07-03
+! Last modified: 03 Jul 2020 15:56 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-07-01
+! Last updated: 2020-07-03
 
 @@||a8.net^
 @@||aax-fe.amazon-adsystem.com^
@@ -171,7 +171,6 @@
 ||smbc.sc.omtrdc.net^
 ||smetrics.cnn.com^
 ||spoor-api.ft.com^
-||ssl.image.appdriver.jp^
 ||static.addtoany.com^
 ||static.mixi.jp^
 ||tagman.britishairways.com^
