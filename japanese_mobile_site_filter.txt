@@ -98,6 +98,7 @@
 ||d305v6nldhjazi.cloudfront.net/common/images/common/icon-url-copy-circle.svg$image
 ||d305v6nldhjazi.cloudfront.net/sp/images/common/img-top-top.png$image
 ||deployads.com^
+||dgpot.com/blogparts^$third-party
 ||digitiminimi.com^
 ||distillery.wistia.com^
 ||dni-adops-proxy-prod-adopsmediaconverter.mercury.dnitv.com^
