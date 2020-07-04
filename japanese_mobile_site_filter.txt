@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
 ! Version: 2020-07-04
-! Last modified: 04 Jul 2020 20:14 JST
+! Last modified: 04 Jul 2020 20:29 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-07-04
 
@@ -33,7 +33,6 @@
 ||3gl.net^
 ||3lift.com^
 ||5e529.v.fwmrm.net^
-||a.line.me^
 ||a.o2u.jp^
 ||aaddcount.com^
 ||aamapi.com^
@@ -100,7 +99,6 @@
 ||d305v6nldhjazi.cloudfront.net/common/images/common/icon-url-copy-circle.svg$image
 ||d305v6nldhjazi.cloudfront.net/sp/images/common/img-top-top.png$image
 ||deployads.com^
-||dgpot.com/blogparts^$third-party
 ||digitiminimi.com^
 ||distillery.wistia.com^
 ||dni-adops-proxy-prod-adopsmediaconverter.mercury.dnitv.com^
@@ -134,10 +132,7 @@
 ||instant.page^
 ||intentmedia.net^
 ||ipapi.tmbi.com^
-||itest.5ch.net/assets/img/loading.gif^$redirect=1x1-transparent.gif
-||itest.bbspink.com/assets/img/loading.gif^$redirect=1x1-transparent.gif
 ||js.driftt.com^
-||juicer.cc^
 ||justpremium.com^
 ||jwpltx.com^
 ||kaizenplatform.net^
@@ -188,7 +183,6 @@
 ||promo.norton.com^
 ||proper.io^
 ||push7.jp^
-||pv4u.com^$third-party
 ||px-cloud.net^
 ||rd.rakuten.co.jp^
 ||rddywd.com^
@@ -226,7 +220,6 @@
 ||tags.news.com.au^
 ||tags.tiqcdn.com^
 ||targetemsecure.blob.core.windows.net^
-||teacup.com/cgi-bin/Count.cgi^
 ||technoratimedia.com^
 ||textuploader.com/assets/img/patterns/bg*.png$image
 ||tgknt.com^
