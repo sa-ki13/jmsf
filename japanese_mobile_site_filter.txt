@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
 ! Version: 2020-07-04
-! Last modified: 04 Jul 2020 10:41 JST
+! Last modified: 04 Jul 2020 11:49 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-07-04
 
@@ -78,7 +78,6 @@ $$link[rel="manifest"]
 ||aswpsdkus.com^
 ||az416426.vo.msecnd.net^
 ||b*.yahoo.co.jp/b?
-||b.hatena.ne.jp^$third-party
 ||b11.yahoo.co.jp^
 ||b16.yahoo.co.jp^
 ||b5.yahoo.co.jp^
