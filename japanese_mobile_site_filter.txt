@@ -248,7 +248,6 @@
 ||woopra.com^
 ||xg4ken.com^
 ||yield-manager.browsiprod.com^
-||yimg.jp/bdv/
 ||yjtag.jp^
 ||youborafds01.com^
 ||zqtk.net^
