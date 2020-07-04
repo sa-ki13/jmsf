@@ -178,8 +178,6 @@
 ||plus.google.com^
 ||point-news.jp/sp/network/$subdocument
 ||polyfill.io^
-||prebid.flux-analytics.com^
-||prebid-asia.creativecdn.com^
 ||prf.hn^
 ||promo.norton.com^
 ||proper.io^
