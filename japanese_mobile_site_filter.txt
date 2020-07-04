@@ -1,11 +1,9 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
 ! Version: 2020-07-04
-! Last modified: 04 Jul 2020 14:34 JST
+! Last modified: 04 Jul 2020 14:56 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-07-04
 
-/beacon/*
-/googima.js
 /jquery.meerkat.
 @@||aid.send.microad.jp^$app=jp.ponta.myponta
 @@||cdn.treasuredata.com^$app=jp.ponta.myponta
@@ -40,23 +38,11 @@
 ||aamapi.com^
 ||aaxads.com^
 ||acceliaad.durasite.net^
-||ad.ads-lite.net^
-||ad.adxad.jp^
-||ad.gt^
-||ad.linksynergy.com^
-||ad.skyflag.jp^
-||ad.sorakaze.co.jp^
-||ad.woman.mynavi.jp^
-||ad3.cross-a.net^
 ||ad999.biz^
 ||admatrix.jp^
 ||adnami.io^
 ||adpushup.com^
 ||adrta.com^
-||ads.pandora.tv^
-||ads.travelaudience.com^
-||adservice.google.co.uk^
-||adskeeper.co.uk^
 ||ads-twitter.com^
 ||affiliate-b.com^
 ||airpr.com^
