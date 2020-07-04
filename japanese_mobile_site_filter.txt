@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
 ! Version: 2020-07-04
-! Last modified: 04 Jul 2020 20:00 JST
+! Last modified: 04 Jul 2020 20:0 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-07-04
 
@@ -33,6 +33,7 @@
 ||3gl.net^
 ||3lift.com^
 ||5e529.v.fwmrm.net^
+||a.line.me^
 ||a.o2u.jp^
 ||aaddcount.com^
 ||aamapi.com^
@@ -61,6 +62,7 @@
 ||b5.yahoo.co.jp^
 ||b9.yahoo.co.jp^
 ||b91.yahoo.co.jp^
+||baidu.com^
 ||banner.buyee.jp^
 ||bdash-cloud.com^
 ||bkrtx.com^
@@ -103,6 +105,7 @@
 ||distillery.wistia.com^
 ||dni-adops-proxy-prod-adopsmediaconverter.mercury.dnitv.com^
 ||dpmsrv.com^
+||duapps.com^
 ||dwin2.com^
 ||ec-concier.com^
 ||edigitalsurvey.com^
