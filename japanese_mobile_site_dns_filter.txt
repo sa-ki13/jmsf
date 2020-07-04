@@ -1,8 +1,8 @@
 ! Title: AdGuard Japanese Mobile DNS Filter FA-FA
-! Version: 2020-07-03
-! Last modified: 03 Jul 2020 23:14 JST
+! Version: 2020-07-04
+! Last modified: 04 Jul 2020 17:50 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-07-03
+! Last updated: 2020-07-04
 
 @@||a8.net^
 @@||aax-fe.amazon-adsystem.com^
@@ -47,6 +47,7 @@
 @@||ws-fe.amazon-adsystem.com^
 @@||www.google-analytics.com^
 ||5e529.v.fwmrm.net^
+||a.line.me^
 ||acceliaad.durasite.net^
 ||ad.ads-lite.net^
 ||ad.adxad.jp^
@@ -77,6 +78,7 @@
 ||b5.yahoo.co.jp^
 ||b9.yahoo.co.jp^
 ||b91.yahoo.co.jp^
+||baidu.com^
 ||banner.buyee.jp^
 ||bat.bing.com^
 ||benessecorp.d1.sc.omtrdc.net^
@@ -110,8 +112,10 @@
 ||discoverynordics.d3.sc.omtrdc.net^
 ||discoverynordics.hb.omtrdc.net^
 ||dni-adops-proxy-prod-adopsmediaconverter.mercury.dnitv.com^
+||duapps.com^
 ||edigitalsurvey.com^
 ||eloqua.com^
+||estrongs.com^
 ||eventapi.bookwalker.jp^
 ||ezoic.net^
 ||firebaseinstallations.googleapis.com^
