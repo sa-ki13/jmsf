@@ -1,8 +1,8 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
-! Version: 2020-07-04
-! Last modified: 04 Jul 2020 23:35 JST
+! Version: 2020-07-05
+! Last modified: 05 Jul 2020 00:46 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-07-04
+! Last updated: 2020-07-05
 
 /jquery.meerkat.
 @@||aid.send.microad.jp^$app=jp.ponta.myponta
@@ -36,12 +36,6 @@
 ||apps2sd.info^
 ||aswpsdkus.com^
 ||az416426.vo.msecnd.net^
-||b11.yahoo.co.jp^
-||b16.yahoo.co.jp^
-||b5.yahoo.co.jp^
-||b9.yahoo.co.jp^
-||b91.yahoo.co.jp^
-||baidu.com^
 ||banner.buyee.jp^
 ||bdash-cloud.com^
 ||bkrtx.com^
@@ -105,7 +99,6 @@
 ||gscontxt.net^
 ||heapanalytics.com^
 ||heatmap.it^
-||hotjar.com^
 ||hs-analytics.net^
 ||img.hapitas.jp^
 ||instant.page^
@@ -138,7 +131,6 @@
 ||mxpnl.com^
 ||ntv.io^
 ||onelink-translations.com^
-||optimizely.com^
 ||p.typekit.net^
 ||padma-fed.com^
 ||parts.blog.livedoor.jp/*/lite2/floating
