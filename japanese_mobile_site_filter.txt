@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
 ! Version: 2020-07-06
-! Last modified: 06 Jul 2020 15:08 JST
+! Last modified: 06 Jul 2020 15:29 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-07-06
 
@@ -120,4 +120,13 @@ togetter.com##.site_data
 togetter.com##article > footer
 togetter.com##aside
 togetter.com##div.info_status_box
+trilltrill.jp##.articleDetail-ADG
+trilltrill.jp##.articleDetail-GAM
+trilltrill.jp##.articleDetail-MediumRelatedArticles
+trilltrill.jp##.articleDetail-PVBoostLink_Header
+trilltrill.jp##.articleDetail-Ranking
+trilltrill.jp##.articleDetail-ReadMore_W2A
+trilltrill.jp##.footer-AppDownload
+trilltrill.jp##.footer-W2ABanner
+trilltrill.jp##.js-article-pvboost-link
 www3.nhk.or.jp###appsbanner
