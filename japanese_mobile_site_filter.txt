@@ -120,6 +120,9 @@ togetter.com##.site_data
 togetter.com##article > footer
 togetter.com##aside
 togetter.com##div.info_status_box
+trilltrill.jp###div-gpt-ad-1551262979664-0
+trilltrill.jp###div-gpt-ad-1551925286352-0
+trilltrill.jp###div-gpt-ad-1551925329566-0
 trilltrill.jp##.articleDetail-ADG
 trilltrill.jp##.articleDetail-GAM
 trilltrill.jp##.articleDetail-MediumRelatedArticles
