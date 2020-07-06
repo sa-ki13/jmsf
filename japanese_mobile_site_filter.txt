@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
 ! Version: 2020-07-06
-! Last modified: 06 Jul 2020 23:08 JST
+! Last modified: 06 Jul 2020 23:38 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-07-06
 
@@ -44,6 +44,10 @@ ad-contents.jp##.fx-banner
 ad-contents.jp##.type-appear.item-container > .mobile-big-banner.item-block
 ad-contents.jp##div[id^="_INSERT_SLOT_ID_HERE"]
 ad-contents.jp#%#//scriptlet('set-constant', 'setTimer', 'noopFunc')
+asajo.jp###text-12
+asajo.jp##.cfx:nth-of-type(1)
+asajo.jp##.cfx:nth-of-type(3)
+asajo.jp##div:nth-of-type(5)
 billboard.com##.header-wrapper__secondary-header 
 blog.livedoor.jp###blog_ranking
 blog.livedoor.jp###category_ranking
