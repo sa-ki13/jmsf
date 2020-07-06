@@ -35,10 +35,7 @@
 ||banner.buyee.jp^
 ||bdash-cloud.com^
 ||buysellads.net^
-||cdn.onesignal.com^
-||cdn2.pubexchange.com^
 ||check-out-this.site^
-||cinarra.com^
 ||cintnetworks.com^
 ||clicktale.net^
 ||clicktripz.com^
