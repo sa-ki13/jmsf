@@ -99,6 +99,8 @@ hiroba.dpoint.jp##.c-site-footer-share
 hiroba.dpoint.jp##.lottery-promotion > .lottery-limitter
 hiroba.dpoint.jp##div.c-sec > .c-sec__body
 item.rakuten.co.jp##div > label
+itmedia.co.jp###rm44981
+itmedia.co.jp##.colBoxClear
 ivfree.me###overlay_area
 ivfree.me##.main > p
 ivfree.me##.sub > p
