@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
 ! Version: 2020-07-08
-! Last modified: 08 Jul 2020 23:24 JST
+! Last modified: 08 Jul 2020 23:30 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-07-08
 
@@ -117,7 +117,6 @@ ivfree.me##.main > p
 ivfree.me##.sub > p
 japanese.engadget.com###post-bottom-social-share
 japanese.engadget.com##.below-article-body
-japanese.engadget.com##.D\(b\)\!--sm
 japanese.engadget.com##.D\(b\)\!--sm.D\(n\)
 japanese.engadget.com##.Lh\(30px\) > div > div
 japanese.engadget.com##.social-follow
