@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
 ! Version: 2020-07-09
-! Last modified: 09 Jul 2020 15:56 JST
+! Last modified: 09 Jul 2020 16:01 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-07-09
 
@@ -185,3 +185,5 @@ trilltrill.jp##.footer-AppDownload
 trilltrill.jp##.footer-W2ABanner
 trilltrill.jp##.js-article-pvboost-link
 www3.nhk.or.jp###appsbanner
+zakzak.co.jp##.pr
+zakzak.co.jp##.service
