@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
 ! Version: 2020-07-09
-! Last modified: 09 Jul 2020 15:36 JST
+! Last modified: 09 Jul 2020 15:39 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-07-09
 
@@ -85,6 +85,7 @@ dmkt02.point-ad-game.com##div.banner:nth-of-type(1)
 dropgame.jp##div.footer_rectangle_ssp 
 enq.smt.docomo.ne.jp###wrap_banner
 fnn.jp##.article-footer
+fnn.jp##.l-inner
 gamefactory.jp###new_ad
 gamefactory.jp###point_ad
 gamefactory.jp###purchase-nav
