@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
 ! Version: 2020-07-14
-! Last modified: 09 Jul 2020 23:23 JST
+! Last modified: 09 Jul 2020 23:31 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-07-09
 
@@ -109,6 +109,8 @@ gendai.ismedia.jp#@#[class$="-ad"]:not(html):not(body)
 goguynet.jp##.bnrBox01
 grapee.jp###sns-area-entry-bottom
 grapee.jp###ul_comment
+grapee.jp##.single-page > :nth-of-type(2)
+grapee.jp##.single-page > aside
 grapee.jp##hr
 health.joyplot.com##.g_area
 hiroba.dpoint.jp##.c-sec__bnr
