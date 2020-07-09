@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
 ! Version: 2020-07-09
-! Last modified: 09 Jul 2020 15:44 JST
+! Last modified: 09 Jul 2020 15:49 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-07-09
 
@@ -146,7 +146,9 @@ news.mynavi.jp##.box--line:nth-of-type(2)
 news.mynavi.jp##.js-read__inner > :nth-of-type(3)
 news.yahoo.co.jp###mhd_prem_header_sp
 news.yahoo.co.jp##.goPfSJ
+nikkansports.com###SemiTopADtext
 nikkansports.com###TopAD
+nikkansports.com##.webapiArticleList
 piccoma.com###js_hssTooltip
 point-news.jp##div:nth-of-type(9)
 ponta.abstractpainting.work##.game-loading
