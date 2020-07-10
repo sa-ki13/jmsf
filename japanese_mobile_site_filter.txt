@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
 ! Version: 2020-07-10
-! Last modified: 10 Jul 2020 16:08 JST
+! Last modified: 10 Jul 2020 16:16 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-07-10
 
@@ -177,6 +177,12 @@ lmaga.jp##.main_share
 lmaga.jp##.pickup
 lmaga.jp##.recommend
 mainichi.jp###page > .h1-title
+mdpr.jp##.footer__logo--joshi
+mdpr.jp##.footer__sns
+mdpr.jp##.sns
+mdpr.jp##.topic-text > div:nth-of-type(3)
+mdpr.jp##.topic-text > div:nth-of-type(6)
+mdpr.jp##section:nth-of-type(3)
 media.moneyforward.com##.aside-box:nth-of-type(2)
 media.moneyforward.com##.mp-recommends
 media.moneyforward.com##.mp-sns-share-buttons
