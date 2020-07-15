@@ -1,8 +1,8 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
-! Version: 2020-07-15
-! Last modified: 15 Jul 2020 22:23 JST
+! Version: 2020-07-16
+! Last modified: 16 Jul 2020 01:13 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-07-15
+! Last updated: 2020-07-16
 
 /jquery.meerkat.
 @@||aid.send.microad.jp^$app=jp.ponta.myponta
@@ -44,7 +44,6 @@
 ||parts.blog.livedoor.jp/*/lite2/floating
 ||point-news.jp/sp/network/$subdocument
 ||polyfill.io^
-||xx.fbcdn.net^
 ad-contents.jp###footer > .mobile-big-banner.item-block
 ad-contents.jp##.fx-banner
 ad-contents.jp##.type-appear.item-container > .mobile-big-banner.item-block
