@@ -267,6 +267,7 @@ togetter.com###fixed_social_header
 togetter.com##.clearfix.hotentries_box
 togetter.com##.content
 togetter.com##.counts_box
+togetter.com##.point
 togetter.com##.site_data
 togetter.com##article > footer
 togetter.com##aside
