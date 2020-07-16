@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
 ! Version: 2020-07-16
-! Last modified: 16 Jul 2020 16:03 JST
+! Last modified: 16 Jul 2020 16:08 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-07-16
 
@@ -69,6 +69,7 @@ apppass.niwadehio.com##p:nth-of-type(6)
 apppass.niwadehio.com##p:nth-of-type(8)
 apppass.niwadehio.com##p:nth-of-type(9)
 article.auone.jp##.cp-related__ad
+asagei.biz##.article > footer
 asajo.jp###text-12
 asajo.jp###text-22
 asajo.jp##.cfx:nth-of-type(1)
