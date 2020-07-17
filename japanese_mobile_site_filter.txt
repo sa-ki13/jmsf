@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
 ! Version: 2020-07-17
-! Last modified: 17 Jul 2020 22:45 JST
+! Last modified: 17 Jul 2020 22:57 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-07-17
 
@@ -277,6 +277,10 @@ sirabee.com##.pt-md-0
 sirabee.com##div.relatedList
 sirabee.com##p:nth-of-type(3)
 sirabee.com##p:nth-of-type(8)
+socius101.com###sns_follow_buttons-4
+socius101.com###sns-group
+socius101.com###text-11
+socius101.com##nav
 sponichi.co.jp##.square-area
 stacksocial.com##.intelligent-modules-container > div:nth-of-type(2)
 t-mall.cmnw.jp##.mgb_10
