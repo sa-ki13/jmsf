@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
 ! Version: 2020-07-18
-! Last modified: 18 Jul 2020 13:03 JST
+! Last modified: 18 Jul 2020 17:12 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-07-18
 
@@ -31,6 +31,7 @@
 @@||static.blogos.com/common/js/kotzen.analytics.js?1412917378
 @@||sync.dmp.fout.jp^$app=jp.ponta.myponta
 @@||sync.im-apps.net^$app=jp.ponta.myponta
+@@||tags.tiqcdn.com/utag/sony-marketing/main/prod/utag.537.js?utv=ut4.42.201811050820$domain=sony.jp
 @@||tg.socdm.com^$app=jp.ponta.myponta
 @@||torimochi.line-apps.com^$app=jp.naver.line.android
 @@||trj.valuecommerce.com/vcushion.js$third-party
