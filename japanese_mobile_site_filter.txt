@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
 ! Version: 2020-07-18
-! Last modified: 18 Jul 2020 20:11 JST
+! Last modified: 18 Jul 2020 22:01 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-07-18
 
@@ -285,6 +285,14 @@ point-news.jp##div:nth-of-type(9)
 ponta.abstractpainting.work##.game-loading
 rocketnews24.com##.social-follow
 rocketnews24.com##hr
+roomie.jp###main > .r-section
+roomie.jp##.r-buy
+roomie.jp##.r-infolist:nth-of-type(1) :nth-of-type(2)
+roomie.jp##.r-medialist
+roomie.jp##.r-siteinfo :nth-of-type(2)
+roomie.jp##.r-snsbutton
+roomie.jp##.veryhot
+roomie.jp##div.r-section
 sirabee.com##.entryBottomBanner
 sirabee.com##.is-pr
 sirabee.com##.pt-md-0
