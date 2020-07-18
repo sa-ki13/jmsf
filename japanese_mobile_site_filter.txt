@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
 ! Version: 2020-07-18
-! Last modified: 18 Jul 2020 22:01 JST
+! Last modified: 18 Jul 2020 22:36 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-07-18
 
@@ -341,6 +341,17 @@ warotanikki.com##.content > p:nth-of-type(3)
 warotanikki.com##.content > :nth-of-type(1)
 warotanikki.com##.img_meta
 warotanikki.com##.p-entry__tw-follow
+w-higa.com###custom_post_widget-14
+w-higa.com###custom_post_widget-62670
+w-higa.com###left_col > :nth-of-type(2)
+w-higa.com###left_col > :nth-of-type(5)
+w-higa.com###left_col > :nth-of-type(7)
+w-higa.com###mobile_banner_top
+w-higa.com###text-19
+w-higa.com###text-33
+w-higa.com###text-36
+w-higa.com##.dp-footer-bar-item:nth-of-type(1)
+w-higa.com##.post > div:nth-of-type(1)
 www3.nhk.or.jp###appsbanner
 yasu-suma.net###item_ranking-3
 yasu-suma.net###rinkerid25620
