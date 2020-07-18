@@ -38,6 +38,7 @@
 @@||www.google-analytics.com^$app=jp.co.matsukiyo.app|jp.ponta.myponta
 @@||www.googletagmanager.com/gtag/js?id=UA-50746846-2$third-party
 @@||www.googletagmanager.com/gtm.js?id=GTM-5W8NGB8$domain=ponta.jp,third-party
+||af.fukuishimbun.co.jp/data.php$image
 ||crs-event.line.me^
 ||d305v6nldhjazi.cloudfront.net/common/images/common/icon-url-copy-circle.svg$image
 ||d305v6nldhjazi.cloudfront.net/sp/images/common/img-top-top.png$image
@@ -132,6 +133,11 @@ entamega.com###sp_entryBottomSns
 entamega.com##.otherLinkList > :nth-of-type(5)
 fnn.jp##.l-inner
 froggy.smbcnikko.co.jp##.article__btn-group
+fukuishimbun.co.jp###wrapper > :nth-of-type(2)
+fukuishimbun.co.jp##.servicelinks
+fukuishimbun.co.jp##.sns
+fukuishimbun.co.jp##.sub-column-house-bnr :nth-of-type(3)
+fukuishimbun.co.jp##div:nth-of-type(11)
 gamefactory.jp###new_ad
 gamefactory.jp###point_ad
 gamefactory.jp###purchase-nav
