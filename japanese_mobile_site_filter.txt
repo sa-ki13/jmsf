@@ -31,7 +31,7 @@
 @@||static.blogos.com/common/js/kotzen.analytics.js?1412917378
 @@||sync.dmp.fout.jp^$app=jp.ponta.myponta
 @@||sync.im-apps.net^$app=jp.ponta.myponta
-@@||tags.tiqcdn.com/utag/sony-marketing/main/prod/utag.js$domain=sony.jp
+@@||tags.tiqcdn.com/utag/sony-marketing^$domain=sony.jp
 @@||tg.socdm.com^$app=jp.ponta.myponta
 @@||torimochi.line-apps.com^$app=jp.naver.line.android
 @@||trj.valuecommerce.com/vcushion.js$third-party
