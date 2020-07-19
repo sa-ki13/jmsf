@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
 ! Version: 2020-07-19
-! Last modified: 19 Jul 2020 20:30 JST
+! Last modified: 19 Jul 2020 21:14 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-07-19
 
@@ -311,6 +311,8 @@ roomie.jp##.r-siteinfo :nth-of-type(2)
 roomie.jp##.r-snsbutton
 roomie.jp##.veryhot
 roomie.jp##div.r-section
+s.kakaku.com###shareLink
+s.kakaku.com##hr
 sirabee.com##.entryBottomBanner
 sirabee.com##.is-pr
 sirabee.com##.pt-md-0
