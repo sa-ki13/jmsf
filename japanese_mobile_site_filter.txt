@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
 ! Version: 2020-07-20
-! Last modified: 20 Jul 2020 23:22 JST
+! Last modified: 20 Jul 2020 23:26 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-07-20
 
@@ -199,12 +199,15 @@ gigazine.net##p:nth-of-type(5)
 gizmodo.jp###gz-recommendedBottom-outerAd
 gizmodo.jp###gz-recommendedBottom-recommend
 gizmodo.jp##.-hot
+gizmodo.jp##.-large
 gizmodo.jp##.-veryHot
 gizmodo.jp##.-warm
 gizmodo.jp##.f-body-aboutFuze
 gizmodo.jp##.f-body-posting
 gizmodo.jp##.gz-entryDetail-footerItem--ec
 gizmodo.jp##.p-post-AssistPageView
+gizmodo.jp##.p-post-survey
+gizmodo.jp##.p-post-survey-share
 gizmodo.jp##.p-timeline-card1AssistPageView
 goguynet.jp##.bnrBox01
 grapee.jp###sns-area-entry-bottom
