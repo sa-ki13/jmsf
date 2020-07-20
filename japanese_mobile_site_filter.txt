@@ -318,6 +318,7 @@ news.nicovideo.jp##.news-comments
 news.nicovideo.jp##news-official-sns-buttons
 news.yahoo.co.jp###mhd_prem_header_sp
 news.yahoo.co.jp##.goPfSJ
+news.yahoo.co.jp##.ldwpRy
 nikkansports.com###SemiTopADtext
 nikkansports.com###TopAD
 nikkansports.com##.webapiArticleList
