@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
 ! Version: 2020-07-20
-! Last modified: 20 Jul 2020 14:13 JST
+! Last modified: 20 Jul 2020 14:27 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-07-20
 
@@ -58,6 +58,10 @@ agora-web.jp##.footerList :nth-of-type(2)
 agora-web.jp##.footerList :nth-of-type(5)
 agora-web.jp##.p-shareButton-bottom
 agora-web.jp##small
+amagasaki.goguynet.jp##.centerUnder04
+amagasaki.goguynet.jp##.menu-item-object-page:nth-of-type(4)
+amagasaki.goguynet.jp##.pop-views
+amagasaki.goguynet.jp##div:nth-of-type(8)
 apppass.niwadehio.com###the-content > p:nth-of-type(4)
 apppass.niwadehio.com###the-content > p:nth-of-type(5)
 apppass.niwadehio.com##:nth-of-type(11)
