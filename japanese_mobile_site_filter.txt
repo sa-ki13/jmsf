@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
 ! Version: 2020-07-20
-! Last modified: 20 Jul 2020 23:16 JST
+! Last modified: 20 Jul 2020 23:22 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-07-20
 
@@ -406,6 +406,8 @@ warotanikki.com##.content > p:nth-of-type(3)
 warotanikki.com##.content > :nth-of-type(1)
 warotanikki.com##.img_meta
 warotanikki.com##.p-entry__tw-follow
+wezz-y.com###textPrArea
+wezz-y.com##.footerList > :nth-of-type(3)
 w-higa.com###custom_post_widget-14
 w-higa.com###custom_post_widget-62670
 w-higa.com###left_col > :nth-of-type(2)
