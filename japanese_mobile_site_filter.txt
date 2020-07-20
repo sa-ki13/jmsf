@@ -144,7 +144,6 @@ entamega.com###sp_entryBottomSns
 entamega.com##.otherLinkList > :nth-of-type(5)
 fnn.jp##.l-inner
 froggy.smbcnikko.co.jp##.article__btn-group
-front-row.jp###content-17373402
 front-row.jp##.content-bottom-body
 fukuishimbun.co.jp###wrapper > :nth-of-type(2)
 fukuishimbun.co.jp##.servicelinks
