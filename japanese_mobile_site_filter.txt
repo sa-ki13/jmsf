@@ -435,6 +435,7 @@ w-higa.com##.dp-footer-bar-item:nth-of-type(1)
 w-higa.com##.post > div:nth-of-type(1)
 w-higa.com#@#img[width="468"][height="60"]
 www3.nhk.or.jp###appsbanner
+xtech.nikkei.com##.p-fixedShare
 yasu-suma.net###item_ranking-3
 yasu-suma.net###rinkerid25620
 yasu-suma.net###text-5
