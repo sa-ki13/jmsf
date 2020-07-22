@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
 ! Version: 2020-07-22
-! Last modified: 22 Jul 2020 23:18 JST
+! Last modified: 22 Jul 2020 23:27 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-07-22
 
@@ -407,12 +407,14 @@ toyokeizai.net##.bc_banner
 toyokeizai.net##.snsbtns
 trilltrill.jp##.articleDetail-ADG
 trilltrill.jp##.articleDetail-GAM
+trilltrill.jp##.articleDetail-Information :nth-of-type(2)
 trilltrill.jp##.articleDetail-MediumRelatedArticles
 trilltrill.jp##.articleDetail-PVBoostLink_Header
 trilltrill.jp##.articleDetail-Ranking
 trilltrill.jp##.articleDetail-ReadMore_W2A
 trilltrill.jp##.footer-AppDownload
 trilltrill.jp##.footer-W2ABanner
+trilltrill.jp##.js-article-original-link-outer
 trilltrill.jp##.js-article-pvboost-link
 trilltrill.jp##.js-floating-w2a
 warotanikki.com###diver_widget_pcsp-19
