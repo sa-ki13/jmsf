@@ -315,7 +315,6 @@ news.biglobe.ne.jp###scoopArea
 news.biglobe.ne.jp##.box-in:nth-of-type(4)
 news.biglobe.ne.jp##.nCpLogoR
 news.infoseek.co.jp###content > div
-news.infoseek.co.jp###featureFooterCmp :nth-of-type(4)
 news.infoseek.co.jp###featureFooterCmp > :nth-of-type(5)
 news.infoseek.co.jp##.relational_link_block
 news.livedoor.com###article-outer-link
