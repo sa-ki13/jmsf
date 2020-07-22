@@ -317,6 +317,7 @@ news.biglobe.ne.jp##.nCpLogoR
 news.infoseek.co.jp###content > div
 news.infoseek.co.jp###featureFooterCmp > :nth-of-type(5)
 news.infoseek.co.jp##.relational_link_block
+news.infoseek.co.jp#@#[class*="_ad_"]:not(html):not(body)
 news.livedoor.com###article-outer-link
 news.livedoor.com###logo-external
 news.mynavi.jp##.box--line:nth-of-type(2)
