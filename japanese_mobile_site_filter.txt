@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
 ! Version: 2020-07-23
-! Last modified: 23 Jul 2020 22:51 JST
+! Last modified: 23 Jul 2020 23:06 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-07-23
 
@@ -237,6 +237,7 @@ iphone-mania.jp##.sns_fblike_title
 iphone-mania.jp##.sns_twtime_title
 iphone-mania.jp##.socal_button_big_tokusetsu
 item.rakuten.co.jp##div > label
+itmedia.co.jp###cmsBodyMain div div div
 itmedia.co.jp###RECTNGL2
 itmedia.co.jp###rm44981
 itmedia.co.jp###TEXT
