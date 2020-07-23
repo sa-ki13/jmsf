@@ -1,6 +1,6 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
 ! Version: 2020-07-23
-! Last modified: 23 Jul 2020 17:46 JST
+! Last modified: 23 Jul 2020 17:48 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-07-23
 
@@ -107,7 +107,6 @@ bg-mania.jp##.section-pr-osusume
 billboard.com##.header-wrapper__secondary-header 
 biz-journal.jp###contactLink
 biz-journal.jp###footerSns
-biz-journal.jp###pageNav
 blog.livedoor.jp###blog_ranking
 blog.livedoor.jp###category_ranking
 blog.livedoor.jp###pbp_ranking
