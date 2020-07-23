@@ -1,11 +1,10 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
 ! Version: 2020-07-23
-! Last modified: 23 Jul 2020 23:06 JST
+! Last modified: 23 Jul 2020 23:12 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-07-23
 
 /jquery.meerkat.
-@@||ad-img.gesoten.com/quiz^
 @@||aid.send.microad.jp^$app=jp.ponta.myponta
 @@||cdn.treasuredata.com^$app=jp.ponta.myponta
 @@||cm.g.doubleclick.net^$app=jp.ponta.myponta
