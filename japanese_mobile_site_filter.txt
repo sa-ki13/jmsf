@@ -1,6 +1,6 @@
 ! Title: FaFa Filter
 ! Version: 2020-07-24
-! Last modified: 24 Jul 2020 23:29 JST
+! Last modified: 24 Jul 2020 23:33 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-07-24
 
@@ -408,6 +408,7 @@ spur.hpplus.jp##.bnr_super
 spur.hpplus.jp##.follow_list
 spur.hpplus.jp##.js_footerAdMargin > .footer_nav
 spur.hpplus.jp##.pt25
+spur.hpplus.jp##.sns_wrapp_2
 spur.hpplus.jp##.ttl_follow
 spur.hpplus.jp##section.mt30
 stacksocial.com##.intelligent-modules-container > div:nth-of-type(2)
