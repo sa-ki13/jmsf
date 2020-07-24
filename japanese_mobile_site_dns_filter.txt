@@ -1,4 +1,4 @@
-! Title: AdGuard Japanese Mobile DNS Filter FA-FA
+! Title: FaFa DNS Filter(suspension)
 ! Version: 2020-07-04
 ! Last modified: 04 Jul 2020 20:32 JST
 ! Expires: 1 day (update frequency)
