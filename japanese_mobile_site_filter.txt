@@ -1,8 +1,8 @@
 ! Title: AdGuard Japanese Mobile Filter FA-FA
-! Version: 2020-07-23
-! Last modified: 23 Jul 2020 23:33 JST
+! Version: 2020-07-24
+! Last modified: 24 Jul 2020 17:00 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-07-23
+! Last updated: 2020-07-24
 
 /jquery.meerkat.
 @@||aid.send.microad.jp^$app=jp.ponta.myponta
@@ -157,6 +157,11 @@ fukuishimbun.co.jp##.servicelinks
 fukuishimbun.co.jp##.sns
 fukuishimbun.co.jp##.sub-column-house-bnr :nth-of-type(3)
 fukuishimbun.co.jp##div:nth-of-type(11)
+gazyekichi96.com###menu-item-4030
+gazyekichi96.com##.controllerFooter__item:nth-of-type(2)
+gazyekichi96.com##.controllerFooter__item:nth-of-type(3)
+gazyekichi96.com##.social-top
+gazyekichi96.com##.u-shadow
 gamefactory.jp###new_ad
 gamefactory.jp###point_ad
 gamefactory.jp###purchase-nav
