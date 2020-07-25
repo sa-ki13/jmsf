@@ -1,8 +1,8 @@
 ! Title: FaFa Filter
-! Version: 2020-07-24
-! Last modified: 24 Jul 2020 23:33 JST
+! Version: 2020-07-25
+! Last modified: 25 Jul 2020 18:10 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-07-24
+! Last updated: 2020-07-25
 
 /jquery.meerkat.
 @@||aid.send.microad.jp^$app=jp.ponta.myponta
@@ -324,6 +324,10 @@ media.moneyforward.com##.mp-sns-share-buttons
 mi-mollet.com##.feature .article-list > :nth-of-type(1)
 myjitsu.jp###menu-item-188
 myjitsu.jp##.entry-footer
+news.2chblog.jp###blog_news
+news.2chblog.jp###blog_ranking
+news.2chblog.jp###recent_comments_326515
+news.2chblog.jp##.footer-box
 news.biglobe.ne.jp###scoopArea
 news.biglobe.ne.jp##.box-in:nth-of-type(4)
 news.biglobe.ne.jp##.nCpLogoR
