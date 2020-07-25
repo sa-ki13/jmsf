@@ -1,6 +1,6 @@
 ! Title: FaFa Filter
 ! Version: 2020-07-25
-! Last modified: 25 Jul 2020 23:31 JST
+! Last modified: 25 Jul 2020 23:36 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-07-25
 
@@ -315,9 +315,11 @@ mbs.jp##ul:nth-of-type(3)
 mdpr.jp###app-header-banner
 mdpr.jp##.footer__logo--joshi
 mdpr.jp##.footer__sns
+mdpr.jp##.footer__sub-nav
 mdpr.jp##.sns
 mdpr.jp##.topic-text > div:nth-of-type(3)
 mdpr.jp##.topic-text > div:nth-of-type(6)
+mdpr.jp##.topic-title__accessPoint-loading
 mdpr.jp##section:nth-of-type(3)
 media.moneyforward.com##.aside-box:nth-of-type(2)
 media.moneyforward.com##.mp-recommends
