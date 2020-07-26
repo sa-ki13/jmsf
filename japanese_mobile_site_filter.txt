@@ -1,8 +1,8 @@
 ! Title: FaFa Filter
-! Version: 2020-07-25
-! Last modified: 25 Jul 2020 23:36 JST
+! Version: 2020-07-26
+! Last modified: 26 Jul 2020 13:25 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-07-25
+! Last updated: 2020-07-26
 
 /jquery.meerkat.
 @@||aid.send.microad.jp^$app=jp.ponta.myponta
@@ -451,6 +451,7 @@ trilltrill.jp##.articleDetail-Ranking
 trilltrill.jp##.articleDetail-ReadMore_W2A
 trilltrill.jp##.footer-AppDownload
 trilltrill.jp##.footer-W2ABanner
+trilltrill.jp##.image-block__caption
 trilltrill.jp##.js-article-original-link-outer
 trilltrill.jp##.js-article-pvboost-link
 trilltrill.jp##.js-floating-w2a
