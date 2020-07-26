@@ -1,6 +1,6 @@
 ! Title: FaFa Filter
 ! Version: 2020-07-26
-! Last modified: 26 Jul 2020 23:05 JST
+! Last modified: 26 Jul 2020 23:06 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-07-26
 
@@ -111,6 +111,7 @@ blog.livedoor.jp###blog_news
 blog.livedoor.jp###blog_ranking
 blog.livedoor.jp###category_ranking
 blog.livedoor.jp###pbp_ranking
+blog.livedoor.jp##.article-comment-count
 blog.livedoor.jp##.footer-box
 buzzfeed.com##.grid__3XmGcmlEGh :nth-of-type(3)
 buzzfeed.com##.js-inline-share-bar
