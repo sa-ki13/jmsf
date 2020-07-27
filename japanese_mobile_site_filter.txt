@@ -1,6 +1,6 @@
 ! Title: FaFa Filter
 ! Version: 2020-07-27
-! Last modified: 27 Jul 2020 18:53 JST
+! Last modified: 27 Jul 2020 18:56 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-07-27
 
@@ -231,6 +231,7 @@ gizmodo.jp##.p-post-survey
 gizmodo.jp##.p-post-survey-share
 gizmodo.jp##.p-timeline-card1AssistPageView
 goguynet.jp##.bnrBox01
+grapee.jp###lfnews
 grapee.jp###sns-area-entry-bottom
 grapee.jp###ul_comment
 grapee.jp##.area-btn_follow
