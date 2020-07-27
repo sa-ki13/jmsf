@@ -1,6 +1,6 @@
 ! Title: FaFa Filter
 ! Version: 2020-07-27
-! Last modified: 27 Jul 2020 16:30 JST
+! Last modified: 27 Jul 2020 16:33 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-07-27
 
@@ -182,6 +182,7 @@ gamefactory.jp##.title-type2
 gamefactory.jp##.title-type3
 gamefactory.jp##body > .marginT5
 gamefactory.jp##section.section-cpilist.normal-section1
+gendai.ismedia.jp##.socialButton-good
 gendai.ismedia.jp##:nth-of-type(5) > .blockContainer_block
 gendai.ismedia.jp##:nth-of-type(8) > .article_author-small_profileLink
 gendai.ismedia.jp#@#[class$="-ad"]:not(html):not(body)
