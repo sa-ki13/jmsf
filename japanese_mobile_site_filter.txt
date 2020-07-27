@@ -1,6 +1,6 @@
 ! Title: FaFa Filter
 ! Version: 2020-07-27
-! Last modified: 27 Jul 2020 18:25 JST
+! Last modified: 27 Jul 2020 18:40 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-07-27
 
@@ -411,6 +411,8 @@ roomie.jp##.veryhot
 roomie.jp##div.r-section
 s.kakaku.com###shareLink
 s.kakaku.com##hr
+sanspo.com##.readMore
+sanspo.com##.socialButton
 sirabee.com##.entryBottomBanner
 sirabee.com##.is-pr
 sirabee.com##.pt-md-0
