@@ -8,7 +8,7 @@
 @@||aid.send.microad.jp^$app=jp.ponta.myponta
 @@||cdn.treasuredata.com^$app=jp.ponta.myponta
 @@||cm.g.doubleclick.net^$app=jp.ponta.myponta
-@@||cm-beacon.nakanohito.jp/cm/comment_list$domain=bunshun.jp,third-party
+@@||nakanohito.jp/cm$domain=bunshun.jp
 @@||cmnw.jp/s3/_common/res_pcsp/js/ad/adframe.js?g=1&m=1.1
 @@||cr-pall.ladsp.com^$app=jp.ponta.myponta
 @@||d-cache.microad.jp^$app=jp.ponta.myponta
