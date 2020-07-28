@@ -114,6 +114,7 @@ blog.livedoor.jp###category_ranking
 blog.livedoor.jp###pbp_ranking
 blog.livedoor.jp##.article-comment-count
 blog.livedoor.jp##.footer-box
+blogofmobile.com##.footer
 bunshun.jp##.block-header:nth-of-type(1)
 bunshun.jp##.center.external-link
 bunshun.jp##.center.social-link
