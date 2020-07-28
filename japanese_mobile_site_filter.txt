@@ -1,6 +1,6 @@
 ! Title: FaFa Filter
 ! Version: 2020-07-28
-! Last modified: 28 Jul 2020 17:09 JST
+! Last modified: 28 Jul 2020 17:59 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-07-28
 
@@ -8,19 +8,19 @@
 @@||aid.send.microad.jp^$app=jp.ponta.myponta
 @@||cdn.treasuredata.com^$app=jp.ponta.myponta
 @@||cm.g.doubleclick.net^$app=jp.ponta.myponta
-@@||nakanohito.jp/cm$domain=bunshun.jp
 @@||cmnw.jp/s3/_common/res_pcsp/js/ad/adframe.js?g=1&m=1.1
 @@||cr-pall.ladsp.com^$app=jp.ponta.myponta
 @@||d-cache.microad.jp^$app=jp.ponta.myponta
 @@||doga.cm^
 @@||dr.r-ad.ne.jp^$app=jp.ponta.myponta
 @@||frtn.socdm.com^$app=jp.ponta.myponta
-@@||h.accesstrade.net^$app=com.nttdocomo.android.djobsw
 @@||game.hiroba.dpoint.jp/js/ads.js?20200430
+@@||h.accesstrade.net^$app=com.nttdocomo.android.djobsw
 @@||image.itmedia.co.jp/images/1x1.gif
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$third-party
 @@||in.treasuredata.com^$app=jp.ponta.myponta
 @@||is.accesstrade.net^$app=com.nttdocomo.android.djobsw
+@@||nakanohito.jp/cm$domain=bunshun.jp
 @@||penta.a.one.impact-ad.jp^$app=jp.ponta.myponta
 @@||ponta.gesoten.com/js/ads.js?20200430
 @@||recruit.112.2o7.net^$app=jp.ponta.myponta
@@ -176,11 +176,6 @@ fukuishimbun.co.jp##.servicelinks
 fukuishimbun.co.jp##.sns
 fukuishimbun.co.jp##.sub-column-house-bnr :nth-of-type(3)
 fukuishimbun.co.jp##div:nth-of-type(11)
-gazyekichi96.com###menu-item-4030
-gazyekichi96.com##.controllerFooter__item:nth-of-type(2)
-gazyekichi96.com##.controllerFooter__item:nth-of-type(3)
-gazyekichi96.com##.social-top
-gazyekichi96.com##.u-shadow
 gamefactory.jp###new_ad
 gamefactory.jp###point_ad
 gamefactory.jp###purchase-nav
@@ -198,15 +193,20 @@ gamefactory.jp##.title-type2
 gamefactory.jp##.title-type3
 gamefactory.jp##body > .marginT5
 gamefactory.jp##section.section-cpilist.normal-section1
+gazyekichi96.com###menu-item-4030
+gazyekichi96.com##.controllerFooter__item:nth-of-type(2)
+gazyekichi96.com##.controllerFooter__item:nth-of-type(3)
+gazyekichi96.com##.social-top
+gazyekichi96.com##.u-shadow
 gendai.ismedia.jp##.blockContainer_block:nth-of-type(8)
 gendai.ismedia.jp##.socialButton-good
 gendai.ismedia.jp##:nth-of-type(5) > .blockContainer_block
 gendai.ismedia.jp##:nth-of-type(7) > .blockContainer_block
 gendai.ismedia.jp##:nth-of-type(8) > .article_author-small_profileLink
 gendai.ismedia.jp##:nth-of-type(9) > .article_author-small_profileLink
+gendai.ismedia.jp#@#.socialButtonArea
 gendai.ismedia.jp#@#[class$="-ad"]:not(html):not(body)
 gendai.ismedia.jp#@#[class*="-ad "]:not(html):not(body):not([class*="vjs-"])
-gendai.ismedia.jp#@#.socialButtonArea
 getnews.jp###custom_html-2
 getnews.jp##.redline
 getnews.jp##.Related-site > :nth-of-type(1)
@@ -231,17 +231,17 @@ gigazine.net##p:nth-of-type(3)
 gigazine.net##p:nth-of-type(5)
 gizmodo.jp###gz-recommendedBottom-outerAd
 gizmodo.jp###gz-recommendedBottom-recommend
-gizmodo.jp##.-hot
-gizmodo.jp##.-large
-gizmodo.jp##.-veryHot
-gizmodo.jp##.-warm
 gizmodo.jp##.f-body-aboutFuze
 gizmodo.jp##.f-body-posting
 gizmodo.jp##.gz-entryDetail-footerItem--ec
+gizmodo.jp##.-hot
+gizmodo.jp##.-large
 gizmodo.jp##.p-post-AssistPageView
 gizmodo.jp##.p-post-survey
 gizmodo.jp##.p-post-survey-share
 gizmodo.jp##.p-timeline-card1AssistPageView
+gizmodo.jp##.-veryHot
+gizmodo.jp##.-warm
 goguynet.jp##.bnrBox01
 grapee.jp###lfnews
 grapee.jp###sns-area-entry-bottom
@@ -278,15 +278,6 @@ itmedia.co.jp##div:nth-of-type(19)
 ivfree.me###overlay_area
 ivfree.me##.main > p
 ivfree.me##.sub > p
-j-cast.com###newsEntry_otherSiteRecommend
-j-cast.com##.align-justify
-j-cast.com##.footer-contents
-j-cast.com##.footer-services
-j-cast.com##.related-entries
-j-cast.com##.title-sec
-j-town.net###wrChumokuJoho
-j-town.net###wrRelatedSites
-j-town.net##.related-entries
 japanese.engadget.com###post-bottom-social-share
 japanese.engadget.com##.below-article-body
 japanese.engadget.com##.D\(b\)\!--sm.D\(n\)
@@ -295,6 +286,12 @@ japanese.engadget.com##.social-follow
 japanese.engadget.com##.W\(30px\)
 japanese.engadget.com##:nth-of-type(26)
 japanese.engadget.com##li:nth-of-type(4)
+j-cast.com###newsEntry_otherSiteRecommend
+j-cast.com##.align-justify
+j-cast.com##.footer-contents
+j-cast.com##.footer-services
+j-cast.com##.related-entries
+j-cast.com##.title-sec
 jiji.com##.lin
 jiji.com##p> .notice
 jp.techcrunch.com###menu-item-133017
@@ -307,6 +304,9 @@ jprime.jp##.footer-nav-services
 jprime.jp##.side-primechannel-item__comment
 jprime.jp##section:nth-of-type(2) :nth-of-type(7)
 jptver.com##.f-widget-2.f-widget
+j-town.net###wrChumokuJoho
+j-town.net###wrRelatedSites
+j-town.net##.related-entries
 kobe-np.co.jp##:nth-of-type(4) :nth-of-type(6)
 k-tai.watch.impress.co.jp##.fb-parts
 k-tai.watch.impress.co.jp##.null
@@ -490,8 +490,8 @@ voguegirl.jp##.o-global-footer__link-list:nth-of-type(1) :nth-of-type(2)
 voguegirl.jp##.o-global-footer__sns-list-item--line
 warotanikki.com###diver_widget_pcsp-19
 warotanikki.com##.code-block
-warotanikki.com##.content > p:nth-of-type(3)
 warotanikki.com##.content > :nth-of-type(1)
+warotanikki.com##.content > p:nth-of-type(3)
 warotanikki.com##.img_meta
 warotanikki.com##.p-entry__tw-follow
 wezz-y.com###textPrArea
