@@ -1,8 +1,8 @@
 ! Title: FaFa Filter
-! Version: 2020-07-29
-! Last modified: 29 Jul 2020 23:37 JST
+! Version: 2020-07-30
+! Last modified: 30 Jul 2020 00:16 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-07-29
+! Last updated: 2020-07-30
 
 /jquery.meerkat.
 @@||aid.send.microad.jp^$app=jp.ponta.myponta
@@ -35,7 +35,6 @@
 @@||tags.tiqcdn.com/utag/sony-marketing^$domain=sony.jp
 @@||tg.socdm.com^$app=jp.ponta.myponta
 @@||torimochi.line-apps.com^$app=jp.naver.line.android
-@@||treasuredata.com$script,domain=onsen.nifty.com
 @@||trj.valuecommerce.com/vcushion.js$third-party
 @@||www.google-analytics.com^$app=jp.co.matsukiyo.app|jp.ponta.myponta
 @@||www.googletagmanager.com/gtag/js?id=UA-50746846-2$third-party
