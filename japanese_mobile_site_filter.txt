@@ -35,7 +35,7 @@
 @@||tags.tiqcdn.com/utag/sony-marketing^$domain=sony.jp
 @@||tg.socdm.com^$app=jp.ponta.myponta
 @@||torimochi.line-apps.com^$app=jp.naver.line.android
-@@||treasuredata.com^$script,domain=onsen.nifty.com
+@@||treasuredata.com$script,domain=onsen.nifty.com
 @@||trj.valuecommerce.com/vcushion.js$third-party
 @@||www.google-analytics.com^$app=jp.co.matsukiyo.app|jp.ponta.myponta
 @@||www.googletagmanager.com/gtag/js?id=UA-50746846-2$third-party
