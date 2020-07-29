@@ -1,6 +1,6 @@
 ! Title: FaFa Filter
 ! Version: 2020-07-30
-! Last modified: 30 Jul 2020 00:16 JST
+! Last modified: 30 Jul 2020 00:39 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-07-30
 
@@ -19,6 +19,7 @@
 @@||image.itmedia.co.jp/images/1x1.gif
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$third-party
 @@||in.treasuredata.com^$app=jp.ponta.myponta
+@@||in.treasuredata.com/js/v3^$domain=onsen.nifty.com
 @@||is.accesstrade.net^$app=com.nttdocomo.android.djobsw
 @@||nakanohito.jp/cm$domain=bunshun.jp
 @@||penta.a.one.impact-ad.jp^$app=jp.ponta.myponta
