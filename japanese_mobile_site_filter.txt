@@ -1,8 +1,8 @@
 ! Title: FaFa Filter
-! Version: 2020-07-28
-! Last modified: 28 Jul 2020 17:59 JST
+! Version: 2020-07-29
+! Last modified: 29 Jul 2020 12:03 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-07-28
+! Last updated: 2020-07-29
 
 /jquery.meerkat.
 @@||aid.send.microad.jp^$app=jp.ponta.myponta
@@ -39,6 +39,7 @@
 @@||www.google-analytics.com^$app=jp.co.matsukiyo.app|jp.ponta.myponta
 @@||www.googletagmanager.com/gtag/js?id=UA-50746846-2$third-party
 @@||www.googletagmanager.com/gtm.js?id=GTM-5W8NGB8$domain=ponta.jp,third-party
+@@||www.surveys.com/jscripts/fingerprint2.js
 ||af.fukuishimbun.co.jp/data.php$image
 ||crs-event.line.me^
 ||d305v6nldhjazi.cloudfront.net/common/images/common/icon-url-copy-circle.svg$image
