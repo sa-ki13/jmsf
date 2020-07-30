@@ -1,6 +1,6 @@
 ! Title: FaFa Filter
 ! Version: 2020-07-30
-! Last modified: 30 Jul 2020 14:25 JST
+! Last modified: 30 Jul 2020 14:27 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-07-30
 
@@ -314,6 +314,7 @@ karapaia.com###blog_news
 karapaia.com###blog_ranking
 karapaia.com###category_ranking
 karapaia.com###pbp_ranking
+karapaia.com##.article-comment-count
 karapaia.com##.footer-box
 kobe-np.co.jp##:nth-of-type(4) :nth-of-type(6)
 k-tai.watch.impress.co.jp##.fb-parts
