@@ -1,6 +1,6 @@
 ! Title: FaFa Filter
 ! Version: 2020-08-01
-! Last modified: 01 Aug 2020 21:37 JST
+! Last modified: 01 Aug 2020 23:21 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-08-01
 
@@ -23,7 +23,6 @@
 @@||ssl.socdm.com^$app=com.nttdocomo.android.dhealthcare
 @@||static.blogos.com/common/js/kotzen.analytics.js?1412917378
 @@||tags.tiqcdn.com/utag/sony-marketing^$domain=sony.jp
-@@||torimochi.line-apps.com^$app=jp.naver.line.android
 @@||trj.valuecommerce.com/vcushion.js$third-party
 @@||www.googletagmanager.com/gtag/js?id=UA-50746846-2$third-party
 @@||www.googletagmanager.com/gtm.js?id=GTM-5W8NGB8$domain=ponta.jp,third-party
