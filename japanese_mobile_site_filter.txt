@@ -1,6 +1,6 @@
 ! Title: FaFa Filter
 ! Version: 2020-08-01
-! Last modified: 01 Aug 2020 21:07 JST
+! Last modified: 01 Aug 2020 21:15 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-08-01
 
@@ -407,7 +407,7 @@ o-uccino.jp##.sns_share_list
 o-uccino.jp##div:nth-of-type(13)
 o-uccino.jp##h4:nth-of-type(2)
 piccoma.com###js_hssTooltip
-point-news.jp##div:nth-of-type(11)
+point-news.jp##div:nth-of-type(10)
 ponta.abstractpainting.work##.game-loading
 prtimes.jp##.end-column
 prtimes.jp##.followAddBox
