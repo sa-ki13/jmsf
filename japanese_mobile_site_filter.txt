@@ -1,6 +1,6 @@
 ! Title: FaFa Filter
 ! Version: 2020-08-01
-! Last modified: 01 Aug 2020 15:02 JST
+! Last modified: 01 Aug 2020 16:15 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-08-01
 
@@ -276,7 +276,6 @@ itmedia.co.jp###cmsBodyMain div div div
 itmedia.co.jp###RECTNGL2
 itmedia.co.jp###rm44981
 itmedia.co.jp###TEXT
-itmedia.co.jp##.colBoxClear
 ivfree.me###overlay_area
 ivfree.me##.main > p
 ivfree.me##.sub > p
