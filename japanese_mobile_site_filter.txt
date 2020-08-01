@@ -1,6 +1,6 @@
 ! Title: FaFa Filter
 ! Version: 2020-08-01
-! Last modified: 01 Aug 2020 13:47 JST
+! Last modified: 01 Aug 2020 15:02 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-08-01
 
@@ -361,6 +361,8 @@ media.moneyforward.com##.mp-sns-share-buttons
 mi-mollet.com##.feature .article-list > :nth-of-type(1)
 myjitsu.jp###menu-item-188
 myjitsu.jp##.entry-footer
+myjitsu.jp##.global-social-button-box
+myjitsu.jp##article[id^="related-post-ad"]
 news.2chblog.jp###blog_news
 news.2chblog.jp###blog_ranking
 news.2chblog.jp###recent_comments_326515
