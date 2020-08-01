@@ -1,22 +1,20 @@
 ! Title: FaFa Filter
 ! Version: 2020-08-01
-! Last modified: 01 Aug 2020 16:15 JST
+! Last modified: 01 Aug 2020 17:55 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-08-01
 
 /jquery.meerkat.
-@@||aid.send.microad.jp^$app=jp.ponta.myponta
 @@||cdn.treasuredata.com^$app=jp.ponta.myponta
 @@||cm.g.doubleclick.net^$app=jp.ponta.myponta
 @@||cmnw.jp/s3/_common/res_pcsp/js/ad/adframe.js?g=1&m=1.1
 @@||cr-pall.ladsp.com^$app=jp.ponta.myponta
 @@||d-cache.microad.jp^$app=jp.ponta.myponta
 @@||doga.cm^
-@@||dr.r-ad.ne.jp^$app=jp.ponta.myponta
-@@||frtn.socdm.com^$app=jp.ponta.myponta
 @@||game.hiroba.dpoint.jp/js/ads.js?20200430
 @@||h.accesstrade.net^$app=com.nttdocomo.android.djobsw
 @@||image.itmedia.co.jp/images/1x1.gif
+@@||im-apps.net^$app=jp.ponta.myponta
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$third-party
 @@||in.treasuredata.com^$app=jp.ponta.myponta
 @@||in.treasuredata.com/js/v3^$domain=onsen.nifty.com
@@ -24,17 +22,17 @@
 @@||nakanohito.jp/cm$domain=bunshun.jp
 @@||penta.a.one.impact-ad.jp^$app=jp.ponta.myponta
 @@||ponta.gesoten.com/js/ads.js?20200430
+@@||r-ad.ne.jp^$app=jp.ponta.myponta
 @@||recruit.112.2o7.net^$app=jp.ponta.myponta
 @@||recruit.d1.sc.omtrdc.net^$app=jp.ponta.myponta
-@@||s9.r-ad.ne.jp^$app=jp.ponta.myponta
+@@||send.microad.jp^$app=jp.ponta.myponta
 @@||smart-c.jp^$app=com.nttdocomo.android.djobsw
+@@||socdm.com^$app=jp.ponta.myponta
 @@||ssl.google-analytics.com^$app=jp.ponta.myponta
 @@||ssl.socdm.com^$app=com.nttdocomo.android.dhealthcare
 @@||static.blogos.com/common/js/kotzen.analytics.js?1412917378
 @@||sync.dmp.fout.jp^$app=jp.ponta.myponta
-@@||sync.im-apps.net^$app=jp.ponta.myponta
 @@||tags.tiqcdn.com/utag/sony-marketing^$domain=sony.jp
-@@||tg.socdm.com^$app=jp.ponta.myponta
 @@||torimochi.line-apps.com^$app=jp.naver.line.android
 @@||trj.valuecommerce.com/vcushion.js$third-party
 @@||www.google-analytics.com^$app=jp.co.matsukiyo.app|jp.ponta.myponta
