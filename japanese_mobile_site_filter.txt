@@ -1,6 +1,6 @@
 ! Title: FaFa Filter
 ! Version: 2020-08-01
-! Last modified: 01 Aug 2020 21:33 JST
+! Last modified: 01 Aug 2020 21:37 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-08-01
 
@@ -34,7 +34,6 @@
 ||d305v6nldhjazi.cloudfront.net/sp/images/common/img-top-top.png$image
 ||experience.tinypass.com/xbuilder/experience/execute?aid=Ow9jtiXxtz$domain=billboard.com,important
 ||parts.blog.livedoor.jp/*/lite2/floating
-||point-news.jp/sp/network/?tag_id=*$subdocument
 ||polyfill.io^
 ||xn--dckta2f5e8cqc.net/wp-content/uploads/2016/12/gradation.png$image
 9tsu.net###text-104
@@ -408,6 +407,7 @@ o-uccino.jp##div:nth-of-type(13)
 o-uccino.jp##h4:nth-of-type(2)
 piccoma.com###js_hssTooltip
 point-news.jp##div:nth-of-type(9)
+point-news.jp##div[class^="ad_area"]
 ponta.abstractpainting.work##.game-loading
 prtimes.jp##.end-column
 prtimes.jp##.followAddBox
