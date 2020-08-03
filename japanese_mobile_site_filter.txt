@@ -1,8 +1,8 @@
 ! Title: FaFa Filter
-! Version: 2020-08-01
-! Last modified: 01 Aug 2020 23:21 JST
+! Version: 2020-08-03
+! Last modified: 03 Aug 2020 14:10 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-08-01
+! Last updated: 2020-08-03
 
 /jquery.meerkat.
 @@||cmnw.jp/s3/_common/res_pcsp/js/ad/adframe.js?g=1&m=1.1
@@ -404,6 +404,13 @@ o-uccino.jp##.footer_inquiry_link:nth-of-type(2)
 o-uccino.jp##.sns_share_list
 o-uccino.jp##div:nth-of-type(13)
 o-uccino.jp##h4:nth-of-type(2)
+pasokatu.com##.nshonbun > :nth-of-type(7)
+pasokatu.com##.other-top
+pasokatu.com##hr
+pasokatu.com##p:nth-of-type(10)
+pasokatu.com##p:nth-of-type(11)
+pasokatu.com##p:nth-of-type(8)
+pasokatu.com##p:nth-of-type(9)
 piccoma.com###js_hssTooltip
 point-news.jp##div:nth-of-type(9)
 point-news.jp##div[class^="ad_area"]
