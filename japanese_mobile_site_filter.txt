@@ -1,6 +1,6 @@
 ! Title: FaFa Filter
 ! Version: 2020-08-03
-! Last modified: 03 Aug 2020 22:59 JST
+! Last modified: 03 Aug 2020 23:22 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-08-03
 
@@ -49,6 +49,8 @@ amagasaki.goguynet.jp##.centerUnder04
 amagasaki.goguynet.jp##.menu-item-object-page:nth-of-type(4)
 amagasaki.goguynet.jp##.pop-views
 amagasaki.goguynet.jp##div:nth-of-type(8)
+amazonforum.com##.interactions-wrap
+amazonforum.com##.slds-item:nth-of-type(4)
 apppass.niwadehio.com###the-content > p:nth-of-type(4)
 apppass.niwadehio.com###the-content > p:nth-of-type(5)
 apppass.niwadehio.com##:nth-of-type(11)
