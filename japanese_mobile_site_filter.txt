@@ -16,6 +16,7 @@
 @@||nakanohito.jp/cm$domain=bunshun.jp
 @@||ponta.gesoten.com/js/ads.js?20200430
 @@||r-ad.ne.jp^$app=jp.ponta.myponta
+@@||secure.surveymonkey.com/assets/responseweb^$third-party
 @@||send.microad.jp^$app=jp.ponta.myponta
 @@||smart-c.jp^$app=com.nttdocomo.android.djobsw
 @@||socdm.com^$app=jp.ponta.myponta
