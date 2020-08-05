@@ -1,8 +1,8 @@
 ! Title: FaFa DNS Filter
-! Version: 2020-07-04
-! Last modified: 04 Jul 2020 20:32 JST
+! Version: 2020-08-05
+! Last modified: 05 Aug 2020 12:36 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-07-04
+! Last updated: 2020-08-05
 
 @@||a8.net^
 @@||aax-fe.amazon-adsystem.com^
