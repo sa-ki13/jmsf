@@ -1,6 +1,6 @@
 ! Title: FaFa DNS Filter
 ! Version: 2020-08-05
-! Last modified: 05 Aug 2020 22:13 JST
+! Last modified: 05 Aug 2020 22:28 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-08-05
 
@@ -178,8 +178,10 @@
 ||img.mobilerz.net^
 ||intelligence.sc.omtrdc.net^
 ||investorsbusinessdai.tt.omtrdc.net^
+||itarou.com^
 ||jcb.sc.omtrdc.net^
 ||jcb.tt.omtrdc.net^
+||joho69.com^
 ||jojo.funfunsite.net^
 ||js.driftt.com^
 ||juicer.cc^
@@ -187,23 +189,26 @@
 ||karma.mdpcdn.com^
 ||keen.io^
 ||keibaranking.web.fc2.com^
+||king-fuzoku.com^
 ||ladygamer.jp^
 ||likebtn.com^
 ||linklick.net^
 ||litix.io^
 ||livejupiter2.net^
-||localhost^
+||lovegate.info^
 ||m.addthis.com^
 ||main.pubexchange.com^
 ||marfeel.com^
 ||market01.com^
 ||maruig.tt.omtrdc.net^
 ||maruivoi.sc.omtrdc.net^
+||master-premium.com^
 ||mbid.marfeelrev.com^
 ||meas.ad.pr.ameba.jp^
 ||metrolinkpromotions.com^
 ||milcow.com^
-||moppy.jp^
+||muryo-h.com^
+||nanda.h.fc2.com^
 ||nanj.an-matome.com^
 ||nanj.matome-ch.com^
 ||nanjallstars.net^
@@ -217,12 +222,15 @@
 ||ninkirank.misty.ne.jp^
 ||ntv.io^
 ||nube.sakura.ne.jp^
+||nudegallerys.net^
 ||oekaki.jp^
 ||onelink-translations.com^
 ||optimizely.com^
+||patapata.h.fc2.com^
 ||personalization.bloomberg.com^
 ||pingdom.net^
 ||platform.linkedin.com^
+||playaion.jp^
 ||plus.google.com^
 ||pokoran.com^
 ||polyfill.io^
@@ -231,6 +239,8 @@
 ||prebid-asia.creativecdn.com^
 ||promo.norton.com^
 ||prosearch.jp^
+||purebank.net^
+||r18.kurikore.com^
 ||rakutenrpointcard.sc.omtrdc.net^
 ||rank.log2.jp^
 ||rankingsearch.net^
@@ -242,16 +252,22 @@
 ||scorecardresearch.com^
 ||search-api.fie.future.net.uk^
 ||services.zam.com^
+||sexysearch.net^
 ||sgbid.prod.sift.co^
+||shigeki-ranking.jp^
 ||shop-bell.com^
 ||sift-campaign-creatives.sift.co^
 ||siteintercept.qualtrics.com^
+||smart.cityheaven.net^
 ||smbc.sc.omtrdc.net^
 ||smetrics.cnn.com^
 ||soy.bona.jp^
+||spcontribute.com^
 ||spoor-api.ft.com^
+||s-search.com^
 ||static.addtoany.com^
 ||static.mixi.jp^
+||summit.adult-summit.com^
 ||syosetsu.fan-site.net^
 ||tagman.britishairways.com^
 ||tags.news.com.au^
@@ -264,6 +280,7 @@
 ||track.mk.impact-ad.jp^
 ||traq.li^
 ||trustedmediabrands.sc.omtrdc.net^
+||tukasa.yakan.net^
 ||u.realworld.jp^
 ||ubmtech.d3.sc.omtrdc.net^
 ||urs.zdnet.com^
