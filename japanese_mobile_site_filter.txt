@@ -1,8 +1,8 @@
 ! Title: FaFa Filter
-! Version: 2020-08-03
-! Last modified: 03 Aug 2020 23:28 JST
+! Version: 2020-08-05
+! Last modified: 05 Aug 2020 23:05 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-08-03
+! Last updated: 2020-08-05
 
 @@||cmnw.jp/s3/_common/res_pcsp/js/ad/adframe.js?g=1&m=1.1
 @@||doga.cm^
@@ -16,6 +16,7 @@
 @@||nakanohito.jp/cm$domain=bunshun.jp
 @@||ponta.gesoten.com/js/ads.js?20200430
 @@||r-ad.ne.jp^$app=jp.ponta.myponta
+@@||router.cint.com^$domain=router.cint.com
 @@||secure.surveymonkey.com/assets/responseweb^$third-party
 @@||send.microad.jp^$app=jp.ponta.myponta
 @@||smart-c.jp^$app=com.nttdocomo.android.djobsw
@@ -31,7 +32,6 @@
 ||crs-event.line.me^
 ||d305v6nldhjazi.cloudfront.net/common/images/common/icon-url-copy-circle.svg$image
 ||d305v6nldhjazi.cloudfront.net/sp/images/common/img-top-top.png$image
-||experience.tinypass.com/xbuilder/experience/execute?aid=Ow9jtiXxtz$domain=billboard.com,important
 ||parts.blog.livedoor.jp/*/lite2/floating
 ||polyfill.io^
 ||xn--dckta2f5e8cqc.net/wp-content/uploads/2016/12/gradation.png$image
