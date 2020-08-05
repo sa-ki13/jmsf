@@ -1,6 +1,6 @@
 ! Title: FaFa DNS Filter
 ! Version: 2020-08-05
-! Last modified: 05 Aug 2020 22:11 JST
+! Last modified: 05 Aug 2020 22:13 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-08-05
 
@@ -46,8 +46,11 @@
 @@||vcentry3.valuecommerce.ne.jp^
 @@||ws-fe.amazon-adsystem.com^
 @@||www.google-analytics.com^
+||1-on.biz^
 ||5e529.v.fwmrm.net^
+||a2g.cc^
 ||a-base.net^
+||a-nw.net^
 ||acceliaad.durasite.net^
 ||ad.ads-lite.net^
 ||ad.adxad.jp^
@@ -61,6 +64,9 @@
 ||ads.pandora.tv^
 ||ads.travelaudience.com^
 ||adservice.google.co.uk^
+||adult-blogranking.com^
+||adult-mountain.com^
+||adultangel.com^
 ||aeondigital.d1.sc.omtrdc.net^
 ||af-110.com^
 ||alphapolis.co.jp^
@@ -85,6 +91,7 @@
 ||banner.buyee.jp^
 ||baseball.antenam.info^
 ||bat.bing.com^
+||bbjapan.jp^
 ||benessecorp.d1.sc.omtrdc.net^
 ||benessecorp.tt.omtrdc.net^
 ||bestrank.info^
@@ -99,6 +106,7 @@
 ||blogparts.bijint.com^
 ||blogparts.spark-atv.com^
 ||blogpeople.net^
+||botan.hal55.com^
 ||britishairways.d3.sc.omtrdc.net^
 ||c2shb.ssp.yahoo.com^
 ||cdn.onesignal.com^
@@ -136,9 +144,19 @@
 ||discoverynordics.d3.sc.omtrdc.net^
 ||discoverynordics.hb.omtrdc.net^
 ||dni-adops-proxy-prod-adopsmediaconverter.mercury.dnitv.com^
+||doteiban.com^
+||dvdguide.jp^
+||dvdshoplist.com^
 ||edigitalsurvey.com^
 ||eloqua.com^
+||ero18kin.jeez.jp^
+||erocg.info^
+||erocg.net^
+||erocgnavi.com^
+||erogame.jpn.org^
 ||e-shops.jp^
+||esthe-life.com^
+||esthe-walker.com^
 ||eventapi.bookwalker.jp^
 ||ezoic.net^
 ||feedburner.com^
@@ -146,12 +164,14 @@
 ||firebaseinstallations.googleapis.com^
 ||foresee.com^
 ||fp.techinasia.com^
+||freeadult.jp^
 ||ganon.yahoo.com^
 ||ggm-contents.bangumi.org^
 ||googletagservices.com^
 ||harudake.net^
 ||hiroshima-blog.com^
 ||ichioshikabunavi.net^
+||id-rank.com^
 ||image.moratame.net^
 ||img.ak.impact-ad.jp^
 ||img.hapitas.jp^
