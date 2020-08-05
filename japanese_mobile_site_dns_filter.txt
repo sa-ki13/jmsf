@@ -1,4 +1,4 @@
-! Title: FaFa DNS Filter(suspension)
+! Title: FaFa DNS Filter
 ! Version: 2020-07-04
 ! Last modified: 04 Jul 2020 20:32 JST
 ! Expires: 1 day (update frequency)
