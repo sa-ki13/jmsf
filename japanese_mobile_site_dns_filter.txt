@@ -1,6 +1,6 @@
 ! Title: FaFa DNS Filter
 ! Version: 2020-08-05
-! Last modified: 05 Aug 2020 12:36 JST
+! Last modified: 05 Aug 2020 16:07 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-08-05
 
@@ -47,6 +47,7 @@
 @@||ws-fe.amazon-adsystem.com^
 @@||www.google-analytics.com^
 ||5e529.v.fwmrm.net^
+||a-base.net^
 ||acceliaad.durasite.net^
 ||ad.ads-lite.net^
 ||ad.adxad.jp^
@@ -62,25 +63,41 @@
 ||adservice.google.co.uk^
 ||aeondigital.d1.sc.omtrdc.net^
 ||af-110.com^
+||alphapolis.co.jp^
 ||analytics.twitter.com^
 ||animate.tv^
 ||api.ipdata.co^
 ||api.stats.appa.pe^
 ||appbaqend.com^
 ||apps2sd.info^
+||artfesta.net^
 ||asahishimbun.sc.omtrdc.net^
 ||aswpsdkus.com^
 ||atdmt.com^
+||atode.cc^
 ||aw.dw.impact-ad.jp^
+||b.hatena.ne.jp^
 ||b11.yahoo.co.jp^
 ||b16.yahoo.co.jp^
 ||b5.yahoo.co.jp^
 ||b9.yahoo.co.jp^
 ||b91.yahoo.co.jp^
 ||banner.buyee.jp^
+||baseball.antenam.info^
 ||bat.bing.com^
 ||benessecorp.d1.sc.omtrdc.net^
 ||benessecorp.tt.omtrdc.net^
+||bestrank.info^
+||birthday.jetnavi.com^
+||bisyoujyo00.com^
+||blog.en-tame.com^
+||blog.l-guide.net^
+||blog.majide.org^
+||bloglines.com^
+||blogmura.com^
+||blogparts.bijint.com^
+||blogparts.spark-atv.com^
+||blogpeople.net^
 ||britishairways.d3.sc.omtrdc.net^
 ||c2shb.ssp.yahoo.com^
 ||cdn.onesignal.com^
@@ -90,8 +107,11 @@
 ||ci.line-apps.com^
 ||cix.line-apps.com^
 ||client.crisp.chat^
+||cookieinfoscript.com^
 ||consensu.org^
 ||consent.cmp.oath.com^
+||consent.cookiebot.com^
+||consent.trustarc.com^
 ||control.smbeat.jp^
 ||cookielaw.org^
 ||cross-system.com^
@@ -132,6 +152,7 @@
 ||keen.io^
 ||likebtn.com^
 ||litix.io^
+||localhost^
 ||m.addthis.com^
 ||main.pubexchange.com^
 ||marfeel.com^
