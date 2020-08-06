@@ -1,6 +1,6 @@
 ! Title: FaFa DNS Filter
 ! Version: 2020-08-06
-! Last modified: 06 Aug 2020 14:27 JST
+! Last modified: 06 Aug 2020 14:31 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-08-06
 
@@ -98,6 +98,7 @@
 ||bigstarinc.co.jp^
 ||birthday.jetnavi.com^
 ||bisyoujyo00.com^
+||braze.com^
 ||blog.en-tame.com^
 ||blog.l-guide.net^
 ||blog.majide.org^
@@ -108,6 +109,7 @@
 ||blogpeople.net^
 ||botan.hal55.com^
 ||britishairways.d3.sc.omtrdc.net^
+||browserpush.net^
 ||c2shb.ssp.yahoo.com^
 ||cdn.onesignal.com^
 ||cdn.tt.omtrdc.net^
@@ -139,6 +141,7 @@
 ||d3em0905j9y6sm.cloudfront.net^
 ||d3g5ovfngjw9bw.cloudfront.net^
 ||d4el4parm0zb3.cloudfront.net^
+||delivery.satr.jp^
 ||dhc.tt.omtrdc.net^
 ||dietnavi.com^
 ||discoverynordics.d3.sc.omtrdc.net^
@@ -159,6 +162,7 @@
 ||esthe-walker.com^
 ||eventapi.bookwalker.jp^
 ||ezoic.net^
+||fanp.me^
 ||feedburner.com^
 ||ffatsearch.com^
 ||firebaseinstallations.googleapis.com^
@@ -167,9 +171,11 @@
 ||freeadult.jp^
 ||ganon.yahoo.com^
 ||ggm-contents.bangumi.org^
+||go.pardot.com^
 ||googletagservices.com^
 ||harudake.net^
 ||hiroshima-blog.com^
+||hsleadflows.net^
 ||ichioshikabunavi.net^
 ||id-rank.com^
 ||image.moratame.net^
@@ -191,6 +197,7 @@
 ||keibaranking.web.fc2.com^
 ||king-fuzoku.com^
 ||ladygamer.jp^
+||lb.benchmarkemail.com^
 ||likebtn.com^
 ||linklick.net^
 ||litix.io^
@@ -220,9 +227,11 @@
 ||nhkonline.hb.omtrdc.net^
 ||nicoad.nicovideo.jp^
 ||ninkirank.misty.ne.jp^
+||noticious.jp^
 ||ntv.io^
 ||nube.sakura.ne.jp^
 ||nudegallerys.net^
+||ocnk-popup.net^
 ||oekaki.jp^
 ||onelink-translations.com^
 ||optimizely.com^
@@ -239,11 +248,18 @@
 ||prebid-asia.creativecdn.com^
 ||promo.norton.com^
 ||prosearch.jp^
+||pt.appirits.com^
 ||purebank.net^
+||pushbullet.com^
+||pushcrew.com^
+||pusherapp.com^
+||pushnami.com^
+||pushnotifications.click^
 ||r18.kurikore.com^
 ||rakutenrpointcard.sc.omtrdc.net^
 ||rank.log2.jp^
 ||rankingsearch.net^
+||reproio.com^
 ||rtoaster.jp^
 ||sakura.press.ne.jp^
 ||sascdn.com^
@@ -266,6 +282,7 @@
 ||s-search.com^
 ||static.addtoany.com^
 ||static.mixi.jp^
+||subscribers.com^
 ||summit.adult-summit.com^
 ||syosetsu.fan-site.net^
 ||tagman.britishairways.com^
@@ -284,6 +301,7 @@
 ||u.realworld.jp^
 ||ubmtech.d3.sc.omtrdc.net^
 ||udvd-search.com^
+||urbanairship.com^
 ||ura-dvd.net^
 ||uradvdranking.com^
 ||uradvd-ya.com^
@@ -294,6 +312,7 @@
 ||warau.jp^
 ||webclap.com^
 ||weblog.flyasiana.com^
+||webpush.jp^
 ||webspace.ne.jp^
 ||widget.gooero.jp^
 ||widget.intercom.io^
