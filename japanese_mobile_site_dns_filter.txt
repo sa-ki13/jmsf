@@ -1,6 +1,6 @@
 ! Title: FaFa DNS Filter
 ! Version: 2020-08-06
-! Last modified: 06 Aug 2020 23: JST
+! Last modified: 06 Aug 2020 23:38 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-08-06
 
@@ -88,6 +88,7 @@
 ||aswpsdkus.com^
 ||atdmt.com^
 ||atode.cc^
+||automate-frontend.linksynergy.com^
 ||aw.dw.impact-ad.jp^
 ||b.hatena.ne.jp^
 ||b11.yahoo.co.jp^
@@ -119,6 +120,7 @@
 ||browserpush.net^
 ||burusoku-vip.com^
 ||c2shb.ssp.yahoo.com^
+||cdn.nxakpj4ac8gkd53.info^
 ||cdn.onesignal.com^
 ||cdn.tt.omtrdc.net^
 ||cdn2.pubexchange.com^
@@ -139,8 +141,10 @@
 ||consent.trustarc.com^
 ||control.smbeat.jp^
 ||cookielaw.org^
+||counter.wox.cc^
 ||cross-system.com^
 ||crs-event.line.me^
+||cv.gunosy.com^
 ||cxense.com^
 ||cxpublic.com^
 ||d.rcmd.jp^
