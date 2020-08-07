@@ -1,8 +1,8 @@
 ! Title: FaFa DNS Filter
-! Version: 2020-08-06
-! Last modified: 06 Aug 2020 23:38 JST
+! Version: 2020-08-07
+! Last modified: 07 Aug 2020 12:34 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-08-06
+! Last updated: 2020-08-07
 
 @@||a8.net^
 @@||aax-fe.amazon-adsystem.com^
@@ -72,11 +72,15 @@
 ||aeondigital.d1.sc.omtrdc.net^
 ||af-110.com^
 ||alphapolis.co.jp^
+||analytics.cathaypacific.com^
+||analytics.eip.telegraph.co.uk^
 ||analytics.twitter.com^
 ||analyzer.wox.cc^
 ||animate.tv^
+||anon-stats.eff.org^
 ||antennasync.me^
 ||apester.com^
+||api.geoip.mmg.zone^
 ||api.ipify.org^
 ||api.stats.appa.pe^
 ||api-mg2.db-ip.com^
@@ -128,6 +132,7 @@
 ||check-out-this.site^
 ||chobirich.com^
 ||ci.line-apps.com^
+||cisco-tags.cisco.com^
 ||cix.line-apps.com^
 ||clap.blogcms.jp^
 ||clap.fc2.com^
@@ -156,10 +161,12 @@
 ||d3cod80thn7qnd.cloudfront.net^
 ||d3em0905j9y6sm.cloudfront.net^
 ||d3g5ovfngjw9bw.cloudfront.net^
+||d3v27wwd40f0xu.cloudfront.net^
 ||d4el4parm0zb3.cloudfront.net^
 ||delivery.satr.jp^
 ||dhc.tt.omtrdc.net^
 ||dietnavi.com^
+||diffchecker-api-production.herokuapp.com^
 ||discoverynordics.d3.sc.omtrdc.net^
 ||discoverynordics.hb.omtrdc.net^
 ||dni-adops-proxy-prod-adopsmediaconverter.mercury.dnitv.com^
@@ -173,6 +180,7 @@
 ||erocg.net^
 ||erocgnavi.com^
 ||erogame.jpn.org^
+||error-collector.ted.com^
 ||e-shops.jp^
 ||esthe-life.com^
 ||esthe-walker.com^
@@ -184,8 +192,10 @@
 ||firebaseinstallations.googleapis.com^
 ||foresee.com^
 ||fp.techinasia.com^
+||fp-cdn.azureedge.net^
 ||freeadult.jp^
 ||freshnews.blog.jp^
+||fresnel-events.vimeocdn.com^
 ||fukugan.com^
 ||ganon.yahoo.com^
 ||ggm-contents.bangumi.org^
@@ -224,11 +234,16 @@
 ||kotaro269.com^
 ||ladygamer.jp^
 ||lb.benchmarkemail.com^
+||lc.ch.com^
 ||likebtn.com^
 ||link.idol-blog.com^
 ||linklick.net^
 ||litix.io^
 ||livejupiter2.net^
+||location.bloomberg.com^
+||log.gifmagazine.net^
+||logg.kiwi.com^
+||loglys.com^
 ||lovegate.info^
 ||m.addthis.com^
 ||main.pubexchange.com^
@@ -239,9 +254,11 @@
 ||master-premium.com^
 ||matacoco.com^
 ||mbid.marfeelrev.com^
+||mcc-tags.cisco.com^
 ||meas.ad.pr.ameba.jp^
 ||metrolinkpromotions.com^
 ||milcow.com^
+||mms.coachmag.co.uk^
 ||moyugenn.youblog.jp^
 ||mudainodocument.com^
 ||muryo-h.com^
@@ -283,6 +300,7 @@
 ||pokoran.com^
 ||polyfill.io^
 ||popin.cc^
+||pr-bh.ybp.yahoo.com^
 ||prebid.flux-analytics.com^
 ||prebid-asia.creativecdn.com^
 ||promo.norton.com^
@@ -294,6 +312,7 @@
 ||pusherapp.com^
 ||pushnami.com^
 ||pushnotifications.click^
+||r.mail.ru^
 ||r18.kurikore.com^
 ||rakutenrpointcard.sc.omtrdc.net^
 ||rank.log2.jp^
@@ -309,6 +328,7 @@
 ||sc-analytics.jp^
 ||scorecardresearch.com^
 ||search-api.fie.future.net.uk^
+||securemvt.apple.com^
 ||services.zam.com^
 ||sexysearch.net^
 ||sgbid.prod.sift.co^
@@ -318,34 +338,48 @@
 ||siteintercept.qualtrics.com^
 ||smart.cityheaven.net^
 ||smbc.sc.omtrdc.net^
+||smetrics.aem.playstation.com^
 ||smetrics.cnn.com^
+||smetrics.consumerreports.org^
+||smetrics.telegraph.co.uk^
 ||soy.bona.jp^
 ||spcontribute.com^
+||spoor-api.asia.nikkei.com^
 ||spoor-api.ft.com^
 ||squallchannel.com^
+||srepdata.desmoinesregister.com^
+||srepdata.usatoday.com^
 ||s-search.com^
 ||sspinc.io^
+||sstats.adobe.com^
+||sstats.bitdefender.com^
 ||static.addtoany.com^
 ||static.mixi.jp^
+||stats.digg.com^
 ||subscribers.com^
 ||summit.adult-summit.com^
 ||surveymonkey.com^
 ||syosetsu.fan-site.net^
+||taglocker.target.com^
 ||tagman.britishairways.com^
 ||tags.news.com.au^
 ||tags.tiqcdn.com^
 ||targetemsecure.blob.core.windows.net^
+||targeting.washpost.nile.works^
 ||tel-kod.ru^
 ||tinypass.com^
 ||tmbi.tt.omtrdc.net^
 ||topernews.me^
 ||toralucky.fun^
 ||toushichannel.net^
+||tr.gunosy.com^
 ||track.mk.impact-ad.jp^
+||track.visibleconsumerinsight.com^
 ||tracker.iws.vc^
 ||traq.li^
 ||trustedmediabrands.sc.omtrdc.net^
 ||tsubamesoku.blog.jp^
+||ttauri.space.com^
 ||tukasa.yakan.net^
 ||tyutyu.net^
 ||u.realworld.jp^
@@ -360,6 +394,7 @@
 ||userreport.com^
 ||vazzapp.com^
 ||vehicle123.com^
+||vidora.com^
 ||vipsister23.com^
 ||visualwebsiteoptimizer.com^
 ||warau.jp^
@@ -367,6 +402,7 @@
 ||weblog.flyasiana.com^
 ||webpush.jp^
 ||webspace.ne.jp^
+||webtracker.newzenler.com^
 ||widget.eroantenna.com^
 ||widget.gooero.jp^
 ||widget.intercom.io^
@@ -382,3 +418,4 @@
 ||zdbb.net^
 ||ziffdavis.com^
 ||zsaz.blog.jp^
+||zz.bdstatic.com^
