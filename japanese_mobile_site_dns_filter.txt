@@ -1,6 +1,6 @@
 ! Title: FaFa DNS Filter
 ! Version: 2020-08-07
-! Last modified: 07 Aug 2020 13:10 JST
+! Last modified: 07 Aug 2020 14:01 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-08-07
 
@@ -47,6 +47,7 @@
 @@||vcentry3.valuecommerce.ne.jp^
 @@||ws-fe.amazon-adsystem.com^
 @@||www.google-analytics.com^
+||*-ad.jp^
 ||1-on.biz^
 ||5e529.v.fwmrm.net^
 ||a2g.cc^
@@ -62,6 +63,7 @@
 ||ad3.cross-a.net^
 ||ad-api-v01.uliza.jp^
 ||ade.googlesyndication.com^
+||adobedtm.com^
 ||ads.pandora.tv^
 ||ads.travelaudience.com^
 ||adservice.google.co.uk^
@@ -77,6 +79,7 @@
 ||analytics.twitter.com^
 ||analyzer.wox.cc^
 ||animate.tv^
+||animehonpo.com^
 ||anon-stats.eff.org^
 ||antennasync.me^
 ||apester.com^
@@ -110,7 +113,6 @@
 ||bigstarinc.co.jp^
 ||birthday.jetnavi.com^
 ||bisyoujyo00.com^
-||braze.com^
 ||blog.en-tame.com^
 ||blog.l-guide.net^
 ||blog.majide.org^
@@ -119,7 +121,9 @@
 ||blogparts.bijint.com^
 ||blogparts.spark-atv.com^
 ||blogpeople.net^
+||bookmark.hatenaapis.com^
 ||botan.hal55.com^
+||braze.com^
 ||britishairways.d3.sc.omtrdc.net^
 ||browserpush.net^
 ||burusoku-vip.com^
@@ -164,9 +168,12 @@
 ||d3v27wwd40f0xu.cloudfront.net^
 ||d4el4parm0zb3.cloudfront.net^
 ||delivery.satr.jp^
+||dgpot.com^
 ||dhc.tt.omtrdc.net^
 ||dietnavi.com^
 ||diffchecker-api-production.herokuapp.com^
+||digiket.com^
+||digiket.net^
 ||discoverynordics.d3.sc.omtrdc.net^
 ||discoverynordics.hb.omtrdc.net^
 ||dni-adops-proxy-prod-adopsmediaconverter.mercury.dnitv.com^
@@ -175,6 +182,7 @@
 ||dvdshoplist.com^
 ||edigitalsurvey.com^
 ||eloqua.com^
+||e-nls.com^
 ||ero18kin.jeez.jp^
 ||erocg.info^
 ||erocg.net^
@@ -198,6 +206,7 @@
 ||fresnel-events.vimeocdn.com^
 ||fukugan.com^
 ||ganon.yahoo.com^
+||getchu.com^
 ||ggm-contents.bangumi.org^
 ||g-n-ipponmichi.xxxblog.jp^
 ||go.pardot.com^
@@ -313,6 +322,7 @@
 ||pushnami.com^
 ||pushnotifications.click^
 ||r.mail.ru^
+||r18.com^
 ||r18.kurikore.com^
 ||rakutenrpointcard.sc.omtrdc.net^
 ||rank.log2.jp^
@@ -332,6 +342,9 @@
 ||services.zam.com^
 ||sexysearch.net^
 ||sgbid.prod.sift.co^
+||share.gree.jp^
+||shareaholic.com^
+||sharethis.com^
 ||shigeki-ranking.jp^
 ||shop-bell.com^
 ||sift-campaign-creatives.sift.co^
@@ -342,6 +355,7 @@
 ||smetrics.cnn.com^
 ||smetrics.consumerreports.org^
 ||smetrics.telegraph.co.uk^
+||socialbars-web5.com^
 ||socialize.*.gigya.com^
 ||soy.bona.jp^
 ||spcontribute.com^
@@ -355,6 +369,7 @@
 ||sstats.adobe.com^
 ||sstats.bitdefender.com^
 ||static.addtoany.com^
+||static.evernote.com^
 ||static.mixi.jp^
 ||stats.digg.com^
 ||subscribers.com^
@@ -410,6 +425,7 @@
 ||widget.pushbullet.com^
 ||widget.ranklet.com^
 ||widgets.getpocket.com^
+||widgets.twimg.com^
 ||wileypublishing.sc.omtrdc.net^
 ||with2.net^
 ||worldranking.jp^
