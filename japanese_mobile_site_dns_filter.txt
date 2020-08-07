@@ -1,6 +1,6 @@
 ! Title: FaFa DNS Filter
 ! Version: 2020-08-07
-! Last modified: 07 Aug 2020 17:18 JST
+! Last modified: 07 Aug 2020 19:03 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-08-07
 
@@ -86,8 +86,13 @@
 ||af.tosho-trading.co.jp^
 ||af-110.com^
 ||af-board.com^
+||affiliatecenter.jp^
 ||af-market.com^
+||affpartner.com^
+||afl.rakuten.co.jp^
+||alistcloud.com^
 ||alphapolis.co.jp^
+||amaprop.net^
 ||analytics.cathaypacific.com^
 ||analytics.eip.telegraph.co.uk^
 ||analytics.twitter.com^
@@ -95,6 +100,7 @@
 ||animate.tv^
 ||animehonpo.com^
 ||anon-stats.eff.org^
+||antena-maker.nekotool.com^
 ||antennasync.me^
 ||a-nw.net^
 ||apester.com^
@@ -110,6 +116,8 @@
 ||aswpsdkus.com^
 ||atdmt.com^
 ||atode.cc^
+||atype.jp^
+||autolinkmaker.itunes.apple.com^
 ||automate-frontend.linksynergy.com^
 ||aw.dw.impact-ad.jp^
 ||b.hatena.ne.jp^
@@ -119,6 +127,8 @@
 ||b9.yahoo.co.jp^
 ||b91.yahoo.co.jp^
 ||banner.buyee.jp^
+||banner.themediaplanets.com^
+||banners.itunes.apple.com^
 ||baseball.antenam.info^
 ||bat.bing.com^
 ||bbjapan.jp^
@@ -131,6 +141,7 @@
 ||blog.en-tame.com^
 ||blog.l-guide.net^
 ||blog.majide.org^
+||blog-koukoku.com^
 ||bloglines.com^
 ||blogmura.com^
 ||blogparts.bijint.com^
@@ -145,6 +156,9 @@
 ||c2shb.ssp.yahoo.com^
 ||cdn.nxakpj4ac8gkd53.info^
 ||cdn.onesignal.com^
+||cdn.playwire.com^
+||cdn.relaido.jp^
+||cdn.storematch.jp^
 ||cdn.tt.omtrdc.net^
 ||cdn2.pubexchange.com^
 ||chatbot.ds-ai.net^
@@ -155,9 +169,13 @@
 ||cix.line-apps.com^
 ||clap.blogcms.jp^
 ||clap.fc2.com^
+||click.dtiserv2.com^
+||clicktx.jp^
 ||client.crisp.chat^
 ||cloud.akibablog.net^
+||cnt.affiliate.fc2.com^
 ||coels.net^
+||com.com^
 ||consensu.org^
 ||consent.cmp.oath.com^
 ||consent.cookiebot.com^
@@ -166,15 +184,19 @@
 ||cookieinfoscript.com^
 ||cookielaw.org^
 ||counter.wox.cc^
+||cross-a.net^
 ||cross-system.com^
 ||crs-event.line.me^
 ||cv.gunosy.com^
 ||cxense.com^
 ||cxpublic.com^
+||cyber-traffic.net^
 ||d.rcmd.jp^
+||d-064.com^
 ||d15kdpgjg3unno.cloudfront.net^
 ||d1jh13j6azkbbi.cloudfront.net^
 ||d1jow6p6g37b9u.cloudfront.net^
+||d1lxz4vuik53pc.cloudfront.net^
 ||d29xw9s9x32j3w.cloudfront.net^
 ||d2c8v52ll5s99u.cloudfront.net^
 ||d3cod80thn7qnd.cloudfront.net^
@@ -183,6 +205,7 @@
 ||d3v27wwd40f0xu.cloudfront.net^
 ||d4el4parm0zb3.cloudfront.net^
 ||delivery.satr.jp^
+||devo.jp^
 ||dgpot.com^
 ||dhc.tt.omtrdc.net^
 ||dietnavi.com^
@@ -191,10 +214,15 @@
 ||digiket.net^
 ||discoverynordics.d3.sc.omtrdc.net^
 ||discoverynordics.hb.omtrdc.net^
+||dmm.ad-s.org^
+||dmm-rank.com^
 ||dni-adops-proxy-prod-adopsmediaconverter.mercury.dnitv.com^
 ||doteiban.com^
+||download.my-gg.com^
+||dtiserv.com^
 ||dvdguide.jp^
 ||dvdshoplist.com^
+||dynamic.rakuten.co.jp^
 ||edigitalsurvey.com^
 ||eloqua.com^
 ||e-nls.com^
