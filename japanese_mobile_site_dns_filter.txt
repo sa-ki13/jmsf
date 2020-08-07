@@ -1,6 +1,6 @@
 ! Title: FaFa DNS Filter
 ! Version: 2020-08-07
-! Last modified: 07 Aug 2020 16:50 JST
+! Last modified: 07 Aug 2020 17:18 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-08-07
 
@@ -67,17 +67,26 @@
 ||ad-ak.wowma.jp^
 ||ad-api-v01.uliza.jp^
 ||ade.googlesyndication.com^
+||adimg.teacup.com^
 ||adobedtm.com^
 ||ads.pandora.tv^
 ||ads.travelaudience.com^
 ||adservice.google.co.uk^
+||adsozai.com^
+||adtechus.com^
 ||adultangel.com^
 ||adult-blogranking.com^
 ||adult-mountain.com^
 ||adult-rss.com^
+||advack.net^
+||advision-adnw.jp^
 ||ad-vortex.com^
 ||aeondigital.d1.sc.omtrdc.net^
+||af.fukuishimbun.co.jp^
+||af.tosho-trading.co.jp^
 ||af-110.com^
+||af-board.com^
+||af-market.com^
 ||alphapolis.co.jp^
 ||analytics.cathaypacific.com^
 ||analytics.eip.telegraph.co.uk^
