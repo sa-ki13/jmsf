@@ -1,6 +1,6 @@
 ! Title: FaFa DNS Filter
 ! Version: 2020-08-07
-! Last modified: 07 Aug 2020 19:03 JST
+! Last modified: 07 Aug 2020 19:46 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-08-07
 
@@ -223,9 +223,12 @@
 ||dvdguide.jp^
 ||dvdshoplist.com^
 ||dynamic.rakuten.co.jp^
+||e-click.jp^
 ||edigitalsurvey.com^
+||eisys-bcs.jp^
 ||eloqua.com^
 ||e-nls.com^
+||epnt.ebay.com^
 ||ero18kin.jeez.jp^
 ||erocg.info^
 ||erocg.net^
@@ -236,6 +239,7 @@
 ||esthe-life.com^
 ||esthe-walker.com^
 ||eventapi.bookwalker.jp^
+||ex-pa.jp^
 ||ezoic.net^
 ||fanp.me^
 ||feedburner.com^
@@ -248,15 +252,22 @@
 ||freshnews.blog.jp^
 ||fresnel-events.vimeocdn.com^
 ||fukugan.com^
+||fun9.net^
+||fundingchoicesmessages.google.com^
 ||ganon.yahoo.com^
+||geni.us^
 ||getchu.com^
 ||ggm-contents.bangumi.org^
+||glam.jp^
 ||g-n-ipponmichi.xxxblog.jp^
 ||go.pardot.com^
 ||goodmediator.net^
 ||googletagservices.com^
+||gorilatte.net^
 ||gravityrd-services.com^
+||gw.amrmedia.jp^
 ||harudake.net^
+||highlow-affiliate-banner.s3-ap-northeast-1.amazonaws.com^
 ||himasoku.com^
 ||hiroshima-blog.com^
 ||hsleadflows.net^
