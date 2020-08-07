@@ -1,6 +1,6 @@
 ! Title: FaFa DNS Filter
 ! Version: 2020-08-07
-! Last modified: 07 Aug 2020 15:22 JST
+! Last modified: 07 Aug 2020 16:06 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-08-07
 
@@ -47,15 +47,11 @@
 @@||vcentry3.valuecommerce.ne.jp^
 @@||ws-fe.amazon-adsystem.com^
 @@||www.google-analytics.com^
-||*-ad.com^
 ||*-ad.jp^
-||*-ad.net^
-||*-ads.com^
 ||1-on.biz^
 ||5e529.v.fwmrm.net^
 ||a2g.cc^
 ||a-base.net^
-||a-nw.net^
 ||acceliaad.durasite.net^
 ||ad.ads-lite.net^
 ||ad.adxad.jp^
@@ -85,6 +81,7 @@
 ||animehonpo.com^
 ||anon-stats.eff.org^
 ||antennasync.me^
+||a-nw.net^
 ||apester.com^
 ||api.geoip.mmg.zone^
 ||api.ipify.org^
@@ -146,12 +143,12 @@
 ||client.crisp.chat^
 ||cloud.akibablog.net^
 ||coels.net^
-||cookieinfoscript.com^
 ||consensu.org^
 ||consent.cmp.oath.com^
 ||consent.cookiebot.com^
 ||consent.trustarc.com^
 ||control.smbeat.jp^
+||cookieinfoscript.com^
 ||cookielaw.org^
 ||counter.wox.cc^
 ||cross-system.com^
@@ -228,8 +225,8 @@
 ||img.hapitas.jp^
 ||img.mobilerz.net^
 ||intelligence.sc.omtrdc.net^
-||investorsbusinessdai.tt.omtrdc.net^
 ||inutomo11.com^
+||investorsbusinessdai.tt.omtrdc.net^
 ||itarou.com^
 ||jcb.sc.omtrdc.net^
 ||jcb.tt.omtrdc.net^
@@ -404,10 +401,10 @@
 ||u.realworld.jp^
 ||ubmtech.d3.sc.omtrdc.net^
 ||udvd-search.com^
-||urbanairship.com^
 ||ura-dvd.net^
 ||uradvdranking.com^
 ||uradvd-ya.com^
+||urbanairship.com^
 ||urs.zdnet.com^
 ||urutil.com^
 ||userreport.com^
