@@ -1,6 +1,6 @@
 ! Title: FaFa DNS Filter
 ! Version: 2020-08-07
-! Last modified: 07 Aug 2020 16:06 JST
+! Last modified: 07 Aug 2020 16:50 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-08-07
 
@@ -54,6 +54,7 @@
 ||1-on.biz^
 ||5e529.v.fwmrm.net^
 ||a2g.cc^
+||a-affiliate.net^
 ||a-base.net^
 ||acceliaad.durasite.net^
 ||ad.ads-lite.net^
@@ -63,6 +64,7 @@
 ||ad.sorakaze.co.jp^
 ||ad.woman.mynavi.jp^
 ||ad3.cross-a.net^
+||ad-ak.wowma.jp^
 ||ad-api-v01.uliza.jp^
 ||ade.googlesyndication.com^
 ||adobedtm.com^
@@ -73,6 +75,7 @@
 ||adult-blogranking.com^
 ||adult-mountain.com^
 ||adult-rss.com^
+||ad-vortex.com^
 ||aeondigital.d1.sc.omtrdc.net^
 ||af-110.com^
 ||alphapolis.co.jp^
