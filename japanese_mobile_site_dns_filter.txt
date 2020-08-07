@@ -1,6 +1,6 @@
 ! Title: FaFa DNS Filter
 ! Version: 2020-08-07
-! Last modified: 07 Aug 2020 19:46 JST
+! Last modified: 07 Aug 2020 20:10 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-08-07
 
@@ -270,6 +270,7 @@
 ||highlow-affiliate-banner.s3-ap-northeast-1.amazonaws.com^
 ||himasoku.com^
 ||hiroshima-blog.com^
+||hs-banner.com^
 ||hsleadflows.net^
 ||ichioshikabunavi.net^
 ||id-rank.com^
@@ -278,29 +279,39 @@
 ||img.ak.impact-ad.jp^
 ||img.hapitas.jp^
 ||img.mobilerz.net^
+||img-c.net^
+||infocart.jp^
+||infotop.jp^
+||inkornesto.com^
 ||intelligence.sc.omtrdc.net^
 ||inutomo11.com^
 ||investorsbusinessdai.tt.omtrdc.net^
 ||itarou.com^
+||j-a-x-affiliate.net^
 ||jcb.sc.omtrdc.net^
 ||jcb.tt.omtrdc.net^
 ||jin115.com^
 ||joho69.com^
 ||jojo.funfunsite.net^
 ||js.driftt.com^
+||js.enhance.co.jp^
 ||juicer.cc^
 ||jump.jpn.org^
+||jword.jp^
 ||karma.mdpcdn.com^
 ||keen.io^
 ||keibaranking.web.fc2.com^
 ||king-fuzoku.com^
 ||kotaro269.com^
+||l.typesquare.com^
 ||ladygamer.jp^
 ||lb.benchmarkemail.com^
 ||lc.ch.com^
 ||likebtn.com^
 ||link.idol-blog.com^
+||link-a.net^
 ||linklick.net^
+||linkshare.ne.jp^
 ||litix.io^
 ||livejupiter2.net^
 ||location.bloomberg.com^
@@ -309,6 +320,7 @@
 ||loglys.com^
 ||lovegate.info^
 ||m.addthis.com^
+||mail-ads.google.com^
 ||main.pubexchange.com^
 ||marfeel.com^
 ||market01.com^
@@ -319,6 +331,7 @@
 ||mbid.marfeelrev.com^
 ||mcc-tags.cisco.com^
 ||meas.ad.pr.ameba.jp^
+||medipartner.jp^
 ||metrolinkpromotions.com^
 ||milcow.com^
 ||mms.coachmag.co.uk^
