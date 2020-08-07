@@ -47,7 +47,10 @@
 @@||vcentry3.valuecommerce.ne.jp^
 @@||ws-fe.amazon-adsystem.com^
 @@||www.google-analytics.com^
+||*-ad.com^
 ||*-ad.jp^
+||*-ad.net^
+||*-ads.com^
 ||1-on.biz^
 ||5e529.v.fwmrm.net^
 ||a2g.cc^
