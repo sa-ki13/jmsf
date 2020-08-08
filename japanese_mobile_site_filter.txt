@@ -22,7 +22,7 @@
 @@||socdm.com^$app=jp.ponta.myponta
 @@||static.blogos.com/common/js/kotzen.analytics.js?1412917378
 @@||tags.tiqcdn.com/utag/sony-marketing^$domain=sony.jp
-@@||treasuredata.com^$app=jp.ponta.myponta,domain=onsen.nifty.com
+@@||treasuredata.com^$app=jp.ponta.myponta
 @@||trj.valuecommerce.com/vcushion.js$third-party
 ||af.fukuishimbun.co.jp/data.php$image
 ||crs-event.line.me^
