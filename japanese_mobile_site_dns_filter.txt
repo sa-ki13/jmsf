@@ -1,52 +1,38 @@
 ! Title: FaFa DNS Filter
-! Version: 2020-08-07
-! Last modified: 07 Aug 2020 22:17 JST
+! Version: 2020-08-08
+! Last modified: 08 Aug 2020 22:22 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-08-07
+! Last updated: 2020-08-08
 
 @@||a8.net^
-@@||aax-fe.amazon-adsystem.com^
-@@||ac.ebis.ne.jp^
+@@||accesstrade.net^
 @@||ads280dummy.com^
-@@||aid.send.microad.jp^
+@@||amazon-adsystem.com^
 @@||app.appsflyer.com^
-@@||atrrd.valuecommerce.com^
-@@||cdn.d2-apps.net^
-@@||cdn.treasuredata.com^
-@@||ck.jp.ap.valuecommerce.com^
+@@||cint.com^
 @@||click.j-a-net.jp^
-@@||cm.g.doubleclick.net^
 @@||cr-pall.ladsp.com^
-@@||daikoku.ebis.ne.jp^
-@@||d-cache.microad.jp^
+@@||d2-apps.net^
 @@||doga.cm^
 @@||dr.r-ad.ne.jp^
 @@||ds.advg.jp^
-@@||frtn.socdm.com^
+@@||ebis.ne.jp^
+@@||g.doubleclick.net^
 @@||get.mobu.jp^
+@@||google-analytics.com^
 @@||grp18.ias.rakuten.co.jp^
-@@||h.accesstrade.net^
 @@||hb.afl.rakuten.co.jp^
-@@||in.treasuredata.com^
-@@||is.accesstrade.net^
-@@||pp.d2-apps.net^
-@@||qps.cint.com^
+@@||microad.jp^
 @@||recruit.112.2o7.net^
-@@||router.cint.com^
-@@||s.cint.com^
 @@||s9.r-ad.ne.jp^
 @@||smart-c.jp^
-@@||ssl.google-analytics.com^
-@@||stats.g.doubleclick.net^
+@@||socdm.com^
 @@||sync.dmp.fout.jp^
 @@||sync.im-apps.net^
 @@||t.metaps.biz^
-@@||tg.socdm.com^
 @@||torimochi.line-apps.com^
-@@||trj.valuecommerce.com^
-@@||vcentry3.valuecommerce.ne.jp^
-@@||ws-fe.amazon-adsystem.com^
-@@||www.google-analytics.com^
+@@||treasuredata.com^
+@@||valuecommerce.com^
 ||*-ad.com^
 ||*-ad.jp^
 ||*-ad.net^
