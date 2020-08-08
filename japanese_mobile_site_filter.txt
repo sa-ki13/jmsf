@@ -31,67 +31,32 @@
 ||parts.blog.livedoor.jp/*/lite2/floating
 ||polyfill.io^
 ||xn--dckta2f5e8cqc.net/wp-content/uploads/2016/12/gradation.png$image
-9tsu.net###text-104
 ad-contents.jp###footer > .mobile-big-banner.item-block
 ad-contents.jp##.fx-banner
 ad-contents.jp##.type-appear.item-container > .mobile-big-banner.item-block
 ad-contents.jp##div[id^="_INSERT_SLOT_ID_HERE"]
 ad-contents.jp#%#//scriptlet('set-constant', 'setTimer', 'noopFunc')
 agora-web.jp##.bottom
-agora-web.jp##.footerList :nth-of-type(2)
-agora-web.jp##.footerList :nth-of-type(5)
 agora-web.jp##.p-shareButton-bottom
 agora-web.jp##small
 amagasaki.goguynet.jp##.centerUnder04
-amagasaki.goguynet.jp##.menu-item-object-page:nth-of-type(4)
 amagasaki.goguynet.jp##.pop-views
-amagasaki.goguynet.jp##div:nth-of-type(8)
-apppass.niwadehio.com###the-content > p:nth-of-type(4)
-apppass.niwadehio.com###the-content > p:nth-of-type(5)
-apppass.niwadehio.com##:nth-of-type(11)
-apppass.niwadehio.com##:nth-of-type(12)
-apppass.niwadehio.com##:nth-of-type(13)
-apppass.niwadehio.com##:nth-of-type(14)
-apppass.niwadehio.com##:nth-of-type(15)
-apppass.niwadehio.com##:nth-of-type(16)
-apppass.niwadehio.com##:nth-of-type(17)
-apppass.niwadehio.com##:nth-of-type(19)
-apppass.niwadehio.com##:nth-of-type(22)
-apppass.niwadehio.com##:nth-of-type(24)
-apppass.niwadehio.com##:nth-of-type(27)
-apppass.niwadehio.com##:nth-of-type(28)
-apppass.niwadehio.com##p:nth-of-type(10)
-apppass.niwadehio.com##p:nth-of-type(3)
-apppass.niwadehio.com##p:nth-of-type(6)
-apppass.niwadehio.com##p:nth-of-type(8)
-apppass.niwadehio.com##p:nth-of-type(9)
 article.auone.jp##.article__service-link
 article.auone.jp##.cp-related__ad
 article.auone.jp##.cp-related__contents
 asagei.biz##.article > footer
-asajo.jp###text-12
-asajo.jp###text-22
-asajo.jp##.cfx:nth-of-type(1)
-asajo.jp##.cfx:nth-of-type(3)
-asajo.jp##div:nth-of-type(5)
 atmarkit.co.jp###TEXT
 atmarkit.co.jp##.colBoxClear
 atmarkit.co.jp##.wrap_social_big
 automaton-media.com##.code-block
-automaton-media.com##.td_block_2
-bcnretail.com###torimochi-widget1
-bcnretail.com###torimochi-widget2
 bcnretail.com##.commentlistsp
 bcnretail.com##.external-link
 bcnretail.com##.footer-sns
-bg-mania.jp##.contents-right > div:nth-of-type(2)
 bg-mania.jp##.entry-follow
 bg-mania.jp##.section-info
-bg-mania.jp##.section-inner > div:nth-of-type(6)
 bg-mania.jp##.section-pr-osusume
 billboard.com##.header-wrapper__secondary-header 
 biz-journal.jp###contactLink
-biz-journal.jp###footerNav :nth-of-type(1) :nth-of-type(3)
 biz-journal.jp###footerSns
 blog.livedoor.jp###blog_news
 blog.livedoor.jp###blog_ranking
@@ -100,21 +65,16 @@ blog.livedoor.jp###pbp_ranking
 blog.livedoor.jp##.article-comment-count
 blog.livedoor.jp##.footer-box
 blogofmobile.com##.footer
-bunshun.jp##.block-header:nth-of-type(1)
 bunshun.jp##.center.external-link
 bunshun.jp##.center.social-link
 bunshun.jp##.footer-banner-box
 bunshun.jp##.fw-media-thum
-bunshun.jp##.internal-link > :nth-of-type(1)
 bunshun.jp##.issue-outer
 bunshun.jp##.mail-mag
 bunshun.jp##.ranking-widget
 bunshun.jp##.recommend-articles
 bunshun.jp##.social-follow-bar-block
-buzzfeed.com##.grid__3XmGcmlEGh :nth-of-type(3)
 buzzfeed.com##.js-inline-share-bar
-buzzfeed.com##.repliesAndLikes___8uXM
-buzzfeed.com##.shareBar__iBmPqMVnmz
 candy-box.net###bottom-of-post-mobile
 candy-box.net###footer-sns
 candy-box.net###under-post-title-mobile
@@ -123,33 +83,22 @@ candy-box.net##.icon-share.sns_btn_trigger
 candy-box.net##.va-social-buzz
 candy-box.net##article.normal.loop-article > .mb.loop-meta
 cinematoday.jp##.fullwidth
-cinematoday.jp##body > :nth-of-type(2)
 contest.mdpr.jp##.m1
-cyzo.com##.articleMain > :nth-of-type(3)
-cyzowoman.com##.section_common:nth-of-type(2)
-cyzowoman.com##.section_common:nth-of-type(6)
-cyzowoman.com##div.section_common:nth-of-type(1)
 d.dmkt-sp.jp###dmcsegFloat_maga
 d.dmkt-sp.jp##.ma5
 d.dmkt-sp.jp##.start_wrap_sp
-dailynewsonline.jp##.contact > :nth-of-type(2)
-dailynewsonline.jp##.sns > ul > :nth-of-type(1)
 dailynewsonline.jp##.snsShareList
 diamond.jp###dol17_top_recm_sp
-diamond.jp##.footer-links :nth-of-type(8)
 diamond.jp##.rss
 diamond.jp##.sponsored-list
-diamond.jp##aside .type-LR :nth-of-type(2)
 dmkt01w03.point-ad-game.com###bnr_top
 dmkt01w03.point-ad-game.com###bnr_top_icon
 dmkt01w03.point-ad-game.com###cts_ranking
 dmkt02.point-ad-game.com##.page_loading
 dmkt02.point-ad-game.com##.tw-button-s
-dmkt02.point-ad-game.com##div.banner:nth-of-type(1)
 dropgame.jp##div.footer_rectangle_ssp 
 enq.smt.docomo.ne.jp###wrap_banner
 entamega.com###sp_entryBottomSns
-entamega.com##.otherLinkList > :nth-of-type(5)
 excite.co.jp##.article-external
 excite.co.jp##.share
 excite.co.jp##div.media-introduction
@@ -157,11 +106,8 @@ excite.co.jp##li .parts-comment
 fnn.jp##.l-inner
 froggy.smbcnikko.co.jp##.article__btn-group
 front-row.jp##.content-bottom-body
-fukuishimbun.co.jp###wrapper > :nth-of-type(2)
 fukuishimbun.co.jp##.servicelinks
 fukuishimbun.co.jp##.sns
-fukuishimbun.co.jp##.sub-column-house-bnr :nth-of-type(3)
-fukuishimbun.co.jp##div:nth-of-type(11)
 gamefactory.jp###new_ad
 gamefactory.jp###point_ad
 gamefactory.jp###purchase-nav
@@ -180,29 +126,13 @@ gamefactory.jp##.title-type3
 gamefactory.jp##body > .marginT5
 gamefactory.jp##section.section-cpilist.normal-section1
 gazyekichi96.com###menu-item-4030
-gazyekichi96.com##.controllerFooter__item:nth-of-type(2)
-gazyekichi96.com##.controllerFooter__item:nth-of-type(3)
 gazyekichi96.com##.social-top
 gazyekichi96.com##.u-shadow
-gendai.ismedia.jp##.blockContainer_block:nth-of-type(8)
 gendai.ismedia.jp##.socialButton-good
-gendai.ismedia.jp##:nth-of-type(5) > .blockContainer_block
-gendai.ismedia.jp##:nth-of-type(7) > .blockContainer_block
-gendai.ismedia.jp##:nth-of-type(8) > .article_author-small_profileLink
-gendai.ismedia.jp##:nth-of-type(9) > .article_author-small_profileLink
 gendai.ismedia.jp#@#.socialButtonArea
 getnews.jp###custom_html-2
 getnews.jp##.redline
-getnews.jp##.Related-site > :nth-of-type(1)
-getnews.jp##.Related-site > :nth-of-type(2)
-getnews.jp##.Related-site > :nth-of-type(3)
-getnews.jp##.Related-site > :nth-of-type(4)
-getnews.jp##.Related-site > :nth-of-type(5)
-getnews.jp##.Related-site > :nth-of-type(6)
-getnews.jp##.Related-site > :nth-of-type(7)
-getnews.jp##.Related-site > :nth-of-type(8)
 getnews.jp##.sn-b
-getnews.jp##details:nth-of-type(2)
 gg-talk.jp##.activity__agree
 gg-talk.jp##.activity__comment
 gg-talk.jp##.activity--left-align__agree
@@ -210,9 +140,6 @@ gg-talk.jp##.activity--left-align__comment
 gg-talk.jp##.comment-shortcut
 gg-talk.jp##.header__menu
 gigazine.net###Google_IL
-gigazine.net##.rl-list-item:nth-of-type(2)
-gigazine.net##p:nth-of-type(3)
-gigazine.net##p:nth-of-type(5)
 gizmodo.jp###gz-recommendedBottom-outerAd
 gizmodo.jp###gz-recommendedBottom-recommend
 gizmodo.jp##.f-body-aboutFuze
@@ -231,7 +158,6 @@ grapee.jp###lfnews
 grapee.jp###sns-area-entry-bottom
 grapee.jp###ul_comment
 grapee.jp##.area-btn_follow
-grapee.jp##.footer-link > :nth-of-type(3)
 grapee.jp##.single-page > aside
 grapee.jp##hr
 health.joyplot.com##.g_area
@@ -245,9 +171,6 @@ ima.goo.ne.jp##.social-vertical
 ima.goo.ne.jp##.value
 iphone-mania.jp###header_dl
 iphone-mania.jp###official_shop_menu_single
-iphone-mania.jp##.footer_info_li:nth-of-type(5)
-iphone-mania.jp##.single_s_bt01:nth-of-type(4)
-iphone-mania.jp##.single_s_bt02:nth-of-type(5)
 iphone-mania.jp##.sns_fblike
 iphone-mania.jp##.sns_fblike_title
 iphone-mania.jp##.sns_twtime_title
@@ -262,12 +185,7 @@ ivfree.me##.main > p
 ivfree.me##.sub > p
 japanese.engadget.com###post-bottom-social-share
 japanese.engadget.com##.below-article-body
-japanese.engadget.com##.D\(b\)\!--sm.D\(n\)
-japanese.engadget.com##.Lh\(30px\) > div > div
 japanese.engadget.com##.social-follow
-japanese.engadget.com##.W\(30px\)
-japanese.engadget.com##:nth-of-type(26)
-japanese.engadget.com##li:nth-of-type(4)
 j-cast.com###newsEntry_otherSiteRecommend
 j-cast.com##.align-justify
 j-cast.com##.footer-contents
@@ -277,14 +195,11 @@ j-cast.com##.title-sec
 jiji.com##.lin
 jiji.com##p> .notice
 jp.techcrunch.com###menu-item-133017
-jp.techcrunch.com###tcrrsp > :nth-of-type(1)
 jp.techcrunch.com##.footer-follow
 jp.techcrunch.com##.l-three-col .l-main-container
-jp.techcrunch.com##span:nth-of-type(2)
 jprime.jp##.article-footer
 jprime.jp##.footer-nav-services
 jprime.jp##.side-primechannel-item__comment
-jprime.jp##section:nth-of-type(2) :nth-of-type(7)
 jptver.com##.f-widget-2.f-widget
 j-town.net###wrChumokuJoho
 j-town.net###wrRelatedSites
@@ -295,22 +210,18 @@ karapaia.com###category_ranking
 karapaia.com###pbp_ranking
 karapaia.com##.article-comment-count
 karapaia.com##.footer-box
-kobe-np.co.jp##:nth-of-type(4) :nth-of-type(6)
 k-tai.watch.impress.co.jp##.fb-parts
 k-tai.watch.impress.co.jp##.null
 kuji.d.dmkt-sp.jp###floating-banner
 kuji.d.dmkt-sp.jp##.sns-block
 kuji.d.dmkt-sp.jp##.sub_title
-kuji.d.dmkt-sp.jp##section.block:nth-of-type(2)
 kuruma-news.jp##.box-center
 kuruma-news.jp##div > .title-banner
-lifehacker.jp##.lh-block:nth-of-type(2)
 lifehacker.jp##.lh-postSns
 life-n.jp##div:nth-of-type(8)
 life-n.jp##div[class^="ad_area"]
 lite.blogos.com###root_enquete
 lite.blogos.com##.OfficialAccount-wrap
-livedoorblogstyle.jp##.content > aside.section-box:nth-of-type(9)
 lmaga.jp##.collaboration
 lmaga.jp##.contents_ad
 lmaga.jp##.header_bookmark
@@ -321,21 +232,13 @@ lmaga.jp##.recommend
 lnews.jp##.bnrad
 lnews.jp##.shareArea
 lnews.jp##.singlePrkiji
-maidonanews.jp##dl:nth-of-type(3) :nth-of-type(5)
 mainichi.jp###page > .h1-title
-mbs.jp###header :nth-of-type(3)
-mbs.jp##.other > li:nth-of-type(1)
-mbs.jp##ul:nth-of-type(3)
 mdpr.jp###app-header-banner
 mdpr.jp##.footer__logo--joshi
 mdpr.jp##.footer__sns
 mdpr.jp##.footer__sub-nav
 mdpr.jp##.sns
-mdpr.jp##.topic-text > div:nth-of-type(3)
-mdpr.jp##.topic-text > div:nth-of-type(6)
 mdpr.jp##.topic-title__accessPoint-loading
-mdpr.jp##section:nth-of-type(3)
-media.moneyforward.com##.aside-box:nth-of-type(2)
 media.moneyforward.com##.mp-recommends
 media.moneyforward.com##.mp-sns-share-buttons
 mi-mollet.com##.feature .article-list > :nth-of-type(1)
@@ -348,28 +251,20 @@ news.2chblog.jp###blog_ranking
 news.2chblog.jp###recent_comments_326515
 news.2chblog.jp##.footer-box
 news.biglobe.ne.jp###scoopArea
-news.biglobe.ne.jp##.box-in:nth-of-type(4)
 news.biglobe.ne.jp##.nCpLogoR
 news.infoseek.co.jp###content > div
-news.infoseek.co.jp###featureFooterCmp > :nth-of-type(4)
-news.infoseek.co.jp###featureFooterCmp > :nth-of-type(5)
 news.infoseek.co.jp##.relational_link_block
 news.livedoor.com###article-outer-link
 news.livedoor.com###logo-external
 news.livedoor.com###show_more_app_3
 news.livedoor.com###show_more_app_3_p
 news.mynavi.jp##.box--bg
-news.mynavi.jp##.box--line:nth-of-type(2)
-news.mynavi.jp##.gtm:nth-of-type(3)
-news.mynavi.jp##.js-read__inner > :nth-of-type(3)
 news.mynavi.jp##.js-read__inner > div
 news.mynavi.jp##.sitemap-cannel__sponsored
-news.mynavi.jp##.sitemap-category:nth-of-type(2)
 news.nicovideo.jp##.article-relateds
 news.nicovideo.jp##.news-comments
 news.nicovideo.jp##news-official-sns-buttons
 news.nifty.com###main_keyword
-news.nifty.com##.article_detail > div:nth-of-type(1)
 news.nifty.com##.article_related
 news.nifty.com##.article_sns_share
 news.nifty.com##.list_recommend
@@ -381,12 +276,10 @@ news.yahoo.co.jp##.eRLyIU
 nikkansports.com###SemiTopADtext
 nikkansports.com###TopAD
 nikkansports.com##.webapiArticleList
-note.com##.m-creatorSocialLinks__item:nth-of-type(3)
 note.com##.m-noteListItem__like
 note.com##.o-noteContentText__status
 note.com##.p-article__action
 note.com##.p-article__recommend
-onsen.nifty.com##.isBgBlack > :nth-of-type(1)
 onsen.nifty.com##.sectionRentacar
 onsen.nifty.com##.shareToFriends
 onsen.nifty.com##.socialArea
@@ -395,11 +288,7 @@ o-uccino.jp###div-gpt-sp-article_head
 o-uccino.jp###similar_articles
 o-uccino.jp##.aside_pr
 o-uccino.jp##.banner_sp
-o-uccino.jp##.footer_inquiry_link:nth-of-type(2)
 o-uccino.jp##.sns_share_list
-o-uccino.jp##div:nth-of-type(13)
-o-uccino.jp##h4:nth-of-type(2)
-pasokatu.com##.nshonbun > :nth-of-type(7)
 pasokatu.com##.other-top
 pasokatu.com##hr
 piccoma.com###js_hssTooltip
@@ -416,9 +305,7 @@ rocketnews24.com##.social-follow
 rocketnews24.com##hr
 roomie.jp###main > .r-section
 roomie.jp##.r-buy
-roomie.jp##.r-infolist:nth-of-type(1) :nth-of-type(2)
 roomie.jp##.r-medialist
-roomie.jp##.r-siteinfo :nth-of-type(2)
 roomie.jp##.r-snsbutton
 roomie.jp##.veryhot
 roomie.jp##div.r-section
@@ -446,7 +333,6 @@ spur.hpplus.jp##.pt25
 spur.hpplus.jp##.sns_wrapp_2
 spur.hpplus.jp##.ttl_follow
 spur.hpplus.jp##section.mt30
-stacksocial.com##.intelligent-modules-container > div:nth-of-type(2)
 taishu.jp###ulCommentWidget
 t-mall.cmnw.jp##.mgb_10
 t-mall.cmnw.jp##.o-content__topsegment:nth-of-type(4)
@@ -470,7 +356,6 @@ toyokeizai.net##.bc_banner
 toyokeizai.net##.snsbtns
 trilltrill.jp##.articleDetail-ADG
 trilltrill.jp##.articleDetail-GAM
-trilltrill.jp##.articleDetail-Information :nth-of-type(2)
 trilltrill.jp##.articleDetail-MediumRelatedArticles
 trilltrill.jp##.articleDetail-PVBoostLink_Header
 trilltrill.jp##.articleDetail-Ranking
@@ -484,27 +369,15 @@ trilltrill.jp##.js-floating-w2a
 tvgroove.com##.sharewrap
 voguegirl.jp##.m-simple-share
 voguegirl.jp##.o-follow
-voguegirl.jp##.o-global-footer__link-list:nth-of-type(1) :nth-of-type(2)
 voguegirl.jp##.o-global-footer__sns-list-item--line
 warotanikki.com###diver_widget_pcsp-19
 warotanikki.com##.code-block
-warotanikki.com##.content > :nth-of-type(1)
-warotanikki.com##.content > p:nth-of-type(3)
 warotanikki.com##.img_meta
 warotanikki.com##.p-entry__tw-follow
 wezz-y.com###textPrArea
-wezz-y.com##.footerList > :nth-of-type(3)
 w-higa.com###custom_post_widget-14
 w-higa.com###custom_post_widget-62670
-w-higa.com###left_col > :nth-of-type(2)
-w-higa.com###left_col > :nth-of-type(5)
-w-higa.com###left_col > :nth-of-type(7)
 w-higa.com###mobile_banner_top
-w-higa.com###text-19
-w-higa.com###text-33
-w-higa.com###text-36
-w-higa.com##.dp-footer-bar-item:nth-of-type(1)
-w-higa.com##.post > div:nth-of-type(1)
 w-higa.com##.wpp-views
 w-higa.com#@#img[width="468"][height="60"]
 www3.nhk.or.jp###appsbanner
@@ -514,10 +387,7 @@ xtech.nikkei.com##.l-section
 xtech.nikkei.com##.p-fixedShare
 yasu-suma.net###item_ranking-3
 yasu-suma.net###rinkerid25620
-yasu-suma.net###text-5
-yasu-suma.net###text-8
 yasu-suma.net##.bc-brand-color
 yukawanet.com##.sns-btn
-zakzak.co.jp##.company > :nth-of-type(5)
 zakzak.co.jp##.pr
 zakzak.co.jp##.service
