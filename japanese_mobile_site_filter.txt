@@ -1,61 +1,12 @@
 ! Title: FaFa Filter
 ! Version: 2020-08-10
-! Last modified: 10 Aug 2020 18:51 JST
+! Last modified: 10 Aug 2020 19:14 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-08-10
 
-@@||cmnw.jp/s3/_common/res_pcsp/js/ad/adframe.js?g=1&m=1.1
 @@||d.dmkt-sp.jp/portal^$domain=d.dmkt-sp.jp
-@@||doga.cm^$domain=doga.cm
-@@||googletagmanager.com/gtag/js?id=UA-50746846-2$third-party
-@@||googletagmanager.com/gtm.js?id=GTM-5W8NGB8$domain=ponta.jp,third-party
-@@||image.itmedia.co.jp/images/1x1.gif
-@@||im-apps.net^$app=jp.ponta.myponta
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$third-party
-@@||image.smart-c.jp^$app=jp.naver.line.android
-@@||nakanohito.jp/cm$domain=bunshun.jp
-@@||pushcode.jp/dist/js/pushcode.js?181010
-@@||r-ad.ne.jp^$app=jp.ponta.myponta
-@@||router.cint.com^$domain=router.cint.com
-@@||secure.surveymonkey.com/assets/responseweb^$third-party
-@@||send.microad.jp^$app=jp.ponta.myponta
-@@||surveys.com/jscripts/fingerprint2.js
-@@||socdm.com^$app=jp.ponta.myponta
-@@||static.blogos.com/common/js/kotzen.analytics.js?1412917378
-@@||tags.tiqcdn.com/utag/sony-marketing^$domain=sony.jp
-@@||treasuredata.com^$app=jp.ponta.myponta
-@@||trj.valuecommerce.com/vcushion.js$third-party
-||af.fukuishimbun.co.jp/data.php$image
-||crs-event.line.me^
-||d305v6nldhjazi.cloudfront.net/common/images/common/icon-url-copy-circle.svg$image
-||d305v6nldhjazi.cloudfront.net/sp/images/common/img-top-top.png$image
-||parts.blog.livedoor.jp/*/lite2/floating
-||polyfill.io^
-||xn--dckta2f5e8cqc.net/wp-content/uploads/2016/12/gradation.png$image
-ad-contents.jp###footer > .mobile-big-banner.item-block
-ad-contents.jp##.fx-banner
-ad-contents.jp##.type-appear.item-container > .mobile-big-banner.item-block
-ad-contents.jp##div[id^="_INSERT_SLOT_ID_HERE"]
+@@||www.pushcode.jp/dist/js/pushcode.js?181010
 ad-contents.jp#%#//scriptlet('set-constant', 'setTimer', 'noopFunc')
-agora-web.jp##.bottom
-agora-web.jp##.p-shareButton-bottom
-agora-web.jp##small
-amagasaki.goguynet.jp##.centerUnder04
-amagasaki.goguynet.jp##.pop-views
-article.auone.jp##.article__service-link
-article.auone.jp##.cp-related__ad
-article.auone.jp##.cp-related__contents
-asagei.biz##.article > footer
-atmarkit.co.jp###TEXT
-atmarkit.co.jp##.colBoxClear
-atmarkit.co.jp##.wrap_social_big
-automaton-media.com##.code-block
-bcnretail.com##.commentlistsp
-bcnretail.com##.external-link
-bcnretail.com##.footer-sns
-bg-mania.jp##.entry-follow
-bg-mania.jp##.section-info
-bg-mania.jp##.section-pr-osusume
 billboard.com##.header-wrapper__secondary-header 
 biz-journal.jp###contactLink
 biz-journal.jp###footerSns
