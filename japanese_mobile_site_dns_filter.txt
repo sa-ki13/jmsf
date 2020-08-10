@@ -1,6 +1,6 @@
 ! Title: FaFa DNS Filter
 ! Version: 2020-08-10
-! Last modified: 10 Aug 2020 21:55 JST
+! Last modified: 10 Aug 2020 22:48 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-08-10
 
@@ -9,6 +9,7 @@
 @@||cdn.treasuredata.com^
 @@||cm.g.doubleclick.net^
 @@||d-cache.microad.jp^
+@@||doga.cm^
 @@||frtn.socdm.com^
 @@||googleads.g.doubleclick.net^
 @@||in.treasuredata.com^
