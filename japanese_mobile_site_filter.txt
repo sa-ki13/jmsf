@@ -8,6 +8,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js
 @@||www.pushcode.jp/dist/js/pushcode.js?181010
 ||apl.d.dmkt-sp.jp/sugoroku/start/img/start.png$image
+||dmkt02.point-ad-game.com/assets/images/page_loader.svg
 ||static.d.dmkt-sp.jp/template/gamification/img/banner_01.jpg$image
 ad-contents.jp#%#//scriptlet('set-constant', 'setTimer', 'noopFunc')
 billboard.com##.header-wrapper__secondary-header
