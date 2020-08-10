@@ -22,7 +22,7 @@ kuji.d.dmkt-sp.jp###floating-banner
 kuji.d.dmkt-sp.jp##.sns-block
 kuji.d.dmkt-sp.jp##.sub_title
 kuji.d.dmkt-sp.jp##section.block:nth-child(3)
-!life-n.jp##div:nth-of-type(8)	
+life-n.jp##div:nth-child(15)	
 life-n.jp##div[class^="ad_area"]
 point-news.jp##div:nth-child(13)
 point-news.jp##div[class^="ad_area"]
