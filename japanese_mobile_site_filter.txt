@@ -1,11 +1,13 @@
 ! Title: FaFa Filter
 ! Version: 2020-08-10
-! Last modified: 10 Aug 2020 19:14 JST
+! Last modified: 10 Aug 2020 20:12 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-08-10
 
 @@||d.dmkt-sp.jp/portal^$domain=d.dmkt-sp.jp
 @@||www.pushcode.jp/dist/js/pushcode.js?181010
+||apl.d.dmkt-sp.jp/sugoroku/start/img/start.png$image
+||static.d.dmkt-sp.jp/template/gamification/img/banner_01.jpg$image
 ad-contents.jp#%#//scriptlet('set-constant', 'setTimer', 'noopFunc')
 billboard.com##.header-wrapper__secondary-header 
 kuji.d.dmkt-sp.jp###floating-banner
