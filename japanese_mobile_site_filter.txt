@@ -1,12 +1,17 @@
 ! Title: FaFa Filter
 ! Version: 2020-08-10
-! Last modified: 10 Aug 2020 21:45 JST
+! Last modified: 10 Aug 2020 22:15 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-08-10
 
 @@||d.dmkt-sp.jp/portal^$domain=d.dmkt-sp.jp
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js
 @@||www.pushcode.jp/dist/js/pushcode.js?181010
+@@||send.microad.jp^$app=jp.ponta.myponta
+@@||r-ad.ne.jp^$app=jp.ponta.myponta
+@@||im-apps.net^$app=jp.ponta.myponta
+@@||socdm.com^$app=jp.ponta.myponta
+@@||treasuredata.com^$app=jp.ponta.myponta
 ||apl.d.dmkt-sp.jp/sugoroku/start/img/start.png$image
 ||static.d.dmkt-sp.jp/template/gamification/img/banner_01.jpg$image
 ad-contents.jp#%#//scriptlet('set-constant', 'setTimer', 'noopFunc')
