@@ -14,6 +14,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$third-party
 @@||image.smart-c.jp^$app=jp.naver.line.android
 @@||nakanohito.jp/cm$domain=bunshun.jp
+@@||pushcode.jp/dist/js/pushcode.js?181010
 @@||r-ad.ne.jp^$app=jp.ponta.myponta
 @@||router.cint.com^$domain=router.cint.com
 @@||secure.surveymonkey.com/assets/responseweb^$third-party
