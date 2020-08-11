@@ -19,6 +19,7 @@
 ad-contents.jp#%#//scriptlet('set-constant', 'setTimer', 'noopFunc')
 billboard.com##.header-wrapper__secondary-header
 dmkt02.point-ad-game.com##.page_loading
+dmkt02.point-ad-game.com##.tw-button-s
 dmkt02.point-ad-game.com##div.banner:first-child
 kuji.d.dmkt-sp.jp###floating-banner
 kuji.d.dmkt-sp.jp##.sns-block
