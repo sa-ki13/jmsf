@@ -15,8 +15,8 @@
 @@||www.googletagmanager.com/gtm.js?id=GTM-5W8NGB8$domain=ponta.jp
 @@||www.pushcode.jp/dist/js/pushcode.js?181010
 ||apl.d.dmkt-sp.jp/sugoroku/start/img/start.png$image
-||dmkt02.point-ad-game.com/assets/images/admin/banner$image
-||dmkt02.point-ad-game.com/assets/images/game/result/twitter_btn_s.png$image
+||dmkt02.point-ad-game.com/assets/images/admin/banner
+||dmkt02.point-ad-game.com/assets/images/game/result/twitter_btn_s.png
 ||static.d.dmkt-sp.jp/template/gamification/img/banner_01.jpg$image
 ad-contents.jp#%#//scriptlet('set-constant', 'setTimer', 'noopFunc')
 billboard.com##.header-wrapper__secondary-header
