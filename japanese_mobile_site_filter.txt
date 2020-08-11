@@ -1,6 +1,6 @@
 ! Title: FaFa Filter
 ! Version: 2020-08-11
-! Last modified: 11 Aug 2020 14:28 JST
+! Last modified: 11 Aug 2020 15:11 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-08-11
 
@@ -26,6 +26,7 @@ kuji.d.dmkt-sp.jp##.sns-block
 kuji.d.dmkt-sp.jp##.sub_title
 kuji.d.dmkt-sp.jp##section.block:nth-child(3)
 life-n.jp##div[class^="ad_area"]
+life-n.jp##div:nth-child(13)
 point-news.jp##div[class^="ad_area"]
 point-news.jp##div:nth-child(9)
 point-news.jp##div:nth-child(10)
