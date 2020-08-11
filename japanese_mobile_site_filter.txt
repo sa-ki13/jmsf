@@ -1,8 +1,8 @@
 ! Title: FaFa Filter
-! Version: 2020-08-10
-! Last modified: 10 Aug 2020 22:53 JST
+! Version: 2020-08-11
+! Last modified: 11 Aug 2020 13:45 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-08-10
+! Last updated: 2020-08-11
 
 @@||d.dmkt-sp.jp/portal^$domain=d.dmkt-sp.jp
 @@||doga.cm^$domain=doga.cm
@@ -15,10 +15,13 @@
 @@||www.googletagmanager.com/gtm.js?id=GTM-5W8NGB8$domain=ponta.jp
 @@||www.pushcode.jp/dist/js/pushcode.js?181010
 ||apl.d.dmkt-sp.jp/sugoroku/start/img/start.png$image
+||dmkt02.point-ad-game.com/assets/images/admin/banner$image
+||dmkt02.point-ad-game.com/assets/images/game/result/twitter_btn_s.png$image
 ||static.d.dmkt-sp.jp/template/gamification/img/banner_01.jpg$image
 ad-contents.jp#%#//scriptlet('set-constant', 'setTimer', 'noopFunc')
 billboard.com##.header-wrapper__secondary-header
 dmkt02.point-ad-game.com##.page_loading
+dmkt02.point-ad-game.com##div.banner:first-child
 kuji.d.dmkt-sp.jp###floating-banner
 kuji.d.dmkt-sp.jp##.sns-block
 kuji.d.dmkt-sp.jp##.sub_title
