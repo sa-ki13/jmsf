@@ -1,14 +1,16 @@
 ! Title: FaFa Filter
-! Version: 2020-08-15
-! Last modified: 15 Aug 2020 23:21 JST
+! Version: 2020-08-16
+! Last modified: 16 Aug 2020 01:56 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-08-15
+! Last updated: 2020-08-16
 
 @@||doga.cm^$domain=doga.cm
 @@||game.hiroba.dpoint.jp/js/ads.js?20200430$domain=game.hiroba.dpoint.jp
 @@||ponta.gesoten.com/js/ads.js?20200430$domain=ponta.gesoten.com
 @@||s.cint.com/favicon.ico$domain=s.cint.com
+@@||trj.valuecommerce.com/vcushion.js
 @@||www.googletagmanager.com/gtm.js?id=GTM-5W8NGB8$domain=ponta.jp
+@@||www.pushcode.jp/dist/js/pushcode.js?181010
 ||apl.d.dmkt-sp.jp/sugoroku/start/img/start.png$image
 ||static.d.dmkt-sp.jp/template/gamification/img/banner_01.jpg$image
 ad-contents.jp#%#//scriptlet('set-constant', 'setTimer', 'noopFunc')
