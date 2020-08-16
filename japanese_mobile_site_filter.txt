@@ -1,9 +1,10 @@
 ! Title: FaFa Filter
 ! Version: 2020-08-16
-! Last modified: 16 Aug 2020 01:56 JST
+! Last modified: 16 Aug 2020 15:02 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-08-16
 
+@@||d.dmkt-sp.jp/portal^$domain=d.dmkt-sp.jp
 @@||doga.cm^$domain=doga.cm
 @@||game.hiroba.dpoint.jp/js/ads.js?20200430$domain=game.hiroba.dpoint.jp
 @@||ponta.gesoten.com/js/ads.js?20200430$domain=ponta.gesoten.com
