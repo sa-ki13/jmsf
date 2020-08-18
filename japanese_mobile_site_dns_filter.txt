@@ -1,6 +1,6 @@
 ! Title: FaFa DNS Filter
 ! Version: 2020-08-18
-! Last modified: 18 Aug 2020 14:36 JST
+! Last modified: 18 Aug 2020 15:31 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-08-18
 
@@ -28,6 +28,7 @@
 @@||recruit.d1.sc.omtrdc.net^
 @@||s.cint.com^
 @@||s9.r-ad.ne.jp^
+@@||secure.insightexpressai.com^
 @@||ssl.google-analytics.com^
 @@||sync.im-apps.net^
 @@||t.afi-b.com^
