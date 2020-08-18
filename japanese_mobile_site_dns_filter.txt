@@ -1,8 +1,8 @@
 ! Title: FaFa DNS Filter
-! Version: 2020-08-17
-! Last modified: 17 Aug 2020 17:59 JST
+! Version: 2020-08-18
+! Last modified: 18 Aug 2020 14:36 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-08-17
+! Last updated: 2020-08-18
 
 @@||ac.ebis.ne.jp^
 @@||ads280dummy.com^
@@ -14,6 +14,7 @@
 @@||cm.g.doubleclick.net^
 @@||d-cache.microad.jp^
 @@||doga.cm^
+@@||dr.r-ad.ne.jp^
 @@||fonts.gstatic.com^
 @@||frtn.socdm.com^
 @@||googleads.g.doubleclick.net^
