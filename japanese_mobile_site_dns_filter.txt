@@ -1,6 +1,6 @@
 ! Title: FaFa DNS Filter
 ! Version: 2020-08-18
-! Last modified: 18 Aug 2020 15:36 JST
+! Last modified: 18 Aug 2020 16:34 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-08-18
 
@@ -9,6 +9,7 @@
 @@||aid.send.microad.jp^
 @@||atrrd.valuecommerce.com^
 @@||cdn.d2-apps.net^
+@@||cdn.insightexpress.com^
 @@||cdn.treasuredata.com^
 @@||ck.jp.ap.valuecommerce.com^
 @@||cm.g.doubleclick.net^
@@ -38,5 +39,6 @@
 @@||trj.valuecommerce.com^
 @@||vcentry3.valuecommerce.ne.jp^
 @@||www.google-analytics.com^
+@@||www.insightexpress.com^
 @@||www.insightexpressai.com^
 @@||www.pushcode.jp^
