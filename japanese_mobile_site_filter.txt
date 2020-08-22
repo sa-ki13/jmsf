@@ -1,6 +1,6 @@
 ! Title: FaFa Filter
 ! Version: 2020-08-22
-! Last modified: 22 Aug 2020 19:19 JST
+! Last modified: 22 Aug 2020 22:36 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-08-22
 
@@ -10,6 +10,7 @@
 @@||doga.cm^$domain=doga.cm
 @@||game.hiroba.dpoint.jp/js/ads.js?20200430$domain=game.hiroba.dpoint.jp
 @@||im-apps.net^$app=jp.ponta.myponta
+@@||image.itmedia.co.jp/images/1x1.gif
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js
 @@||is.accesstrade.net/cgi-bin/isatV2^$domain=h.accesstrade.net
 @@||line.me^$app=jp.naver.line.android
@@ -18,6 +19,7 @@
 @@||s.cint.com/favicon.ico$domain=s.cint.com
 @@||surveys.insightexpressai.com/ix^$domain=surveys.insightexpressai.com
 @@||socdm.com^$app=jp.ponta.myponta
+@@||syndication.twitter.com^$domain=platform.twitter.com
 @@||treasuredata.com^$app=jp.ponta.myponta
 @@||trj.valuecommerce.com/vcushion.js
 @@||www.googletagmanager.com/gtm.js?id=GTM-5W8NGB8$domain=ponta.jp
