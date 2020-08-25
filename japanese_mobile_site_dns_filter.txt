@@ -1,8 +1,8 @@
 ! Title: FaFa DNS Filter
-! Version: 2020-08-19
-! Last modified: 19 Aug 2020 14:27 JST
+! Version: 2020-08-25
+! Last modified: 25 Aug 2020 22:02 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-08-19
+! Last updated: 2020-08-25
 
 @@||ac.ebis.ne.jp^
 @@||ad2.trafficgate.net^
@@ -43,3 +43,6 @@
 @@||www.insightexpress.com^
 @@||www.insightexpressai.com^
 @@||www.pushcode.jp^
+||doubleclick.net^
+||nt.compass-fit.jp^
+||trvdp.com^
