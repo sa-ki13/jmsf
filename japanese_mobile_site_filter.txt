@@ -1,6 +1,6 @@
 ! Title: FaFa Filter
 ! Version: 2020-08-25
-! Last modified: 25 Aug 2020 22:00 JST
+! Last modified: 25 Aug 2020 22:01 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-08-25
 
@@ -26,6 +26,7 @@
 @@||www.pushcode.jp/dist/js/pushcode.js?181010
 ||apl.d.dmkt-sp.jp/sugoroku/start/img/start.png$image
 ||doubleclick.net^
+||nt.compass-fit.jp^
 ||static.d.dmkt-sp.jp/template/gamification/img/banner_01.jpg$image
 ||trvdp.com^
 ad-contents.jp#%#//scriptlet('set-constant', 'setTimer', 'noopFunc')
