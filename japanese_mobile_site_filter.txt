@@ -1,6 +1,6 @@
 ! Title: FaFa Filter
 ! Version: 2020-08-28
-! Last modified: 28 Aug 2020 18:38 JST
+! Last modified: 28 Aug 2020 18:46 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-08-28
 
@@ -11,12 +11,14 @@
 @@||image.itmedia.co.jp/images/1x1.gif
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js
 @@||is.accesstrade.net/cgi-bin/isatV2^$domain=h.accesstrade.net
+@@||points.line.me
 @@||ponta.gesoten.com/js/ads.js?20200430$domain=ponta.gesoten.com
 @@||s.cint.com/favicon.ico$domain=s.cint.com
 @@||surveys.insightexpressai.com/ix^$domain=surveys.insightexpressai.com
 @@||syndication.twitter.com^$domain=platform.twitter.com
 @@||trj.valuecommerce.com/vcushion.js
 @@||video.static.doga.cm/video^$domain=survey-velet.jp
+@@||w.line.me^
 @@||www.googletagmanager.com/gtm.js?id=GTM-5W8NGB8$domain=ponta.jp
 @@||www.pushcode.jp/dist/js/pushcode.js?181010
 ||apl.d.dmkt-sp.jp/sugoroku/start/img/start.png$image
@@ -24,8 +26,6 @@
 ||crs-hometab-event.line.me^
 ||doubleclick.net^
 ||lan.line.me^
-||line.me^$domain=~line.me$badfilter
-||line.me^$domain=~w.line.me|~points.line.me
 ||nt.compass-fit.jp^
 ||static.d.dmkt-sp.jp/template/gamification/img/banner_01.jpg$image
 ||trvdp.com^
