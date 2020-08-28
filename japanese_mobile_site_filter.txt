@@ -1,6 +1,6 @@
 ! Title: FaFa Filter
 ! Version: 2020-08-28
-! Last modified: 28 Aug 2020 16:42 JST
+! Last modified: 28 Aug 2020 18:38 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-08-28
 
@@ -25,6 +25,7 @@
 ||doubleclick.net^
 ||lan.line.me^
 ||line.me^$domain=~line.me$badfilter
+||line.me^$domain=~w.line.me|~points.line.me
 ||nt.compass-fit.jp^
 ||static.d.dmkt-sp.jp/template/gamification/img/banner_01.jpg$image
 ||trvdp.com^
