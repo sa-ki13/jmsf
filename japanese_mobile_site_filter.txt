@@ -24,6 +24,7 @@
 ||crs-hometab-event.line.me^
 ||doubleclick.net^
 ||lan.line.me^
+||line.me^$domain=~line.me$badfilter
 ||nt.compass-fit.jp^
 ||static.d.dmkt-sp.jp/template/gamification/img/banner_01.jpg$image
 ||trvdp.com^
