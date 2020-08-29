@@ -1,15 +1,17 @@
 ! Title: FaFa DNS Filter
-! Version: 2020-08-28
-! Last modified: 28 Aug 2020 23:23 JST
+! Version: 2020-08-29
+! Last modified: 29 Aug 2020 09:53 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-08-28
+! Last updated: 2020-08-29
 
 @@||ad2.trafficgate.net^
 @@||ads280dummy.com^
 @@||cdn.insightexpress.com^
 @@||doga.cm^
 @@||fonts.gstatic.com^
+@@||h.accesstrade.net^
 @@||hb.afl.rakuten.co.jp^
+@@||is.accesstrade.net^
 @@||pt.afl.rakuten.co.jp^
 @@||qps.cint.com^
 @@||s.cint.com^
