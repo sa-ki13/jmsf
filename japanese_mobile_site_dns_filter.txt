@@ -1,8 +1,8 @@
 ! Title: FaFa DNS Filter
-! Version: 2020-08-30
-! Last modified: 30 Aug 2020 16:52 JST
+! Version: 2020-09-01
+! Last modified: 01 Sep 2020 23:22 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-08-30
+! Last updated: 2020-09-01
 
 @@||ac.ebis.ne.jp^
 @@||ad.one-cats.com^
@@ -11,6 +11,7 @@
 @@||ads280dummy.com^
 @@||cdn.insightexpress.com^
 @@||doga.cm^
+@@||dr.r-ad.ne.jp^
 @@||fonts.gstatic.com^
 @@||h.accesstrade.net^
 @@||hb.afl.rakuten.co.jp^
@@ -18,6 +19,7 @@
 @@||pt.afl.rakuten.co.jp^
 @@||qps.cint.com^
 @@||s.cint.com^
+@@||s9.r-ad.ne.jp^
 @@||secure.insightexpressai.com^
 @@||surveys.insightexpressai.com^
 @@||t.afi-b.com^
