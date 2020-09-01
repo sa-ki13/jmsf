@@ -1,8 +1,8 @@
 ! Title: FaFa Filter
-! Version: 2020-08-29
-! Last modified: 29 Aug 2020 16:07 JST
+! Version: 2020-09-01
+! Last modified: 01 Sep 2020 11:39 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-08-29
+! Last updated: 2020-09-01
 
 @@||cdn.insightexpress.com/ix/js^
 @@||doga.cm^$domain=doga.cm
@@ -12,6 +12,7 @@
 @@||is.accesstrade.net/cgi-bin/isatV2^$domain=h.accesstrade.net
 @@||ponta.gesoten.com/js/ads.js?20200430$domain=ponta.gesoten.com
 @@||s.cint.com/favicon.ico$domain=s.cint.com
+@@||secure.surveymonkey.com/assets/responseweb^
 @@||surveys.insightexpressai.com/ix^$domain=surveys.insightexpressai.com
 @@||syndication.twitter.com^$domain=platform.twitter.com
 @@||trj.valuecommerce.com/vcushion.js
