@@ -1,8 +1,8 @@
 ! Title: FaFa Filter
-! Version: 2020-09-08
-! Last modified: 08 Sep 2020 23:11 JST
+! Version: 2020-09-11
+! Last modified: 11 Sep 2020 14:51 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-09-08
+! Last updated: 2020-09-11
 
 @@||cdn.insightexpress.com/ix/js^
 @@||doga.cm^$domain=doga.cm
@@ -20,11 +20,7 @@
 @@||www.googletagmanager.com/gtm.js?id=GTM-5W8NGB8$domain=ponta.jp
 @@||www.pushcode.jp/dist/js/pushcode.js?181010
 ||apl.d.dmkt-sp.jp/sugoroku/start/img/start.png$image
-||crs-event.line.me^
-||crs-hometab-event.line.me^
 ||doubleclick.net^
-||lan.line.me^
-||line.me^$domain=~line.me$badfilter
 ||nt.compass-fit.jp^
 ||static.d.dmkt-sp.jp/template/gamification/img/banner_01.jpg$image
 ||trvdp.com^
