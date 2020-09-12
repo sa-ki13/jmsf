@@ -1,16 +1,22 @@
 ! Title: FaFa DNS Filter
-! Version: 2020-09-11
-! Last modified: 11 Sep 2020 14:51 JST
+! Version: 2020-09-12
+! Last modified: 12 Sep 2020 14:04 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-09-11
+! Last updated: 2020-09-12
 
+@@||a8.lens-labo.com^
+@@||a8clk.cv.geechs-job.com^
+@@||a8cv.bellcosme.com^
+@@||a8cv.bettysbeauty.jp^
 @@||ac.ebis.ne.jp^
 @@||ad.one-cats.com^
 @@||ad.atown.jp^
 @@||ad2.trafficgate.net^
 @@||ads280dummy.com^
 @@||af.tosho-trading.co.jp^
+@@||atrrd.valuecommerce.com^
 @@||cdn.insightexpress.com^
+@@||ck.jp.ap.valuecommerce.com^
 @@||click.j-a-net.jp^
 @@||doga.cm^
 @@||dr.r-ad.ne.jp^
@@ -18,14 +24,18 @@
 @@||h.accesstrade.net^
 @@||hb.afl.rakuten.co.jp^
 @@||is.accesstrade.net^
+@@||itrack3.valuecommerce.ne.jp^
 @@||pt.afl.rakuten.co.jp^
+@@||px.a8.net^
 @@||qps.cint.com^
 @@||s.cint.com^
 @@||s9.r-ad.ne.jp^
 @@||secure.insightexpressai.com^
+@@||sp.accesstrade.net^
 @@||surveys.insightexpressai.com^
 @@||t.afi-b.com^
 @@||tohoku.ad.at.nttdocomo.co.jp^
+@@||vcentry3.valuecommerce.ne.jp^
 @@||www.insightexpress.com^
 @@||www.insightexpressai.com^
 @@||www.pushcode.jp^
