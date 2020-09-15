@@ -1,8 +1,8 @@
 ! Title: FaFa DNS Filter
-! Version: 2020-09-12
-! Last modified: 12 Sep 2020 14:04 JST
+! Version: 2020-09-15
+! Last modified: 15 Sep 2020 10:12 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-09-12
+! Last updated: 2020-09-15
 
 @@||a8.lens-labo.com^
 @@||a8clk.cv.geechs-job.com^
@@ -34,6 +34,7 @@
 @@||sp.accesstrade.net^
 @@||surveys.insightexpressai.com^
 @@||t.afi-b.com^
+@@||tags.tiqcdn.com^
 @@||tohoku.ad.at.nttdocomo.co.jp^
 @@||vcentry3.valuecommerce.ne.jp^
 @@||www.insightexpress.com^
