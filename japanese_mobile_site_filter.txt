@@ -1,15 +1,17 @@
 ! Title: FaFa Filter
-! Version: 2020-09-13
-! Last modified: 13 Sep 2020 12:04 JST
+! Version: 2020-09-19
+! Last modified: 19 Sep 2020 17:39 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-09-13
+! Last updated: 2020-09-19
 
+@@||api.line.me^$app=jp.naver.line.android
 @@||cdn.insightexpress.com/ix/js^
 @@||doga.cm^$domain=doga.cm
 @@||game.hiroba.dpoint.jp/js/ads.js?20200430$domain=game.hiroba.dpoint.jp
 @@||image.itmedia.co.jp/images/1x1.gif
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js
 @@||is.accesstrade.net/cgi-bin/isatV2^$domain=h.accesstrade.net
+@@||points.line.me^$app=jp.naver.line.android
 @@||ponta.gesoten.com/js/ads.js?20200430$domain=ponta.gesoten.com
 @@||s.cint.com/favicon.ico$domain=s.cint.com
 @@||secure.surveymonkey.com/assets/responseweb^
@@ -17,6 +19,7 @@
 @@||syndication.twitter.com^$domain=platform.twitter.com
 @@||trj.valuecommerce.com/vcushion.js
 @@||video.static.doga.cm/video^$domain=survey-velet.jp
+@@||www.google-analytics.com^$app=jp.co.matsukiyo.app
 @@||www.googletagmanager.com/gtm.js?id=GTM-5W8NGB8$domain=ponta.jp
 @@||www.pushcode.jp/dist/js/pushcode.js?181010
 ||apl.d.dmkt-sp.jp/sugoroku/start/img/start.png$image
