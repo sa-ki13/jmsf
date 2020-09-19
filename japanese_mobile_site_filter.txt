@@ -1,6 +1,6 @@
 ! Title: FaFa Filter
 ! Version: 2020-09-19
-! Last modified: 19 Sep 2020 19:39 JST
+! Last modified: 19 Sep 2020 21:17 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-09-19
 
@@ -14,6 +14,7 @@
 @@||points.line.me^$app=jp.naver.line.android
 @@||ponta.gesoten.com/js/ads.js?20200430$domain=ponta.gesoten.com
 @@||s.cint.com/favicon.ico$domain=s.cint.com
+@@||search.line.me^$app=jp.naver.line.android
 @@||secure.surveymonkey.com/assets/responseweb^
 @@||social-plugins.line.me^$app=jp.co.lawson.android
 @@||surveys.insightexpressai.com/ix^$domain=surveys.insightexpressai.com
