@@ -1,9 +1,10 @@
 ! Title: FaFa Filter
-! Version: 2020-09-21
-! Last modified: 21 Sep 2020 14:48 JST
+! Version: 2020-09-22
+! Last modified: 22 Sep 2020 01:34 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-09-21
+! Last updated: 2020-09-22
 
+@@||access.line.me^$app=jp.naver.line.android
 @@||api.line.me^$app=jp.naver.line.android
 @@||cdn.insightexpress.com/ix/js^
 @@||doga.cm^$domain=doga.cm
@@ -14,6 +15,7 @@
 @@||points.line.me^$app=jp.naver.line.android
 @@||ponta.gesoten.com/js/ads.js?20200430$domain=ponta.gesoten.com
 @@||reaction.line.me^$app=jp.naver.line.android
+@@||reward.line.me^$app=jp.naver.line.android
 @@||s.cint.com/favicon.ico$domain=s.cint.com
 @@||search.line.me^$app=jp.naver.line.android
 @@||secure.surveymonkey.com/assets/responseweb^
