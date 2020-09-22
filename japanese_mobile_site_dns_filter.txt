@@ -1,6 +1,6 @@
 ! Title: FaFa DNS Filter
 ! Version: 2020-09-22
-! Last modified: 22 Sep 2020 20:51 JST
+! Last modified: 22 Sep 2020 20:54 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-09-22
 
@@ -51,3 +51,4 @@
 ||nt.compass-fit.jp^
 ||tr.line.me^
 ||trvdp.com^
+||yuki-cdn.line-apps.com^
