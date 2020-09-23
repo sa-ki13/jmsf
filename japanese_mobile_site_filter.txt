@@ -1,12 +1,13 @@
 ! Title: FaFa Filter
-! Version: 2020-09-22
-! Last modified: 22 Sep 2020 21:56 JST
+! Version: 2020-09-23
+! Last modified: 23 Sep 2020 16:31 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-09-22
+! Last updated: 2020-09-23
 
 @@||access.line.me^$app=jp.naver.line.android
 @@||api.line.me^$app=jp.naver.line.android
 @@||cdn.insightexpress.com/ix/js^
+@@||chirashi.line.me^$app=jp.naver.line.android
 @@||doga.cm^$domain=doga.cm
 @@||game.hiroba.dpoint.jp/js/ads.js?20200430$domain=game.hiroba.dpoint.jp
 @@||image.itmedia.co.jp/images/1x1.gif
