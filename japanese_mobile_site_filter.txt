@@ -1,6 +1,6 @@
 ! Title: FaFa Filter
 ! Version: 2020-09-23
-! Last modified: 23 Sep 2020 16:31 JST
+! Last modified: 23 Sep 2020 16:34 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-09-23
 
@@ -25,6 +25,7 @@
 @@||syndication.twitter.com^$domain=platform.twitter.com
 @@||trj.valuecommerce.com/vcushion.js
 @@||video.static.doga.cm/video^$domain=survey-velet.jp
+@@||web-ec.line.me^$app=jp.naver.line.android
 @@||www.google-analytics.com^$app=jp.co.lawson.android|jp.co.matsukiyo.app
 @@||www.googletagmanager.com/gtm.js?id=GTM-5W8NGB8$domain=ponta.jp
 @@||www.pushcode.jp/dist/js/pushcode.js?181010
