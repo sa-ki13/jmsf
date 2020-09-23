@@ -1,8 +1,8 @@
 ! Title: FaFa DNS Filter
-! Version: 2020-09-22
-! Last modified: 22 Sep 2020 21:56 JST
+! Version: 2020-09-23
+! Last modified: 23 Sep 2020 16:43 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-09-22
+! Last updated: 2020-09-23
 
 @@||a8.lens-labo.com^
 @@||a8clk.cv.geechs-job.com^
@@ -55,5 +55,4 @@
 ||tr.line.me^
 ||trvdp.com^
 ||uts-front.line-apps.com^
-||vos.line-scdn.net^
 ||yuki-cdn.line-apps.com^
