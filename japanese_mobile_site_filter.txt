@@ -1,8 +1,8 @@
 ! Title: FaFa Filter
-! Version: 2020-09-23
-! Last modified: 23 Sep 2020 16:54 JST
+! Version: 2020-09-24
+! Last modified: 24 Sep 2020 16:28 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-09-23
+! Last updated: 2020-09-24
 
 @@||access.line.me^$app=jp.naver.line.android
 @@||api.line.me^$app=jp.naver.line.android
@@ -22,6 +22,7 @@
 @@||search.line.me^$app=jp.naver.line.android
 @@||secure.surveymonkey.com/assets/responseweb^
 @@||social-plugins.line.me^$app=jp.co.lawson.android
+@@||square-api.line.me^$app=jp.naver.line.android
 @@||surveys.insightexpressai.com/ix^$domain=surveys.insightexpressai.com
 @@||syndication.twitter.com^$domain=platform.twitter.com
 @@||trj.valuecommerce.com/vcushion.js
