@@ -1,6 +1,6 @@
 ! Title: FaFa Filter
 ! Version: 2020-09-26
-! Last modified: 26 Sep 2020 15:51 JST
+! Last modified: 26 Sep 2020 22:55 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-09-26
 
@@ -17,6 +17,7 @@
 @@||ponta.gesoten.com/js/ads.js?20200430$domain=ponta.gesoten.com
 @@||reaction.line.me^$app=jp.naver.line.android
 @@||reward.line.me^$app=jp.naver.line.android
+@@||router.cint.com^$domain=router.cint.com
 @@||s.cint.com/favicon.ico$domain=s.cint.com
 @@||scdn.cxense.com^$app=jp.co.lawson.android
 @@||score.line.me^$app=jp.naver.line.android
