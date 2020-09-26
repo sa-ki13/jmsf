@@ -1,8 +1,8 @@
 ! Title: FaFa Filter
-! Version: 2020-09-25
-! Last modified: 25 Sep 2020 15:19 JST
+! Version: 2020-09-26
+! Last modified: 26 Sep 2020 10:42 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-09-25
+! Last updated: 2020-09-26
 
 @@||access.line.me^$app=jp.naver.line.android
 @@||api.line.me^$app=jp.naver.line.android
@@ -37,10 +37,15 @@
 ||ci.line-apps.com^
 ||cix.line-apps.com^
 ||doubleclick.net^
+||maps.googleapis.com^$app=jp.naver.line.android
 ||nt.compass-fit.jp^
+||polyfill.io^
+||s.yimg.jp^$app=jp.naver.line.android
+||search.pstatic.net^
 ||static.d.dmkt-sp.jp/template/gamification/img/banner_01.jpg$image
 ||trvdp.com^
 ||uts-front.line-apps.com^
+||www.googletagmanager.com^$app=jp.naver.line.android
 ||yuki-cdn.line-apps.com^
 ad-contents.jp#%#//scriptlet('set-constant', 'setTimer', 'noopFunc')
 billboard.com##.header-wrapper__secondary-header
