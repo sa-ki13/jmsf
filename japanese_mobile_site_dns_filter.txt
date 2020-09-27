@@ -1,8 +1,8 @@
 ! Title: FaFa DNS Filter
-! Version: 2020-09-26
-! Last modified: 26 Sep 2020 13:08 JST
+! Version: 2020-09-27
+! Last modified: 27 Sep 2020 11:51 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-09-26
+! Last updated: 2020-09-27
 
 @@||a8.lens-labo.com^
 @@||a8clk.cv.geechs-job.com^
@@ -26,6 +26,7 @@
 @@||hb.afl.rakuten.co.jp^
 @@||is.accesstrade.net^
 @@||itrack3.valuecommerce.ne.jp^
+@@||mymagazine.onelink.me^
 @@||pt.afl.rakuten.co.jp^
 @@||px.a8.net^
 @@||qps.cint.com^
