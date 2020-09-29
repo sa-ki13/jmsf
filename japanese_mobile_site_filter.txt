@@ -1,6 +1,6 @@
 ! Title: FaFa Filter
 ! Version: 2020-09-29
-! Last modified: 29 Sep 2020 11:27 JST
+! Last modified: 29 Sep 2020 12:52 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-09-29
 
@@ -45,7 +45,6 @@
 ||nt.compass-fit.jp^
 ||polyfill.io^
 ||s.yimg.jp^$app=jp.naver.line.android
-||search.pstatic.net^
 ||static.d.dmkt-sp.jp/template/gamification/img/banner_01.jpg$image
 ||trvdp.com^
 ||uts-front.line-apps.com^
