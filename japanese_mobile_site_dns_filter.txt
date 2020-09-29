@@ -1,8 +1,8 @@
 ! Title: FaFa DNS Filter
-! Version: 2020-09-27
-! Last modified: 27 Sep 2020 23:01 JST
+! Version: 2020-09-29
+! Last modified: 29 Sep 2020 11:28 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-09-27
+! Last updated: 2020-09-29
 
 @@||a8.lens-labo.com^
 @@||a8clk.cv.geechs-job.com^
@@ -57,6 +57,8 @@
 ||doubleclick.net^
 ||fonts.googleapis.com^
 ||lan.line.me^
+||liff.line.me^
+||lin.ee^
 ||nt.compass-fit.jp^
 ||polyfill.io^
 ||search.pstatic.net^
