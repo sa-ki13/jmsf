@@ -1,8 +1,8 @@
 ! Title: FaFa Filter
-! Version: 2020-09-27
-! Last modified: 27 Sep 2020 23:00 JST
+! Version: 2020-09-29
+! Last modified: 29 Sep 2020 11:27 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-09-27
+! Last updated: 2020-09-29
 
 @@||access.line.me^$app=jp.naver.line.android
 @@||api.line.me^$app=jp.naver.line.android
@@ -41,6 +41,7 @@
 ||cix.line-apps.com^
 ||doubleclick.net^
 ||fonts.googleapis.com^
+||lin.ee^
 ||nt.compass-fit.jp^
 ||polyfill.io^
 ||s.yimg.jp^$app=jp.naver.line.android
