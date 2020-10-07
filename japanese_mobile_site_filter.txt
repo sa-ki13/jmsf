@@ -1,8 +1,8 @@
 ! Title: FaFa Filter
-! Version: 2020-10-01
-! Last modified: 01 Oct 2020 14:48 JST
+! Version: 2020-10-07
+! Last modified: 07 Oct 2020 23:08 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-10-01
+! Last updated: 2020-10-07
 
 @@||access.line.me^$app=jp.naver.line.android
 @@||api.line.me^$app=jp.naver.line.android
@@ -37,7 +37,6 @@
 @@||www.googletagmanager.com/gtm.js?id=GTM-5W8NGB8$domain=ponta.jp
 @@||www.pushcode.jp/dist/js/pushcode.js?181010
 ||apl.d.dmkt-sp.jp/sugoroku/start/img/start.png$image
-||chirashi-service-static.line-scdn.net^
 ||ci.line-apps.com^
 ||cix.line-apps.com^
 ||doubleclick.net^
