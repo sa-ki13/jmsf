@@ -1,8 +1,8 @@
 ! Title: FaFa Filter
-! Version: 2020-10-07
-! Last modified: 07 Oct 2020 23:08 JST
+! Version: 2020-10-09
+! Last modified: 09 Oct 2020 12:28 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-10-07
+! Last updated: 2020-10-09
 
 @@||game.hiroba.dpoint.jp/js/ads.js?20200430$domain=game.hiroba.dpoint.jp
 @@||www.google-analytics.com^$app=jp.co.matsukiyo.app
