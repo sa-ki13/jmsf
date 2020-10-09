@@ -5,6 +5,7 @@
 ! Last updated: 2020-10-09
 
 @@||game.hiroba.dpoint.jp/js/ads.js?20200430$domain=game.hiroba.dpoint.jp
+@@||syndication.twitter.com^$domain=platform.twitter.com
 @@||www.google-analytics.com^$app=jp.co.matsukiyo.app
 @@||www.pushcode.jp/dist/js/pushcode.js?181010
 ||line.me^$domain=~line.me,badfilter
