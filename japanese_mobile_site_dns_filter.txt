@@ -1,12 +1,13 @@
 ! Title: FaFa DNS Filter
-! Version: 2020-10-10
-! Last modified: 10 Oct 2020 22:34 JST
+! Version: 2020-10-11
+! Last modified: 11 Oct 2020 21:08 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-10-10
+! Last updated: 2020-10-11
 
 @@||ac.ebis.ne.jp^
 @@||ads280dummy.com^
 @@||atib.cdn.msgs.jp^
 @@||atib.f.msgs.jp^
+@@||tohoku.ad.at.nttdocomo.co.jp^
 @@||www.google-analytics.com^
 @@||www.pushcode.jp^
