@@ -1,12 +1,13 @@
 ! Title: FaFa Filter
 ! Version: 2020-10-12
-! Last modified: 12 Oct 2020 14:20 JST
+! Last modified: 12 Oct 2020 23:26 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-10-12
 
 @@||game.hiroba.dpoint.jp/js/ads.js?20200430$domain=game.hiroba.dpoint.jp
 @@||image.itmedia.co.jp/images/1x1.gif
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js
+@@||point.i2i.jp^$domain=point.i2i.jp
 @@||www.google-analytics.com^$app=jp.co.lawson.android|jp.co.matsukiyo.app
 @@||www.pushcode.jp/dist/js/pushcode.js?181010
 ||line.me^$domain=~line.me,badfilter
