@@ -1,8 +1,8 @@
 ! Title: FaFa DNS Filter
-! Version: 2020-10-16
-! Last modified: 16 Oct 2020 17:17 JST
+! Version: 2020-10-21
+! Last modified: 21 Oct 2020 16:48 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-10-16
+! Last updated: 2020-10-21
 
 @@||a.popin.cc^
 @@||ac.ebis.ne.jp^
@@ -11,11 +11,15 @@
 @@||ads280dummy.com^
 @@||atib.cdn.msgs.jp^
 @@||atib.f.msgs.jp^
+@@||atrrd.valuecommerce.com^
+@@||ck.jp.ap.valuecommerce.com^
 @@||click.j-a-net.jp^
 @@||fonts.gstatic.com^
 @@||mymagazine.onelink.me^
 @@||point.i2i.jp^
 @@||tohoku.ad.at.nttdocomo.co.jp^
+@@||vccv.bettysbeauty.jp^
+@@||vcentry3.valuecommerce.ne.jp^
 @@||www.cross-a.net^
 @@||www.google-analytics.com^
 @@||www.pushcode.jp^
