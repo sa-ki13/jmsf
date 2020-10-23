@@ -1,12 +1,13 @@
 ! Title: FaFa DNS Filter
 ! Version: 2020-10-23
-! Last modified: 23 Oct 2020 17:20 JST
+! Last modified: 23 Oct 2020 17:28 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-10-23
 
 @@||a.popin.cc^
 @@||a8.geo-online.co.jp^
 @@||a8.lens-labo.com^
+@@||a8clk.cv.geechs-job.com^
 @@||a8cv.bellcosme.com^
 @@||a8cv.bettysbeauty.jp^
 @@||ac.ebis.ne.jp^
