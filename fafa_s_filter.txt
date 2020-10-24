@@ -1,15 +1,19 @@
 ! Title: FaFa S Filter
 ! Version: 2020-10-24
-! Last modified: 24 Oct 2020 20:18 JST
+! Last modified: 24 Oct 2020 20:36 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-10-24
 
 /affiliation/*
 /common/analytics.js
 /customGTM?
+/fingerprint2.min.js^
 /gaEventTracking.
 /libs/tracker.js
+/log.gif?
+/m.gif?
 ||2o7.net^
+||a.o2u.jp^
 ||a-cast.jp^
 ||a8.net^$third-party
 ||adnwif.smt.docomo.ne.jp^
@@ -22,6 +26,7 @@
 ||b92.yahoo.co.jp^
 ||b97.yahoo.co.jp^
 ||cdp.cloud.unity3d.com^
+||cinarra.com^
 ||collect.igodigital.com^$third-party
 ||collector.githubapp.com^
 ||config.uca.cloud.unity3d.com^
@@ -29,24 +34,40 @@
 ||crashlytics.com^
 ||creatives.gunosy.com^
 ||d.line-scdn.net^$third-party
+||d2-apps.net^$third-party
 ||d2c.ne.jp^
 ||doubleclick.net^
 ||ds-aksb-a.akamaihd.net^
+||eco-tag.jp^
 ||google-analytics.com/analytics.js$script,redirect=google-analytics_analytics.js
 ||googletagmanager.com/gtm.js$script,redirect=googletagmanager_gtm.js
+||gsspat.jp^
 ||gvt2.com^
+||insightexpressai.com^$third-party
 ||js.rtoaster.jp^
 ||kochava.com^
+||ladsp.com^
 ||launches.appsflyer.com^
 ||logly.co.jp^
 ||marsflag.com^$third-party
 ||metrics.brightcove.com^
+||microad.jp^$third-party
 ||mobylog.jp^
+||mookie1.com^$third-party
+||newrelic.com^
+||pixel.tapad.com^
+||r-ad.ne.jp^$third-party
+||rs.adapf.com^
 ||rt.rtoaster.jp^
+||s.cint.com^
 ||s.yimg.jp/images/listing/tool/cv/conversion.js
 ||s.yjtag.jp^
+||socdm.com^
 ||ssl.google-analytics.com^
+||sync.im-apps.com^
 ||t.karte.io^
+||taj1.ebis.ne.jp^
+||taj2.ebis.ne.jp^
 ||treasuredata.com^
 ||valuecommerce.com^
 ||valuecommerce.ne.jp^
