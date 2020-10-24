@@ -1,6 +1,6 @@
 ! Title: FaFa S Filter
 ! Version: 2020-10-24
-! Last modified: 24 Oct 2020 16:51 JST
+! Last modified: 24 Oct 2020 17:07 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-10-24
 
@@ -13,6 +13,7 @@
 ||api-analytics-bootstrap.metaps.com^
 ||app-measurement.com^
 ||cdp.cloud.unity3d.com^
+||collect.igodigital.com^$third-party
 ||collector.githubapp.com^
 ||config.uca.cloud.unity3d.com^
 ||crashlytics.com^
