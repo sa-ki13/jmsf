@@ -5,6 +5,7 @@
 ! Last updated: 2020-10-24
 
 /common/analytics.js
+$$link[rel="manifest"]
 ||api.github.com/_private/browser/stats
 ||app-measurement.com^
 ||gvt2.com^
