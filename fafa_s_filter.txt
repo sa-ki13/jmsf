@@ -1,6 +1,6 @@
 ! Title: FaFa S Filter
 ! Version: 2020-10-24
-! Last modified: 24 Oct 2020 17:10 JST
+! Last modified: 24 Oct 2020 17:47 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-10-24
 
@@ -11,6 +11,7 @@
 /libs/tracker.js
 ||2o7.net^
 ||a8.net^$third-party
+||adnwif.smt.docomo.ne.jp^
 ||adservice.google.com^
 ||api.github.com/_private/browser/stats
 ||api-analytics.metaps.com^
@@ -24,7 +25,9 @@
 ||config.uca.cloud.unity3d.com^
 ||connect.facebook.net/en_US/fbevents.js
 ||crashlytics.com^
+||creatives.gunosy.com^
 ||d.line-scdn.net^$third-party
+||d2c.ne.jp^
 ||doubleclick.net^
 ||ds-aksb-a.akamaihd.net^
 ||google-analytics.com/analytics.js$script,redirect=google-analytics_analytics.js
@@ -33,6 +36,7 @@
 ||js.rtoaster.jp^
 ||kochava.com^
 ||launches.appsflyer.com^
+||logly.co.jp^
 ||marsflag.com^$third-party
 ||metrics.brightcove.com^
 ||mobylog.jp^
