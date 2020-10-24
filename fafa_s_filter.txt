@@ -1,9 +1,10 @@
 ! Title: FaFa S Filter
 ! Version: 2020-10-24
-! Last modified: 24 Oct 2020 13:35 JST
+! Last modified: 24 Oct 2020 13:38 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-10-24
 
+/common/analytics.js
 dmkt02.point-ad-game.com##.page_loading
 dmkt02.point-ad-game.com##.tw-button-s	
 dmkt02.point-ad-game.com##div.banner:first-child	
