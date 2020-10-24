@@ -5,6 +5,9 @@
 ! Last updated: 2020-10-24
 
 ||2o7.net^
+||adservice.google.com^
+||api-analytics.metaps.com^
+||api-analytics-bootstrap.metaps.com^
 ||app-measurement.com^
 ||cdp.cloud.unity3d.com^
 ||collector.githubapp.com^
@@ -12,6 +15,7 @@
 ||crashlytics.com^
 ||doubleclick.net^
 ||gvt2.com^
+||kochava.com^
 ||metrics.brightcove.com^
 ||t.karte.io^
 ||ssl.google-analytics.com^
