@@ -1,6 +1,6 @@
 ! Title: FaFa S DNS Filter
 ! Version: 2020-10-24
-! Last modified: 24 Oct 2020 17:54 JST
+! Last modified: 24 Oct 2020 20:19 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-10-24
 
@@ -30,5 +30,7 @@
 ||mobylog.jp^
 ||rt.rtoaster.jp^
 ||s.yjtag.jp^
-||t.karte.io^
 ||ssl.google-analytics.com^
+||t.karte.io^
+||treasuredata.com^
+
