@@ -1,12 +1,13 @@
 ! Title: FaFa S Filter
 ! Version: 2020-10-24
-! Last modified: 24 Oct 2020 15:06 JST
+! Last modified: 24 Oct 2020 16:47 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-10-24
 
 /common/analytics.js
 ||api.github.com/_private/browser/stats
 ||app-measurement.com^
+||cdp.cloud.unity3d.com^
 ||collector.githubapp.com^
 ||config.uca.cloud.unity3d.com^
 ||crashlytics.com^
