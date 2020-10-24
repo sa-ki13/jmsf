@@ -5,7 +5,6 @@
 ! Last updated: 2020-10-24
 
 /common/analytics.js
-$$link[rel="manifest"]
 ||api.github.com/_private/browser/stats
 ||app-measurement.com^
 ||collector.githubapp.com^
@@ -13,10 +12,11 @@ $$link[rel="manifest"]
 ||gvt2.com^
 ||marsflag.com^$third-party
 ||ssl.google-analytics.com^
+$$link[rel="manifest"]
 dmkt02.point-ad-game.com##.page_loading
-dmkt02.point-ad-game.com##.tw-button-s	
-dmkt02.point-ad-game.com##div.banner:first-child	
+dmkt02.point-ad-game.com##.tw-button-s
+dmkt02.point-ad-game.com##div.banner:first-child
+kuji.d.dmkt-sp.jp##.sns-block
+kuji.d.dmkt-sp.jp##.sub_title
 kuji.d.dmkt-sp.jp###floating-banner
-kuji.d.dmkt-sp.jp##.sns-block	
-kuji.d.dmkt-sp.jp##.sub_title	
 kuji.d.dmkt-sp.jp##section.block:nth-child(3)
