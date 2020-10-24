@@ -1,6 +1,6 @@
 ! Title: FaFa S Filter
 ! Version: 2020-10-24
-! Last modified: 24 Oct 2020 17:55 JST
+! Last modified: 24 Oct 2020 20:15 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-10-24
 
@@ -17,6 +17,7 @@
 ||api.github.com/_private/browser/stats
 ||api-analytics.metaps.com^
 ||api-analytics-bootstrap.metaps.com^
+||app.adjust.com^
 ||app-measurement.com^
 ||b92.yahoo.co.jp^
 ||b97.yahoo.co.jp^
