@@ -8,6 +8,7 @@
 $$link[rel="manifest"]
 ||api.github.com/_private/browser/stats
 ||app-measurement.com^
+||collector.githubapp.com^
 ||gvt2.com^
 ||marsflag.com^$third-party
 dmkt02.point-ad-game.com##.page_loading
