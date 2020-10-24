@@ -1,10 +1,11 @@
 ! Title: FaFa S DNS Filter
 ! Version: 2020-10-24
-! Last modified: 24 Oct 2020 20:19 JST
+! Last modified: 24 Oct 2020 20:35 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-10-24
 
 ||2o7.net^
+||a.o2u.jp^
 ||a-cast.jp^
 ||adnwif.smt.docomo.ne.jp^
 ||adservice.google.com^
@@ -14,6 +15,7 @@
 ||b92.yahoo.co.jp^
 ||b97.yahoo.co.jp^
 ||cdp.cloud.unity3d.com^
+||cinarra.com^
 ||collector.githubapp.com^
 ||config.uca.cloud.unity3d.com^
 ||crashlytics.com^
@@ -22,15 +24,25 @@
 ||d2c.ne.jp^
 ||doubleclick.net^
 ||ds-aksb-a.akamaihd.net^
+||eco-tag.jp^
+||gsspat.jp^
 ||gvt2.com^
 ||js.rtoaster.jp^
 ||kochava.com^
+||ladsp.com^
 ||logly.co.jp^
 ||metrics.brightcove.com^
 ||mobylog.jp^
+||newrelic.com^
+||pixel.tapad.com^
+||rs.adapf.com^
 ||rt.rtoaster.jp^
 ||s.yjtag.jp^
+||socdm.com^
 ||ssl.google-analytics.com^
+||sync.im-apps.com^
 ||t.karte.io^
+||taj1.ebis.ne.jp^
+||taj2.ebis.ne.jp^
 ||treasuredata.com^
 
