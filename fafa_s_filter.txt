@@ -19,6 +19,7 @@
 ||config.uca.cloud.unity3d.com^
 ||crashlytics.com^
 ||doubleclick.net^
+||google-analytics.com/analytics.js$script,redirect=google-analytics_analytics.js
 ||googletagmanager.com/gtm.js$script,redirect=googletagmanager_gtm.js
 ||gvt2.com^
 ||kochava.com^
