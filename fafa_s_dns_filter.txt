@@ -1,10 +1,11 @@
 ! Title: FaFa S DNS Filter
 ! Version: 2020-10-24
-! Last modified: 24 Oct 2020 16:52 JST
+! Last modified: 24 Oct 2020 17:48 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-10-24
 
 ||2o7.net^
+||adnwif.smt.docomo.ne.jp^
 ||adservice.google.com^
 ||api-analytics.metaps.com^
 ||api-analytics-bootstrap.metaps.com^
@@ -15,12 +16,15 @@
 ||collector.githubapp.com^
 ||config.uca.cloud.unity3d.com^
 ||crashlytics.com^
+||creatives.gunosy.com^
 ||d.line-scdn.net^$third-party
+||d2c.ne.jp^
 ||doubleclick.net^
 ||ds-aksb-a.akamaihd.net^
 ||gvt2.com^
 ||js.rtoaster.jp^
 ||kochava.com^
+||logly.co.jp^
 ||metrics.brightcove.com^
 ||mobylog.jp^
 ||rt.rtoaster.jp^
