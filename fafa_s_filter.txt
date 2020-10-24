@@ -1,11 +1,12 @@
 ! Title: FaFa S Filter
 ! Version: 2020-10-24
-! Last modified: 24 Oct 2020 17:07 JST
+! Last modified: 24 Oct 2020 17:08 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-10-24
 
 /affiliation/*
 /common/analytics.js
+/gaEventTracking.
 ||2o7.net^
 ||adservice.google.com^
 ||api.github.com/_private/browser/stats
