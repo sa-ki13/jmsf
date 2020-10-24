@@ -1,7 +1,8 @@
 ! Title: FaFa S DNS Filter
 ! Version: 2020-10-24
-! Last modified: 24 Oct 2020 13:39 JST
+! Last modified: 24 Oct 2020 13:41 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-10-24
 
+||app-measurement.com^
 ||gvt2.com^
