@@ -1,10 +1,11 @@
 ! Title: FaFa S Filter
 ! Version: 2020-10-24
-! Last modified: 24 Oct 2020 13:39 JST
+! Last modified: 24 Oct 2020 13:42 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-10-24
 
 /common/analytics.js
+||api.github.com/_private/browser/stats
 ||app-measurement.com^
 ||gvt2.com^
 ||marsflag.com^$third-party
