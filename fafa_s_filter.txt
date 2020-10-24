@@ -6,6 +6,7 @@
 
 /common/analytics.js
 ||gvt2.com^
+||marsflag.com^$third-party
 dmkt02.point-ad-game.com##.page_loading
 dmkt02.point-ad-game.com##.tw-button-s	
 dmkt02.point-ad-game.com##div.banner:first-child	
