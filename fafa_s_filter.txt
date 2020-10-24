@@ -7,7 +7,10 @@
 /affiliation/*
 /common/analytics.js
 ||2o7.net^
+||adservice.google.com^
 ||api.github.com/_private/browser/stats
+||api-analytics.metaps.com^
+||api-analytics-bootstrap.metaps.com^
 ||app-measurement.com^
 ||cdp.cloud.unity3d.com^
 ||collector.githubapp.com^
@@ -15,6 +18,7 @@
 ||crashlytics.com^
 ||doubleclick.net^
 ||gvt2.com^
+||kochava.com^
 ||launches.appsflyer.com^
 ||marsflag.com^$third-party
 ||metrics.brightcove.com^
