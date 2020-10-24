@@ -4,6 +4,7 @@
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-10-24
 
+/affiliation/*
 /common/analytics.js
 ||2o7.net^
 ||api.github.com/_private/browser/stats
