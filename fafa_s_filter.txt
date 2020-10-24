@@ -5,7 +5,7 @@
 ! Last updated: 2020-10-24
 
 /common/analytics.js
-||app-measurement.com
+||app-measurement.com^
 ||gvt2.com^
 ||marsflag.com^$third-party
 dmkt02.point-ad-game.com##.page_loading
