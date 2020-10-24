@@ -7,3 +7,4 @@
 ||app-measurement.com^
 ||collector.githubapp.com^
 ||gvt2.com^
+||ssl.google-analytics.com^
