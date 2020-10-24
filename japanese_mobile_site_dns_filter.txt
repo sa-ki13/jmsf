@@ -28,6 +28,7 @@
 @@||point.i2i.jp^
 @@||px.a8.net^
 @@||router.cint.com^
+@@||s.cint.com^
 @@||sp.accesstrade.net^
 @@||tohoku.ad.at.nttdocomo.co.jp^
 @@||vccv.bettysbeauty.jp^
