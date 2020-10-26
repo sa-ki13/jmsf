@@ -1,6 +1,6 @@
 ! Title: FaFa Filter
 ! Version: 2020-10-26
-! Last modified: 26 Oct 2020 15:12 JST
+! Last modified: 26 Oct 2020 15:23 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-10-26
 
@@ -15,7 +15,6 @@
 @@||www.pushcode.jp/dist/js/pushcode.js?181010
 ||a.line.me^
 ||itest.5ch.net/assets/img/loading.gif^$redirect=1x1-transparent.gif
-||itest.5ch.net/assets/img/ronin_premium_640x100.png
 ||itest.bbspink.com/assets/img/loading.gif^$redirect=1x1-transparent.gif
 ||line.me^$domain=~line.me,badfilter
 dmkt02.point-ad-game.com##.page_loading
