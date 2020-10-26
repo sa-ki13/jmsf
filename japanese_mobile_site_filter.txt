@@ -49,7 +49,6 @@ itest.bbspink.com##.socialwrap.socialwrap-margin5
 itest.bbspink.com##[class^="sproutad_frame"].background-gray.center
 itest.bbspink.com##[id="js-bottom-ad-300x250"].background-gray.center
 itest.bbspink.com###float-bnr
-itest.bbspink.com###instant_ad
 itest.bbspink.com###interstitial-ad-div-id
 itest.bbspink.com###js-cardview_ad
 itest.bbspink.com###main > .board_list
