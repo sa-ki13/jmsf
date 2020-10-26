@@ -1,8 +1,8 @@
 ! Title: FaFa Filter
-! Version: 2020-10-24
-! Last modified: 24 Oct 2020 23:30 JST
+! Version: 2020-10-26
+! Last modified: 26 Oct 2020 15:12 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-10-24
+! Last updated: 2020-10-26
 
 @@||game.hiroba.dpoint.jp/js/ads.js?20200430$domain=game.hiroba.dpoint.jp
 @@||image.bettysbeauty.jp/banner^$domain=bettysbeauty.jp
@@ -38,7 +38,6 @@ itest.5ch.net,itest.bbspink.com###ad_network
 itest.5ch.net,itest.bbspink.com###ads
 itest.5ch.net,itest.bbspink.com###float-bnr
 itest.5ch.net,itest.bbspink.com###interstitial-ad-div-id
-itest.5ch.net,itest.bbspink.com###js-cardview_ad
 itest.5ch.net,itest.bbspink.com###js-imageview-ad.imageview-ad
 itest.5ch.net,itest.bbspink.com###overlay_microad
 itest.5ch.net,itest.bbspink.com###res_1002
@@ -55,6 +54,7 @@ itest.bbspink.com##.socialwrap.socialwrap-margin5
 itest.bbspink.com##[class^="sproutad_frame"].background-gray.center
 itest.bbspink.com##[id="js-bottom-ad-300x250"].background-gray.center
 itest.bbspink.com###instant_ad
+itest.bbspink.com###js-cardview_ad
 itest.bbspink.com###main > .board_list
 itest.bbspink.com##a[href*="//lineit.line.me/share/ui?"]
 itest.bbspink.com##article > #main > .ranking > div[style="height: 250px; position: relative; text-align: center; overflow: hidden; margin: 0 auto; margin-bottom: 15px;"]
