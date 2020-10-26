@@ -1,6 +1,6 @@
 ! Title: FaFa Filter
 ! Version: 2020-10-26
-! Last modified: 26 Oct 2020 15:25 JST
+! Last modified: 26 Oct 2020 15:26 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-10-26
 
@@ -35,7 +35,6 @@ itest.5ch.net,itest.bbspink.com##[class="superloading js-bbspink-color"]
 itest.5ch.net,itest.bbspink.com##[src="/assets/img/loading.gif"]
 itest.5ch.net,itest.bbspink.com###ad_network
 itest.5ch.net,itest.bbspink.com###ads
-itest.5ch.net,itest.bbspink.com###float-bnr
 itest.5ch.net,itest.bbspink.com###js-imageview-ad.imageview-ad
 itest.5ch.net,itest.bbspink.com###overlay_microad
 itest.5ch.net,itest.bbspink.com###res_1002
@@ -51,6 +50,7 @@ itest.5ch.net##article > #main > div[style="height: 320px; position: relative; t
 itest.bbspink.com##.socialwrap.socialwrap-margin5
 itest.bbspink.com##[class^="sproutad_frame"].background-gray.center
 itest.bbspink.com##[id="js-bottom-ad-300x250"].background-gray.center
+itest.bbspink.com###float-bnr
 itest.bbspink.com###instant_ad
 itest.bbspink.com###interstitial-ad-div-id
 itest.bbspink.com###js-cardview_ad
