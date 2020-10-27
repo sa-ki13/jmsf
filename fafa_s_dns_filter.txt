@@ -1,6 +1,6 @@
 ! Title: FaFa S DNS Filter
 ! Version: 2020-10-27
-! Last modified: 27 Oct 2020 15:36 JST
+! Last modified: 27 Oct 2020 16:27 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-10-27
 
@@ -36,6 +36,7 @@
 ||mobylog.jp^
 ||newrelic.com^
 ||pixel.tapad.com^
+||rmtag.com^
 ||rs.adapf.com^
 ||rt.rtoaster.jp^
 ||s.yjtag.jp^
