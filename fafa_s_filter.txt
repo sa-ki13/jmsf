@@ -1,8 +1,8 @@
 ! Title: FaFa S Filter
-! Version: 2020-10-24
-! Last modified: 24 Oct 2020 21:32 JST
+! Version: 2020-10-27
+! Last modified: 27 Oct 2020 15:38 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-10-24
+! Last updated: 2020-10-27
 
 /adtag.
 /affiliation/*
