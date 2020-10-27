@@ -1,6 +1,6 @@
 ! Title: FaFa S Filter
 ! Version: 2020-10-27
-! Last modified: 27 Oct 2020 16:24 JST
+! Last modified: 27 Oct 2020 16:37 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-10-27
 
@@ -16,6 +16,7 @@
 /log.gif?
 /m.gif?
 /ppz_clip.js
+/record.do?
 _pagespeed_beacon?
 ||2o7.net^
 ||a.o2u.jp^
