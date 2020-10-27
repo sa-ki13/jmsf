@@ -1,11 +1,12 @@
 ! Title: FaFa S Filter
 ! Version: 2020-10-27
-! Last modified: 27 Oct 2020 16:46 JST
+! Last modified: 27 Oct 2020 16:54 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-10-27
 
 /adtag.
 /affiliation/*
+/btn_sns_$image
 /common/analytics.js
 /cr_effectlog.js|
 /customGTM?
