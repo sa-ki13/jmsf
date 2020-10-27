@@ -33,6 +33,7 @@ _pagespeed_beacon?
 ||b97.yahoo.co.jp^
 ||cdp.cloud.unity3d.com^
 ||cinarra.com^
+||cint.com^
 ||collect.igodigital.com^$third-party
 ||collector.githubapp.com^
 ||config.uca.cloud.unity3d.com^
@@ -45,8 +46,11 @@ _pagespeed_beacon?
 ||d2c.ne.jp^
 ||doubleclick.net^
 ||ds-aksb-a.akamaihd.net^
+||ebis.ne.jp^
 ||eco-tag.jp^
+||google-analytics.com^
 ||google-analytics.com/analytics.js$script,redirect=google-analytics_analytics.js
+||googletagmanager.com^
 ||googletagmanager.com/gtm.js$script,redirect=googletagmanager_gtm.js
 ||gsspat.jp^
 ||gvt2.com^
@@ -67,16 +71,12 @@ _pagespeed_beacon?
 ||r-ad.ne.jp^$third-party
 ||rs.adapf.com^
 ||rt.rtoaster.jp^
-||s.cint.com^
 ||s.yimg.jp/images/listing/tool/cv/conversion.js
 ||s.yimg.jp/images/listing/tool/cv/ytag.js
 ||s.yjtag.jp^
 ||socdm.com^
-||ssl.google-analytics.com^
 ||sync.im-apps.com^
 ||t.karte.io^
-||taj1.ebis.ne.jp^
-||taj2.ebis.ne.jp^
 ||treasuredata.com^
 ||valuecommerce.com^
 ||valuecommerce.ne.jp^
