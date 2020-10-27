@@ -1,6 +1,6 @@
 ! Title: FaFa S Filter
 ! Version: 2020-10-27
-! Last modified: 27 Oct 2020 16:37 JST
+! Last modified: 27 Oct 2020 16:46 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-10-27
 
@@ -43,6 +43,7 @@ _pagespeed_beacon?
 ||config.uca.cloud.unity3d.com^
 ||connect.facebook.net/en_US/fbevents.js
 ||connect.facebook.net/ja_JP/sdk.js
+||contents.froggy.money/wp-json/api/v1/notifications/
 ||crashlytics.com^
 ||crazyegg.com^$third-party
 ||creatives.gunosy.com^
@@ -81,6 +82,7 @@ _pagespeed_beacon?
 ||s.yimg.jp/images/listing/tool/cv/conversion.js
 ||s.yimg.jp/images/listing/tool/cv/ytag.js
 ||s.yjtag.jp^
+||smetrics.smbcnikko.co.jp^
 ||socdm.com^
 ||sync.im-apps.com^
 ||t.karte.io^
@@ -88,6 +90,7 @@ _pagespeed_beacon?
 ||valuecommerce.com^
 ||valuecommerce.ne.jp^
 ||visualwebsiteoptimizer.com^$third-party
+||youtube.com/api/stats/atr$xmlhttprequest
 ||youtube.com/youtubei/v1/log_event
 $$link[rel="manifest"]
 dmkt02.point-ad-game.com##.page_loading
