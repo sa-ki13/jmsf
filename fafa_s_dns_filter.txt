@@ -1,6 +1,6 @@
 ! Title: FaFa S DNS Filter
 ! Version: 2020-10-27
-! Last modified: 27 Oct 2020 16:50 JST
+! Last modified: 27 Oct 2020 17:01 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-10-27
 
@@ -9,6 +9,7 @@
 ||a-cast.jp^
 ||adnwif.smt.docomo.ne.jp^
 ||adservice.google.com^
+||alxc.addlv.smt.docomo.ne.jp^
 ||api-analytics.metaps.com^
 ||api-analytics-bootstrap.metaps.com^
 ||app-measurement.com^
@@ -45,3 +46,4 @@
 ||sync.im-apps.com^
 ||t.karte.io^
 ||treasuredata.com^
+||webtracker.jp^
