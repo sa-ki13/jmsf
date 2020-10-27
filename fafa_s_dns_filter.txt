@@ -1,6 +1,6 @@
 ! Title: FaFa S DNS Filter
 ! Version: 2020-10-27
-! Last modified: 27 Oct 2020 16:27 JST
+! Last modified: 27 Oct 2020 16:50 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-10-27
 
@@ -40,8 +40,8 @@
 ||rs.adapf.com^
 ||rt.rtoaster.jp^
 ||s.yjtag.jp^
+||smetrics.smbcnikko.co.jp^
 ||socdm.com^
 ||sync.im-apps.com^
 ||t.karte.io^
 ||treasuredata.com^
-
