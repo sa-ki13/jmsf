@@ -1,6 +1,6 @@
 ! Title: FaFa S Filter
 ! Version: 2020-10-27
-! Last modified: 27 Oct 2020 16:54 JST
+! Last modified: 27 Oct 2020 17:00 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-10-27
 
@@ -16,6 +16,7 @@
 /libs/tracker.js
 /log.gif?
 /m.gif?
+/pagead/js/*
 /ppz_clip.js
 /record.do?
 _pagespeed_beacon?
@@ -28,6 +29,7 @@ _pagespeed_beacon?
 ||adobedtm.com^$third-party
 ||adservice.google.com^
 ||af-mark.jp^*/index_track.
+||alxc.addlv.smt.docomo.ne.jp^
 ||analytics.$third-party
 ||api.github.com/_private/browser/stats
 ||api-analytics.metaps.com^
@@ -36,6 +38,7 @@ _pagespeed_beacon?
 ||app-measurement.com^
 ||b92.yahoo.co.jp^
 ||b97.yahoo.co.jp^
+||cdn.webpush.jp^$third-party
 ||cdp.cloud.unity3d.com^
 ||cinarra.com^
 ||cint.com^
@@ -91,6 +94,7 @@ _pagespeed_beacon?
 ||valuecommerce.com^
 ||valuecommerce.ne.jp^
 ||visualwebsiteoptimizer.com^$third-party
+||webtracker.jp^
 ||youtube.com/api/stats/atr$xmlhttprequest
 ||youtube.com/youtubei/v1/log_event
 $$link[rel="manifest"]
