@@ -1,6 +1,6 @@
 ! Title: FaFa Filter
 ! Version: 2020-10-30
-! Last modified: 30 Oct 2020 13:54 JST
+! Last modified: 30 Oct 2020 14:58 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-10-30
 
@@ -14,6 +14,7 @@
 @@||sp.pointi.jp^$domain=sp.pointi.jp
 @@||www.google-analytics.com^$app=jp.co.lawson.android|jp.co.matsukiyo.app
 @@||www.googletagmanager.com^$app=jp.co.lawson.android
+@@||www.nic.ad.jp^
 @@||www.pushcode.jp/dist/js/pushcode.js?181010
 ||a.line.me^
 ||itest.5ch.net/assets/img/loading.gif^$redirect=1x1-transparent.gif
