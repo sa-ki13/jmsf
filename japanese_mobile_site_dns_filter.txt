@@ -1,8 +1,8 @@
 ! Title: FaFa DNS Filter
-! Version: 2020-10-30
-! Last modified: 30 Oct 2020 17:23 JST
+! Version: 2020-11-03
+! Last modified: 03 Nov 2020 00:31 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-10-30
+! Last updated: 2020-11-03
 
 @@||a.popin.cc^
 @@||a8.geo-online.co.jp^
@@ -33,6 +33,8 @@
 @@||s.cint.com^
 @@||sp.accesstrade.net^
 @@||tohoku.ad.at.nttdocomo.co.jp^
+@@||torimochi.line-apps.com^
+@@||tracker.adplan7.com^
 @@||vccv.bettysbeauty.jp^
 @@||vcentry3.valuecommerce.ne.jp^
 @@||www.cross-a.net^
