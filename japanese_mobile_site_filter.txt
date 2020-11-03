@@ -1,6 +1,6 @@
 ! Title: FaFa Filter
 ! Version: 2020-11-03
-! Last modified: 03 Nov 2020 15:25 JST
+! Last modified: 03 Nov 2020 17:15 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-11-03
 
@@ -11,6 +11,7 @@
 @@||itmedia.co.jp/js/lib/cx_v2.js?date=202006301534$domain=itmedia.co.jp
 @@||point.i2i.jp^$domain=point.i2i.jp
 @@||router.cint.com^$domain=router.cint.com
+@@||s.cint.com^$domain=s.cint.com
 @@||scdn.cxense.com^$app=jp.co.lawson.android
 @@||sp.pointi.jp^$domain=sp.pointi.jp
 @@||torimochi.line-apps.com^$app=jp.co.lawson.android|jp.naver.line.android
