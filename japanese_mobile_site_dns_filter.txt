@@ -1,8 +1,8 @@
 ! Title: FaFa DNS Filter
-! Version: 2020-11-03
-! Last modified: 03 Nov 2020 17:14 JST
+! Version: 2020-11-05
+! Last modified: 05 Nov 2020 00:34 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-11-03
+! Last updated: 2020-11-05
 
 @@||a.image.accesstrade.net^
 @@||a.popin.cc^
@@ -17,6 +17,7 @@
 @@||ad-track.jp^
 @@||ad2.trafficgate.net^
 @@||ads280dummy.com^
+@@||af.tosho-trading.co.jp^
 @@||atib.cdn.msgs.jp^
 @@||atib.f.msgs.jp^
 @@||atrrd.valuecommerce.com^
