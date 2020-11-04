@@ -1,8 +1,8 @@
 ! Title: FaFa Filter
-! Version: 2020-11-03
-! Last modified: 03 Nov 2020 17:15 JST
+! Version: 2020-11-04
+! Last modified: 04 Nov 2020 16:32 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-11-03
+! Last updated: 2020-11-04
 
 @@||egun.adj.st^$app=jp.naver.line.android
 @@||game.hiroba.dpoint.jp/js/ads.js?20200430$domain=game.hiroba.dpoint.jp
@@ -16,6 +16,7 @@
 @@||sp.pointi.jp^$domain=sp.pointi.jp
 @@||torimochi.line-apps.com^$app=jp.co.lawson.android|jp.naver.line.android
 @@||tracker.adplan7.com^$app=jp.naver.line.android
+@@||trj.valuecommerce.com/vcushion.js
 @@||www.google-analytics.com^$app=jp.co.lawson.android|jp.co.matsukiyo.app
 @@||www.googletagmanager.com^$app=jp.co.lawson.android
 @@||www.nic.ad.jp^
