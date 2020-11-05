@@ -1,10 +1,11 @@
 ! Title: FaFa Filter
-! Version: 2020-11-04
-! Last modified: 04 Nov 2020 16:32 JST
+! Version: 2020-11-05
+! Last modified: 05 Nov 2020 22:49 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-11-04
+! Last updated: 2020-11-05
 
 @@||egun.adj.st^$app=jp.naver.line.android
+@@||fundingchoicesmessages.google.com/f^$domain=news.biglobe.ne.jp|rocketnews24.com
 @@||game.hiroba.dpoint.jp/js/ads.js?20200430$domain=game.hiroba.dpoint.jp
 @@||image.bettysbeauty.jp/banner^$domain=bettysbeauty.jp
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js
