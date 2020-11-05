@@ -1,6 +1,6 @@
 ! Title: FaFa DNS Filter
 ! Version: 2020-11-05
-! Last modified: 05 Nov 2020 01:10 JST
+! Last modified: 05 Nov 2020 16:03 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-11-05
 
@@ -35,6 +35,7 @@
 @@||router.cint.com^
 @@||s.cint.com^
 @@||sp.accesstrade.net^
+@@||t.afi-b.com^
 @@||tags.tiqcdn.com^
 @@||tohoku.ad.at.nttdocomo.co.jp^
 @@||torimochi.line-apps.com^
