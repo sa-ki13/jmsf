@@ -1,8 +1,8 @@
 ! Title: FaFa Filter
-! Version: 2020-11-05
-! Last modified: 05 Nov 2020 22:49 JST
+! Version: 2020-11-11
+! Last modified: 11 Nov 2020 22:35 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-11-05
+! Last updated: 2020-11-11
 
 @@||egun.adj.st^$app=jp.naver.line.android
 @@||fundingchoicesmessages.google.com/f^$domain=kobe-np.co.jp|news.biglobe.ne.jp|rocketnews24.com
