@@ -1,8 +1,8 @@
 ! Title: FaFa DNS Filter
-! Version: 2020-11-11
-! Last modified: 11 Nov 2020 14:21 JST
+! Version: 2020-11-14
+! Last modified: 14 Nov 2020 15:26 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-11-11
+! Last updated: 2020-11-14
 
 @@||a.image.accesstrade.net^
 @@||a.popin.cc^
@@ -47,4 +47,5 @@
 @@||www.google-analytics.com^
 @@||www.pushcode.jp^
 @@||www.rentracks.jp^
+@@||www.tcs-asp.net^
 ||a.line.me^
