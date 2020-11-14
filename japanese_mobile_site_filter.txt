@@ -1,8 +1,8 @@
 ! Title: FaFa Filter
-! Version: 2020-11-11
-! Last modified: 11 Nov 2020 22:35 JST
+! Version: 2020-11-14
+! Last modified: 14 Nov 2020 15:15 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-11-11
+! Last updated: 2020-11-14
 
 @@||egun.adj.st^$app=jp.naver.line.android
 @@||fundingchoicesmessages.google.com/f^$domain=kobe-np.co.jp|news.biglobe.ne.jp|rocketnews24.com
@@ -29,6 +29,7 @@
 dmkt02.point-ad-game.com##.page_loading
 dmkt02.point-ad-game.com##.tw-button-s
 dmkt02.point-ad-game.com##div.banner:first-child
+hedge.guide#@#a[href*="tcs-asp.net/alink"]
 itest.5ch.net,itest.bbspink.com##.alert
 itest.5ch.net,itest.bbspink.com##.center.js-cardview_ad-320x180.first.card_content > iframe
 itest.5ch.net,itest.bbspink.com##.center.js-cardview_ad-320x50.card_content > iframe
