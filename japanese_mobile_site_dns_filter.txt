@@ -1,6 +1,6 @@
 ! Title: FaFa DNS Filter
 ! Version: 2020-11-14
-! Last modified: 14 Nov 2020 22:34 JST
+! Last modified: 14 Nov 2020 22:46 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-11-14
 
@@ -26,11 +26,10 @@
 @@||fonts.gstatic.com^
 @@||gigaplan-ytp.ad.at.nttdocomo.co.jp^
 @@||h.accesstrade.net^
-@@||id.i2i.jp^
+@@||i2i.jp^
 @@||is.accesstrade.net^
 @@||itrack3.valuecommerce.ne.jp^
 @@||mymagazine.onelink.me^
-@@||point.i2i.jp^
 @@||px.a8.net^
 @@||qps.cint.com^
 @@||rcm-fe.amazon-adsystem.com^
