@@ -1,6 +1,6 @@
 ! Title: FaFa Filter
 ! Version: 2020-11-25
-! Last modified: 25 Nov 2020 01:11 JST
+! Last modified: 25 Nov 2020 01:36 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-11-25
 
@@ -62,8 +62,6 @@ itest.bbspink.com###js-cardview_ad
 itest.bbspink.com###main > .board_list
 itest.bbspink.com###overlay_microad
 itest.bbspink.com##a[href*="//lineit.line.me/share/ui?"]
-itest.bbspink.com##article > #main > .ranking > div[style="height: 250px; position: relative; text-align: center; overflow: hidden; margin: 0 auto; margin-bottom: 15px;"]
-itest.bbspink.com##article > #main > div[style="height: 250px; position: relative; text-align: center; overflow: hidden; margin: 0 auto; margin-bottom: 15px;"]
 itest.bbspink.com##div.card_content:nth-last-of-type(1)
 kuji.d.dmkt-sp.jp###floating-banner
 kuji.d.dmkt-sp.jp##.sns-block
