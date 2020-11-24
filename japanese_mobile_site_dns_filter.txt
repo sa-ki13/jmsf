@@ -26,6 +26,7 @@
 @@||fonts.gstatic.com^
 @@||gigaplan-ytp.ad.at.nttdocomo.co.jp^
 @@||h.accesstrade.net^
+@@||id.i2i.jp^
 @@||is.accesstrade.net^
 @@||itrack3.valuecommerce.ne.jp^
 @@||mymagazine.onelink.me^
@@ -36,6 +37,7 @@
 @@||rcm-fe.amazon-adsystem.com^
 @@||router.cint.com^
 @@||s.cint.com^
+@@||s.i2i.jp^
 @@||sp.accesstrade.net^
 @@||t.afi-b.com^
 @@||tags.tiqcdn.com^
@@ -47,6 +49,7 @@
 @@||vcentry3.valuecommerce.ne.jp^
 @@||www.cross-a.net^
 @@||www.google-analytics.com^
+@@||www.i2i.jp^
 @@||www.pushcode.jp^
 @@||www.rentracks.jp^
 @@||www.tcs-asp.net^
