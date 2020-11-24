@@ -53,8 +53,6 @@ itest.5ch.net,itest.bbspink.com###top-progress-bar
 itest.5ch.net,itest.bbspink.com##article > #main > #js-adstir-300x250 > .padding-10px
 itest.5ch.net,itest.bbspink.com##article > #main > #js-adstir-320x50 > .padding-bottom-10px
 itest.5ch.net###main > div.center[style="padding: 10px 0;"]
-itest.5ch.net##article > #main > .ranking > div[style="height: 320px; position: relative; text-align: center; overflow: hidden; margin: 0 auto; margin-bottom: 15px;"]
-itest.5ch.net##article > #main > div[style="height: 320px; position: relative; text-align: center; overflow: hidden; margin: 0 auto; margin-bottom: 15px;"]
 itest.bbspink.com##.socialwrap.socialwrap-margin5
 itest.bbspink.com##[class^="sproutad_frame"].background-gray.center
 itest.bbspink.com##[id="js-bottom-ad-300x250"].background-gray.center
