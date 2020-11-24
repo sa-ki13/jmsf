@@ -32,9 +32,6 @@ dmkt02.point-ad-game.com##.tw-button-s
 dmkt02.point-ad-game.com##div.banner:first-child
 hedge.guide#@#a[href*="tcs-asp.net/alink"]
 itest.5ch.net,itest.bbspink.com##.alert
-itest.5ch.net,itest.bbspink.com##.center.js-cardview_ad-320x180.first.card_content > iframe
-itest.5ch.net,itest.bbspink.com##.center.js-cardview_ad-320x50.card_content > iframe
-itest.5ch.net,itest.bbspink.com##.center.js-cardview_ad-320x50.card_content:nth-of-type(n+4)
 itest.5ch.net,itest.bbspink.com##.large.card_content > .popup_closebox
 itest.5ch.net,itest.bbspink.com##.margin-top-10px.js-popup-res-ad
 itest.5ch.net,itest.bbspink.com##.margin-top-30px.js-popup-res-ad
@@ -53,6 +50,9 @@ itest.5ch.net,itest.bbspink.com###top-progress-bar
 itest.5ch.net,itest.bbspink.com##article > #main > #js-adstir-300x250 > .padding-10px
 itest.5ch.net,itest.bbspink.com##article > #main > #js-adstir-320x50 > .padding-bottom-10px
 itest.5ch.net###main > div.center[style="padding: 10px 0;"]
+itest.bbspink.com##.center.js-cardview_ad-320x180.first.card_content > iframe
+itest.bbspink.com##.center.js-cardview_ad-320x50.card_content > iframe
+itest.bbspink.com##.center.js-cardview_ad-320x50.card_content:nth-of-type(n+4)
 itest.bbspink.com##.socialwrap.socialwrap-margin5
 itest.bbspink.com##[class^="sproutad_frame"].background-gray.center
 itest.bbspink.com##[id="js-bottom-ad-300x250"].background-gray.center
