@@ -1,8 +1,8 @@
 ! Title: FaFa Filter
-! Version: 2020-11-24
-! Last modified: 24 Nov 2020 20:15 JST
+! Version: 2020-11-25
+! Last modified: 25 Nov 2020 01:11 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-11-24
+! Last updated: 2020-11-25
 
 @@||egun.adj.st^$app=jp.naver.line.android
 @@||fundingchoicesmessages.google.com/f^$domain=kobe-np.co.jp|news.biglobe.ne.jp|rocketnews24.com
@@ -52,7 +52,6 @@ itest.5ch.net,itest.bbspink.com###thread_loading
 itest.5ch.net,itest.bbspink.com###top-progress-bar
 itest.5ch.net,itest.bbspink.com##article > #main > #js-adstir-300x250 > .padding-10px
 itest.5ch.net,itest.bbspink.com##article > #main > #js-adstir-320x50 > .padding-bottom-10px
-itest.5ch.net###js-cardview_ad > iframe
 itest.5ch.net###main > div.center[style="padding: 10px 0;"]
 itest.5ch.net##article > #main > .ranking > div[style="height: 320px; position: relative; text-align: center; overflow: hidden; margin: 0 auto; margin-bottom: 15px;"]
 itest.5ch.net##article > #main > div[style="height: 320px; position: relative; text-align: center; overflow: hidden; margin: 0 auto; margin-bottom: 15px;"]
