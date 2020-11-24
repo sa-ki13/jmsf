@@ -30,6 +30,7 @@
 @@||itrack3.valuecommerce.ne.jp^
 @@||mymagazine.onelink.me^
 @@||player.daznservices.com^
+@@||point.i2i.jp^
 @@||px.a8.net^
 @@||qps.cint.com^
 @@||rcm-fe.amazon-adsystem.com^
