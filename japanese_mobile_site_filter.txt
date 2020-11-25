@@ -1,6 +1,6 @@
 ! Title: FaFa Filter
 ! Version: 2020-11-25
-! Last modified: 25 Nov 2020 01:36 JST
+! Last modified: 25 Nov 2020 15:38 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-11-25
 
@@ -67,3 +67,4 @@ kuji.d.dmkt-sp.jp###floating-banner
 kuji.d.dmkt-sp.jp##.sns-block
 kuji.d.dmkt-sp.jp##.sub_title
 kuji.d.dmkt-sp.jp##section.block:nth-child(3)
+mdpr.jp#@#a[href*="ac.ebis.ne.jp/tr_set.php?"]
