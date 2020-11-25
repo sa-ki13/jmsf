@@ -1,8 +1,8 @@
 ! Title: FaFa DNS Filter
-! Version: 2020-11-24
-! Last modified: 24 Nov 2020 22:02 JST
+! Version: 2020-11-25
+! Last modified: 25 Nov 2020 23:35 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-11-24
+! Last updated: 2020-11-25
 
 @@||a.image.accesstrade.net^
 @@||a.popin.cc^
@@ -39,6 +39,7 @@
 @@||s.cint.com^
 @@||s.i2i.jp^
 @@||sp.accesstrade.net^
+@@||ssl.p.jwpcdn.com^
 @@||t.afi-b.com^
 @@||tags.tiqcdn.com^
 @@||tohoku.ad.at.nttdocomo.co.jp^
