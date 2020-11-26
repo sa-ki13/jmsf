@@ -12,7 +12,7 @@
 @@||itmedia.co.jp/js/lib/cx_v2.js?date=202006301534$domain=itmedia.co.jp
 @@||player.daznservices.com^
 @@||router.cint.com^$domain=router.cint.com
-@@||s.cint.com^$domain=s.cint.com
+@@||s.cint.com^$app=com.nttdocomo.android.djobsw
 @@||scdn.cxense.com^$app=jp.co.lawson.android
 @@||secure.surveymonkey.com/assets/responseweb^
 @@||sp.pointi.jp^$domain=sp.pointi.jp
