@@ -1,9 +1,10 @@
 ! Title: FaFa Filter
 ! Version: 2020-11-27
-! Last modified: 27 Nov 2020 22:39 JST
+! Last modified: 27 Nov 2020 22:49 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-11-27
 
+@@||coin-hive.com/noindex/common^$domain=coin-hive.com
 @@||crypto-loot.org^$domain=crypto-loot.org
 @@||egun.adj.st^$app=jp.naver.line.android
 @@||fundingchoicesmessages.google.com/f^$domain=kobe-np.co.jp|news.biglobe.ne.jp|rocketnews24.com
