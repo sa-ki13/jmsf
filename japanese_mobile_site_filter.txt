@@ -1,8 +1,8 @@
 ! Title: FaFa Filter
-! Version: 2020-11-25
-! Last modified: 25 Nov 2020 15:38 JST
+! Version: 2020-11-27
+! Last modified: 27 Nov 2020 14:49 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2020-11-25
+! Last updated: 2020-11-27
 
 @@||egun.adj.st^$app=jp.naver.line.android
 @@||fundingchoicesmessages.google.com/f^$domain=kobe-np.co.jp|news.biglobe.ne.jp|rocketnews24.com
@@ -10,12 +10,9 @@
 @@||image.bettysbeauty.jp/banner^$domain=bettysbeauty.jp
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js
 @@||itmedia.co.jp/js/lib/cx_v2.js?date=202006301534$domain=itmedia.co.jp
-@@||player.daznservices.com^
-@@||router.cint.com^$domain=router.cint.com
 @@||s.cint.com^$app=com.nttdocomo.android.djobsw
 @@||scdn.cxense.com^$app=jp.co.lawson.android
 @@||secure.surveymonkey.com/assets/responseweb^
-@@||sp.pointi.jp^$domain=sp.pointi.jp
 @@||torimochi.line-apps.com^$app=jp.co.lawson.android|jp.naver.line.android
 @@||tracker.adplan7.com^$app=jp.naver.line.android
 @@||trj.valuecommerce.com/vcushion.js
