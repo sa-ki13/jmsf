@@ -27,6 +27,8 @@
 dmkt02.point-ad-game.com##.page_loading
 dmkt02.point-ad-game.com##.tw-button-s
 dmkt02.point-ad-game.com##div.banner:first-child
+fastsonar.com#@#a[href*="//smart-c.jp/c?"]
+fastsonar.com#@#a[href*="/smart-c.jp"]
 hedge.guide#@#a[href*="tcs-asp.net/alink"]
 itest.5ch.net,itest.bbspink.com##.alert
 itest.5ch.net,itest.bbspink.com##.large.card_content > .popup_closebox
