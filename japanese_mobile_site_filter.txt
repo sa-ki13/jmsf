@@ -1,6 +1,6 @@
 ! Title: FaFa Filter
 ! Version: 2020-12-13
-! Last modified: 13 Dec 2020 20:36 JST
+! Last modified: 13 Dec 2020 20:40 JST
 ! Expires: 1 day (update frequency)
 ! Last updated: 2020-12-13
 
