@@ -6,8 +6,7 @@
 
 @@||ad.atown.jp^$app=com.nttdocomo.android.djobsw
 @@||egun.adj.st^$app=jp.naver.line.android
-@@||fundingchoicesmessages.google.com/f^$domain=daily.co.jp|kobe-np.co.jp|news.biglobe.ne.jp|rocketnews24.com
-@@||fundingchoicesmessages.google.com^$domain=nme.com
+@@||fundingchoicesmessages.google.com/f^$domain=daily.co.jp|kobe-np.co.jp|news.biglobe.ne.jp|nme.com|rocketnews24.com
 @@||game.hiroba.dpoint.jp/js/ads.js?20200430$domain=game.hiroba.dpoint.jp
 @@||image.bettysbeauty.jp/banner^$domain=bettysbeauty.jp
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js
