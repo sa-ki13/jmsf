@@ -1,8 +1,8 @@
 ! Title: FaFa Filter
-! Version: 2021-01-14
-! Last modified: 14 Jan 2021 22:30 JST
+! Version: 2021-02-06
+! Last modified: 06 Feb 2021 11:48 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2021-01-14
+! Last updated: 2021-02-06
 
 @@||ad.atown.jp^$app=com.nttdocomo.android.djobsw
 @@||ad.atown.jp/b?id=35063&mid=2595$domain=hiroba.dpoint.jp
@@ -66,6 +66,7 @@ itest.bbspink.com###main > .board_list
 itest.bbspink.com###overlay_microad
 itest.bbspink.com##a[href*="//lineit.line.me/share/ui?"]
 itest.bbspink.com##div.card_content:nth-last-of-type(1)
+jp.ign.com#@#.zad.billboard
 kuji.d.dmkt-sp.jp###floating-banner
 kuji.d.dmkt-sp.jp##.sns-block
 kuji.d.dmkt-sp.jp##.sub_title
