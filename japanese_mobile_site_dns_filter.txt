@@ -1,8 +1,8 @@
 ! Title: FaFa DNS Filter
-! Version: 2021-02-08
-! Last modified: 08 Feb 2021 16:36 JST
+! Version: 2021-02-11
+! Last modified: 11 Feb 2021 17:10 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2021-02-08
+! Last updated: 2021-02-11
 
 @@||a.image.accesstrade.net^
 @@||a.popin.cc^
@@ -39,6 +39,7 @@
 @@||point.i2i.jp^
 @@||px.a8.net^
 @@||rcm-fe.amazon-adsystem.com^
+@@||rcv.insight.a-i-ad.com^
 @@||s.cint.com^
 @@||s.i2i.jp^
 @@||smart-c.jp^
