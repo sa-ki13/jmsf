@@ -28,6 +28,7 @@
 ||itest.5ch.net/assets/img/loading.gif^$redirect=1x1-transparent.gif
 ||itest.bbspink.com/assets/img/loading.gif^$redirect=1x1-transparent.gif
 ||line.me^$domain=~line.me,badfilter
+5chmm.jp#@#a[href*="//5chmm.jp/"]
 dmkt02.point-ad-game.com##.page_loading
 dmkt02.point-ad-game.com##.tw-button-s
 dmkt02.point-ad-game.com##div.banner:first-child
