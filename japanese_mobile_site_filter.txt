@@ -74,3 +74,4 @@ kuji.d.dmkt-sp.jp##.sub_title
 kuji.d.dmkt-sp.jp##section.block:nth-child(3)
 mdpr.jp#@#a[href*="ac.ebis.ne.jp/tr_set.php?"]
 mobile.twitter.com#@#span:has-text(/^プロモツイート$/):upward( div[aria-label^="タイムライン:"] > div > div )
+www.google.com#@##hplogo
