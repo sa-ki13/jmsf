@@ -1,8 +1,8 @@
 ! Title: FaFa Filter
-! Version: 2021-02-06
-! Last modified: 06 Feb 2021 11:48 JST
+! Version: 2021-02-14
+! Last modified: 14 Feb 2021 14:17 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2021-02-06
+! Last updated: 2021-02-14
 
 @@||ad.atown.jp^$app=com.nttdocomo.android.djobsw
 @@||ad.atown.jp/b?id=35063&mid=2595$domain=hiroba.dpoint.jp
