@@ -1,8 +1,8 @@
 ! Title: FaFa Filter
-! Version: 2021-04-22
-! Last modified: 22 Apr 2021 22:45 JST
+! Version: 2021-05-01
+! Last modified: 01 May 2021 12:01 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2021-04-22
+! Last updated: 2021-05-01
 
 @@||ad.atown.jp^$app=com.nttdocomo.android.djobsw
 @@||ad.atown.jp/b?id=35063&mid=2595$domain=hiroba.dpoint.jp
@@ -11,6 +11,7 @@
 @@||egun.adj.st^$app=jp.naver.line.android
 @@||fundingchoicesmessages.google.com/f^$domain=daily.co.jp|kobe-np.co.jp|maidonanews.jp|news.biglobe.ne.jp|nme.com|rocketnews24.com
 @@||game.hiroba.dpoint.jp/js/ads.js?20200430$domain=game.hiroba.dpoint.jp
+@@||get.mobu.jp^$app=com.nttdocomo.android.djobsw
 @@||image.bettysbeauty.jp/banner^$domain=bettysbeauty.jp
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js
 @@||itmedia.co.jp/js/lib/cx_v2.js?date=202006301534$domain=itmedia.co.jp
