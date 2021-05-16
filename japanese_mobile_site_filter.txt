@@ -1,8 +1,8 @@
 ! Title: FaFa Filter
-! Version: 2021-05-01
-! Last modified: 01 May 2021 12:01 JST
+! Version: 2021-05-16
+! Last modified: 16 May 2021 14:04 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2021-05-01
+! Last updated: 2021-05-16
 
 @@||ad.atown.jp^$app=com.nttdocomo.android.djobsw
 @@||ad.atown.jp/b?id=35063&mid=2595$domain=hiroba.dpoint.jp
@@ -17,7 +17,9 @@
 @@||itmedia.co.jp/js/lib/cx_v2.js?date=202006301534$domain=itmedia.co.jp
 @@||router.cint.com/images/cintspin.gif$domain=router.cint.com
 @@||s.cint.com^$app=com.nttdocomo.android.djobsw
+@@||safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html$domain=game.hiroba.dpoint.jp
 @@||scdn.cxense.com^$app=jp.co.lawson.android
+@@||securepubads.g.doubleclick.net/gampad^$domain=game.hiroba.dpoint.jp
 @@||secure.surveymonkey.com/assets/responseweb^
 @@||torimochi.line-apps.com^$app=jp.co.lawson.android|jp.naver.line.android
 @@||tracker.adplan7.com^$app=jp.naver.line.android
