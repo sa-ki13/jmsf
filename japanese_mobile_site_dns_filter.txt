@@ -1,8 +1,8 @@
 ! Title: FaFa DNS Filter
-! Version: 2021-06-06
-! Last modified: 06 Jun 2021 22:15 JST
+! Version: 2021-07-10
+! Last modified: 10 Jul 2021 22:58 JST
 ! Expires: 1 day (update frequency)
-! Last updated: 2021-06-06
+! Last updated: 2021-07-10
 
 @@||a.image.accesstrade.net^
 @@||a.popin.cc^
@@ -60,6 +60,7 @@
 @@||trj.valuecommerce.com^
 @@||vccv.bettysbeauty.jp^
 @@||vcentry3.valuecommerce.ne.jp^
+@@||www.adfactory.io^
 @@||www.cross-a.net^
 @@||www.google-analytics.com^
 @@||www.i2i.jp^
